@@ -1,0 +1,91 @@
+The terminal is an interface in which you can type and execute text-based commands.
+ohmyzsh:        🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+terminal:        The new Windows Terminal and the original Windows console host, all in the same place!
+httpie:        As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+hyper:        A terminal built on web technologies
+tldr:        📚 Collaborative cheatsheets for console commands
+alacritty:        A cross-platform, GPU-accelerated terminal emulator
+awesome-macos-command-line:        Use your macOS terminal shell to do awesome things.
+bat:        A cat(1) clone with wings.
+upterm:        A terminal emulator for the 21st century.
+cheat.sh:        the only cheat sheet you need
+iTerm2-Color-Schemes:        Over 225 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+lazygit:        simple terminal UI for git commands
+glances:        Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+tqdm:        A Fast, Extensible Progress Bar for Python and CLI
+edex-ui:        A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+chalk:        🖍 Terminal string styling done right
+terminus:        A terminal for a more modern age
+micro:        A modern and intuitive terminal-based text editor
+fd:        A simple, fast and user-friendly alternative to 'find'
+gotty:        Share your terminal as a web application
+jumpserver:        JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
+dracula-theme:        🧛🏻‍♂️ Dark theme for all the things!
+cool-retro-term:        A good looking terminal emulator which mimics the old cathode display...
+powerlevel9k:        Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
+spaceship-prompt:        🚀⭐ A Zsh prompt for Astronauts
+wttr.in:        ⛅ The right way to check the weather
+.tmux:        🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+bash-it:        A community Bash framework.
+wtf:        The personal information dashboard for your terminal.
+rich:        Rich is a Python library for rich text and beautiful formatting in the terminal.
+terminalizer:        🦄 Record your terminal and generate animated gif images or share a web player
+terminals-are-sexy:        💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+pure:        Pretty, minimal and fast ZSH prompt
+awesome-hyper:        🖥 Delightful Hyper plugins, themes, and resources
+termtosvg:        Record terminal sessions as SVG animations
+xterm.js:        A terminal for the web
+nnn:        n³ The missing terminal file manager for X.
+asciinema:        Terminal session recorder 📹
+sampler:        Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+http-prompt:        HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+navi:        An interactive cheatsheet tool for the command-line and application launchers
+google-images-download:        Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+gotop:        A terminal based graphical activity monitor inspired by gtop and vtop
+gitsome:        A supercharged Git/GitHub command line interface (CLI). An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+ConEmu:        Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+gdb-dashboard:        Modular visual interface for GDB in Python
+wego:        weather app for the terminal
+termux-app:        Android terminal and Linux environment - app repository.
+spotify-tui:        Spotify for the terminal written in Rust 🚀
+hyperfine:        A command-line benchmarking tool
+slack-term:        Slack client for your terminal
+enquirer:        Stylish, intuitive and user-friendly prompts. Used by eslint, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+htop:        htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+Gogh:        Color Scheme for Gnome Terminal and Pantheon Terminal
+no-more-secrets:        A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+saws:        A supercharged AWS command line interface (CLI).
+googler:        🔍 Google from the terminal
+rtv:        Browse Reddit from your terminal
+tilix:        A tiling terminal emulator for Linux using GTK+ 3
+macos-terminal-themes:        Color schemes for default macOS Terminal.app
+gui.cs:        Console-based user interface toolkit for .NET applications.
+buku:        🔖 Browser-independent bookmark manager
+AidLearning-FrameWork:        🔥🔥AidLearning build Linux environment running on the Android devices with GUI, Deep-Learning and Python Visual Programming support. Now support VSCode,Jupyter, pyToApk! One-click install.🚀
+themer:        🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+Pokemon-Terminal:        Pokemon terminal themes.
+guake:        Drop-down terminal for GNOME
+ttygif:        Convert terminal recordings to animated gifs
+rainbowstream:        A smart and nice Twitter client on terminal written in Python.
+tui-rs:        Build terminal user interfaces and dashboards using Rust
+Caporal.js:        A full-featured framework for building command line applications (cli) with node.js
+haxor-news:        Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+glorious-demo:        The easiest way to demonstrate your code in action.
+colorls:        A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉
+go-prompt:        Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
+pastel:        A command-line tool to generate, analyze, convert and manipulate colors
+fff:        📁 A simple file manager written in bash.
+consola:        🐨 Elegant Console Logger for Node.js and Browser
+tmuxp:        💻 tmux session manager. built on libtmux
+ttyd:        Share your terminal over the web
+console:        This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.
+lsix:        Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+jquery.terminal:        jQuery Terminal Emulator - web based terminal
+pb:        Console progress bar for Golang
+parrot.live:        🐦 Bringing animated parrots to terminals everywhere
+laravel-zero:        A PHP framework for console artisans
+lf:        Terminal file manager
+sclack:        The best CLI client for Slack, because everything is terrible!
+zero:        3D Graphics Rendering Pipeline. Implemented in JavaScript. Run in a terminal.
+amp:        A complete text editor for your terminal.
+s-tui:        Terminal-based CPU stress and monitoring utility

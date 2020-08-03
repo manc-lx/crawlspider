@@ -1,0 +1,91 @@
+XML is subset of SGML (Standard Generalized Markup Language) used to store and transport data.
+sheetjs:        📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+xbmc:        Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+nokogiri:        Nokogiri (鋸) is a Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.
+structured-text-tools:        A list of command line tools for manipulating structured text data
+countries:        World countries in JSON, CSV, XML and Yaml. Any help is welcome!
+rest-assured:        Java DSL for easy testing of REST services
+ServiceStack:        Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+poco:        The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+tokenizer:        A small library for converting tokenized PHP source code into XML (and potentially other formats)
+refit:        The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+node-xml2js:        XML to JavaScript object converter.
+wiremock:        A tool for mocking HTTP services
+tbox:        🎁 A glib-like multi-platform c library
+camel:        Apache Camel
+substance:        A JavaScript library for web-based content editing.
+lsp-mode:        Emacs client/library for the Language Server Protocol
+php-curl-class:        PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
+Ono:        A sensible way to deal with XML & HTML for iOS & macOS
+ShapeOfView:        Give a custom shape to any android view, Material Design 2 ready
+BackgroundLibrary:        A framework for directly generating shape through Tags, no need to write shape.xml again（通过标签直接生成shape，无需再写shape.xml）
+posthtml:        PostHTML is a tool to transform HTML/XML with JS plugins
+pugixml:        Light-weight, simple and fast XML parser for C++ with XPath support
+minify:        Go minifiers for web formats
+thymeleaf:        Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
+acl:        Server framework and network components written by C/C++ for Linux, Mac, FreeBSD, Solaris(x86), Windows, Android, IOS
+serializer:        With the Serializer component it's possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+prettydiff:        Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
+svgo:        Go Language Library for SVG generation
+Binding.scala:        Reactive data-binding for Scala
+FlexLib:        FlexLib是一个基于flexbox模型，使用xml文件进行界面布局的框架，融合了web快速布局的能力，让iOS界面开发像写网页一样简单快速
+render:        Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
+Material-BottomNavigation:        Bottom Navigation widget component inspired by the Google Material Design Guidelines at https://www.google.com/design/spec/components/bottom-navigation.html
+Plot:        A DSL for writing type-safe HTML, XML and RSS in Swift.
+ISO-3166-Countries-with-Regional-Codes:        ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
+yq:        Command-line YAML and XML processor - jq wrapper for YAML/XML documents
+EasyFlipView:        💳 A quick and easy flip view through which you can create views with two sides like credit cards, poker cards etc.
+js-word:        ✒️ Word Processing Document Library
+oga:        Read-only mirror of https://gitlab.com/yorickpeterse/oga
+laravel-sitemap:        Create and generate sitemaps with ease
+EVReflection:        Reflection based (Dictionary, CKRecord, NSManagedObject, Realm, JSON and XML) object mapping with extensions for Alamofire and Moya with RxSwift or ReactiveSwift
+texture:        A visual editor for research.
+Snowflake:        ❄️ SVG in Swift
+Fuzi:        A fast & lightweight XML & HTML parser in Swift with XPath & CSS support
+fast-xml-parser:        Validate XML, Parse XML to JS/JSON and vise versa, or parse XML to Nimn rapidly without C/C++ based libraries and no callback
+treefrog-framework:        TreeFrog Framework : High-speed C++ MVC Framework for Web Application
+xmlbuilder-js:        An XML builder for node.js
+xml-js:        Converter utility between XML text and Javascript object / JSON text.
+TextFieldBoxes:        Material Design text field that comes in a box, based on (OLD) Google Material Design guidelines.
+ofbiz:        Apache OFBiz - Main development has moved to the ofbiz-frameworks repository.
+macSVG:        macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
+Leanify:        lightweight lossless file minifier/optimizer
+cxf:        Apache CXF
+rss-parser:        A lightweight RSS parser, for Node and the browser
+docconv:        Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text
+etree:        parse and generate XML easily in go
+array-to-xml:        A simple class to convert an array to xml
+Pinview:        A pinview library for android. ✨
+dom4j:        flexible XML framework for Java
+jekyll-rss-feeds:        Templates for rendering RSS feeds for your Jekyll blog
+FSharp.Data:        F# Data: Library for Data Access
+parsel:        Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
+adblockfast:        Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+sirix:        SirixDB facilitates effective and efficient storing and querying of your temporal data. Every commit stores a space-efficient snapshot. It is log-structured and never overwrites data. SirixDB uses a novel page-level versioning approach called sliding snapshot.
+xstream:        Serialize Java objects to XML and back again.
+MatchTagAlways:        A Vim plugin that always highlights the enclosing html/xml tags
+countries-states-cities-database:        🌍World countries, states/regions, cities in JSON, SQL, XML, PLIST, YAML and CSV. All Countries, Cities, States with ISO2, ISO3, Country Code, Phone Code, Capital and Currency [Linked with Each Other By ID] [Countries-States-Cities-Database]
+libexpat:        🌿 Expat library: Fast streaming XML parser written in C; in the process of migrating from SourceForge to GitHub
+basex:        BaseX Main Repository.
+camel-k:        Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers.
+untangle:        Converts XML to Python objects
+SOAPEngine:        This generic SOAP client allows you to access web services using a your iOS app, Mac OS X app and AppleTV app.
+folder-explorer:        分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存
+VEditorKit:        Lightweight and Powerful Editor Kit
+fluidxml:        FluidXML, the PHP library for manipulating XML with a concise and fluent API.
+iguana:        universal serialization engine
+CoreXLSX:        Excel spreadsheet (XLSX) format parser written in pure Swift
+zek:        Generate a Go struct from XML.
+better-xlsx:        A better xlsx library.
+log4rs:        A highly configurable logging framework for Rust
+stream-parser:        ⚡ PHP7 / Laravel Multi-format Streaming Parser
+quick-xml:        Rust high performance xml reader and writer
+meza:        A Python toolkit for processing tabular data
+node-rest-client:        REST API client from node.js
+HorizontalPicker:        A HorizontalPicker view for android, which supports both text and icon. ✨
+wikiteam:        Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2020, WikiTeam has preserved more than 250,000 wikis.
+tikxml:        Modern XML Parser for Android
+hashover-next:        This branch will be HashOver 2.0
+dog-ceo-api:        The API hosted at dog.ceo
+CPPWebFramework:        ​The C++ Web Framework (CWF) is a MVC web framework, Open Source, under MIT License, using C++ with Qt to be used in the development of web applications.
+GetSimpleCMS:        GetSimple CMS

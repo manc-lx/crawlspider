@@ -1,0 +1,90 @@
+npm is a package manager for JavaScript included with Node.js.
+nodebestpractices:        ✅ The Node.js best practices list (July 2020)
+meteor:        Meteor, the JavaScript App Platform
+yarn:        📦🐈 Fast, reliable, and secure dependency management.
+lerna:        🐉 A tool for managing JavaScript projects with multiple packages.
+verdaccio:        📦🔐A lightweight private npm proxy registry
+pnpm:        📦🚀 Fast, disk space efficient package manager
+magic:        CSS3 Animations with special effects
+css.gg:        700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+tsdx:        Zero-config CLI for TypeScript package development
+np:        A better `npm publish`
+npm-run-all:        A CLI tool to run multiple npm-scripts in parallel or sequential.
+awesome-npm:        Awesome npm resources and tips
+npkill:        List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
+cli:        The command line vault (Windows, macOS, & Linux).
+release-it:        🚀 Automate versioning and package publishing
+jsdelivr:        A free, fast, and reliable Open Source CDN for npm and GitHub
+renovate:        Universal dependency update tool that fits into your workflows.
+eslint-plugin-vue:        Official ESLint plugin for Vue.js
+cnpmjs.org:        Private npm registry and web for Enterprise
+windows-build-tools:        📦 Install C++ Build Tools for Windows using npm
+wasm-pack:        📦✨ your favorite rust -> wasm workflow tool!
+release:        Generate changelogs with a single command
+thanks:        🙌 Give thanks to the open source maintainers you depend on! ✨
+npx:        execute npm package binaries (moved)
+apify-js:        Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+tink:        a dependency unwinder for javascript
+npm-windows-upgrade:        🚀 Upgrade npm on Windows
+reactopt:        A CLI React performance optimization tool that identifies potential unnecessary re-rendering
+100-days-of-code-frontend:        Curriculum for learning front-end development during #100DaysOfCode.
+ifvisible.js:        Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.
+Darkmode.js:        🌓 Add a dark-mode / night-mode to your website in a few seconds
+nrm:        NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
+ndm:        💻 npm desktop manager https://720kb.github.io/ndm
+lite-server:        Lightweight node server
+yalc:        Work with yarn/npm packages locally like a boss.
+bolt:        ⚡️ Super-powered JavaScript project management
+reactn:        React, but with built-in global state management.
+Front-end-tutorial:        🐼 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
+greenkeeper:        🤖 🌴 Real-time automated dependency updates for npm and GitHub
+node-docker-good-defaults:        sample node app for Docker examples
+npm-expansions:        Send us a pull request by editing expansions.txt
+rsmq:        Redis Simple Message Queue
+awesome-awesome-nodejs:        🐢🚀 An Awesome list of Awesome lists related to Node.js.
+ungrid:        ungrid - the simplest responsive css grid
+notes:        Some public notes
+nps:        NPM Package Scripts -- All the benefits of npm scripts without the cost of a bloated package.json and limits of json
+emma-cli:        📦 Terminal assistant to find and install node packages.
+Vue-Admin:        基于Vue2、element ui、vue-cli、vuex、vue-router、axios 、echarts后台管理系统demo. 权限管理，用户管理，菜单管理。无限级菜单，下拉树形选择框
+local-npm:        Local and offline-first npm mirror
+packagephobia:        ⚖️ Find the cost of adding a new dependency to your project
+how-to-npm:        A module to teach you how to module.
+postcss-import:        PostCSS plugin to inline @import rules content
+graphql-upload:        Middleware and an Upload scalar to add support for GraphQL multipart requests (file uploads via queries and mutations) to various Node.js GraphQL servers.
+telebot:        The easy way to write Telegram bots in Node.js
+npm-build-boilerplate:        A collection of packages that build a website using npm scripts.
+composer-asset-plugin:        NPM/Bower Dependency Manager for Composer
+luna:        Manage npm dependencies through a modern UI.
+awesome-mad-science:        Delightful npm packages that make you say "wow, didn't know that was possible!"
+SmartPhoto:        The most easy to use responsive image viewer especially for mobile devices
+shrinkpack:        Fast, resilient, reproducible builds with npm install.
+ntl:        Node Task List: Interactive cli to list and run package.json scripts
+eyeglass:        NPM Modules for Sass
+eslint-plugin-node:        Additional ESLint's rules for Node.js
+tsparticles:        tsParticles - Particles.js on steroids
+oji:        (◕‿◕) Text Emoticons Maker
+SimpleStateManager:        A responsive state manager which allows you to run different javascript at different browser widths
+better-npm-run:        🏃‍♂️ Better NPM scripts runner
+articles-translator:        📚Translate the distinct technical blogs. Please star or watch. Welcome to join me.
+vue-admin-webapp:        this is a admin project
+lass:        👧 Lass scaffolds a modern package boilerplate for Node.js
+ram:        ⚛️ React Application Manager: create and run React (and other) applications – no command line or build setup required
+InlineAttachment:        Easily paste and upload files/images in plain textareas
+kotlin-frontend-plugin:        Gradle Kotlin (http://kotlinlang.org) plugin for frontend development
+new-bee:        开源社区 vue + springBoot - 前后分离微服务的最佳实践
+use-react-router:        React Hook for pub-sub behavior using React Router.
+next-update:        Tests if module's dependencies can be updated to latest version
+eslint-plugin-react-native:        React Native plugin for ESLint
+create-react-library:        React NPM library starter kit based on Facebook's create react app
+awesome-npm-scripts:        Everything awesome related to npm scripts and using npm as a build tool.
+bower-material:        This repository is used for publishing the AngularJS Material v1.x library
+request-ip:        A Node.js module for retrieving a request's IP address on the server.
+fetch-suspense:        A React hook compatible with React 16.6's Suspense component.
+mailgo:        💌 mailgo, a new concept of mailto and tel links
+angular-auth-oidc-client:        npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
+npm-gui:        Graphic tool for managing javascript project dependencies - in a friendly way.
+synp:        Convert yarn.lock to package-lock.json and vice versa
+npq:        🎖safely* install packages with npm or yarn by auditing them as part of your install process
+vanilla-framework:        From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.
+is-vegan:        Is-Vegan helps you to find out which food ingredients are vegan / non-vegan

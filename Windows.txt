@@ -1,0 +1,91 @@
+Windows is Microsoft's GUI-based operating system.
+the-art-of-command-line:        Master the command line, in one page
+node:        Node.js JavaScript runtime ✨🐢🚀✨
+atom:        The hackable text editor
+x64dbg:        An open-source x64/x32 debugger for windows.
+PowerToys:        Windows system utilities to maximize productivity
+mkcert:        A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+nylas-mail:        💌 An extensible desktop mail app built on the modern web. Forks welcome!
+nativefier:        Make any web page a desktop application
+alacritty:        A cross-platform, GPU-accelerated terminal emulator
+Motrix:        A full-featured download manager.
+PowerShell:        PowerShell for every system!
+calculator:        Windows Calculator: A simple yet powerful calculator that ships with Windows
+Wox:        Launcher for Windows, an alternative to Alfred and Launchy.
+libgdx:        Desktop/Android/HTML5/iOS Java game development framework
+Boostnote:        A markdown editor for developers on Mac, Windows and Linux.
+marktext:        📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+libuv:        Cross-platform asynchronous I/O
+notable:        The Markdown-based note-taking app that doesn't suck.
+edex-ui:        A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+cocos2d-x:        Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+Awesome:        💻 🎉 An awesome & curated list of best applications and tools for Windows.
+nvm-windows:        A node.js version management utility for Windows. Ironically written in Go.
+sherlock:        🔎 Hunt down social media accounts by username across social networks
+appium:        📱 Automation for iOS, Android, and Windows Apps.
+brook:        Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+kivy:        Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+rufus:        The Reliable USB Formatting Utility
+notepad-plus-plus:        Notepad++ official repository
+scoop:        A command-line installer for Windows.
+vcpkg:        C++ Library Manager for Windows, Linux, and MacOS
+labs:        This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
+Mailspring:        💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors.
+ChakraCore:        ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
+OpenRCT2:        An open source re-implementation of RollerCoaster Tycoon 2 🎢
+keepassxc:        KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+browser-laptop:        [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
+reactos:        A free Windows-compatible Operating System
+openFrameworks:        openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
+qt:        Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+winget-cli:        Windows Package Manager CLI (aka winget)
+webtorrent-desktop:        ❤️ Streaming torrent app for Mac, Windows, and Linux
+Awesome_APIs:        A collection of APIs
+MahApps.Metro:        A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+gitsome:        A supercharged Git/GitHub command line interface (CLI). An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+devhub:        TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
+ConEmu:        Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+choco:        Chocolatey - the package manager for Windows
+brave-browser:        Next generation Brave browser for macOS, Windows, Linux, Android.
+glfw:        A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+TranslucentTB:        A lightweight utility that makes the Windows taskbar translucent/transparent.
+psutil:        Cross-platform lib for process and system monitoring in Python
+Ventoy:        A new bootable USB solution.
+wasmer:        🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+gridea:        ✍️A static blog writing client (一个静态博客写作客户端)
+FreeCAD:        This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+pupy:        Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+outline-client:        Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+nuclear:        Streaming music player that finds free music for you
+community-edition:        Free and Open Source messaging and emailing app that combines common web applications into one.
+PENTESTING-BIBLE:        Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+Squirrel.Windows:        An installation and update framework for Windows desktop apps
+TiddlyWiki5:        A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+Win32-OpenSSH:        Win32 port of OpenSSH
+cross-env:        🔀 Cross platform setting of environment scripts
+RevokeMsgPatcher:        A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+youtube-dl-gui:        A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+walk:        A Windows GUI toolkit for the Go Programming Language
+tagbar:        Vim plugin that displays tags in a window, ordered by scope
+nodegit:        Native Node bindings to Git.
+saws:        A supercharged AWS command line interface (CLI).
+windows-kernel-exploits:        windows-kernel-exploits Windows平台提权漏洞集合
+Qv2ray:        ⭐ Linux/Windows/macOS 跨平台 V2ray 客户端 | 支持 SSR/Trojan/NaiveProxy | 使用 C++/Qt5 开发 | 可拓展插件式设计 ⭐
+persepolis:        Persepolis Download Manager is a GUI for aria2.
+nmap:        Nmap - the Network Mapper. Github mirror of official SVN repository.
+oni2:        Native, lightweight modal code editor
+Captura:        Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+go-flutter:        Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
+Airtest:        UI Automation Framework for Games and Apps
+olive:        Free open-source non-linear video editor
+CrackMapExec:        A swiss army knife for pentesting networks
+udemy-downloader-gui:        A desktop application for downloading Udemy Courses
+AutoHotkey_L:        AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+ntfy:        🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+win-acme:        A simple ACME client for Windows (for use with Let's Encrypt et al.)
+WindowsCommunityToolkit:        The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.
+commando-vm:        Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com
+tokei:        Count your code, quickly.
+anyRTC-RTMP-OpenSource:        RTMP 推流器，RTMP(HLS)秒开播放器，跨平台（Win,IOS,Android）开源代码
+processhacker:        A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+bento:        Packer templates for building minimal Vagrant baseboxes for multiple platforms

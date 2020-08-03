@@ -1,0 +1,91 @@
+Progressive Web Apps are traditional web sites that are enhanced with native like features.
+angular:        One framework. Mobile & desktop.
+ionic-framework:        A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+devdocs:        API Documentation Browser
+postwoman:        👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
+lighthouse:        Automated auditing, performance metrics, and best practices for the web.
+quasar:        Quasar Framework - Build high-performance VueJS user interfaces in record time
+rxdb:        💻 🔄 📱 A realtime Database for JavaScript Applications
+saleor:        A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
+OnsenUI:        Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
+stencil:        A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
+amplify-js:        A declarative JavaScript library for application development using cloud services.
+vue-storefront:        Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/ and the new community initiative for improving Headless Security standards https://headless-security.or…
+rax:        🐰 Rax is a progressive React framework for building universal application. https://rax.js.org
+gridsome:        ⚡️ The Jamstack framework for Vue.js
+UpUp:        ✈️ Easily create sites that work offline as well as online
+offline-plugin:        Offline plugin (ServiceWorker, AppCache) for webpack (https://webpack.js.org/)
+preact-cli:        😺 Your next Preact PWA starts in 30 seconds.
+assemble:        Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
+PWA-Book-CN:        第一本 PWA 中文书
+angular-performance-checklist:        ⚡ Cheatsheet for developing lightning fast progressive Angular applications.
+awesome-pwa:        Awesome list of progressive web apps! (PR welcomed ;))
+pwa:        PWA template for vue-cli based on the webpack template
+hint:        💡 A hinting engine for the web
+snapdrop:        A Progressive Web App for local file sharing
+frontend-tech-list:        📝 Frontend Tech List for Developers 💡
+web-skills:        A visual overview of useful skills to learn as a web developer
+just:        A library of dependency-free JavaScript functions that do just do one thing.
+react-pwa:        An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
+lighthousebot:        Run Lighthouse in CI, as a web service, using Docker. Pass/Fail GH pull requests.
+awesome-learning-resources:        🔥 Awesome list of resources on Web Development.
+cezerin:        Cezerin is React and Node.js based eCommerce platform.
+Reactive-Resume:        A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+swarmpit:        Lightweight mobile-friendly Docker Swarm management UI
+learning-article:        学习资源 or 大前端导航，持续更新
+Front-end-tutorial:        🐼 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
+generative.fm:        A platform for playing generative music in the browser.
+bento-starter:        🍱 Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
+OpenNote:        OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
+ReactiveTraderCloud:        Real-time FX trading showcase by Adaptive.
+storefront-ui:        Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
+metastream:        Watch streaming media with friends.
+knowledge:        文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。
+generator-ngx-rocket:        🚀 Extensible Angular 9+ enterprise-grade project generator
+modules:        Official Nuxt.js modules.
+flatris:        Fast-paced two-player web game
+jpg-glitch:        glitch images with jpg encoding
+next-offline:        make your Next.js application work offline using service workers via Google's workbox
+ng-toolkit:        ⭐ Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
+react-most-wanted:        Starter kit with "Most Wanted" application features
+gatsby-advanced-starter:        A high performance skeleton starter for GatsbyJS that focuses on SEO/Social features/development environment.
+suicrux:        🚀 Ultimate universal starter with lazy-loading, SSR and i18n. [not maintained]
+tris-webpack-boilerplate:        A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
+preact-boilerplate:        🎸 Ready-to-rock Preact starter project, powered by Webpack.
+pwa-asset-generator:        A JavaScript library that automates PWA icon and splash screen image generation. It also updates manifest.json and index.html files with the generated images.
+pwacompat:        PWACompat to bring Web App Manifest to older browsers
+pgtune:        Pgtune - tuning PostgreSQL config by your hardware
+qr-code-scanner:        📠 A simple, fast and useful progressive web application
+hoverboard:        Conference website template
+pwa-module:        ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
+aurelia:        Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
+demo-progressive-web-app:        🎉 A demo for progressive web application with features like offline, push notifications, background sync etc,
+vue-ts-daily:        基于vue、Typescript、pwa的一款习惯养成app
+pwa-studio:        🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
+hackernews:        HackerNews clone built with Nuxt.js
+ghChat:        📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts + Mysql + Socket.io
+nice-front-end-tutorial:        🌍 Constantly updated front-end resources, tutorials, opinions（与时俱进版前端资源，教程和意见。）
+vue-wordpress-pwa:        An offline-first SPA using Vue.js, the WordPress REST API and Progressive Web Apps
+ionic-pwa-toolkit:        Build lightning fast Progressive Web Apps with zero config and best practices built-in. Go from zero to production ready with Ionic and Stencil (Web Components).
+articles-translator:        📚Translate the distinct technical blogs. Please star or watch. Welcome to join me.
+gatsby-universal:        🔮 An opinionated Gatsby v2 starter for state-of-the-art marketing sites.
+redux-bundler:        Compose a Redux store out of smaller bundles of functionality.
+builder:        Drag and drop page building using your code components
+react-progressive-web-app:        An opinionated React based repository which is optimized for Progressive Web App development.
+markcook:        A smart and beautiful markdown editor.
+angular-contacts-app-example:        Full Stack Angular PWA example app with NgRx & NestJS
+pinafore:        Alternative web client for Mastodon
+SuperSlide.js:        A flexible, smooth, GPU accelerated sliding menu for your next PWA
+falcon:        DEITY Falcon - Progressive Web App library for any type of website. Fully Open Source, Platform Agnostic and headless. OSL3.0. Supports Magento 2 PWA storefront, Wordpress PWA and BigCommerce PWA Storefront. Built with ReactJS, NodeJS and GraphQL. Join our community and become a contributor at https://slack.deity.io
+money-tracker:        💰 Personal finances tracking web app
+angular-async-local-storage:        Efficient local storage module for Angular apps and PWA: simple API + performance + Observables + validation
+awes-io:        Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
+saleor-storefront:        A GraphQL-powered, PWA, single-page application storefront for Saleor.
+vue-boilerplate-template:        🍎 Efficient development of web SPA using Vue.js(2.*) + Webpack + Element-ui + Pwa + Vuex + Vuex-router + Vue-i18n + Dayjs + Lodash.
+trends:        ultra high performance github trending application
+pwa-bugs:        🚔 List of PWA Bugs and workarounds
+santa-tracker-web:        Ho Ho Ho
+nekomy-platform:        An open source LMS (eLearning platform) for MOOCs and online courses (like Tutellus.com or Udemy.com with extra features). Tech stack includes PWA & SPA with Facebook's React, Google's Firebase and Slack API
+gatsby-mail:        A Gatsby email *application*
+vue-crm:        Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
+webpack-pwa-manifest:        Progressive Web App Manifest Generator for Webpack, with auto icon resizing and fingerprinting support.

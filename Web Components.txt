@@ -1,0 +1,91 @@
+Web Components are a set of web platform APIs developers can use to create custom HTML tags.
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+polymer:        Our original Web Component library.
+omi:        Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
+wired-elements:        Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
+skatejs:        Effortless custom elements powered by modern view libraries.
+web-skills:        A visual overview of useful skills to learn as a web developer
+time-elements:        Web component extensions to the standard <time> element.
+fast:        The adaptive interface system  for modern web experiences.
+haunted:        React's Hooks API implemented for web components 👻
+vue-custom-element:        Vue Custom Element - Web Components' Custom Elements for Vue.js
+polymer-bundler:        Moved to Polymer/tools monorepo
+stylable:        Stylable - CSS for components
+diffhtml:        diffHTML is a web framework that helps you build applications and other interactive content
+open-ui:        Maintain an open standard for UI and promote its adherence and adoption.
+ui5-webcomponents:        UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
+ionic-pwa-toolkit:        Build lightning fast Progressive Web Apps with zero config and best practices built-in. Go from zero to production ready with Ionic and Stencil (Web Components).
+ng2-semantic-ui:        Semantic UI Angular Integrations (no jQuery)
+web-component-tester:        Moved to Polymer/tools monorepo
+simpla:        Open, modular, and serverless content management for a modern web
+polymer-cli:        Moved to Polymer/tools monorepo
+details-dialog-element:        A modal dialog that's opened with <details>.
+remount:        Mount React components to the DOM using custom elements
+elix:        High-quality, customizable web components for common user interface patterns
+awesome-stenciljs:        List of Awesome Web Components Built with StencilJS
+details-menu-element:        A menu opened with <details>.
+microsoft-graph-toolkit:        Collection of web components for the Microsoft Graph 🦒
+atomico:        Small library for the creation of interfaces based on web-components, only using functions and hooks.
+vaadin-core:        An evolving set of free, open source web components for building mobile and desktop web applications in modern browsers.
+dark-mode-toggle:        A custom element that allows you to easily put a Dark Mode 🌒 toggle or switch on your site:
+emoji-picker-element:        A lightweight emoji picker for the modern web
+vaadin:        An evolving set of open source web components for building mobile and desktop web applications in modern browsers.
+web-components-todo:        A simple todo list built with various Web Components technologies
+xy-ui:        🎨面向未来的原生 web components UI组件库
+bem-components:        Set of components for sites development
+include-fragment-element:        A client-side includes tag.
+lume:        Create CSS3D/WebGL applications declaratively with HTML. Give regular DOM elements shadow and lighting.
+webcomponents.org:        Home of the web components community
+coreui:        Open Source UI Kit built on top of Bootstrap 4 and plain JavaScript without any additional libraries like jQuery
+statblock5e:        A Web Component statblock for D&D 5E
+Monogatari:        Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web.
+weightless:        High-quality web components with a small footprint
+vue-ui-framework:        My personal collection of Vue UI framework
+eplayer:        🔮 A web-component html5 video player facing future
+ajax-form:        HTML forms on performance-enhancing drugs
+prettyhtml:        💅 The formatter for the modern web https://prettyhtml.netlify.com/
+progressive-image-element:        ⚡️ <progressive-image> custom element
+lazyload-image:        HTMLImageElement extension for lazy loading.
+server-components:        🔧 A simple, lightweight tool for composable HTML rendering in Node.js, based on web components.
+kpc:        A UI Components Library for Intact, Vue, React and Angular.
+base-components-recipes:        A collection of base component recipes for Lightning Web Components on Salesforce Platform
+jQWidgets:        Angular, Vue, React, Web Components, Javascript, jQuery and ASP .NET Framework,
+polyserve:        Moved to Polymer/tools monorepo
+panel:        Web Components + Virtual DOM: web standards for powerful UIs
+polymer-skeleton:        💀 Skeleton for Polymer 3 app with Webpack, PostCSS and Service Workers ready.
+custom-elements:        All about HTML Custom Elements
+vue-gwt:        Vue.js Components/Custom Elements in Java with GWT. Developed at https://www.genmymodel.com.
+shadow-dom-in-depth:        Everything you need to know about Shadow DOM
+swiss:        🇨🇭Functional custom elements
+direflow:        🧩 Use the best of two worlds. Create fast, performant, native Web Components using React.
+auto-complete-element:        Auto-complete input values from server search results.
+ui5-webcomponents-react:        A wrapper implementation for React of the UI5 Web Components that are compliant with the SAP Fiori User Experience
+tab-container-element:        An accessible tab container element with keyboard support.
+bolt:        The Bolt Design System provides robust Twig and Web Component-powered UI components, reusable visual styles, and powerful tooling to help developers, designers, and content authors build, maintain, and scale best of class digital experiences.
+polymer-analyzer:        Moved to Polymer/tools monorepo
+clipboard-copy-element:        Copy element text content or input values to the clipboard.
+elements:        Lazy load Angular Elements (or any other web components / custom elements ) with ease!
+alkali:        Alkali is library for functional reactive data flows that drive native-based UI elements
+gwt-polymer-elements:        Polymer Web Components for GWT. A collection of Material Design widgets for desktop and mobile.
+CleverStyle-Framework:        CleverStyle Framework is simple, scalable, fast and secure full-stack PHP framework
+numl:        Numl is an HTML-based language and design system that lets you create responsive and accessible high-quality web interfaces with any look
+vanillawc:        Vanilla Web Components. A place for framework-free, transpiler-free, scaffolding-free web components.
+virtual-dom:        关于Vue，React，Preact和Omi等框架源码的解读
+spring:        Spring integration for Vaadin
+fos:        Web Components to turn your web app into a fake operating system
+preact-custom-element:        Wrap your component up as a custom element
+animatable-component:        Animate once, use Everywhere! 💫
+fit-html:        💪 Combining web components + lit-html + redux (3KB)
+polydev:        Automatic web components profiling in chrome devtools
+elm-canvas:        A canvas drawing library for Elm
+ion-phaser:        A web component to integrate Phaser Framework with Angular, React, Vue, etc 🎮
+ebayui-core:        Collection of Marko widgets; considered to be the core building blocks for all eBay components, pages & apps
+hot-table:        Handsontable - Best Data Grid Web Component with Spreadsheet Look and Feel.
+html-include-element:        Easily include external HTML into your pages.
+smart-industry:        🏭Open Source Manufacturing Execution System for JobShop manufacturer.
+polymer-build:        Moved to Polymer/tools monorepo
+markdown-toolbar-element:        Markdown formatting buttons for text inputs.
+nutmeg:        Build, test, and publish vanilla Web Components with a little spice
+gulp-vulcanize:        Concatenate a set of Web Components into one file
+carbon-custom-elements:        Carbon Design System variant on top of Web Components
+polymer3-webpack-starter:        Polymer 3 starter built with Vaadin components and Vaadin.Router library, using webpack and modern tools

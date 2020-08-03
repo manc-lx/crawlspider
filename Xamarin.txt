@@ -1,0 +1,90 @@
+Xamarin is a platform for developing iOS and Android applications.
+eShopOnContainers:        Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+mono:        Mono open source ECMA CLI, C# and .NET implementation.
+ReactiveUI:        An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
+Xamarin.Forms:        Xamarin.Forms Official Home
+NLog:        NLog - Advanced and Structured Logging for Various .NET Platforms
+refit:        The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+xamarin-forms-samples:        Sample apps built using the Xamarin.Forms framework
+MvvmCross:        The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
+TensorFlowSharp:        TensorFlow API for .NET languages
+MessagePack-CSharp:        Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
+uno:        Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
+Caliburn.Micro:        A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
+Akavache:        An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires.
+xamarin-macios:        Bridges the worlds of .NET with the native APIs of macOS, iOS, tvOS, and watchOS.
+CppSharp:        Tools and libraries to glue C/C++ APIs to high-level languages
+SkiaSharp:        SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+mobile:        The mobile app vault (iOS and Android).
+xamarin-forms-goodlooking-UI:        Xamarin.Forms goodlooking UI samples
+awesome-xamarin:        A curated list of awesome Xamarin iOS/Android and Xamarin Forms bindings, ports, frameworks and much more!
+ios-samples:        Xamarin.iOS sample apps
+Microcharts:        Create cross-platform (Xamarin, Windows, ...) simple charts.
+FFImageLoading:        Image loading, caching & transforming library for Xamarin and Windows
+Essentials:        Essential cross platform APIs for your mobile apps.
+NLua:        Bridge between Lua and the .NET.
+Xamarin.Plugins:        Cross-platform Native API Access from Shared Code!
+LottieXamarin:        Render After Effects animations natively on Android, iOS, MacOS and TvOS for Xamarin
+GithubXamarin:        GithubXamarin(GitIt) is a cross-platform application for https://github.com which is built using Xamarin.
+realm-dotnet:        Realm is a mobile database: a replacement for SQLite & ORMs
+Rg.Plugins.Popup:        Xamarin Forms popup plugin
+mvvmlight:        The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.
+moonsharp:        An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
+csla:        A home for your business logic in any .NET application.
+AdaptiveCards:        A new way for developers to exchange card content in a common and consistent way.
+tweetinvi:        Tweetinvi, an intuitive Twitter C# library for the REST and Stream API. It supports .NET, .NETCore, UAP (Xamarin)...
+Embeddinator-4000:        Tools to turn .NET libraries into native libraries that can be consumed on Android, iOS, Mac, Linux and other platforms.
+microsoft-authentication-library-for-dotnet:        Microsoft Authentication Library (MSAL) for .NET
+libvlcsharp:        Cross-platform .NET/Mono bindings for LibVLC
+ffmediaelement:        FFME: The Advanced WPF MediaElement (based on FFmpeg)
+essential-ui-kit-for-xamarin.forms:        Free and beautiful XAML template pages for Xamarin.Forms apps.
+shiny:        A Xamarin Framework for Backgrounding & Device Hardware Services (iOS, Android, UWP, Tizen, tvOS, watchOS, & more coming soon)
+XamarinMediaManager:        Cross platform Xamarin plugin to play and control Audio and Video
+awesome-monogame:        A collection of interesting libraries/tools for Monogame based game projects
+FireSharp:        An asynchronous .Net client library for Firebase
+Xamarin.Forms.PancakeView:        An extended ContentView for Xamarin.Forms with rounded corners, borders, shadows and more!
+ReactiveProperty:        ReactiveProperty provides MVVM and asynchronous support features under Reactive Extensions. Target framework is .NET Standard 2.0.
+docs-archive:        Xamarin docs archive
+MathParser.org-mXparser:        Math Parser Java Android C# .NET/MONO (.NET Framework, .NET Core, .NET Standard, .NET PCL, Xamarin.Android, Xamarin.iOS) CLS Library - a super easy, rich and flexible mathematical expression parser (expression evaluator, expression provided as plain text / strings) for JAVA and C#. Main features: rich built-in library of operators, constants, ma…
+SmartHotel360-Mobile:        SmartHotel360 Mobile
+Catel:        An application development platform
+waf:        Win Application Framework (WAF) is a lightweight Framework that helps you to create well structured XAML Applications.
+DryIoc:        DryIoc is fast, small, full-featured IoC Container for .NET
+Xamarin.Forms.GoogleMaps:        Map library for Xamarin.Forms using Google maps API
+XF-Material-Library:        A Xamarin Forms library for implementing Material Design
+HotReload:        Xamarin.Forms XAML hot reload, live reload, live xaml 🇧🇾
+Restaurant-App:        Restaurant App 🍔 is a sample open source e-Commerce 🛒 application for ordering foods, powered by polyglot microservices ☸️ architecture and cross-platform development 📱🖥 🐳
+realm-tasks:        To Do app built with Realm, inspired by Clear for iOS
+Mapsui:        Mapsui is a .NET Map component for WPF, Xamarin.Forms, Xamarin.Android, Xamarin.iOS and UWP
+xamarin-bluetooth-le:        Bluetooth LE plugin for Xamarin
+LinqToTwitter:        LINQ Provider for the Twitter API (Twitter Library)
+DBreeze:        C# .NET MONO NOSQL ( key value store embedded ) ACID multi-paradigm database management system.
+AmmyUI:        Ammy language repository
+ProfessionalCSharp7:        Code samples for the book Professional C# 7 and .NET Core 2.0 (with updates for 2.1), Wrox Press
+bluetoothle:        Easy to use, cross platform, REACTIVE BluetoothLE Plugin for Xamarin
+Xamanimation:        Xamarin Forms Animation Library
+Xamarin.Forms.InputKit:        CheckBox, Radio Button, Labeled Slider, Dropdowns etc.
+puremvc-csharp-standard-framework:        PureMVC Standard Framework for C#
+32feet:        Personal Area Networking for .NET
+xamarin-fingerprint:        Xamarin and MvvMCross plugin for authenticate a user via fingerprint sensor
+gray_hat_csharp_code:        This repository contains full code examples from the book Gray Hat C#
+open-source-xamarin-apps:        📱 Collaborative List of Open Source Xamarin Apps
+FirebasePushNotificationPlugin:        Firebase Push Notification Plugin for Xamarin iOS and Android
+Prism-Samples-Forms:        Samples that demonstrate how to use various Prism features with Xamarin.Forms
+Parse-SDK-dotNET:        Parse SDK for .NET, Xamarin, Unity.
+MSBuildSdkExtras:        Extra properties for MSBuild SDK projects
+arcgis-runtime-samples-dotnet:        Sample code for ArcGIS Runtime SDK for .NET – UWP, WPF, Xamarin.Android, Xamarin.iOS, and Xamarin.Forms
+ContextMenu:        ContextView for Xamarin.Forms 🇧🇾
+MvvmCross-Samples:        Tutorials and samples for MvvmCross: The .NET MVVM framework for cross-platform solutions.
+GeolocatorPlugin:        Geolocation plugin for Xamarin and Windows
+ConnectivityPlugin:        Connectivity Plugin for Xamarin and Windows
+flexbutton:        Flexible button control for Xamarin.Forms
+xamarin.flutter:        Running Flutter on Xamarin
+jitterphysics:        A cross-platform, realtime physics engine for all .NET apps.
+PdfSharpCore:        Port of the PdfSharp library to .NET Core - largely removed GDI+ (only missing GetFontData - which can be replaced with freetype2)
+SharpCaster:        Chromecast C# SDK for Windows, Windows Phone, .NET 4.5.1, Xamarin.iOS and Xamarin.Android platforms.
+MALClient:        Not so small client app for Myanimelist.net - Windows 10 UWP & Android
+xReader:        XML, NEWS, RSS & Scrapping Reader maked in Xamarin, for educational purpose.
+XamarinFormsLayoutChallenges:        Sample Layouts for Xamarin Forms
+GitTrends:        A iOS and Android app to monitor the views and clones of your GitHub repos
+AiForms.Effects:        AiForms.Effects for Xamarin.Forms

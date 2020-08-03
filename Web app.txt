@@ -1,0 +1,91 @@
+A web application is any computer program that performs a specific function by using a web browser as its client.
+system-design-primer:        Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+profile-summary-for-github:        Tool for visualizing GitHub profiles
+spellbook-of-modern-webdev:        A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+webglstudio.js:        A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
+filestash:        🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+microblog:        A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
+cloudtunes:        Web-based music player for the cloud ☁️ 🎶 Play music from YouTube, Dropbox, etc.
+mpx:        Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架
+react-native-open-project:        可能是目前最用心收集的 React Native 优秀开源项目大全，公众号【aMarno】www.marno.cn
+blackhat-arsenal-tools:        Official Black Hat Arsenal Security Tools Repository
+uwsgi-nginx-flask-docker:        Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
+WAScan:        WAScan - Web Application Scanner
+terminal-in-react:        👨‍💻 A component that renders a terminal
+wxDraw:        A lightweight canvas library which providing 2d draw for weapp 微信小程序2d动画库 😎 🐼
+coronavirus-tracker-api:        🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!
+webapp.rs:        A web application completely written in Rust. 🌍
+jasypt-spring-boot:        Jasypt integration for Spring boot
+metastream:        Watch streaming media with friends.
+traduora:        Translation management platform for teams
+app-privacy-policy-generator:        A simple web app to generate a generic privacy policy for your Android/iOS apps
+ciao:        HTTP checks & tests (private & public) monitoring - check the status of your URL
+jpg-glitch:        glitch images with jpg encoding
+anarki:        Community-managed fork of the Arc dialect of Lisp; for commit privileges submit a pull request.
+generator-fountain-webapp:        Yeoman 'fountain' generator to start a webapp
+csswand:        🎨✨ Hover your wand and use your magic spell to copy beautiful css
+whoogle-search:        Self-hosted, ad-free, privacy-respecting Google metasearch engine
+wire-webapp:        👽 Wire for web
+local-web-server:        A lean, modular web server for rapid full-stack development.
+hawkpost:        Generate links that users can use to submit messages encrypted with your public key.
+cryptii:        Web app and framework offering modular conversion, encoding and encryption
+keras-flask-deploy-webapp:        😺 Pretty & simple image classifier app template. Deploy your own trained model or pre-trained model (VGG, ResNet, Densenet) to a web app using Flask in 10 minutes.
+bowtie:        Create a dashboard with python!
+zhihudaily-vue:        知乎日报web版---vue
+app-framework:        Applications for any device with HTML, CSS and JavaScript - free and open source!
+OpenUserJS.org:        The home of FOSS user scripts.
+mORMot:        Synopse mORMot ORM/SOA/MVC framework
+labnotebook:        LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
+briefing:        Secure direct video chat
+AndroidUIX:        Make a high-performance mobile web app / SPA with Android UI
+framework:        A lightweight low ceremony API for web services.
+cloudbeaver:        Cloud Database Manager
+money-tracker:        💰 Personal finances tracking web app
+Tasks:        A simplistic todo list manager written in Go
+constable:        Better company announcements
+piral:        Framework for next generation web apps using microfrontends. 🚀
+haskell-code-explorer:        Web application for exploring and understanding Haskell codebases
+fans:        这是一个app(android/iOS)项目，但页面视图全部都用的是html5页，没有使用app的原生页面。 前端h5是基于mui + vue2 + vue-router2 + es6 + webpack2 + vuex + signalR 的前端webApp单页项目框架，项目可以直接在PC上运行html5页面。 app打包技术是用HBuilder IDE工具一键打包成APP。
+Bastillion-EC2:        A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services (AWS).
+rssbox:        📰 I consume the world via RSS feeds, and this is my attempt to keep it that way.
+udash-core:        Scala framework for building beautiful and maintainable web applications.
+uwsgi-nginx-docker:        Docker image with uWSGI and Nginx for applications in Python 3.5 and above and Python 2.7 (as Flask) in a single container. Optionally with Alpine Linux.
+IPRotate_Burp_Extension:        Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.
+gwt-material:        A Google Material Design wrapper for GWT
+openvpn-web-ui:        Web interface (with golang backend) for monitoring and administration of OpenVPN server
+sandbox:        Development sandbox for front end projects and tutorials.
+next-pwa:        Zero config PWA plugin for Next.js, with workbox 🧰
+Monitorr:        "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
+nestjs-bff:        A full-stack TypeScript solution, and starter project. Includes an API, CLI, and example client webapp. Features include production grade logging, authorization, authentication, MongoDB migrations, and end-to-end testing.
+spa:        A webapp framework for routing control and view transitions
+sCalc:        📲 A simple calculator application
+nusmods:        🏫 Official course planning platform for National University of Singapore.
+darkmatter:        The notebook-style Common Lisp environment
+CPPWebFramework:        ​The C++ Web Framework (CWF) is a MVC web framework, Open Source, under MIT License, using C++ with Qt to be used in the development of web applications.
+picoweb:        Really minimal web application framework for the Pycopy project (minimalist Python implementation) and its "uasyncio" async framework
+litewrite:        Distraction-free writing.
+neteasemusic:        Vue版仿网易云音乐ios端web spa
+ezprompt:        An easy to use webapp for creating simple bash prompts.
+dosxvpn:        Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean
+coreui:        Open Source UI Kit built on top of Bootstrap 4 and plain JavaScript without any additional libraries like jQuery
+laconia:        🏺 ‎ A minimalist MVC framework.
+vue-scroll-mobile-demo:        web app 主流 scroll view/瀑布流/无限加载插件用法及对比，无限加载终极解决方案
+play-samples:        https://github.com/playframework/play-samples
+IDE:        IDE for web browser, built for Go with Go.
+preact-www:        📖 Preact documentation website.
+vuefront:        VueFront Core. Turn your old-fashioned CMS website in to a SPA & PWA in 5 minutes
+pixiv.moe:        😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity. https://pixiv.moe
+frontend-bootcamp-online:        Repositório responsável pelo Front-End Bootcamp Online
+play-scala-starter-example:        Play Scala Starter Template (ideal for new users!)
+mather:        zzllrr mather(an offline tool for Math learning, education and research)小乐数学，离线可用的数学学习（自学或教学）、研究辅助工具。计划覆盖数学全部学科的解题、作图、演示、探索工具箱。目前是演示Demo版（抛转引玉），但已经支持数学公式编辑显示，部分作图功能，部分学科，如线性代数、离散数学的部分解题功能。最终目标是推动专业数学家、编程专家、教育工作者、科普工作者共同打造出更加专业级的Mather数学工具
+DesktopDeployR:        A framework for deploying self-contained R-based applications to the desktop
+butterfly-server:        The Everything is Real-Time C# Backend for Single Page Applications
+dashboard:        Dashboard is software for creating web apps and SaaS (support @ freenode #userdashboard)
+TachiWeb-Server:        A port of the Tachiyomi manga reader to the desktop and server
+SaltGUI:        A web interface for managing SaltStack based infrastructure.
+meemo:        Meemo - Your personal notes
+webperl:        Run Perl in the browser with WebPerl!
+meemooapp:        Creative apps to use, build, share, and hack in the browser.
+Journal-AWS-Amplify-Tutorial:        Step by step tutorial to build a personal journal web app with aws-amplify
+ResponsiveFramework:        Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
+wam:        Web App Monitor

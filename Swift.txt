@@ -1,0 +1,90 @@
+Swift is a modern programming language focused on safety, performance, and expressivity.
+free-programming-books-zh_CN:        📚 免费的计算机编程类中文书籍，欢迎投稿
+Alamofire:        Elegant HTTP Networking in Swift
+ShadowsocksX-NG:        Next Generation of ShadowsocksX
+gold-miner:        🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+iina:        The modern video player for macOS.
+open-source-ios-apps:        📱 Collaborative List of Open-Source iOS Apps
+swift-algorithm-club:        Algorithms and data structures in Swift, with explanations!
+open-source-mac-os-apps:        🚀 Awesome list of open source applications for macOS.
+SDWebImage:        Asynchronous image downloader with cache support as a UIImageView category
+ReactiveCocoa:        Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
+SwiftyJSON:        The better way to deal with JSON data in Swift.
+awesome-swift:        A curated list of awesome Swift frameworks, libraries and software.
+vapor:        💧 A server-side Swift web framework.
+RxSwift:        Reactive Programming in Swift
+Hero:        Elegant transition library for iOS & tvOS
+SnapKit:        A Swift Autolayout DSL for iOS & OS X
+Kingfisher:        A lightweight, pure-Swift library for downloading and caching images from the web.
+SwiftGuide:        Swift Featured Projects in brain Mapping
+IQKeyboardManager:        Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
+realm-cocoa:        Realm is a mobile database: a replacement for Core Data & SQLite
+Carthage:        A simple, decentralized dependency manager for Cocoa
+Perfect:        Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
+PromiseKit:        Promises for Swift & ObjC.
+CocoaPods:        The Cocoa Dependency Manager.
+Moya:        Network abstraction layer written in Swift.
+CocoaLumberjack:        A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+Design-Patterns-In-Swift:        📖 Design Patterns implemented in Swift 5.0
+Material:        A UI/UX framework for creating beautiful applications.
+Eureka:        Elegant iOS form builder in Swift
+animated-tab-bar:        RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
+MMKV:        An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+ios-good-practices:        Good ideas for iOS development, by Futurice developers.
+folding-cell:        📃 FoldingCell is an expanding content cell with animation made by @Ramotion
+firefox-ios:        Firefox for iOS
+NVActivityIndicatorView:        A collection of awesome loading animations
+SkeletonView:        ☠️ An elegant way to show users that something is happening and also prepare them to which contents he is waiting
+FSCalendar:        A fully customizable iOS calendar library, compatible with Objective-C and Swift
+Quick:        The Swift (and Objective-C) testing framework.
+SwifterSwift:        A handy collection of more than 500 native Swift extensions to boost your productivity.
+IBAnimatable:        Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+antlr4:        ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+CryptoSwift:        CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
+Aspects:        Delightful, simple library for aspect oriented programming in Objective-C and Swift.
+WWDC:        The unofficial WWDC app for macOS
+AudioKit:        Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
+R.swift:        Strong typed, autocompleted resources like images, fonts and segues in Swift projects
+analyze:        Draven's Blog
+Kitura:        A Swift web framework and HTTP server.
+ios-oss:        Kickstarter for iOS. Bring new ideas to life, anywhere.
+compiler-explorer:        Run compilers interactively from your web browser and interact with the assembly
+mal:        mal - Make a Lisp
+SQLite.swift:        A type-safe, Swift-language layer over SQLite3.
+JTAppleCalendar:        The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable
+jazzy:        Soulful docs for Swift & Objective-C
+ReSwift:        Unidirectional Data Flow in Swift - Inspired by Redux
+SwiftGen:        The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
+Awesome-ARKit:        A curated list of awesome ARKit projects and resources. Feel free to contribute!
+XLPagerTabStrip:        Android PagerTabStrip for iOS.
+Swift-30-Projects:        30 mini Swift Apps for self-study
+CYLTabBarController:        [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item. [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新。【iOS13 & Dark Mode & iPhone XS MAX supported】
+Starscream:        Websockets in swift for iOS and OSX
+swift-nio:        Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+Halfrost-Field:        ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+ViewAnimator:        ViewAnimator brings your UI to life with just one line
+SwiftDate:        Parse, validate, manipulate, and display dates, time and timezones in Swift
+Swift-AI:        The Swift machine learning library.
+gitignore.io:        Create useful .gitignore files for your project
+XLForm:        XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
+SwiftMessages:        A very flexible message bar for iOS written in Swift.
+TextFieldEffects:        Custom UITextFields effects inspired by Codrops, built using Swift
+FSPagerView:        FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+Sourcery:        Meta-programming for Swift, stop writing boilerplate code.
+Awesome-Swift-Education:        🔥 Learn some Swift
+LoginCritter:        An animated avatar that responds to text field interactions
+expanding-collection:        ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion
+Macaw:        Powerful and easy-to-use vector graphics Swift library with SVG support
+SwipeCellKit:        Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.
+Nuke:        Powerful image loading and caching system
+quicktype:        Generate types and converters from JSON, Schema, and GraphQL
+flutter-examples:        [Examples] Simple basic isolated apps, for budding flutter devs.
+SwiftEntryKit:        SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
+alerts-and-pickers:        Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
+SwiftyBeaver:        Convenient & secure logging during development & release in Swift 3, 4 & 5
+BulletinBoard:        General-purpose contextual cards for iOS
+vimr:        VimR — Neovim GUI for macOS
+Surge:        A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
+Koloda:        KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
+SideMenu:        Simple side/slide menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.
+About-SwiftUI:        Gathering all info published, both by Apple and by others, about new framework SwiftUI.

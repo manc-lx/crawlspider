@@ -1,0 +1,91 @@
+A representational state transfer (REST) API is a way to provide compatibility between computer systems on the internet.
+postwoman:        👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
+swagger-ui:        Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+parse-server:        API server module for Node/Express
+api-guidelines:        Microsoft REST API Guidelines
+insomnia:        The Open Source API Client and Design Platform for GraphQL and REST ->
+swagger-codegen:        swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+node-restify:        The future of Node.js REST development
+grpc-gateway:        gRPC to JSON proxy generator following the gRPC HTTP spec
+cakephp:        CakePHP: The Rapid Development Framework for PHP - Official Repository
+http-prompt:        HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+chi:        lightweight, idiomatic and composable router for building Go HTTP services
+fiber:        ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+SpaceX-API:        🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+swagger-core:        Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+swagger-editor:        Swagger Editor
+openapi-generator:        OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+rest-assured:        Java DSL for easy testing of REST services
+eShopOnWeb:        Sample ASP.NET Core 3.1 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+restful-api-design-references:        RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计。
+xmysql:        🚀 One command to generate REST APIs for any MySql Database.
+javalin:        A simple and modern Java and Kotlin web framework
+headless-wp-starter:        🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
+swagger-node:        Swagger module for node.js
+practicalnode:        Practical Node.js, 1st and 2nd Editions [Apress] 📓
+bk-cmdb:        蓝鲸智云配置平台(BlueKing CMDB)
+modular-monolith-with-ddd:        Full Modular Monolith application with Domain-Driven Design approach.
+Guns:        Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)，可以直接作为一个后台管理系统的脚手架!
+Flask-AppBuilder:        Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
+vulcain:        Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs
+spark-jobserver:        REST job server for Apache Spark
+php-crud-api:        Single file PHP script that adds a REST API to a SQL database
+FOSRestBundle:        This Bundle provides various tools to rapidly develop RESTful API's with Symfony
+auxpi:        🍭 集合多家 API 的新一代图床
+prest:        pREST is a way to serve a RESTful API from any databases written in Go
+vscode-restclient:        REST Client Extension for Visual Studio Code
+flasgger:        Easy OpenAPI specs and Swagger UI for your Flask API
+deepdetect:        Deep Learning API and Server in C++11 support for Caffe, Caffe2, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
+swagger-js:        Javascript library to connect to swagger-enabled APIs via browser or nodejs
+tipe:        🎉 Next Generation API-first CMS for developers. Generate an API-first CMS from a GraphQL schema with offline prototyping and an inline editor
+mockoon:        Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
+PayPal-PHP-SDK:        PHP SDK for PayPal RESTful APIs
+openapi-directory:        🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
+blynk-server:        Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes
+Deep-Learning-in-Production:        In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
+strest:        ⚡️ CI-ready tests for REST APIs configured in YAML
+drf-yasg:        Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
+frappe:        Low Code Open Source Framework in Python and JS
+generatedata:        Random data generator.
+restcountries:        Get information about countries via a RESTful API
+djoser:        REST implementation of Django authentication system.
+kafka-rest:        Confluent REST Proxy for Kafka
+sandman2:        Automatically generate a RESTful API service for your legacy database. No code required!
+elastic4s:        Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client
+spring-boot-vuejs:        Example project showing how to build a Spring Boot App providing a GUI with Vue.js
+icinga2:        The core of our monitoring platform with a powerful configuration language and REST API.
+http-api-design-ZH_CN:        HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
+coolstore-microservices:        A Kubernetes-based microservices application on service mesh
+elassandra:        Elassandra = Elasticsearch + Apache Cassandra
+frisby:        Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun.
+JDA:        Java wrapper for the popular chat & VOIP service: Discord https://discord.com
+coronavirus-tracker-api:        🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!
+rest:        REST API generator with Node.js, Express and Mongoose
+automatic-api:        A list of software that turns your database into a REST/GraphQL API
+easyappointments:        📅 Easy!Appointments - Open Source Appointment Scheduler
+awesome-http-benchmark:        HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+Linkis:        Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.
+restful-api-guidelines:        A model set of guidelines for RESTful APIs and Events, created by Zalando
+schema-registry:        Confluent Schema Registry for Kafka
+30-Days-of-Python:        A New Version of 30 Days of Python is nearly here. Get started today.
+express-rest-es2017-boilerplate:        ⌛️ Express boilerplate for building RESTful APIs
+apps-android-wikipedia:        📱The official Wikipedia app for Android!
+flask-restplus-server-example:        Real-life RESTful server example on Flask-RESTplus
+tsed:        📐 Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+xgenecloud:        •🔥 •🔥 •🔥 • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)
+ciao:        HTTP checks & tests (private & public) monitoring - check the status of your URL
+rest-hapi:        🚀 A RESTful API generator for Node.js
+acf-to-rest-api:        Exposes Advanced Custom Fields Endpoints in the WordPress REST API
+mycollab:        An open source, free, high performance, stable and secure Java Application Business Platform of Project Management and Document
+rest-layer:        REST Layer, Go (golang) REST API framework
+TinyGSM:        A small Arduino library for GSM modules, that just works
+Tigo:        Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance. Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
+github3.py:        Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, 3.6, and 3.7 (and maybe 3.8?)
+django-rest-pandas:        📊📈 Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
+cookiecutter-django-rest:        Build best practiced apis fast with Python3
+aws-serverless-java-container:        A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+django-vue-template:        Django Rest + Vue JS Template
+aquameta:        Web development platform built entirely in PostgreSQL
+bank:        Full Stack Web Application using ReactJS (with Hooks) + Redux + Redux-Saga with NodeJS (Express+TypeORM), RESTful API, MySQL and Swagger Documentation
+great-big-example-application:        A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack
+laravel-realworld-example-app:        Exemplary real world backend API built with Laravel

@@ -1,0 +1,91 @@
+Cybersecurity is the protection of computer hardware, software, and data from theft, damage, and malicious intent.
+Awesome-Hacking:        A collection of various awesome lists for hackers, pentesters and security researchers
+x64dbg:        An open-source x64/x32 debugger for windows.
+the-book-of-secret-knowledge:        A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+caddy:        Fast, multi-platform web server with automatic HTTPS
+mitmproxy:        An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+security-guide-for-developers:        Security Guide for Developers (实用性开发人员安全须知)
+algo:        Set up a personal VPN in the cloud
+osquery:        SQL powered operating system instrumentation, monitoring, and analytics.
+macOS-Security-and-Privacy-Guide:        Guide to securing and improving privacy on macOS
+hosts:        Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
+PayloadsAllTheThings:        A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+cs-video-courses:        List of Computer Science courses with video lectures.
+API-Security-Checklist:        Checklist of the most important security countermeasures when designing, testing, and releasing your API
+setup-ipsec-vpn:        Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
+CheatSheetSeries:        The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+radare2:        UNIX-like reverse engineering framework and command-line toolset
+nginx-admins-handbook:        How to improve NGINX performance, security, and other important things.
+hacker101:        Source code for Hacker101.com - a free online web and mobile security class.
+nginxconfig.io:        ⚙️ NGINX config generator on steroids 💉
+How-To-Secure-A-Linux-Server:        An evolving how-to guide for securing a Linux server.
+tink:        Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+labs:        This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
+keeweb:        Free cross-platform password manager compatible with KeePass
+wifiphisher:        The Rogue Access Point Framework
+hydra:        OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+docker-slim:        DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+teleport:        Secure Access for Developers that doesn't get in the way.
+the-practical-linux-hardening-guide:        This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
+openzeppelin-contracts:        OpenZeppelin Contracts is a library for secure smart contract development.
+Mailpile:        A free & open modern, fast email client with user-friendly encryption and privacy features
+routersploit:        Exploitation Framework for Embedded Devices
+vuls:        Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
+zaproxy:        The OWASP ZAP core project
+bettercap:        The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+helmet:        Help secure Express apps with various HTTP headers
+cutter:        Free and Open Source Reverse Engineering Platform powered by radare2
+test-your-sysadmin-skills:        A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+IdentityServer4:        OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
+gitleaks:        Scan git repos for secrets using regex and entropy 🔑
+cilium:        eBPF-based Networking, Security, and Observability
+awesome-security:        A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+brakeman:        A static analysis security vulnerability scanner for Ruby on Rails applications
+KeychainAccess:        Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
+DOMPurify:        DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+oss-fuzz:        OSS-Fuzz - continuous fuzzing of open source software.
+scapy:        Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+graylog2-server:        Free and open source log management
+opensnitch:        OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+fail2ban:        Daemon to ban hosts that cause multiple authentication errors
+openvpn:        OpenVPN is an open source VPN daemon
+urh:        Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
+wpscan:        WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+awesome-web-security:        🐶 A curated list of Web Security materials and resources.
+spring-security:        Spring Security
+system-bus-radio:        Transmits AM radio on computers without radio transmitting hardware.
+trape:        People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+gophish:        Open-Source Phishing Toolkit
+javascript-obfuscator:        A powerful obfuscator for JavaScript and Node.js
+awesome-ctf:        A curated list of CTF frameworks, libraries, resources and softwares
+guide:        Kubernetes clusters for the hobbyist.
+android-security-awesome:        A collection of android security related resources
+YubiKey-Guide:        Guide to using YubiKey for GPG and SSH
+cleverhans:        An adversarial example library for constructing attacks, building defenses, and benchmarking both
+gitrob:        Reconnaissance tool for GitHub organizations
+sops:        Simple and flexible tool for managing secrets
+my-arsenal-of-aws-security-tools:        List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+monero:        Monero: the secure, private, untraceable cryptocurrency
+DVWA:        Damn Vulnerable Web Application (DVWA)
+cryptomator:        Multi-platform transparent client-side encryption of your files in the cloud
+capstone:        Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
+trivy:        A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+moloch:        Moloch is an open source, large scale, full packet capturing, indexing, and database system.
+clusterfuzz:        Scalable fuzzing infrastructure.
+pouch:        An Efficient Enterprise-class Container Engine
+security-101-for-saas-startups:        security tips for startups
+awesome-appsec:        A curated list of resources for learning about application security
+nmap:        Nmap - the Network Mapper. Github mirror of official SVN repository.
+AutoSploit:        Automated Mass Exploiter
+nishang:        Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
+lego:        Let's Encrypt client and ACME library written in Go
+dirsearch:        Web path scanner
+security_monkey:        Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+onionshare:        Securely and anonymously send and receive files, and publish onion sites
+smart-contract-best-practices:        A guide to smart contract security best practices
+hawk:        ✔️ Secure, simple key-value storage for Android
+xray:        一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+awesome-threat-intelligence:        A curated list of Awesome Threat Intelligence resources
+maltrail:        Malicious traffic detection system
+cloudmapper:        CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+unicorn:        Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)

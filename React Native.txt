@@ -1,0 +1,91 @@
+React Native is a JavaScript mobile framework developed by Facebook.
+free-programming-books-zh_CN:        📚 免费的计算机编程类中文书籍，欢迎投稿
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+awesome-react:        A collection of awesome things regarding React ecosystem
+awesome-react-native:        Awesome React Native components, news, tools, and learning material!
+taro:        开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
+open-source-ios-apps:        📱 Collaborative List of Open-Source iOS Apps
+formik:        Build forms in React, without the tears 😭
+typeorm:        ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+react-native-elements:        Cross Platform React Native UI Toolkit
+mattermost-server:        Open source Slack-alternative in Golang and React - Mattermost
+react-navigation:        Routing and navigation for your React Native apps
+joplin:        Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+NativeBase:        Essential cross-platform UI components for React Native
+rxdb:        💻 🔄 📱 A realtime Database for JavaScript Applications
+react-native-vector-icons:        Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
+lottie-react-native:        Lottie wrapper for React Native.
+feathers:        A framework for real-time applications and REST APIs with JavaScript and TypeScript
+react-hook-form:        📋 React Hooks for forms validation (Web + React Native)
+react-native-windows:        A framework for building native Windows apps with React.
+reactotron:        A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+create-react-native-app:        Create React Native apps that run on iOS, Android, and web
+zulip:        Zulip server - powerful open source team chat
+react-native-navigation:        A complete native navigation solution for React Native
+swr:        React Hooks library for remote data fetching
+ignite:        The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+react-native-maps:        React Native Mapview component for iOS + Android
+react-native-gifted-chat:        💬 The most complete chat UI for React Native
+react-content-loader:        ⚪ SVG-Powered component to easily create skeleton loadings.
+react-native-swiper:        The best Swiper component for React Native.
+react-native-camera:        A Camera component for React Native. Also supports barcode scanning!
+boardgame.io:        State Management for Turn-Based Games
+react-native-animatable:        Standard set of easy to use animations and declarative transitions for React Native
+react-native-firebase:        🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+Winds:        A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+react-native-debugger:        The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
+amplify-js:        A declarative JavaScript library for application development using cloud services.
+reactjs-interview-questions:        List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+client:        Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+react-native-code-push:        React Native module for CodePush
+devhub:        TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
+react-native-ui-kitten:        💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
+WatermelonDB:        🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+Detox:        Gray box end-to-end testing and automation framework for mobile apps
+react-native-scrollable-tab-view:        Tabbed navigation that you can swipe between, each tab can have its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar
+svgr:        Transform SVGs into React components 🦁
+react-native-image-picker:        🌄 A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
+30-days-of-react-native:        30 days of React Native demos
+react-native-paper:        Material Design for React Native (Android & iOS)
+kittenTricks:        React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
+redux-offline:        Build Offline-First Apps for Web and React Native
+react-native-calendars:        React Native Calendar Components 🗓️ 📆
+learnapollo:        👩🏻‍🏫 Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
+react-i18next:        Internationalization for react done right. Using the i18next i18n ecosystem.
+aurora-imui:        General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。
+react-native-nw-react-calculator:        Mobile, desktop and website Apps with the same code
+react-native-push-notification:        React Native Local and Remote Notifications
+react-native-fast-image:        🚩 FastImage, performant React Native image component.
+react-native-material-kit:        Bringing Material Design to React Native
+pepperoni-app-kit:        Pepperoni - React Native App Starter Kit for Android and iOS
+ui:        Customizable set of components for React Native applications
+snowflake:        ❄️ A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
+git-point:        GitHub in your pocket 📱
+react-native-image-crop-picker:        iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping
+react-native-splash-screen:        A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
+reactivesearch:        React, React Native and Vue UI components for building data-driven apps with Elasticsearch
+why-did-you-update:        💥 Puts your console on blast when React is making unnecessary updates.
+react-native-tab-view:        A cross-platform Tab View component for React Native
+code-push:        A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
+react-native-styling-cheat-sheet:        Most of the React Native styling material in one page
+RNStudyNotes:        React Native 研究与实践
+why-did-you-render:        why-did-you-render monkey patches React to notify you about avoidable re-renders.
+react-native-keyboard-aware-scroll-view:        A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.
+metro:        🚇 The JavaScript bundler for React Native.
+reactjs101:        從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。
+react-native-modal:        An enhanced, animated and customizable react-native modal
+react-native-fs:        Native filesystem access for react-native
+react-swipeable-views:        A React component for swipeable views. ❄️
+unform:        Easy peasy highly scalable ReactJS & React Native forms! 🚀
+react-native-material-ui:        Highly customizable material design components for React Native
+react-native-gesture-handler:        Declarative API exposing platform native touch and gesture system to React Native.
+react-web:        A framework for building web apps with React Native compatible API.
+LuaViewSDK:        A cross-platform framework to build native, dynamic and swift user interface - 强大轻巧灵活的客户端动态化解决方案
+reading:        iReading App Write In React-Native
+home-automation:        Raspberry Pi 3 based home automation with NodeJS and React Native.
+haul:        Haul is a command line tool for developing React Native apps, powered by Webpack
+react-native-reanimated:        React Native's Animated library reimplemented
+react-native-dom:        An experimental, comprehensive port of React Native to the web.
+native-navigation:        Native navigation library for React Native applications
+react-native-typography:        Pixel–perfect, native–looking typographic styles for React Native ✒️
+react-native-app-intro:        react-native-app-intro is a react native component implementing a parallax effect welcome page using base on react-native-swiper , similar to the one found in Google's app like Sheet, Drive, Docs...

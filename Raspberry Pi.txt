@@ -1,0 +1,91 @@
+The Raspberry Pi is a popular single-board computer.
+core:        🏡 Open source home automation that puts local control and privacy first
+pi-hole:        A black hole for Internet advertisements
+MagicMirror:        MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+johnny-five:        JavaScript Robotics and IoT programming framework, developed at Bocoup.
+RetroPie-Setup:        Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
+nnn:        n³ The missing terminal file manager for X.
+raspberry-pi-os:        Learning operating system development using Linux kernel and Raspberry Pi
+openFrameworks:        openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
+qt:        Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+awesome-raspberry-pi:        📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+gobot:        Golang framework for robotics, drones, and the Internet of Things (IoT)
+OctoPrint:        OctoPrint is the snappy web interface for your 3D printer!
+mycroft-core:        Mycroft Core, the Mycroft Artificial Intelligence platform.
+raylib:        A simple and easy-to-use library to enjoy videogames programming
+cylon:        JavaScript framework for robotics, drones, and the Internet of Things (IoT)
+pivpn:        The Simplest VPN installer, designed for Raspberry Pi
+cuberite:        A lightweight, fast and extensible game server for Minecraft
+Home-AssistantConfig:        🏠 Home Assistant configuration & Documentation for my Smart House. Write ups, videos, part lists and links throughout. Be sure to ⭐ it. Updated FREQUENTLY!
+blynk-library:        Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.
+smart-mirror:        The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
+raspotify:        Spotify Connect client for the Raspberry Pi that Just Works™
+raspap-webgui:        Simple AP setup & WiFi management for Debian-based devices
+starrtc-android-demo:        🚀starRTC，即时通讯(IM)系统，免费IM系统（含单聊，群聊，聊天室，文件传输），免费一对一视频聊天，VOIP，语音对讲（回音消除），直播连麦，视频直播，RTSP拉流，RTMP推流，webRTC服务端，在线教育，白板，小班课，在线会议，视频会议，视频监控，局域网直连（无需服务器），兼容webRTC, 支持webRTC加速，P2P高清传输，安卓、iOS、web互通，支持门禁对讲，可视对讲，电视盒子，树莓派，海思，全志，任天堂switch，云游戏，OTT设备，物联网平台，C语言自研方案，支持二次开发成类微信，类映客等APP，✨万水千山总是情，来个star行不行✨，更多示例请访问：
+PJON:        With PJON you build networks of devices for free with no need of a cloud service or a centralised platform you don’t fully control.
+k3sup:        bootstrap Kubernetes with k3s over SSH < 1 min 🚀
+porcupine:        On-device wake word detection powered by deep learning.
+tensorflow-on-raspberry-pi:        TensorFlow for Raspberry Pi
+rust-raspberrypi-OS-tutorials:        📚 Learn to write an embedded OS in Rust 🦀
+OTTO:        Sampler, Sequencer, Multi-engine synth and effects - in a box!
+glslViewer:        Console-based GLSL Sandbox for 2D/3D shaders shaders
+pyload:        The free and open-source Download Manager written in pure Python
+blynk-server:        Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes
+donkeycar:        Open source hardware and software platform to build a small scale self driving car.
+rpi-rgb-led-matrix:        Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
+dingdang-robot:        🤖 叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。
+whitelist:        A simple tool to add commonly white listed domains to your Pi-Hole setup.
+audio-reactive-led-strip:        🎵 🌈 Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
+openauto:        AndroidAuto headunit emulator
+periph:        Go·Hardware·Lean
+awesome-raspberry-pi-zh:        树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等
+BerryNet:        Deep learning gateway on Raspberry Pi and other edge devices
+project_alias:        Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
+crankshaft:        Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
+Gladys:        A privacy-first, open-source home assistant
+aiyprojects-raspbian:        API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
+PiShrink:        Make your pi images smaller!
+Debian-Pi-Aarch64:        This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: 4B,3B+,3B,3A+)
+vidgear:        High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features ✨
+picamera:        A pure Python interface to the Raspberry Pi camera module
+mraa:        Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
+susi_linux:        Hardware for SUSI AI https://susi.ai
+cncjs:        A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.
+RPiPlay:        An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
+Volumio2:        Volumio 2 - Audiophile Music Player
+SwiftyGPIO:        A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
+nextcloudpi:        📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
+rpi-vk-driver:        VK driver for the Raspberry Pi (Broadcom Videocore IV)
+raspberry-pi-dramble:        Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
+screenly-ose:        The most popular digital signage project on Github!
+gpiozero:        A simple interface to GPIO devices with Raspberry Pi
+docker-homebridge:        Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
+log2ram:        ramlog like for systemd (Put log into a ram folder)
+Guitar:        Git GUI Client
+hcxtools:        Portable (that doesn't include proprietary/commercial operating systems) solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = convert and calculate candidates, x = different hashtypes
+Guides:        Guides for learning + doing better web and app development. Created by Coding for Entrepreneurs.
+deconz-rest-plugin:        REST API Plugin to control ZigBee lights like Philips Hue and dresden elektroniks wireless electronic ballasts
+onoff:        GPIO access and interrupt detection with Node.js
+IOTstack:        docker stack for getting started on IOT on the Raspberry PI
+goSecure:        An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi. #nsacyber
+dockerpi:        A Virtualised Raspberry Pi inside a Docker image
+image-builder-rpi:        SD card image for Raspberry Pi with Docker: HypriotOS
+Lakka-LibreELEC:        Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
+embedio:        A tiny, cross-platform, module based web server for .NET
+WoA-Installer-Rpi:        This repository was deprecated, use:
+flash:        Command line script to flash SD card images of any kind
+OpenSwiftUI:        WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
+GassistPi:        Google Assistant for Single Board Computers
+hcxdumptool:        Small tool to capture packets from wlan devices.
+chilipie-kiosk:        Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
+h264-live-player:        A live h264 player for the browser (ideal for raspberrypi / raspicam )
+WOA-Deployer-Rpi:        WOA Deployer for Raspberry Pi
+RPi-Monitor:        Real time monitoring for embedded devices
+RaspiBolt:        Bitcoin & Lightning full node on a Raspberry Pi
+k8s-on-raspbian:        Kubernetes on Raspbian (Raspberry Pi)
+direwolf:        Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (IGate). For more information, look at the bottom 1/4 of this page and in https://github.com/wb2osz/direwolf/blob/dev/doc/README.md
+self_driving_pi_car:        A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
+chromium_os-raspberry_pi:        Build your Chromium OS for Raspberry Pi 3B/3B+/4B
+PADD:        PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
+tensorflow-on-arm:        TensorFlow for Arm
+pytradfri:        IKEA Trådfri/Tradfri API. Control and observe your lights from Python. Examples available. On pypi. Sans-io.

@@ -1,0 +1,91 @@
+Pixel art is a form of digital art where images are created and edited at the pixel level.
+aseprite:        Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+piskel:        A simple web-based tool for Spriting and Pixel art.
+gitfiti:        abusing github commit history for the lulz
+pixel-art-react:        Pixel art animation and drawing web app powered by React
+img2css:        Convert any image to pure CSS.
+obelisk.js:        Build pixel isometric graphics with HTML5 canvas
+rx:        👾 Modern and minimalist pixel editor
+geopattern:        📐 Create beautiful generative image patterns from a string in golang.
+avatars:        Avatars is an avatar placeholder library for designers and developers.
+pixel8:        A collection of low-res primitives for creating art and games in React
+github-spray:        Draw on your GitHub contribution graph ░▒▓█
+Pixelorama:        A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux & macOS!
+slate:        Pixel Art Editor
+awesome-pixel-art:        Curated list of everything awesome around pixel art.
+pixeler:        CLI image renderer
+pxltrm:        🖌️ pxltrm - [WIP] A pixel art editor inside the terminal
+d-zone:        An ambient life simulation driven by user activity within a Discord server
+cdogs-sdl:        Classic overhead run-and-gun game
+Unity2D-Components:        A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
+text-to-commit-history:        Write a large text on your GitHub profile, with your commits history (contribution graph).
+IDACyber:        Data Visualization Plugin for IDA Pro
+Cytopia:        🌳🏡🏢🌲 A city building simulation game
+SwervinMervin:        A truly radical homage to 16-bit racing games.
+DeadSimple-Pixel-Perfect-Camera:        An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
+sprites-as-a-service:        Generate your personal 8-bit avatars using Cellular Automata, a mathematical model that simulates life, survival, and extinction
+vixl44:        Create pixel art inside your terminal using vim movements
+MetaSprite:        A fast, self-contained, highly customizable Aseprite-to-Unity importer.
+remixed-dungeon:        Traditional roguelike game with pixel-art graphics and simple interface - Remixed Pixel Dungeon
+rgx:        Modern mid-level 2D graphics library
+unity-aseprite-importer:        An aseprite-file importer for unity written in C#, built upon the experimental AssetImporter API
+MagicalLife:        A 2d game that aspires to be similar to Rimworld, with more depth, magic, and RPG concepts.
+pixel-editor:        It edits pixels
+mcmap:        Map visualizer for Minecraft. Maps are drawn from an isometric perspective, in a pixel-art style.
+gizmo:        2D Pixel Destruction Game written in Go.
+sprator:        A GUI application to generate random sprites and export as icon.
+PixiEditor:        PixiEditor is lightweighted pixel art editor made with .NET Core 3.1
+UnityPixelCamera:        A resolution independent pixel perfect camera for Unity
+astraea:        The planet generator inspired by Planetarium.
+pix-to-xls:        A simple tool to make ascii art from an image using excel colored cells.
+zabuyaki:        Zabuyaki, old-school side-scrolling beat 'em up
+PixelArtMaker:        A pixel art editor in a Swift Playground 👾 WWDC Scholarship Winner 🏅
+project-cordon-sprites:        Community driven CC0-1.0 pixel art repository for indie developers.
+Riko4:        A Fantasy Console intended as a tool for pixel art game development.
+icon-machine:        Web application for randomly generating pixel art icons.
+SmallBASIC:        SmallBASIC is a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in IDE, a powerful string library, system, sound, and graphic commands along with structured programming syntax
+pixel-art:        A minimalist, cross device compatible pixel art editor.
+8192px:        A collaborative pixel art experiment
+Aseprite-Scripts:        https://github.com/TekF/Aseprite-Scripts
+pixelizator:        Swift/Python image pixelizer 🖼️.
+8_bit_hubble:        Generate random pixel art galaxies! In honor of Hubble Space Telescope, SNES videogames and Bob Ross
+Tile-Studio:        Tile / Sprite / Map Editor
+ld39-zeroVoltX:        Zero Volt X (a shoot'em up game created in 48h for Ludum Dare 39)
+ld40-catsAreAssholes:        A shelter simulation game made in 3 days for Ludum Dare 40. Even if the game was submitted to Jam instead of Compo, I still made everything all by myself.
+MiniKnight:        A pixel-art platformer in F#, where you must fight your way to the portal, collecting coins and slaying orcs along the way!
+metal_camera:        iOS metal camera with GPU shaders.
+pxlsrt.js:        Node.js module for pixel sorting.
+retinize:        Retinize will upscale (using nearest neighbor) images to look correctly on retina screens. This is particularly useful for pixel art when you don't want to store an upscaled version.
+pyqx:        Multiplatform graphics editor made with Python and PyQt and specializing in Pixel Art
+picobox:        Physics experiments on Pico-8
+dpixel:        A Pixel Art Remastering Tool using classic algorithms
+aseprite-animalcrossing-qrcode-gen:        A handy animal crossing qrcode generator for Aseprite.
+pixture:        A Minetest subgame geared towards minimalist survival
+retropixels:        A cross platform command line tool to convert images to c64 format.
+pixel-weather:        A pixelated weather widget for your desktop
+animated-pixel-gradients:        Make pixelated gradient GIFs with words
+pixelm:        A pixel art editor written in Elm
+pixelino:        Pixel-drawing app for iOS ✍️
+pxlart:        A terminal pixel art creator
+evilpixie:        Pixel-oriented paint program, modelled on Deluxe Paint
+darkest-pixel-dungeon:        Traditional roguelike game with pixel-art graphics and simple interface
+8bit-canvas:        8bit art canvas
+vue-pixel-art:        Vue Pixel Art is an easy way to draw your Pixel Arts. This project is refactored from CSS Collection - DotGen
+pixas-editor:        Isometric pixel graphics editor
+pixieengine.com:        Where pixels become heros, together.
+Novix:        A pixel art editor for Android.
+monsterpong:        Our entry for Github GameOff 2018
+cartridge.js:        HTML5 retro game engine
+pxon:        A JavaScript module for importing, creating, manipulating, and exporting PXON schema.
+pixelRestorer:        Using statistics to restore pixel art images.
+Zombusters:        🕹️ A retro style zombies shooter with cool isometric pixel art for Windows, MacOS and Linux
+PixelShape:        Pixel editor that comes in handy when creating pixel art images and animations
+gimp-plugin-pixel-art-scalers:        Gimp plugin for rescaling images with Pixel Art Scaler algorithms such as hqx, xbr and scalex
+Rawky:        A pixel art editor.
+isobox-for-aseprite:        Isometric Box Generator Script for Aseprite
+WebPixelFrame:        Code to control a ESP8266 and a matrix of ws2812b pixels
+ColorByNumber-iOS:        Color by Number: a pixel coloring game on iOS.
+Animera:        A cross-platform Qt tool for making pixel-art animations for games
+GB-Studio-Community-Assets:        For all users to submit their own works! Must be original and usable in GB Studio.
+ZOME:        Zero One Map Editor
+haxe-aseprite:        Haxe parser for .ase and .aseprite files.

@@ -1,0 +1,87 @@
+PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs in Lua.
+pyxel:        A retro game engine for Python
+awesome-PICO-8:        A curated list of awesome PICO-8 resources, carts, tools and more
+picolove:        Pico-8 Reimplementation in Love2D
+picotool:        Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php
+scumm-8:        A PICO-8 demake of the SCUMM engine that powered most of the classic LucasArts adventure games, such as Monkey Island and Maniac Mansion.
+picoDeploy:        Deploy Pico-8 Carts as Standalone Applications on Desktop 🖥️(Electron) and Mobile 📱(Ionic) 📦👾
+pico8-api:        Unofficial PICO-8 API with a lovely design ! ::
+PICO-8-Token-Optimizations:        A list of general purpose tricks and techniques for saving tokens in PICO-8.
+retro8:        PICO-8 implementation with SDL2 and RetroArch back-ends
+neko8:        Fantasy console inspired by pico8, tic80 and liko12, written in c++
+P8Coder:        A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
+tac08:        tac08 is an an emulation of the runtime part of the Pico-8 fantasy console. It takes a .p8 (text format) pico-8 cart file and runs it as closely posible
+Minima:        Minima is an homage to the 8-bit Ultima games (especially Ultima II - Ultima V) written in the PICO-8 environment.
+p8-programming-fonts:        A collection of fonts I've modified for PICO-8 programming.
+jspicl:        A Javascript to PICO-8 Lua transpiler
+midi-to-pico8:        https://github.com/andmatand/midi-to-pico8
+pico8:        My Pico-8 creations
+PICO-Tween:        A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
+midi2pico:        Midi to PICO-8 converter
+picobox:        Physics experiments on Pico-8
+pico-8-projects:        Just my repository for mocking and writing down basic implementations I have been thinking about.
+pico8-boilerplate:        🕹️ A game starter template for Pico-8 developers!
+p8:        👾 PICO-8 dependency manager
+sublime-PICO-8:        PICO-8 plugin for the Sublime Text 3 editor.
+pico-test:        ⚡ PICO-8 testing framework
+Pico8Platformer:        A platformer sample written for Pico-8, includes slopes and jump buffering
+Depicofier:        Converts/translates PICO-8 style Lua syntax to standard clean Lua syntax
+PICO-EC:        A tiny scene-entity-component library created for the PICO-8 fantasty console.
+Pico-8-Cookbook:        Pico-8 Code Recipes
+pico8-gpio-listener:        🎙️🕹️ Listen to changes to your PICO-8 game's GPIO pins
+language-pico8:        PICO-8 language support in Atom
+jspicl-mario-sample:        A basic Mario game showcasing how to create PICO-8 games in JavaScript.
+pico-8-gpio:        a gpio-based pico-8 twitter feed
+pico8dev:        Pico-8 Development
+fake-08:        A Pico 8 player for 3ds (homebrew)
+pico8-google-analytics:        Easy Google Analytics event tracking for all your PICO-8 games.
+p8advent:        An adventure game toolkit for Pico-8.
+mosaic:        Script for combining four anim GIFs into one 2x2 mosaic
+picoverse:        Concepts and prototype for a simple pico-8 space-exploration game.
+sk8border:        🛹 Lay that Wall to Waste!
+MadeWithPICO-8Badges:        GitHub repository badges for the game development tool "PICO-8".
+PICO-8-Styler:        Pretty PICO-8 Pages!
+fix-pico8-ios-sound:        Fix sound when playing PICO-8 games on iOS
+pico-tools:        A command line interface for pico-8
+picomoon:        Compile .lua/.js/.moon to .p8 ::
+pico8-to-lua:        Converts PICO-8 extended Lua syntax to standard Lua syntax
+CIS---102---Getting-Started-with-Video-Game-Development:        CIS 102 - Getting Started with Video Game Development
+pico-nfig:        🕹 Unified gamepad and keyboard settings for your PICO-8 html exports
+pico-8-newgrounds-tutorial:        A little tutorial to use the Newgrounds medals system with PICO-8
+analytics-pico8:        The hassle-free way to integrate analytics into any PICO-8 game.
+pico8-table-string:        Store a nested Lua data table as one giant string
+jspicl-cli:        CLI for simplifying PICO-8 game development in JavaScript
+fila:        A generalized PICO-8 framework for ECS and prototype-oriented programming.
+dragon_demo_platformer:        PICO-8 Fooling and Learning
+RetroJam-Submissions:        Retro Jam submissions of the several participants. #IEEE #PortoGraphics
+PICO-TweenMachine:        A small wrapper library for the PICO-8 fantasy console, meant as an extension to the PICO-Tween easing library.
+Bootyful-Demake:        Pico-8 Demake Of 8-Bit Game
+tower-noire:        A PICO-8 roguelike for 7DRL'18.
+pico-snippets:        Drop-in snippets for your PICO-8 game.
+vector-paint:        A vector drawing program in LÖVE to produce art for PICO-8 carts
+pico8-customcart:        Quick and dirty custom PICO-8 cartridge PNG generator
+picomake:        A simple tool for building pico8 carts from multiple lua files
+jspicl-megaman-sample:        A basic Megaman game showcasing how to create PICO-8 games in JavaScript.
+3DS-Pico8:        Check out https://github.com/jtothebell/fake-08 instead.
+colorbox:        🚥 8bit game for otomat hackathon 👍
+Celeste-META:        This is a port of Celeste Classic on the Gamebuino META.
+Pico3D:        A fully 3D renderer for PICO-8
+zzlib-pico8:        zlib-compressed file depacking library in Lua - PICO-8 edition
+knifey-spoony:        "I see you've played Knifey Spoony before"
+Pico8-Sokoban-Framework:        Pico 8 Sokoban Game Framework
+tiny-pico8-touch-ui:        👾👌 Add touch controls to your PICO-8 game - no sweat!
+pico-8:        my pico-8 stuff
+picolarium:        🎮⬜⬛ Picolarium, a puzzle game for PICO-8
+dungener:        dungeon generation library for pico8
+mimic:        A tile based puzzle game where you can transform into animals by mimicking their movement.
+pico-rl:        A PICO-8 roguelike made for 7DRL 2019
+pico8-imgtools:        A couple of tools for working with PICO-8's cartridge images
+i_core:        i_core is an extremely minimalist stack programming language (similar to Forth)
+The-Floor-is-Lava:        Super cool video game, where you have to not fall onto the floor, which is hot lava.
+sonic-pico8:        A demake of classic Sonic games in PICO-8
+WIZRND:        WIZRND, a pico-8 contribution to #ProcJam 2016
+jspicl-starter:        Starter project for building PICO-8 games in JavaScript
+zeldo-game:        That Story About Zeldo, a PICO-8 adventure.
+pico_modules:        Useful Lua/MoonScript snippets for PICO-8
+shark-wars:        Shark Wars
+vim-pico8-syntax:        Syntax file for Pico-8

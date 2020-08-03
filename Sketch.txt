@@ -1,0 +1,91 @@
+Sketch is a vector graphics editor for Apple's macOS, used primarily for user interface and icon design.
+react-sketchapp:        render React components to Sketch ⚛️💎
+awesome-design:        🌟Curated design resources
+react-color:        🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
+themer:        🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+plugin-directory:        Official Sketch Plugin directory
+weui-design:        Design package for WeUI
+Miaow:        A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.
+git-sketch-plugin:        💎 A Git client generating pretty diffs built right into Sketch.
+Fluid-for-Sketch:        [Sketch Plugin] Sketch-flavored Auto Layout-like Constraints
+paddy-sketch-plugin:        Automated padding, spacing and alignment for your Sketch layers
+sketch-palettes:        A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and pattern fills.
+sketch-iconfont:        This plugin helps you easily insert and manage icons from icon fonts.
+html-sketchapp:        HTML to Sketch export solution
+data-populator:        A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
+svgo:        Go Language Library for SVG generation
+kactus:        🌵 A true version control tool for designers
+Prism:        Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
+sketch-foundation-kit:        💎 The Foundation for Sites template for Sketch 3.
+sketch:        A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
+carbon-design-kit:        A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
+opensse:        Open Sketch Search Engine－ 3D object retrieval based on sketch image as input
+Sketch-Icons:        🚀 Generate a dynamic icon library
+skpm:        💎📦 A utility to build and publish Sketch plugins
+sketch-web-viewer:        View and inspect Sketch 43 files in browser
+sketch-commands:        A collection of script commands for Sketch.app
+symbol-organizer:        Organize your symbols page alphabetically (including layer list) and into groupings determined by your symbol names.
+Automate-Sketch:        Make your workflow more efficient.
+SketchAPI:        The JavaScript plugin library embedded in Sketch
+Sketch-Find-And-Replace:        Sketch plugin to do a find and replace on text within layers
+alfred-font-awesome-workflow:        🎩 Font Awesome workflow for Alfred
+MakeIconsWithSketch:        Simple tutorials about how to make icons with Sketch.
+html-sketchapp-cli:        Quickly generate Sketch libraries from HTML documents and living style guides, powered by html-sketchapp
+react-native-sketch:        🎨 A React Native <Sketch /> component for touch-based drawing.
+sketch-styles-generator:        Generate hundreds of Sketch Shared Styles in a matter of seconds.
+Sketch-Mate:        These plugins will make you best friends with Sketch.
+my-sketch-colors:        Project no longer maintained.
+Sketch-SF-UI-Font-Fixer:        A Sketch plugin that adjusts the character spacing on text layers using iOS 9's SF UI Text/SF UI Display fonts to what it would be when used in an iOS app.
+macOS-UI-Kit:        💎 A retina optimized macOS Sierra UI Kit for Sketch (including Touch Bar)
+sketch_simplification:        Models and code related to sketch simplification of rough sketches.
+Sketch_Swatches:        A swatches plugin for Sketch.
+sketchcachecleaner:        💻 Sketch Cache Cleaner
+chromatic-sketch:        Sketch plugin for creating good-looking and perceptually uniform gradients and color scales.
+Google-Material-Icons-for-Sketch:        Google Material Icons Library for Sketch App
+SketchRunner:        The macOS application that can launch the Sketch when its trial expired.
+Swatches:        Make colors with Sketch
+sync.sketchplugin:        Keep your design team in sync!
+story2sketch:        Convert Storybook into Sketch symbols 💎
+Chain:        Dynamic color relations in Sketch.
+sketch-image-compressor:        A Plugin for Sketch that compresses your bitmap assets, to keep filesize to a minimum.
+react-sketch:        Sketch Tool for React based applications, backed up by FabricJS
+Sketch-Plugin-Manager:        Keeping your Sketch plugins up to date.
+Sketch-ArtboardTricks:        A variety of artboard-related utilities for Sketch, primarily rearranging them into a grid, numbering them, etc.
+sketch-lint:        Check the compliance of your design guidelines within seconds
+Framer-Inventory-for-Sketch:        Semantic Import from Sketch to Framer
+Keys-For-Sketch:        Advanced shortcut manager for Sketch app.
+CSS-Buddy:        A Sketch 3 plugin that allows you to use CSS on layers.
+Google-sheets-content-sync-sketch-plugin:        Sync content within a Google Sheets document, to text layers — based on their names. Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
+mirror:        Yet another Sketch Mirror App for Android.
+sketch-gifme-plugin:        Embed gifs and videos in your Sketch files!
+SketchContentSync:        Sync sketch files with google docs.
+Sketch-iOS-Library:        💎 A library of iOS styles replicated in Sketch to speed up your workflow.
+Sketch-Connection-Flow-Arrows:        Plugin for generating easy to use connection flow arrows in Sketch
+sketch-dev-tools:        See your plugin logs, inspect the state of Sketch documents, explore actions, and more!
+node-sketch:        💎 Javascript library to manipulate sketch files
+design-system-ui-kit:        Lightning Design System UI Kit
+SketchToSwift:        📲 Generate Swift from Sketch
+sketch-module-web-view:        A sketch module for creating an complex UI with a webview
+sketch-feather:        Sketch library for Feather icons
+LTFinderButtons:        My Finder buttons collection for macOS.
+sketchsheets:        Free ready to print sketch sheet templates for UX designers
+TinyFaces-Sketch-Plugin:        Fill selected layers in Sketch with free stock avatars
+PDF-export-sketch-plugin:        Sketch plugin for PDF exporting
+PhotoSketch:        Code for Photo-Sketching: Inferring Contour Drawings from Images 🐶
+plugin-requests:        A collection of plugins requested to our Twitter account
+copy-framer-code:        A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
+Android_Res_Export:        Export Android resources in Sketch, bitmap assets, nine-patch, vector drawable, app icon, shape XML..
+multigraph_transformer:        transformer, multi-graph transformer, graph, graph classification, sketch recognition, sketch classification, free-hand sketch, official code of the paper "Multi-Graph Transformer for Free-Hand Sketch Recognition"
+library-symbol-replacer:        Sketch plugin to replace symbols in an existing documents with library symbols 💎 📚
+DrawingView-Android:        DrawingView is a simple view that lets you draw on screen using your fingers and lets you save the drawings as images.
+sketch-style-master:        Sketch plugin for renaming shared styles
+pix2vox:        Sketch-Based 3D Exploration with Stacked Generative Adversarial Networks
+Sparkliner:        Sparkliner — easy way to make sparkline graph [Sketch plugin]
+symbol-swapper:        Swap the selected symbols and/or symbol instances to a master of the same name in a library.
+Move-to-library-sketchplugin:        You can now move symbol from your project to any library and re-attach all the symbol instances to this library. also it keep the overrides without any problems and it work with abstract that have libraries not in your local machine
+feathericon:        simply generic vector icon collection - including sketch file, svg files, and font files.
+lunacy-docs:        Documentation for Lunacy, Sketch for Windows
+Sketch2AE:        A Sketch plugin to export sketch file to Adobe After Effect
+open-sketch:        [deprecated] Change the design work. Version control for design file.
+symbol-instance-renamer:        Rename symbol instances to the name of their master.
+Sketch-Navigator:        Artboard navigation (with autocomplete) for Sketch.

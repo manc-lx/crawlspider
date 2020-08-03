@@ -1,0 +1,91 @@
+Storybook is a UI development environment for your UI components.
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+arc:        React starter kit based on Atomic Design
+learnstorybook.com:        Static site and content for Storybook tutorials
+ReactiveTraderCloud:        Real-time FX trading showcase by Adaptive.
+React95:        A React components library with Win95 UI
+react-responsive-carousel:        React.js Responsive Carousel (with Swipe)
+ifme:        Free, open source mental health communication web app to share experiences with loved ones
+vue-play:        🍭 A minimalistic framework for demonstrating your Vue components
+loki:        👁 Visual Regression Testing for Storybook
+react-atomic-design:        🔬 Boilerplate with the methodology Atomic Design using a few cool things.
+next-boilerplate:        A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
+react-cdk:        under development - React Component Development Kit with Storybook
+storybook-deployer:        Deploy your storybook as a static site
+storybook-readme:        React Storybook addon to render README files in github style
+storybook-addon-material-ui:        Addon for storybook wich wrap material-ui components into MuiThemeProvider. 📃 This helps and simplifies development of material-ui based components.
+react-event-timeline:        A responsive event timeline in React.js
+ignite-andross:        The original React Native boilerplate from Infinite Red - Redux, React Navigation, & more
+storybook-addon-specifications:        📖 Write tests next to your stories and display their results inside storybook interface
+react-typescript-web-extension-starter:        🖥️ A Web Extension starter kit built with React, TypeScript, SCSS, Storybook, Jest, EsLint, Prettier, Webpack and Bootstrap. Supports Google Chrome + Mozilla Firefox + Brave Browser 🔥
+cuke-ui:        🥒 黄瓜ui：一个即插即用的React UI 库
+storycap:        A Storybook Addon, Save the screenshot image of your stories 📷 via puppeteer.
+story2sketch:        Convert Storybook into Sketch symbols 💎
+next.js-typescript-starter-kit:        🌳 Next@8.1, Styled-jsx, TypeScript, Jest, SEO
+apollo-storybook-decorator:        Wrap your storybook environment with Apollo Client, provide mocks for isolated UI testing with GraphQL
+front-end:        Operation Code's website
+react-crm:        A reusable CRM project for real-world business based on React 16, Redux & Material-UI 4
+storybook-router:        A storybook decorator that allows you to use routing-aware components in your stories
+storybook-addon-designs:        A Storybook addon that embed Figma, websites, PDF or images in the addon panel.
+backpack-ui:        All the tools you need to build the Lonely Planet UI experience.
+react-native-storybook-loader:        An automatic story loader for react-native-storybooks
+govuk-react:        An implementation of the GOV.UK Design System in React using CSSinJS
+addon-smart-knobs:        🧠 This Storybook plugin uses @storybook/addon-knobs but creates the knobs automatically based on PropTypes.
+koa-vue-notes-web:        🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
+learnstorybook-code:        Code for Learn Storybook
+storybook-addon-jest:        REPO/PACKAGE MOVED - React storybook addon that show component jest report
+html-to-figma:        Plugin to import HTML into Figma layers
+storybook-addon-vue-info:        Info addon for Vue components
+addon-jsx:        This Storybook addon show you the JSX / template of the story
+crna-recipe:        Step-by-step guide to bootstrap a React Native app from scratch
+shaark:        Self-hosted platform to keep and share your content: web links, posts, passwords and pictures.
+react-loading:        Build a smooth and lightweight react component loading with css 🎉 .
+storybook-design-token:        The Storybook Design Token Addon allows you to generate design token documentation from your stylesheets.
+open-sauced:        🍕 This is a project to identify your next open source contribution.
+react-rough:        🐇 React Components for Rough.js
+workflow-reactjs:        My workflow with ReactJS + Webpack 3+
+cra-recipe:        Step-by-step guide to bootstrap a CRA app from scratch.
+babel-plugin-react-docgen:        📝 Babel plugin to add react-docgen info into your code.
+storybook-addon-styled-component-theme:        storybook addon
+typescript-with-electron-react-kit:        Don't just start your Electron app... TWERKit.
+vue-storybook:        Custom <story> blocks for Vue single file components
+lerna-yarn-workspaces-monorepo:        🐉 A Monorepo with multiple packages and a shared build, test, and release process.
+react-storybook-addon-chapters:        📒 Showcase multiple React components within a story
+react-pages-boilerplate:        Boilerplate for working with React, redux, react-router and Github Pages
+react-storybook-addon-props-combinations:        Given possible values for each prop, renders your component with all combinations of prop values.
+react-laravel-boilerplate:        A Laravel REST API backend with React/Redux, hot module reloading in development and route-level code splitting
+mhy:        🧩 A zero-config, out-of-the-box, multi-purpose toolbox and development environment
+storybook-dark-mode:        A storybook addon that lets your users toggle between dark and light mode.
+buffer-components:        Buffer's shared collection of React UI components 🤜🤛
+awesome-storybook:        A collection of awesome resources about @storybookjs ecosystem 🎨
+uikit-react:        UIkit components built with React
+antd-data-table:        A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
+react-nativeish:        React Native / React Native Web Boilerplate
+storybook-addon-console:        storybook-addon. Redirects console output into action logger panel
+storybook-addon:        Develop themable components with Emotion/Styled Components/Material-UI with help of Storybook & React Theming
+meteor-apollo-starter-kit:        Meteor, Apollo, React, PWA, Styled-Components boilerplate
+2019-12:        🎟 급증하는 트래픽에도 안정적인 예약 서비스, Atomic Pattern을 적용한 재사용 가능한 컴포넌트, 실용적인 Testing을 주제로 하는 이벤트 서비스
+wp-storybook:        📔 Storybook for WordPress Reusable React Components
+vuetify-with-storybook:        Setting up Storybook with Vuetify the right way
+next-template:        https://github.com/ademilter/next-template
+expo-typescript-starter:        template for react-native project made with expo using typescript
+react-toolkit:        Flexible components html + css + react using BEM convention. May be, you can call it "Design System" !
+storybook-addon-intl:        Addon to provide a locale switcher and react-intl for storybook
+storybook-state:        Manage component state in React storybook.
+addon-backgrounds:        REPO/PACKAGE MOVED - A Storybook addon to customize the background of your preview
+storybook-styled-components:        https://github.com/ticketmaster/storybook-styled-components
+react-ui-kit-boilerplate:        A minimal React UI Kit boilerplate with Storybook, hot reloading, Styled Components, Typescript and Jest
+zisui:        Yet another CLI to screenshot your Storybook
+app-starter:        Angular mono-repo (Ionic/Capacitor/StencilJS/Web Component) app starter for supporting cross platform apps.
+storybook-addon-playroom:        Design with Playroom inside Storybook, using each story source as a starting point
+koa-react-notes-web:        🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and more.
+percy-storybook:        Percy's Storybook SDK.
+material-storybook:        Material Demos using Storybook
+vital-ui-kit-react:        Simple, Themeable, Customizable React UI library
+SecStory:        SecStory (Security Story) adalah buku digital yang berisi kumpulan donasi cerita, ditulis oleh para pemangku kepentingan keamanan siber di Indonesia.
+simple-react-calendar:        A simple react based calendar component to be used for selecting dates and date ranges
+storybook-mobile:        A storybook addon that helps you create truly mobile-friendly components
+nuxt-storybook:        An example repo of using Storybook and Nuxt.js
+desktop:        💻 Desktop app for all your Storybooks
+frontpage:        🌐 The website for storybook.js.org
+react-starter:        Full-featured typescript starter for React application

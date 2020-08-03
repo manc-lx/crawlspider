@@ -1,0 +1,90 @@
+Python is a dynamically typed programming language.
+tensorflow:        An Open Source Machine Learning Framework for Everyone
+CS-Notes:        📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+system-design-primer:        Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+awesome-python:        A curated list of awesome Python frameworks, libraries, software and resources
+Python:        All Algorithms implemented in Python
+free-programming-books-zh_CN:        📚 免费的计算机编程类中文书籍，欢迎投稿
+thefuck:        Magnificent app which corrects your previous console command.
+flask:        The Python micro framework for building web applications.
+django:        The Web framework for perfectionists with deadlines.
+keras:        Deep Learning for humans
+httpie:        As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+ansible:        Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+requests:        A simple, yet elegant HTTP library.
+scikit-learn:        scikit-learn: machine learning in Python
+pytorch:        Tensors and Dynamic neural networks in Python with strong GPU acceleration
+TensorFlow-Examples:        TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+scrapy:        Scrapy, a fast high-level web crawling & scraping framework for Python.
+face_recognition:        The world's simplest facial recognition api for Python and the command line
+leetcode:        LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+project-based-learning:        Curated list of project-based tutorials
+core:        🏡 Open source home automation that puts local control and privacy first
+HelloGitHub:        Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+100-Days-Of-ML-Code:        100-Days-Of-ML-Code中文版
+certbot:        Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+spark:        Apache Spark - A unified analytics engine for large-scale data processing
+AiLearning:        AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+pandas:        Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+python-patterns:        A collection of design patterns/idioms in Python
+basics:        📚 Learn ML with clean code, simplified math and illustrative visuals.
+PythonDataScienceHandbook:        Python Data Science Handbook: full text in Jupyter Notebooks
+manim:        Animation engine for explanatory math videos
+open-source-mac-os-apps:        🚀 Awesome list of open source applications for macOS.
+nerd-fonts:        Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+python-guide:        Python best practices guidebook, written for humans.
+wtfpython:        What the f*ck Python?
+pipenv:        Python Development Workflow for Humans.
+handson-ml:        A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+interactive-coding-challenges:        120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+compose:        Define and run multi-container applications with Docker
+mitmproxy:        An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+tornado:        Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+data-science-ipython-notebooks:        Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+Real-Time-Voice-Cloning:        Clone a voice in 5 seconds to generate arbitrary speech in real-time
+fastai:        The fastai deep learning library, plus lessons and tutorials
+django-rest-framework:        Web APIs for Django. 🎸
+selenium:        A browser automation framework and ecosystem.
+odoo:        Odoo. Open Source Apps To Grow Your Business.
+d2l-zh:        《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
+sqlmap:        Automatic SQL injection and database takeover tool
+algorithms:        Minimal examples of data structures and algorithms in Python
+airflow:        Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+fastapi:        FastAPI framework, high performance, easy to learn, fast to code, ready for production
+python-fire:        Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+CNTK:        Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
+spaCy:        💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+redash:        Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+black:        The uncompromising Python code formatter
+glances:        Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+ZeroNet:        ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+hosts:        Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
+PayloadsAllTheThings:        A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+reddit:        historical code from reddit.com
+celery:        Distributed Task Queue (development branch)
+tqdm:        A Fast, Extensible Progress Bar for Python and CLI
+flatbuffers:        FlatBuffers: Memory Efficient Serialization Library
+TensorFlow-Course:        Simple and ready-to-use tutorials for TensorFlow
+pyspider:        A Powerful Spider(Web Crawler) System in Python.
+ipython:        Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
+homemade-machine-learning:        🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+numpy:        The fundamental package for scientific computing with Python.
+sanic:        Async Python 3.6+ web server/framework | Build fast. Run fast.
+wechat_jump_game:        微信《跳一跳》Python 辅助
+pytudes:        Python programs, usually short, of considerable difficulty, to perfect particular skills.
+bokeh:        Interactive Data Visualization in the browser, from Python
+PySnooper:        Never use print for debugging again
+luigi:        Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+jumpserver:        JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
+awesome-spider:        爬虫集合
+locust:        Scalable user load testing tool written in Python
+python-cheatsheet:        Comprehensive Python Cheatsheet
+spleeter:        Deezer source separation library including pretrained models.
+graal:        GraalVM: Run Programs Faster Anywhere 🚀
+Virgilio:        Your new Mentor for Data Science E-Learning.
+cookiecutter:        A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+dash:        Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+vnpy:        基于Python的开源量化交易平台开发框架
+ray:        A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+zulip:        Zulip server - powerful open source team chat
+awesome-python-login-model:        😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟

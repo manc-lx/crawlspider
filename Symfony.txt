@@ -1,0 +1,91 @@
+Symfony is a set of reusable PHP components and a web framework.
+symfony:        The Symfony PHP framework
+grav:        Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+console:        The Console component eases the creation of beautiful and testable command line interfaces.
+http-foundation:        The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+event-dispatcher:        The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
+finder:        The Finder component finds files and directories via an intuitive fluent interface.
+debug:        The Debug component provides tools to ease debugging PHP code.
+http-kernel:        The HttpKernel component provides a structured process for converting a Request into a Response.
+polyfill-mbstring:        This component provides a partial, native PHP implementation for the Mbstring extension.
+routing:        The Routing component maps an HTTP request to a set of configuration variables.
+process:        The Process component executes commands in sub-processes.
+css-selector:        The CssSelector component converts CSS selectors to XPath expressions.
+var-dumper:        The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. It provides a better dump() function that you can use instead of var_dump().
+php-pm:        PPM is a process manager, supercharger and load balancer for modern PHP applications.
+api-platform:        REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+Sylius:        Open Source eCommerce Platform on Symfony
+translation:        The Translation component provides tools to internationalize your application.
+pagekit:        Pagekit CMS
+wallabag:        wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+bolt:        Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.
+Silex:        [DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components
+filesystem:        The Filesystem component provides basic utilities for the filesystem.
+polyfill-ctype:        This component provides a partial, native PHP implementation for the Ctype extension.
+DoctrineBundle:        Symfony Bundle for Doctrine ORM and DBAL
+FOSUserBundle:        Provides user management for your Symfony project. Compatible with Doctrine ORM & ODM, and custom storages.
+flex:        Composer plugin for Symfony
+polyfill-php70:        This component provides features unavailable in releases prior to PHP 7.0.
+DoctrineMigrationsBundle:        Symfony integration for the doctrine/migrations library
+dependency-injection:        The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+config:        The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+dom-crawler:        The DomCrawler component eases DOM navigation for HTML and XML documents.
+cache:        The Cache component provides an extended PSR-6 implementation for adding cache to your applications.
+yaml:        The Yaml component loads and dumps YAML files.
+EasyAdminBundle:        The new (and simple) admin generator for Symfony applications.
+DoctrineCacheBundle:        Symfony2 Bundle for Doctrine Cache
+SensioFrameworkExtraBundle:        An extension to Symfony FrameworkBundle that adds annotation configuration for Controller classes
+dotenv:        Symfony Dotenv parses .env files to make environment variables stored in them accessible via getenv(), $_ENV, or $_SERVER.
+framework-bundle:        The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+slugify:        Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.
+FOSRestBundle:        This Bundle provides various tools to rapidly develop RESTful API's with Symfony
+options-resolver:        The OptionsResolver component is array_replace() on steroids. It allows you to create an options system with required options, defaults, validation (type, value), normalization and more.
+doctrine-bridge:        Provides integration for Doctrine with various Symfony components.
+laravel-zero:        A PHP framework for console artisans
+asset:        The Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.
+inflector:        Inflector converts words between their singular and plural forms (English only).
+monolog-bundle:        Symfony Monolog Bundle
+alice:        Expressive fixtures generator
+browser-kit:        The BrowserKit component simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically.
+drush:        Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
+easy-log-handler:        Human-friendly log files that make you more productive
+panther:        A browser testing and web crawling library for PHP and Symfony
+stopwatch:        The Stopwatch component provides a way to profile code.
+contracts:        A set of abstractions extracted out of the Symfony components
+form:        The Form component allows you to easily create, process and reuse HTML forms.
+expression-language:        The ExpressionLanguage component provides an engine that can compile and evaluate expressions.
+HWIOAuthBundle:        OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
+property-access:        The PropertyAccess component provides function to read and write from/to an object or array using a simple string notation.
+polyfill-intl-icu:        This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.
+validator:        The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+intl:        A PHP replacement layer for the C intl extension that also provides access to the localization data of the ICU library.
+event-dispatcher-contracts:        A set of event dispatcher abstractions extracted out of the Symfony components
+twig-bridge:        Provides integration for Twig with various Symfony components.
+monolog-bridge:        Provides integration for Monolog with various Symfony components.
+NelmioApiDocBundle:        Generates documentation for your REST API from annotations
+demo:        Symfony Demo Application
+twig-bundle:        The Twig Bundle provides configuration for using Twig in your applications.
+phpunit-bridge:        Provides utilities for PHPUnit, especially user deprecation notices management.
+LexikJWTAuthenticationBundle:        JWT authentication for your Symfony REST API
+DoctrineFixturesBundle:        https://github.com/doctrine/DoctrineFixturesBundle
+security-bundle:        The security system is one of the most powerful parts of Symfony and can largely be controlled via its configuration.
+symfony-docs:        The Symfony documentation
+orm-pack:        A Symfony Pack for Doctrine ORM
+enqueue-dev:        Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro
+webpack-encore:        A simple but powerful API for processing & compiling assets built around Webpack
+serializer:        With the Serializer component it's possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+profiler-pack:        A Symfony Pack for Symfony profiler
+web-profiler-bundle:        The WebProfilerBundle provides detailed technical information about each request execution and displays it in both the web debug toolbar and the profiler.
+debug-bundle:        The DebugBundle allows greater integration of the VarDumper component in the Symfony full-stack framework.
+mime:        The MIME component allows manipulating MIME types.
+core:        The server component of API Platform: hypermedia and GraphQL APIs in minutes
+StofDoctrineExtensionsBundle:        Integration bundle for DoctrineExtensions by l3pp4rd in Symfony
+polyfill-php73:        This component provides functions unavailable in releases prior to PHP 7.3.
+symfony-standard:        The "Symfony Standard Edition" distribution
+backup-manager:        Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
+swiftmailer-bundle:        Symfony Swiftmailer Bundle
+VichUploaderBundle:        A simple Symfony bundle to ease file uploads with ORM entities and ODM documents.
+debug-pack:        A Symfony Pack for Symfony debug
+translation-contracts:        A set of translation abstractions extracted out of the Symfony components
+service-contracts:        A set of service abstractions extracted out of the Symfony components
+property-info:        PropertyInfo extracts information about PHP class' properties using metadata of popular sources.

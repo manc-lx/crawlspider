@@ -1,0 +1,91 @@
+A NoSQL database refers to a database whose storage format is modeled differently from relational databases.
+mongo:        The MongoDB Database
+rxdb:        💻 🔄 📱 A realtime Database for JavaScript Applications
+codis:        Proxy based Redis cluster solution supporting pipeline and scaling dynamically
+arangodb:        🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+neo4j:        Graphs for Everyone
+dejavu:        The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+scylla:        NoSQL data store using the seastar framework, compatible with Apache Cassandra
+zeppelin:        Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
+orientdb:        OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
+lucene-solr:        Apache Lucene and Solr open-source search software
+pika:        Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
+awesome-elasticsearch:        A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
+tinydb:        TinyDB is a lightweight document oriented database optimized for your happiness :)
+objectbox-java:        ObjectBox is a superfast lightweight database for objects
+westore:        微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
+dynomite:        A generic dynamo implementation for different k-v storage engines
+nosqlclient:        Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
+tiedot:        Your NoSQL database powered by Golang
+ravendb:        ACID Document Database
+db:        Data access layer for PostgreSQL, MySQL, SQLite and MongoDB.
+octosql:        OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+Paper:        Paper is a fast NoSQL-like storage for Java/Kotlin objects on Android with automatic schema migration support.
+gocql:        Package gocql implements a fast and robust Cassandra client for the Go programming language.
+rom:        Data mapping and persistence toolkit for Ruby
+tera:        An Internet-Scale Database.
+stampede:        The ToroDB solution to provide better analytics on top of MongoDB and make it easier to migrate from MongoDB to SQL
+nuster:        A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
+ardb:        A redis protocol compatible nosql, it support multiple storage engines as backend like Google's LevelDB, Facebook's RocksDB, OpenLDAP's LMDB, PerconaFT, WiredTiger, ForestDB.
+variety:        A schema analyzer for MongoDB
+hive:        Lightweight and blazing fast key-value database written in pure Dart.
+couchbase-lite-ios:        Lightweight, embedded, syncable NoSQL database engine for iOS and MacOS apps.
+NoSQLMap:        Automated NoSQL database enumeration and web application exploitation tool.
+elassandra:        Elassandra = Elasticsearch + Apache Cassandra
+summitdb:        In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
+griddb:        GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
+grandnode:        Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+pegasus:        ['pɛgəsəs] A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
+unqlite:        An Embedded NoSQL, Transactional Database Engine
+1store:        NoSQL data store using the SEASTAR framework, compatible with Redis
+ejdb:        🏂 EJDB 2.0 — Embeddable JSON Database engine C library. Simple XPath like query language (JQL). Websockets / Android / iOS / React Native / Flutter / Java / Dart / Node.js bindings. Docker image.
+tidis:        Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
+RedisGraph:        A graph database as a Redis module
+rest-hapi:        🚀 A RESTful API generator for Node.js
+nodejs-driver:        DataStax Node.js Driver for Apache Cassandra
+fluent:        Vapor ORM (queries, models, and relations) for NoSQL and SQL databases
+agensgraph:        AgensGraph, a transactional graph database based on PostgreSQL
+titan:        A Distributed Redis Protocol Compatible NoSQL Database
+djongo:        Django and MongoDB database connector
+Kundera:        A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to:
+redix:        a persistent real-time key-value store, with the same redis protocol with powerful features
+infinispan:        Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
+IOT-Technical-Guide:        🐝 IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 ✨ ✨ ✨ (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker)
+xodus:        Transactional schema-less embedded database used by JetBrains YouTrack and JetBrains Hub.
+mongo-cxx-driver:        C++ Driver for MongoDB
+Nano-SQL:        Universal database layer for the client, server & mobile devices. It's like Lego for databases.
+incubator-iotdb:        Apache IoTDB
+restheart:        RESTHeart - The REST API for MongoDB
+Nosql-Exploitation-Framework:        A Python Framework For NoSQL Scanning and Exploitation
+typeorm:        TypeORM module for Nest framework (node.js) 🍇
+laravel-schemaless-attributes:        Add schemaless attributes to Eloquent models
+CorfuDB:        A cluster consistency platform
+nitrite-java:        Java embedded nosql document store
+arangojs:        The official ArangoDB JavaScript driver.
+libmdbx:        One of the fastest embeddable key-value ACID database without WAL.
+KitDB:        KitDB是一个内嵌式持久型的 高速NoSQL存储 lib
+csharp-driver:        DataStax C# Driver for Apache Cassandra
+bolthold:        BoltHold is an embeddable NoSQL store for Go types built on BoltDB
+dynamodb-toolbox:        A simple set of tools for working with Amazon DynamoDB and the DocumentClient
+nodejs-firestore:        Node.js client for Google Cloud Firestore: a NoSQL document database built for automatic scaling, high performance, and ease of application development.
+sharedhashfile:        Share Hash Tables With Stable Key Hints Stored In Memory Mapped Files Between Arbitrary Processes
+DBreeze:        C# .NET MONO NOSQL ( key value store embedded ) ACID multi-paradigm database management system.
+kache:        A simple in memory cache written using go
+RethinkDb.Driver:        🎧 A NoSQL C#/.NET RethinkDB database driver with 100% ReQL API coverage.
+NoDB:        NoDB isn't a database.. but it sort of looks like one.
+query-engine:        Query Engine allows you to perform advanced queries, filters, searching and paging for javascript arrays and objects as well as Backbone.js Collections
+concourse:        Distributed database warehouse for transactions, search and analytics across time.
+python-arango:        Python Driver for ArangoDB
+unqlite-python:        Python bindings for the UnQLite embedded NoSQL database
+Android-NoSql:        Lightweight, simple structured NoSQL database for Android
+exist:        eXist Native XML Database and Application Platform
+programming-skills-summary:        An documentation to improve oneself
+bitnami-docker-redis:        Bitnami Redis Docker Image
+bedquilt-core:        A JSON document store on PostgreSQL
+hibari:        Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.
+data:        ATK Data - Data Access Framework for high-latency databases (Cloud SQL/NoSQL).
+eshop:        Eshop + Content Management System (CMS) written in Node.js / Total.js.
+AngularMaterialFirebase:        🔥 Full stack starter app with Angular 8, Material Design and Firebase (+ demo)
+ftserver:        Lightweight Embeddable iBoxDB Full Text Search Server for Java
+azure-cosmos-js:        @azure/cosmos has moved to a new repo https://github.com/Azure/azure-sdk-for-js
+mongodb-quickstart-course:        Course demos and handout material for Talk Python's MongoDB Quickstart course

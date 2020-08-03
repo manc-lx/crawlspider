@@ -1,0 +1,91 @@
+Nim is a statically typed, compiled, garbage-collected systems programming language.
+Nim:        Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
+glad:        Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+nitter:        Alternative Twitter front-end
+nimble:        Package manager for the Nim programming language.
+Arraymancer:        A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
+nimx:        GUI library
+awesome-nim:        A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
+nimforum:        Lightweight alternative to Discourse written in Nim
+completely-unscientific-benchmarks:        Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
+prologue:        Full-Stack Web Framework written in Nim.
+nimporter:        Compile Nim Extensions for Python On Import!
+nimbus:        Nimbus: an Ethereum 1.0 & 2.0 Client for Resource-Restricted Devices
+NiGui:        Cross-platform desktop GUI toolkit written in Nim
+pipelines:        Pipelines is a language for high-level data analysis.
+nimtorch:        PyTorch - Python + Nim
+INim:        Interactive Nim Shell / REPL / Playground
+mosdepth:        fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing
+nlvm:        LLVM-based compiler for the Nim language
+packages:        List of packages for Nimble
+app-servers:        App Servers benchmarked for: Ruby, Python, JavaScript, Dart, Elixir, Java, Crystal, Nim, GO, Rust
+NimData:        DataFrame API written in Nim, enabling fast out-of-core data processing
+godot-nim:        Nim bindings for Godot Engine
+frag:        A cross-platform 2D|3D game framework for the Nim programming language
+nimterop:        Nimterop is a Nim package that aims to make C/C++ interop seamless
+patty:        A pattern matching library for Nim
+vscode-nim:        An extension for VS Code which provides support for the Nim language.
+rosencrantz:        A web DSL for Nim
+NiM:        Streamline Your Node.js Debugging Workflow with Chromium (Chrome, Edge, More) DevTools.
+min:        A tiny concatenative programming language and shell
+compile-to-web:        Discover what languages can be compiled to Web Assembly
+hastyscribe:        Self-contained markdown compiler generating self-contained HTML documents
+neo:        A matrix library
+nimgl:        NimGL is a Nim library that offers bindings for popular libraries used in computer graphics
+docopt.nim:        Command line arguments parser that will make you smile (port of docopt to Nim)
+moe:        Command line based editor. Written in Nim.
+zengine:        2D | 3D Game development library
+nicy:        ❄️ a nice and icy ZSH prompt in Nim
+norm:        A Nim ORM
+hts-nim:        nim wrapper for htslib for parsing genomics data files
+linear-algebra:        Linear algebra for Nim
+NIM_PC_Demo:        云信Windows(PC) C/C++ Demo源码仓库
+mofuw:        mofuw is *MO*re *F*aster, *U*ltra minimal *W*ebserver.
+nim-in-action-code:        Nim in Action code samples
+nimgame2:        A simple 2D game engine for Nim language.
+nim_websitecreator:        Nim fullstack website framework - deploy a website within minutes
+nimpdf:        PDF document writer, written in nim lang
+gintro:        High level GObject-Introspection based GTK3/GTK4 bindings for Nim language
+nuklear-nim:        Nim bindings for https://github.com/vurtun/nuklear/
+sdl2-examples:        Examples for getting started with SDL2, for over 12 different programming languages
+npeg:        PEGs for Nim, another take
+nimdays:        Nim days book
+nim-chronos:        Chronos - An efficient library for asynchronous programming
+NimYAML:        YAML implementation for Nim
+sdl2_nim:        Wrapper of the SDL 2 library for the Nim language.
+emerald:        HTML5 templating engine for Nimrod
+nim-plotly:        plotting library for nim-lang
+nim.nvim:        Nim plugin for NeoVim
+nimgen:        Nimgen is a helper for c2nim to simplify and automate the wrapping of C libraries
+nim-regex:        Pure Nim regex engine with linear time match
+needed-libraries:        This repository contains a list a needed libraries.
+commandeer:        Take command of your command line in Nim
+msgpack4nim:        MessagePack serializer/deserializer implementation for Nim / msgpack.org[Nim]
+nim-beacon-chain:        Nim implementation of the Ethereum 2.0 blockchain
+telebot.nim:        Async client for Telegram Bot API in pure Nim [Bot API 4.9]
+rod:        Cross-platform game engine
+nim-dashing:        Terminal dashboards for Nim
+nimqml:        Qt Qml bindings for the Nim programming language
+nim-templates:        A simple string templating library for Nim
+gara:        https://github.com/alehander92/gara
+nimpylib:        Some python standard library functions ported to Nim
+nim-libp2p:        libp2p implementation in Nim
+nimly:        Lexer Generator and Parser Generator as a Library in Nim.
+protobuf-nim:        Protobuf implementation in pure Nim that leverages the power of the macro system to not depend on any external tools
+nimph:        Nim package hierarchy manager from the future 🧚
+nimcrypto:        Nim cryptographic library
+NimSvg:        Nim-based DSL allowing to generate SVG files and GIF animations.
+website:        Code for the official Nim programming language website
+wireworld-nim:        An implementation of Wireworld (Cellular Automata) in Nim using SDL2
+nimquery:        Nim library for querying HTML using CSS-selectors (like JavaScripts document.querySelector)
+nim-httpauth:        HTTP Authentication library for Nim
+parsetoml:        A Nim library to parse TOML files
+itertools:        Nim rewrite of a very popular Python module of the same name.
+nim-csfml:        Nim bindings to SFML multimedia/game library
+asynctools:        Various asynchronous tools for Nim language
+webview:        Nim bindings for https://github.com/zserge/webview
+nim-markdown:        A Beautiful Markdown Parser in the Nim World.
+nim-random:        Random number generation library for Nim
+nim-basics:        Source files for Nim basics tutorial
+react.nim:        React.js bindings for Nim
+nim-gatabase:        Connection-Pooling Compile-Time ORM for Nim

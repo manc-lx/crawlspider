@@ -1,0 +1,90 @@
+PHP is a popular general-purpose scripting language that works particularly well for server-side web development.
+laravel:        A PHP framework for web artisans
+awesome-php:        A curated list of amazingly awesome PHP libraries, resources and shiny things.
+symfony:        The Symfony PHP framework
+composer:        Dependency Manager for PHP
+framework:        https://github.com/laravel/framework
+guzzle:        Guzzle, an extensible PHP HTTP client
+DesignPatternsPHP:        sample code for several design patterns in PHP 7.4
+CodeIgniter:        Open Source PHP Framework (originally from EllisLab)
+hhvm:        A virtual machine for executing programs written in Hack.
+phpunit:        The PHP Unit Testing framework.
+swoole-src:        🚀 Coroutine-based concurrency library for PHP
+PHPMailer:        The classic email sending library for PHP
+yii2:        Yii 2: The Fast, Secure and Professional PHP Framework
+matomo:        Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
+PHP-Parser:        A PHP parser written in PHP
+parsedown:        Better Markdown Parser in PHP
+awesome-cheatsheets:        👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+grav:        Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+whoops:        PHP errors for cool kids
+phabricator:        Open software engineering platform and fun adventure game
+Cachet:        📛 An open source status page system for everyone.
+flysystem:        Abstraction for local and remote filesystems
+server:        ☁️ Nextcloud server, a safe home for all your data
+image:        PHP Image Manipulation
+Slim:        Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
+flarum:        Simple forum software for building great communities.
+uuid:        A PHP library for generating universally unique identifiers (UUIDs).
+cphalcon:        High performance, full-stack PHP framework delivered as a C extension.
+october:        Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
+monica:        Personal CRM. Remember everything about your friends, family and business relationships.
+laradock:        Full PHP development environment for Docker.
+mockery:        Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
+jwt-auth:        🔐 JSON Web Token Authentication for Laravel & Lumen
+PHP-CS-Fixer:        A tool to automatically fix PHP Coding Standards issues
+awesome-laravel:        A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
+swiftmailer:        Comprehensive mailing tools for PHP
+wechat:        📦 It is probably the best SDK in the world for developing WeChat App.
+phpstan:        PHP Static Analysis Tool - discover bugs in your code without running it!
+magento2:        All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…
+Laravel-Excel:        🚀 Supercharged Excel exports and imports in Laravel
+PhpSpreadsheet:        A pure PHP library for reading and writing spreadsheet files
+psysh:        A REPL for PHP
+phpredis:        A PHP extension for Redis
+laravel-permission:        Associate users with roles and permissions
+cakephp:        CakePHP: The Rapid Development Framework for PHP - Official Repository
+console:        The Console component eases the creation of beautiful and testable command line interfaces.
+ip2region:        Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
+deployer:        A deployment tool written in PHP with support for popular frameworks out of the box
+PHP_CodeSniffer:        PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.
+reactphp:        Event-driven, non-blocking I/O with PHP.
+random_compat:        PHP 5.x support for random_bytes() and random_int()
+http-foundation:        The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+event-dispatcher:        The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
+finder:        The Finder component finds files and directories via an intuitive fluent interface.
+core:        Simple forum software for building great communities.
+dompdf:        HTML to PDF converter for PHP
+typecho:        A PHP Blogging Platform. Simple and Powerful.
+debug:        The Debug component provides tools to ease debugging PHP code.
+directus:        Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
+mal:        mal - Make a Lisp
+http-kernel:        The HttpKernel component provides a structured process for converting a Request into a Response.
+Twig:        Twig, the flexible, fast, and secure template language for PHP
+polyfill-mbstring:        This component provides a partial, native PHP implementation for the Mbstring extension.
+routing:        The Routing component maps an HTTP request to a set of configuration variables.
+process:        The Process component executes commands in sub-processes.
+predis:        Flexible and feature-complete Redis client for PHP and HHVM
+css-selector:        The CssSelector component converts CSS selectors to XPath expressions.
+var-dumper:        The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. It provides a better dump() function that you can use instead of var_dump().
+YOURLS:        🔗 Your Own URL Shortener
+woocommerce:        An open source eCommerce plugin for WordPress.
+api-platform:        REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+Sylius:        Open Source eCommerce Platform on Symfony
+caprover:        [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
+translation:        The Translation component provides tools to internationalize your application.
+http-message:        The purpose of this PSR is to provide a set of common interfaces for HTTP messages as described in RFC 7230 and RFC 7231
+jwt:        A simple library to work with JSON Web Token and JSON Web Signature
+opencart:        A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
+oauth2-server:        A spec compliant, secure by default PHP OAuth 2.0 Server
+pagekit:        Pagekit CMS
+Validation:        The most awesome validation engine ever created for PHP
+invoiceninja:        Invoices, Expenses and Tasks built with Laravel and Flutter
+Ratchet:        Asynchronous WebSocket server
+botman:        A framework agnostic PHP library to build chat bots
+PHPWord:        A pure PHP library for reading and writing word processing documents
+wallabag:        wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+humhub:        HumHub - Open Source Social Network
+PrestaShop:        PrestaShop offers a fully scalable open source ecommerce solution.
+phpmyadmin:        A web interface for MySQL and MariaDB
+BookStack:        A platform to create documentation/wiki content built with PHP & Laravel

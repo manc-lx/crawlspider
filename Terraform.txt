@@ -1,0 +1,88 @@
+An infrastructure-as-code tool for building, changing, and versioning infrastructure safely and efficiently.
+terraform:        Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+devops-exercises:        Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+guide:        Kubernetes clusters for the hobbyist.
+terraform-provider-aws:        Terraform AWS provider
+terratest:        Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+terragrunt:        Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+terraforming:        Export existing AWS resources to Terraform style (tf, tfstate)
+terraformer:        CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+atlantis:        Atlantis is now being maintained at https://github.com/runatlantis/atlantis
+KubeOperator:        KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
+docker-android:        Android in docker solution with noVNC supported and video recording
+streamalert:        StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
+terraform-provider-azurerm:        Terraform provider for Azure Resource Manager
+tflint:        TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform >= 0.12)
+infrastructure-as-code-tutorial:        Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
+awesome-terraform:        Curated list of resources on HashiCorp's Terraform
+tfenv:        Terraform version manager
+tfsec:        🔒🌍 Static analysis powered security scanner for your terraform code
+terraform-inventory:        Terraform State → Ansible Dynamic Inventory
+terraform-aws-eks:        Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
+dependabot-core:        🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+typhoon:        Minimal and free Kubernetes distribution
+learning-tools:        A collection of tools and files for learning new technologies
+kapitan:        Generic templated configuration management for Kubernetes, Terraform and other things
+terraform-up-and-running-code:        Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
+terraform-landscape:        Improve Terraform's plan output to be easier to read and understand
+terraform-provider-google:        Terraform Google Cloud Platform provider
+blast-radius:        Interactive visualizations of Terraform dependency graphs using d3.js
+AWSConsoleRecorder:        Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
+binaryalert:        BinaryAlert: Serverless, Real-time & Retroactive Malware Detection.
+checkov:        Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+terraboard:        🌍 📋 A web dashboard to inspect Terraform States
+kitchen-terraform:        Test Kitchen plugins for testing Terraform configurations
+deckdeckgo:        The web open source editor for presentations
+terraform-provider-kubernetes:        Terraform Kubernetes provider
+terraform-best-practices:        Terraform Best Practices for AWS users
+terraform-compliance:        a lightweight, security focused, BDD test framework against terraform.
+terraform-provider-libvirt:        Terraform provider to provision infrastructure with Linux's KVM using libvirt
+tectonic-installer:        Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more
+terraform-provider-helm:        Terraform Helm provider
+vscode-terraform:        A Visual Studio Code extension for Hashicorp Terraform
+Red-Baron:        Automate creating resilient, disposable, secure and agile infrastructure for Red Teams
+vim-terraform:        basic vim/terraform integration
+pre-commit-terraform:        pre-commit git hooks to take care of Terraform configurations
+terraform-ecs:        AWS ECS terraform module
+geodesic:        🚀 Geodesic is a cloud automation shell. It's the fastest way to get up and running with a rock solid, production grade cloud platform built on top of strictly Open Source tools. ★ this repo! https://slack.cloudposse.com/
+infrastructure-as-code-talk:        Sample code for the talk "Infrastructure-as-code: running microservices on AWS with Docker, ECS, and Terraform"
+terraform-provisioner-ansible:        Marrying Ansible with Terraform 0.12.x
+former2:        Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
+rattlesnakeos-stack:        Build your own privacy and security focused Android OS in the cloud on a continuous basis with OTA updates.
+intro-to-terraform:        Sample code for the blog post "An Introduction to Terraform"
+bedrock:        Automation for Production Kubernetes Clusters with a GitOps Workflow
+vault-on-gke:        Run @hashicorp Vault on Google Kubernetes Engine (GKE) with Terraform
+terrascan:        Collection of security and best practice test for static code analysis of terraform
+terraform-aws-secure-baseline:        Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations.
+terraform-lsp:        Language Server Protocol for Terraform
+aws:        A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
+serverless-libreoffice:        Run LibreOffice in AWS Lambda to create PDFs & convert documents
+terraform-provider-oci:        Terraform Oracle Cloud Infrastructure provider
+tads-boilerplate:        Terraform + Ansible + Docker Swarm boilerplate = DevOps on 🔥🔥🔥 | Infrastructure as Code
+k2tf:        Kubernetes YAML to Terraform HCL converter
+terraform-switcher:        A command line tool to switch between different versions of terraform (install with homebrew and more)
+vscodethemes:        Preview themes from the VSCode marketplace.
+kubernetes-digitalocean-terraform:        📋 🌊 🌎 Setup a simple Kubernetes cluster in Digital Ocean using Terraform
+terracognita:        Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
+terraform-provider-vsphere:        Terraform VMware vSphere provider
+awsls:        A list command for AWS resources
+magic-modules:        Automatically generate Google Cloud Platform support for OSS IaaC Projects
+tfnotify:        A CLI command to parse Terraform execution result and notify it to GitHub
+elasticsearch-cloud-deploy:        Deploy Elasticsearch on the cloud easily
+terraform-provider-alicloud:        Terraform AliCloud provider
+KubeNow:        Deploy Kubernetes. Now!
+vim-terraform-completion:        A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool
+terragoat:        TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.
+tarmak:        A toolkit for Kubernetes cluster provisioning and lifecycle management
+terraform-null-label:        Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
+python-terraform:        https://github.com/beelit94/python-terraform
+kubeCDN:        Self-hosted CDN based on Kubernetes
+provisioning:        Kubernetes cluster provisioning using Terraform.
+awsweeper:        A tool for cleaning your AWS account
+terraform-provider-digitalocean:        Terraform DigitalOcean provider
+TKS:        Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
+terraform-cost-estimation:        Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version)
+cf-to-tf:        CLI tool for generating Terraform configuration and state for existing CloudFormation resources
+infrastructure-as-code-training:        Materials for learning how to use infrastructure-as-code
+terraform_validate:        Assists in the enforcement of user-defined standards in Terraform
+terraform-aws-gitlab-runner:        Terraform module for AWS GitLab runners on ec2 (spot) instances

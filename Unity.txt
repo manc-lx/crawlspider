@@ -1,0 +1,91 @@
+Unity is a game engine used to create 2D/3D video games, and simulations for computers, consoles, and mobile devices.
+ILSpy:        .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+ml-agents:        Unity Machine Learning Agents Toolkit
+3d-game-shaders-for-beginners:        🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+xLua:        xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
+Entitas-CSharp:        Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+UniRx:        Reactive Extensions for Unity
+Flatabulous:        This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
+MixedRealityToolkit-Unity:        Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.
+awesome-unity:        A curated list of awesome Unity assets, resources, and more.
+PostProcessing:        Post Processing Stack
+rant:        (ARCHIVED) Rant – The all-purpose procedural text library
+MessagePack-CSharp:        Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
+Game-Networking-Resources:        A Curated List of Game Network Programming Resources
+wavefunctioncollapse:        Walk through an infinite, procedurally generated city
+NoahGameFrame:        A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
+Unity-Script-Collection:        A maintained collection of useful & free unity scripts / library's / plugins and extensions.
+Zenject:        Dependency Injection Framework for Unity3D
+tolua:        The fastest unity lua binding solution
+UIEffect:        UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!
+MathUtilities:        A collection of some of the neat math and physics tricks that I've collected over the last few years.
+GameFramework:        This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.
+ZeroFormatter:        Infinitely Fast Deserializer for .NET, .NET Core and Unity.
+Harmony:        A library for patching, replacing and decorating .NET and Mono methods during runtime
+Awesome-Unity-Shader:        ⛵ 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders
+behaviac:        behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
+FlutterUnit:        【Flutter 集录指南 App】The unity of flutter, The unity of coder.
+Unity:        GitHub for Unity
+MagicOnion:        Unified Realtime/API Engine for .NET Core and Unity.
+Deform:        A fully-featured deformer system for Unity.
+Il2CppDumper:        Unity il2cpp reverse engineer
+crest:        An advanced ocean system implemented in Unity3D
+UIWidgets:        UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
+Unity-Design-Pattern:        🍵 All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns written in Unity C#. | 各种设计模式的Unity3D C#版本实现
+QFramework:        Your first K.I.S.S Unity 3D Framework.
+herebedragons:        A basic 3D scene implemented with various engines, frameworks or APIs.
+UnityDecompiled:        Now unnecessary, use the official code instead: https://github.com/Unity-Technologies/UnityCsReference
+Arcadia:        Clojure in Unity
+Mirror:        A community replacement for Unity's abandoned UNET Networking System.
+Steamworks.NET:        Steamworks wrapper for Unity / C#
+Node_Editor_Framework:        A flexible and modular Node Editor Framework for creating node based displays and editors in Unity
+Facepunch.Steamworks:        Another fucking c# Steamworks implementation
+unity:        This repository contains development environment for the entire package
+Klak:        Creative coding library for Unity
+xNode:        Unity Node Editor: Lets you view and edit node graphs inside Unity
+ProceduralToolkit:        Procedural generation library for Unity
+UtinyRipper:        GUI and API library for working with Engine assets, serialized and bundle files
+ForgeNetworkingRemastered:        In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
+numix-gtk-theme:        A modern flat theme with a combination of light and dark elements.
+YarnSpinner:        Yarn Spinner is a tool for building interactive dialogue in games!
+graphy:        Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
+unity-movement-ai:        A Unity library for common movement AI
+SpriteGlow:        A sprite glow effect for Unity game engine
+UnityLibrary:        📚 Library of all kind of scripts, snippets & shaders for Unity
+ParticleEffectForUGUI:        This plugin provide a component to render particle effect for uGUI in Unity 2018.2 or later. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.
+simulator:        A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
+BDFramework.Core:        [中]Simple! Easy! Powerful Unity3d game workflow! Unity3d framework：c# hotfix(ILRuntime)、asset manager、ui workflow、network debug... and so on
+ShaderGraph:        Unity ShaderGraph project
+UniTask:        Provides an efficient allocation free async/await integration to Unity.
+Voxelman:        Unity ECS + C# Job System example
+KSFramework:        QQ Group：538722494，KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
+FancyScrollView:        [Unity] A scrollview component that can implement highly flexible animations.
+xasset:        A more streamlined, efficient and secure Unity Resource Management Solution for you.
+Miku-LuaProfiler:        https://github.com/leinlin/Miku-LuaProfiler
+resharper-unity:        Unity support for both ReSharper and Rider
+Pix2Pix:        Real-time pix2pix implementation with Unity
+InjectFix:        InjectFix is a hot-fix solution library for Unity
+InputSystem:        An efficient and versatile input system for Unity.
+ShaderlabVS:        ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming
+Ocean_Community_Next_Gen:        Next gen iteration of the unity community ocean shader
+in-app-purchase:        A Node.js module for in-App-Purchase for iOS, Android, Amazon and Windows.
+ShaderGraphExamples:        Simple examples of Unity shader graphs.
+PokemonUnity:        A framework to build Pokémon RPG games.
+C-Sharp-Promise:        Promises library for C# for management of asynchronous operations.
+UnityStandaloneFileBrowser:        A native file browser for unity standalone platforms
+Futile:        A super simple Unity 2D framework
+AutoLOD:        Automatic LOD generation + scene optimization
+Kino:        A collection of custom post processing effects for Unity
+EditorXR:        Author XR in XR
+googleads-mobile-unity:        Official Unity Plugin for the Google Mobile Ads SDK
+unity-preview:        GitHub for Unity, the Preview!
+Outline-Effect:        Outline Image Effect for Unity
+TestbedHDRP:        Testbed project for Unity HDRP (High Definition Render Pipeline)
+InkPainter:        Texture-Paint on Unity.
+lively:        Animated Wallpapers: Turn Videos, Web pages, Games, Emulators into windows wallpapers.
+UnityNativeScripting:        Unity Scripting in C++
+MeshSync:        A package for synchronizing meshes/models editing in DCC tools into Unity in real time.
+uRaymarching:        Raymarching Shader Generator in Unity
+ToyPathTracer:        Toy path tracer for my own learning purposes (CPU/GPU, C++/C#, Win/Mac/Wasm, DX11/Metal, also Unity)
+Lasp:        Low-latency Audio Signal Processing plugin for Unity
+Unity3D-CG-programming:        Various shaders.

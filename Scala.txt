@@ -1,0 +1,91 @@
+Scala is an object-oriented programming language.
+spark:        Apache Spark - A unified analytics engine for large-scale data processing
+kafka:        Mirror of Apache Kafka
+flink:        Apache Flink
+scala:        Scala 2 compiler and standard library. For bugs, see scala/bug
+predictionio:        PredictionIO, a machine learning server for developers and ML engineers.
+deeplearning4j:        Eclipse Deeplearning4j, ND4J, DataVec and more - deep learning & linear algebra for Java/Scala with GPUs + Spark
+playframework:        Play Framework
+CMAK:        CMAK is a tool for managing Apache Kafka clusters
+gitbucket:        A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+finagle:        A fault tolerant, protocol-agnostic RPC system
+awesome-scala:        A community driven list of useful Scala libraries, frameworks and software.
+milewski-ctfp-pdf:        Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+awesomo:        An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+BigData-Notes:        大数据入门指南 ⭐
+lila:        ♞ lichess.org: the forever free, adless and open source chess server ♞
+mal:        mal - Make a Lisp
+angel:        A Flexible and Powerful Parameter Server for large-scale machine learning
+zeppelin:        Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
+scalaz:        Principled Functional Programming in Scala
+sbt:        sbt, the interactive build tool
+dotty:        Research compiler that will become Scala 3
+scala-js:        Scala.js, the Scala to JavaScript compiler
+scala-native:        Your favorite language gets closer to bare metal.
+polynote:        A better notebook for Scala (and more)
+BigDL:        BigDL: Distributed Deep Learning Framework for Apache Spark
+TensorFlowOnSpark:        TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
+papermill:        📚 Parameterize, execute, and analyze notebooks
+intellij-rainbow-brackets:        🌈Rainbow Brackets / Rainbow Parentheses for IntelliJ based IDEs/Android Studio
+shapeless:        Generic programming for Scala
+spark-notebook:        Interactive and Reactive Data Science using Scala and Spark.
+lsp-mode:        Emacs client/library for the Language Server Protocol
+spark-jobserver:        REST job server for Apache Spark
+scalatra:        Tiny Scala high-performance, async web framework, inspired by Sinatra
+lagom:        Reactive Microservices for the JVM
+beakerx:        Beaker Extensions for Jupyter Notebook
+util:        Wonderful reusable code from Twitter
+zio:        ZIO — A type-safe, composable library for async and concurrent programming in Scala
+scala-exercises:        The easy way to learn Scala.
+scaloid:        Scaloid makes your Android code easy to understand and maintain.
+mmlspark:        Microsoft Machine Learning for Apache Spark
+finatra:        Fast, testable, Scala services built on TwitterServer and Finagle
+circe:        Yet another JSON library for Scala
+analytics-zoo:        Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+scio:        A Scala API for Apache Beam and Google Cloud Dataflow.
+TransmogrifAI:        TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
+http4s:        A minimal, idiomatic Scala interface for HTTP
+sangria:        Scala GraphQL implementation
+spark-cassandra-connector:        DataStax Spark Cassandra Connector
+quill:        Compile-time Language Integrated Queries for Scala
+doobie:        Functional JDBC layer for Scala.
+fs2:        Compositional, streaming I/O library for Scala
+monix:        Asynchronous, Reactive Programming for Scala and Scala.js.
+coursier:        Pure Scala Artifact Fetching
+TheHive:        TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+giter8:        a command line tool to apply templates defined on GitHub
+Movie_Recommend:        基于Spark的电影推荐系统，包含爬虫项目、web网站、后台管理系统以及spark推荐系统
+apollo-universal-starter-kit:        Apollo Universal Starter Kit is an SEO-friendly, fully-configured, modular starter application that helps developers to streamline web, server, and mobile development with cutting-edge technologies and ultimate code reuse.
+rocket-chip:        Rocket Chip Generator
+Binding.scala:        Reactive data-binding for Scala
+elastic4s:        Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client
+finch:        Scala combinator library for building Finagle HTTP services
+Mocky:        Generate custom HTTP responses, the simpler way to test your Web Services
+mill:        Your shiny new Java/Scala build tool!
+elasticmq:        In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
+Data-Engineering-HowTo:        A list of useful resources to learn Data Engineering from scratch
+chisel3:        Chisel 3: A Modern Hardware Design Language
+arl:        lists of most popular repositories for most favoured programming languages (according to StackOverflow)
+sbt-native-packager:        sbt Native Packager
+scalajs-react:        Facebook's React on Scala.JS
+better-files:        Simple, safe and intuitive Scala I/O
+pants:        The Pants Build System
+ensime-server:        ENSIME JVM Process
+scalacaster:        Purely Functional Algorithms and Data Structures in Scala
+lcamera:        A camera app using the new camera2 API in Android Lollipop
+spotless:        Keep your code spotless
+json4s:        A single AST to be used by other scala json libraries
+metals:        Scala language server with rich IDE features 🚀
+Monocle:        Optics library for Scala
+Kamon:        Distributed Tracing, Metrics and Context Propagation for application running on the JVM
+alpakka-kafka:        Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.
+almond:        A scala kernel for Jupyter
+scopt:        command line options parsing for Scala
+framework:        Lift Framework
+FiloDB:        Distributed Prometheus time series database
+sbt-dependency-graph:        sbt plugin to create a dependency graph for your project
+refined:        Simple refinement types for Scala
+colossus:        I/O and Microservice library for Scala
+scalikejdbc:        A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.
+mleap:        MLeap: Deploy Spark Pipelines to Production
+carbondata:        Mirror of Apache CarbonData

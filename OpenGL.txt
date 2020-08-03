@@ -1,0 +1,90 @@
+OpenGL is a software interface that allows a programmer to communicate with graphics hardware.
+alacritty:        A cross-platform, GPU-accelerated terminal emulator
+openage:        Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+filament:        Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+kitty:        A cross-platform, fast, feature full, GPU based terminal emulator
+tinyrenderer:        A brief computer graphics / rendering course
+OpenRCT2:        An open source re-implementation of RollerCoaster Tycoon 2 🎢
+bgfx:        Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+Craft:        A simple Minecraft clone written in C using modern OpenGL (shaders).
+openFrameworks:        openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
+android-gpuimage:        Android filters based on OpenGL (idea from GPUImage for iOS)
+3d-game-shaders-for-beginners:        🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+glfw:        Go bindings for GLFW 3
+SFML:        Simple and Fast Multimedia Library
+renderdoc:        RenderDoc is a stand-alone graphics debugging tool.
+glm:        OpenGL Mathematics (GLM)
+raylib:        A simple and easy-to-use library to enjoy videogames programming
+gfx:        A low-overhead Vulkan-like GPU API for Rust.
+gephi:        Gephi - The Open Graph Viz Platform
+olive:        Free open-source non-linear video editor
+mapbox-gl-native:        Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
+StarWars.iOS:        This component implements transition animation to crumble view-controller into tiny pieces.
+openscad:        OpenSCAD - The Programmers Solid 3D CAD Modeller
+CameraView:        📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size.
+Open3D:        Open3D: A Modern Library for 3D Data Processing
+magnum:        Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
+lwjgl3:        LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan), audio (OpenAL), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR) applications.
+cute_headers:        Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
+panda3d:        Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
+react-imgpro:        📷 Image Processing Component for React
+glium:        Safe OpenGL wrapper for the Rust language.
+aminal:        A modern cross-platform terminal emulator in Go
+spring:        A powerful free cross-platform RTS game engine
+editly:        Slick, declarative command line video editing
+HTY360Player:        Open Source iOS 360 Degree Panorama Video Player.
+StarWars.Android:        This component implements transition animation to crumble view into tiny pieces.
+rust-doom:        A Doom Renderer written in Rust.
+apitrace:        Tools for tracing OpenGL, Direct3D, and other graphics APIs
+OpenSceneGraph:        OpenSceneGraph git repository
+ogre:        scene-oriented, flexible 3D engine written in C++
+SHADERed:        Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
+awesome-vulkan:        Awesome Vulkan ecosystem
+opentk:        This Open Toolkit library is a fast, low-level C# wrapper for OpenGL and OpenAL. It can be used standalone or inside a GUI on Windows, Linux, Mac, Android and iOS.
+Glitter:        Dead Simple OpenGL
+glad:        Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+glew:        The OpenGL Extension Wrangler Library
+bsf:        Modern C++14 library for the development of real-time graphical applications
+herebedragons:        A basic 3D scene implemented with various engines, frameworks or APIs.
+gocraft:        A Minecraft like game written in go
+Remotery:        Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
+reshade:        A generic post-processing injector for games and video software.
+teeworlds:        A retro multiplayer shooter
+GCanvas:        A lightweight cross-platform graphics rendering engine. (超轻量的跨平台图形引擎) https://alibaba.github.io/GCanvas
+KlayGE:        KlayGE is a cross-platform open source game engine with plugin-based architecture.
+android-gpuimage-plus:        Android Image & Camera Filters Based on OpenGL.
+glutin:        A low-level library for OpenGL context creation, written in pure Rust.
+MangoHud:        A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+awesome-opengl:        A curated list of awesome OpenGL libraries, debuggers and resources.
+DiligentEngine:        A modern cross-platform low-level graphics library and rendering framework
+tinyraycaster:        486 lines of C++: old-school FPS in a weekend
+xray-16:        Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.
+Bubble-Picker:        An easy-to-use animation which can be used for content picking for Android
+veldrid:        A low-level, portable graphics library for .NET.
+engo:        Engo is an open-source 2D game engine written in Go.
+CubicSDR:        Cross-Platform Software-Defined Radio Application
+duality:        a 2D Game Development Framework
+freetype-gl:        OpenGL text using one vertex buffer, one texture and FreeType
+engine:        Go 3D Game Engine
+dhewm3:        dhewm 3 main repository
+allegro5:        The official Allegro 5 git repository. Pull requests welcome!
+supertux:        SuperTux source code
+mini3d:        3D Software Renderer in 700 Lines !! (700 行代码的 3D 软件渲染器)
+ShaderConductor:        ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
+PixelFlow:        A Processing/Java library for high performance GPU-Computing (GLSL). Fluid Simulation + SoftBody Dynamics + Optical Flow + Rendering + Image Processing + Particle Systems + Physics +...
+milton:        An infinite-canvas paint program
+zemeroth:        😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
+glumpy:        Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
+LLGL:        Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
+arcade:        Easy to use Python library for creating 2D arcade games.
+moderngl:        Modern OpenGL binding for python
+RenderPipeline:        Physically Based Shading and Deferred Rendering for the Panda3D game engine
+android-openGL-canvas:        An Android library that provides views using openGL canvas to draw things on SurfaceView or TextureView.
+geom:        2D/3D geometry toolkit for Clojure/Clojurescript
+permafrost-engine:        An OpenGL RTS game engine written in C
+mlt:        MLT Multimedia Framework
+pyopencl:        OpenCL integration for Python, plus shiny features
+Bonzomatic:        Live shader coding tool and Shader Showdown workhorse
+cglm:        📽 Highly Optimized Graphics Math (glm) for C
+openspades:        Compatible client of Ace of Spades 0.75
+MetalPetal:        A GPU accelerated image and video processing framework built on Metal.

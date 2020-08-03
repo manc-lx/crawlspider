@@ -1,0 +1,91 @@
+An operating system is a program that manages a computer's programs and applications.
+HarmonyOS:        A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+interview:        📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
+redox:        Mirror of https://gitlab.redox-os.org/redox-os/redox
+raspberry-pi-os:        Learning operating system development using Linux kernel and Raspberry Pi
+os01:        Bootstrap yourself to write an OS from scratch. A book for self-learner.
+reactos:        A free Windows-compatible Operating System
+serenity:        The Serenity Operating System 🐞
+NodeOS:        Lightweight operating system using Node.js as userspace
+blog_os:        Writing an OS in Rust
+IncludeOS:        A minimal, resource efficient unikernel for cloud services
+Waking-Up:        计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试...
+30dayMakeOS:        《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程
+toaruos:        A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
+bottlerocket:        An operating system designed for hosting containers
+tock:        A secure embedded operating system for microcontrollers
+nebulet:        (Going to be) A microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
+rust-raspberrypi-OS-tutorials:        📚 Learn to write an embedded OS in Rust 🦀
+oshi:        Native Operating System and Hardware Information
+build:        Armbian build tools
+snakeware:        A free Linux distro with a Python-based userspace
+installer:        Anarchy Linux - A simple and intuitive Arch Linux installer. https://anarchyinstaller.org/
+reading:        A list of computer-science readings I recommend
+AtomOS:        A multitasking monolithic Kernel based x86 targeting Operating System written in C# from scratch aiming for high-level implementation of drivers in managed environment.
+papers-notebook:        📄 🇨🇳 📃 论文阅读笔记（分布式，虚拟化，机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege
+Java-Notes:        📚 计算机科学基础知识、Java开发、后端/服务端、面试相关 📚 computer-science/Java-development/backend/interview
+KnightOS:        OS for z80 calculators
+harvey:        A distributed operating system
+Computer-Science-Resources:        A list of resources in different fields of Computer Science (multiple languages)
+cross-platform-node-guide:        📗 How to write cross-platform Node.js code
+lilith:        x86-64 os made in crystal
+haiku:        The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
+minimal:        Minimal Linux Live (MLL) is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environment with just the Linux kernel, GNU C library, and Busybox userland utilities.
+illumos-gate:        An open-source Unix operating system
+chromium_os-raspberry_pi:        Build your Chromium OS for Raspberry Pi 3B/3B+/4B
+darch:        A tool for building and booting stateless and immutable images, bare metal.
+cello:        Operating System for Enterprise Blockchain
+RaspberryMatic:        🏠 A lightweight, buildroot-based Linux operating system alternative for your CCU3, ELV Charly or for running a "HomeMatic CCU" in virtual environments (ESXi, Proxmox, VirtualBox, etc.) or on single board computers (SBC) like the RaspberryPi, Tinkerboard, etc...
+CustomArch:        Various Arch Linux Based Custom ISOs Made With "Archiso"
+FreeNOS:        FreeNOS (Free Niek's Operating System) is an experimental microkernel based operating system for learning purposes written in C++. You may use the code as you wish under the terms of the GPLv3.
+nve:        Run any command on specific Node.js versions
+its:        Incompatible Timesharing System
+libhermit-rs:        libhermit-rs: A Rust-based library operting system
+fuchsia-docs-zh-CN:        （WIP）Google Fuchsia文档的简体中文翻译，欢迎issue和PR
+PowerNex:        An operating system written in D
+tech-refrigerator:        🍰 기술 냉장고입니다. 🛒 기술 면접 , 전공 시험 , 지식 함양 등 분명 도움될 거예요! 🤟
+FlingOS:        An educational operating system written in C#. A great stepping stone from high to low level development.
+phantomuserland:        Phantom: Persistent Operating System
+Aquila:        AquilaOS: UNIX-like Operating System
+ponyos:        My Little Unix: Kernels are Magic!
+xboot:        The extensible bootloader for embedded system with application engine, write once, run everywhere.
+gramado:        Gramado kernel 1.0
+distortos:        object-oriented C++ RTOS for microcontrollers
+Cnchi:        A modern, flexible online system installer for Antergos Linux
+98:        💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
+an-askreddit-list-of-compsci-books:        books and resources loved by r/learnprogramming community, compiled by me, a lurker who kept track
+qword:        Operating system for x86_64 based around a "keep it simple and make it work" philosophy.
+LegoOS:        Disseminated, Distributed OS for Hardware Resource Disaggregation. USENIX OSDI 2018 Best Paper.
+skift:        🥑 A simple, handmade, operating system for the intel x86 cpu.
+hardenedBSD:        HardenedBSD development tree.
+rust-os-comparison:        A comparison of operating systems written in Rust
+managarm:        Pragmatic microkernel-based OS with fully asynchronous I/O
+Maurice-Bach-Notes:        Notes on the classic book : The Design of the UNIX Operating System
+alis:        Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
+human-signals:        Human-friendly process signals
+manticore:        Manticore is a research operating system, written in Rust.
+luakernel:        Lua + SQLite + musl libc running on x86.
+jehanne:        Jehanne Operating System
+xv6-book-chinese:        MIT操作系统工程的教学操作系统Xv6的源码剖析中文翻译项目，使用ANSI标准C重新在riscv架构上实现Unix v6；
+resea:        A pure microkernel-based hackable operating system.
+frosted:        Frosted: Free POSIX OS for tiny embedded devices
+libhermit:        HermitCore: A C-based, lightweight unikernel
+phosphorusfive:        A Full Stack RAD Web Application Development Framework
+YOS:        YourtionOS 基于 30dayMakeOS (OSASK) 构建你自己的操作系统
+eduOS-rs:        A teaching operating system written in Rust
+eve:        EVE is Edge Virtualization Engine
+zen:        Experimental operating system written in Zig
+pinpog:        Ping-Pong-like game in Assembly that works without OS
+minimal-linux-script:        One script which generates live Linux ISO image with minimal effort. Based on the first published version of Minimal Linux Live: http://github.com/ivandavidov/minimal
+Escape:        Escape is a UNIX-like microkernel operating system that runs on x86, x86_64, ECO32 and MMIX.
+Q-Operating-System:        Q OS is a versatile operating system designed with the new features of 64 bit "long mode" CPU's in mind that focuses on making everything as simple as possible for the end user
+emutos:        EmuTOS is a Free operating system for Atari ST computers, and more.
+ostep-hw:        Operating Systems: Three Easy Pieces(OSTEP) homework and project solutions ☄️
+Haiway:        Haiway Edge Computing OS
+GATE-and-CSE-Resources-for-Students:        📚 📖 📚CSE GATE Resources for GATE and CSE Aspirants 😎 😁 . Show your ❤️ by ⭐️⭐️
+neu-os:        Based on linux0.11, break it down, then reassemble (For NEU Lab use)
+chino-os:        A real time operating system for IoT written in C++
+pebble:        Microkernel and userspace written in Rust, with first-class message passing
+.CodeBits:        📚 List of resources for Algorithms and Data Structures in Python & other CS topics @2017
+JsOS:        Операционная система на JavaScript | Operating system written in JavaScript
+OS-One:        一个自制的树莓派操作系统

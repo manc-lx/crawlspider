@@ -1,0 +1,91 @@
+Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.
+AirSim:        Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+Game-Networking-Resources:        A Curated List of Game Network Programming Resources
+ue4-style-guide:        An attempt to make Unreal Engine 4 projects more consistent
+simulator:        A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
+sluaunreal:        lua dev plugin for unreal engine 4
+UEViewer:        Viewer and exporter for Unreal Engine 1-4 assets (UE Viewer).
+BLUI:        Rich HTML UI engine for UE4
+ActionRPGGame:        Unreal Engine 4 Action RPG type game starter kit.
+tensorflow-ue4:        TensorFlow plugin for Unreal Engine 4
+OpenGraphic:        Graphic Engine & Game Engine lists
+VaRest:        REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!
+VoxelPlugin:        Voxel Plugin for Unreal Engine
+deepdrive:        Deepdrive is a simulator that allows anyone with a PC to push the state-of-the-art in self-driving
+holodeck:        High Fidelity Simulator for Reinforcement Learning and Robotics Research.
+PBCharacterMovement:        HL2-style, classic FPS movement for Unreal Engine 4 implemented in C++
+UE4GitPlugin:        Unreal Engine 4 Git LFS 2 Source Control Plugin (beta)
+HoudiniEngineForUnreal:        Houdini Engine Plugin for Unreal Engine 4
+DungeonTemplateLibrary:        🌏: dungeon free resources. [terrain generation / roguelike generation]
+UE4VoxelTerrain:        [WIP] Unreal Engine 4: Smooth voxel terrian example
+unrealcpp:        Unreal Engine 4 C++ examples
+Launchpad:        An open-source game launcher for your games
+GASContent:        Repo to gather all Gameplay Ability System content for UE4
+ue4-docker:        Windows and Linux containers for Unreal Engine 4
+UnrealGDK:        SpatialOS GDK for Unreal Plugin
+AugmentedUnreality:        Augmented reality for Unreal Engine 4
+GenericGraph:        Generic graph data structure plugin for ue4
+Unreal-Finder-Tool:        Useful tool to help you fetch and dump Unreal Engine 4 Games information.
+Unreal-Polygonal-Map-Gen:        An Unreal Engine 4 implementation of the Polygonal Map Generator for generating islands found at http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+UnrealEditorPythonScripts:        Some of my personal scripts i made to use for my own projects, but free of charge to be used for any project and any purpose as long as it is not violating the Unreal Engine EULA.
+UE4-Binary-Builder:        An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
+AirSim-NeurIPS2019-Drone-Racing:        Drone Racing @ NeurIPS 2019, built on Microsoft AirSim
+ProceduralMeshes:        Plugin with example procedural mesh actors and components
+02_BullCowGame:        A simple word game designed to teach the basics of C++ and project / solution management. (ref:BC_URC) http://gdev.tv/urcgithub
+gym-unrealcv:        Unreal environments for reinforcement learning
+fortnite-clone-ue4:        A remake of the popular battle royale game, Fortnite, made in Unreal Engine 4 and integrated with Amazon GameLift
+Climbing-Movement-Component:        Climbing Movement Component for Unreal Engine.
+04_BattleTank:        An open-world head-to-head tank fight with simple AI, terrain, and advanced control system in Unreal 4. (ref: BT_URC) http://gdev.tv/urcgithub
+ProceduralMeshDemos:        Examples of procedural mesh generation in Unreal 4.
+CoverGenerator-UE4:        A dynamic cover point generator plugin for Unreal Engine 4.
+ue4-gitignore:        A git setup example with git-lfs for Unreal Engine 4 projects.
+Unreal-Library:        A decompiler library for Unreal packages such as .upk and .u files, supporting Unreal Engine 1, 2, and 3.
+03_BuildingEscape:        A simple First Person game to learn level building, lighting, Unreal Editor, C++ game logic, basic Blueprint and more. (ref: BE_URC) http://gdev.tv/urcgithub
+glTFForUE4:        glTF for UE4
+05_TestingGrounds:        A Hunger-Games inspired FPS with large outdoor terrains. Advanced AI, basic networking, pickups, skeletal meshes, checkpoints and more. (ref: TG_URC) http://gdev.tv/urcgithub
+Swarmz:        A free, header-only C++ swarming (flocking) library for real-time applications
+UECompileTimesVisualizer:        Debug compile times in Unreal Engine & MSVC projects
+StoryGraph:        Quest and dialog editor for UnrealEngine.
+nimue4:        Nim language integration for Unreal Engine 4
+Grid:        An UE4 plugin for grid-based game
+LightmassConfiguration:        LightmassConfiguration is a script made for Unreal Engina 4 to allow to change from Unreal's CPU Lightmass to GPU Lightmass (made by Luoshuang for the Unreal Forums) and back. Since there are no options in GPU Lightmass, the script also allows anyone to change bake quality levels without the need to even restart Unreal Editor.
+LivePP:        A UE4 plugin wrapper for Molecular Matter's Live++ Hot-Reloading Library
+InfraworldRuntime:        A solution that enables Unreal Engine 4 to work with Google gRPC services from either C++ or Blueprints.
+PsRealVehicle:        Plugin for Unreal Engine 4 with simple force-driven vehicle simulation
+VaTexAtlas:        Simple way to use texture atlases for Unreal Engine 4 UMG
+ImsvGraphVis:        Immersive Graph Visualization
+libprotobuf_ue4:        libprotobuf for Unreal Engine 4
+hydra-ue4:        Hydra Plugin for Unreal Engine 4
+BuoyancySystem:        A system for buoyancy and boat physics in Unreal Engine 4.
+UE4GameLiftClientSDK:        Gamelift Client SDK for Unreal Engine 4.
+realtime-server-ue4-demo:        A UE4 State Synchronization demo for realtime-server. 为realtime-server而写的一个UE4状态同步demo.
+Midi-Unreal:        Midi for Unreal Engine
+VaOceanMobile:        Ocean shader created for mobile games on Unreal Engine 4
+flock-ai-ue4-plugin:        A fish flock AI plugin for Unreal Engine 4. 一个基于虚幻4的鱼群 AI 插件.
+ActorX:        Epic Games ActorX plugin source code
+ALSV4_CPP:        Performance optimized & replicated C++ port of Advanced Locomotion System V4 for Unreal Engine 4.25+
+ServerAndLobbySystem:        Server and Lobby System WIP test in Unreal Engine 4 C++ and UMG using the OnlineSubsystem
+holodeck-engine:        High Fidelity Simulator for Reinforcement Learning and Robotics Research.
+UEJoystickPlugin:        Unofficial Joystick Plugin for the Unreal Engine
+Unreal-Development-Guides-and-Tips:        High-level concept explanations, detailed tutorials, performance considerations, shortcuts and other useful content that aims to improve your Unreal Engine 4 development journey.
+kotlin-unreal:        kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4
+tsu:        TypeScript plugin for Unreal Engine 4
+DarkestHour:        Darkest Hour: Europe '44-'45
+FFMPEGMedia:        Unreal FFMPEG Plugin to support more video formats and alpha videos
+UE4-Plugin-OffAxis:        This plugin provides a fishtank-VR via a so-called OffAxisProjection by modifying the projection matrix using a custom ULocalPlayer
+my-awesome-projects:        Learn by doing projects
+buildbot-UnrealEngine:        Buildbot Plugin to run Commands using the Unreal Automation Tool
+global-event-system-ue4:        Loosely coupled internal event system plugin for the unreal engine.
+OpenCL.uplugin:        OpenCL Plugin for Unreal Engine 4
+LocalSimulation:        This plugin allows you to essentially create PxScene or Physic Scenes by placing an Actor, and adding other Static Mesh Components and soon Skeletal Mesh components within this space. Adding Constraints, and Forces will work as expected, but now with the additional layer of abstraction so that simulation can be anchored to a transform.
+PEDRA:        Programmable Engine for Drone Reinforcement Learning Applications
+UT_Framework:        Various advanced tools built for Unreal Engine 4
+CensoredUE4:        World space area censoring solution for Unreal Engine 4. It is using blueprint actor for censoring and can be attached to any other blueprint actor like characters.
+UnrealMosquitto:        A MQTT client with blueprint support for Unreal Engine 4, based on Mosquitto.
+Voreeal:        Voreeal is a voxel library for Unreal Engine 4 powered by PolyVox.
+PostProcessScanEffect:        PostProcess Scan Effect
+UT_GameEventSystem:        A flexible event system in Unreal Engine 4
+UE-Bluetooth-Support:        A code plugin for Unreal Engine that allows developers to access the Bluetooth SDK from Blueprint and C++.
+FWorldGenerator:        Procedural world generator (plugin) for Unreal Engine 4
+LightAct-UE4:        A set of functionalities enabling integration of Unreal Engine with Lightact media server.
+AnimatedCrosshairsUE4:        Animated Crosshairs for Unreal Engine 4 provides 17 ready to use animated UMG widgets including demo scene to test their combination.

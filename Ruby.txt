@@ -1,0 +1,91 @@
+Ruby is a scripting language designed for simplified object-oriented programming.
+rails:        Ruby on Rails
+jekyll:        🌐 Jekyll is a blog-aware static site generator in Ruby
+awesome-interview-questions:        A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+discourse:        A platform for community discussion. Free, open, simple.
+fastlane:        🚀 The easiest way to automate building and releasing your iOS and Android apps
+open-source-mac-os-apps:        🚀 Awesome list of open source applications for macOS.
+gitlabhq:        GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+brew:        🍺 The missing package manager for macOS (or Linux)
+devise:        Flexible authentication solution for Rails with Warden.
+vagrant:        Vagrant is a tool for building and distributing development environments.
+selenium:        A browser automation framework and ecosystem.
+ruby:        The Ruby Programming Language [mirror]
+ruby-style-guide:        A community-driven Ruby coding style guide
+graal:        GraalVM: Run Programs Faster Anywhere 🚀
+rbenv:        Groom your app’s Ruby environment
+diaspora:        A privacy-aware, distributed, open source social network.
+capistrano:        Remote multi-server automation tool
+sinatra:        Classy web-development dressed in a DSL (official / canonical repo)
+awesome-ruby:        💎 A collection of awesome Ruby libraries, tools, frameworks and software
+rubocop:        A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+spree:        Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+sidekiq:        Simple, efficient background processing for Ruby
+postal:        📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+fluentd:        Fluentd: Unified Logging Layer (project under CNCF)
+Command-line-text-processing:        ⚡ From finding text to search and replace, from sorting to beautifying text and more 🎨
+grape:        An opinionated framework for creating REST-like APIs in Ruby.
+activeadmin:        The administration framework for Ruby on Rails applications.
+faker:        A library for generating fake data such as names, addresses, and phone numbers.
+asdf:        Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+kaminari:        ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
+homebrew-core:        🍻 Default formulae for the missing package manager for macOS
+simple_form:        Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+awesomo:        An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+setup:        Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+mal:        mal - Make a Lisp
+factory_bot:        A library for setting up Ruby objects as test data.
+jazzy:        Soulful docs for Swift & Objective-C
+chef:        Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+puma:        A Ruby/Rack web server built for concurrency
+react-rails:        Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.
+github-changelog-generator:        Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+pry:        A runtime developer console and IRB alternative with powerful introspection capabilities.
+rails-style-guide:        A community-driven Ruby on Rails style guide
+paper_trail:        Track changes to your rails models
+brakeman:        A static analysis security vulnerability scanner for Ruby on Rails applications
+scientist:        🔬 A Ruby library for carefully refactoring critical paths.
+dotenv:        A Ruby gem to load environment variables from `.env`.
+nokogiri:        Nokogiri (鋸) is a Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.
+terminal-notifier:        Send User Notifications on macOS from the command-line.
+hanami:        The web, with simplicity.
+httparty:        🎉 Makes http fun again!
+mailcatcher:        Catches mail and serves it through a dream.
+active_model_serializers:        ActiveModel::Serializer implementation and Rails hooks
+slim:        Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
+draper:        Decorators/View-Models for Rails Applications
+evil-icons:        Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
+bundler:        Manage your Ruby application's gem dependencies
+administrate:        A Rails engine that helps you put together a super-flexible admin dashboard.
+rack-attack:        Rack middleware for blocking & throttling
+shenzhen:        CLI for Building & Distributing iOS Apps (.ipa Files)
+passenger:        A fast and robust web server and application server for Ruby, Python and Node.js
+ransack:        Object-based searching.
+backup:        Easy full stack backup operations on UNIX-like systems.
+rvm:        Ruby enVironment Manager (RVM)
+graphql-ruby:        Ruby implementation of GraphQL
+opal:        Ruby ♥︎ JavaScript
+FAQGURU:        🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.
+gaia:        Build powerful pipelines in any programming language.
+errbit:        The open source error catcher that's Airbrake API compliant
+aasm:        AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer)
+simplecov:        Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
+prawn:        Fast, Nimble PDF Writer for Ruby
+rack:        A modular Ruby web server interface.
+openproject:        OpenProject is the leading open source project management software.
+octobox:        📮Untangle your GitHub Notifications
+dryrun:        ☁️ Try the demo project of any Android Library
+awesome-test-automation:        A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
+refinerycms:        An extendable Ruby on Rails CMS that supports Rails 6.0+
+gemoji:        Emoji images and names.
+awesome-web-scraping:        List of libraries, tools and APIs for web scraping and data processing.
+annotate_models:        Annotate Rails classes with schema and routes info
+koala:        A lightweight Facebook library supporting the Graph, Marketing, and Atlas APIs, realtime updates, test users, and OAuth.
+practical-programming-books:        这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文，欢迎Fork，你也可以通过Pull Request参与编辑。
+jruby:        JRuby, an implementation of Ruby on the JVM
+reek:        Code smell detector for Ruby
+clearance:        Rails authentication with email & password.
+padrino-framework:        Padrino is a full-stack ruby framework built upon Sinatra.
+homebrew-bundle:        📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+asciidoctor:        💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
+solidus:        🛒Solidus, Rails eCommerce System

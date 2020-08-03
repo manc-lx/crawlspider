@@ -1,0 +1,90 @@
+Vim is a console-run text editor program.
+neovim:        Vim-fork focused on extensibility and usability
+fzf:        🌸 A command-line fuzzy finder
+YouCompleteMe:        A code-completion engine for Vim
+vim:        The official Vim repository
+spacemacs:        A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
+vim-plug:        🌺 Minimalist Vim Plugin Manager
+SpaceVim:        A community-driven modular vim distribution - The ultimate vim configuration
+nerdtree:        A tree explorer plugin for vim.
+dracula-theme:        🧛🏻‍♂️ Dark theme for all the things!
+awesome-cheatsheets:        超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 ⚡
+vim-go:        Go development plugin for Vim
+powerline:        Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+oni:        Oni: Modern Modal Editing - powered by Neovim
+vim-galore:        🎓 All things Vim!
+ale:        Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+nnn:        n³ The missing terminal file manager for X.
+ranger:        A VIM-inspired filemanager for the console
+Vim:        ⭐ Vim for Visual Studio Code
+vnote:        A note-taking application that knows programmers and Markdown better.
+doom-emacs:        An Emacs framework for the stubborn martian hacker
+vim-gitgutter:        A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+vim-galore-zh_cn:        Vim 从入门到精通
+kakoune:        mawww's experiment for a better code editor
+macvim:        Vim - the text editor - for macOS
+qutebrowser:        A keyboard-driven, vim-like browser based on PyQt5.
+ultisnips:        UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+vimwiki:        Personal Wiki for Vim
+fzf.vim:        fzf ❤️ vim
+deoplete.nvim:        🌠 Dark powered asynchronous completion framework for neovim/Vim8
+vim-easymotion:        Vim motions on speed!
+emmet-vim:        emmet for vim: http://emmet.io/
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+ideavim:        Vim emulation plug-in for IDEs based on the IntelliJ platform.
+vimr:        VimR — Neovim GUI for macOS
+lightline.vim:        A light and configurable statusline/tabline plugin for Vim
+tagbar:        Vim plugin that displays tags in a window, ordered by scope
+vim.wasm:        Vim editor ported to WebAssembly
+nyxt:        Nyxt - Be productive.
+fetool:        大前端的瑞士军刀，只记录有用的。
+nerdcommenter:        Vim plugin for intensely nerdy commenting powers
+vim-polyglot:        A solid language pack for Vim.
+themer:        🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+vim-startify:        🔗 The fancy start screen for Vim.
+vim-devicons:        Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
+goyo.vim:        🌷 Distraction-free writing in Vim
+vim-tmux-navigator:        Seamless navigation between tmux panes and vim splits
+vim-anywhere:        Use Vim everywhere you've always wanted to
+vim-easy-align:        🌻 A Vim alignment plugin
+VsVim:        Vim Emulator Plugin for Visual Studio 2015+
+indentLine:        A vim plugin to display the indention levels with thin vertical lines
+Surfingkeys:        Map your keys for web surfing, expand your browser with javascript and keyboard.
+dein.vim:        ⚡ Dark powered Vim/Neovim plugin manager
+vimtex:        A modern vim plugin for editing LaTeX files.
+space-vim:        🍀 Lean & mean spacemacs-ish Vim distribution
+command-t:        ⌨️ Fast file navigation for VIM
+vimplus:        🚀An automatic configuration program for vim
+editorconfig-vim:        EditorConfig plugin for Vim
+neomake:        Asynchronous linting and make framework for Neovim/Vim
+onedark.vim:        A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
+amp:        A complete text editor for your terminal.
+codi.vim:        📔 The interactive scratchpad for hackers.
+vim-dispatch:        dispatch.vim: Asynchronous build and test dispatcher
+sc-im:        SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
+chromium-vim:        Vim bindings for Google Chrome.
+vim-signify:        ➕ Show a diff using Vim its sign column.
+vim-go-tutorial:        Tutorial for vim-go
+XVim2:        Vim key-bindings for Xcode 9
+vim-as-an-ide:        Workshop on how to use Vim Plugins.
+vim-sneak:        The missing motion for Vim 👟
+dotfiles:        vim, zsh, git, homebrew, nvm, neovim - my whole world
+vim-ruby:        Vim/Ruby Configuration Files
+fzy:        🔍 A simple, fast fuzzy finder for the terminal
+denite.nvim:        🐉 Dark powered asynchronous unite all interfaces for Neovim/Vim8
+vim-test:        Run your tests at the speed of thought
+vim-vixen:        Accelerates your web browsing with Vim power!!
+vim-autoformat:        Provide easy code formatting in Vim by integrating existing code formatters.
+targets.vim:        Vim plugin that provides additional text objects
+vim-bootstrap:        Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
+vim-lsp:        async language server protocol plugin for vim and neovim
+evil:        The extensible vi layer for Emacs.
+papercolor-theme:        🎨 Light & Dark Vim color schemes inspired by Google's Material Design
+typescript-vim:        Typescript syntax files for Vim
+vim-gist:        Vim plugin for Gist
+ActualVim:        Sublime Text 3 input mode using Neovim. Issues are closed, feel free to submit Pull Requests if you have bug fixes however.
+jellybeans.vim:        A colorful, dark color scheme for Vim.
+DotFiles:        My dotfiles for Archlinux and Windows
+vim-ctrlspace:        Vim Space Controller
+calendar.vim:        A calendar application for Vim
+markdown-preview.nvim:        markdown preview plugin for (neo)vim

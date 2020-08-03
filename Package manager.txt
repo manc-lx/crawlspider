@@ -1,0 +1,90 @@
+A package manager is a set of tools that automates and manages computer software.
+yarn:        📦🐈 Fast, reliable, and secure dependency management.
+composer:        Dependency Manager for PHP
+brew:        🍺🐧 The Homebrew package manager for Linux
+bower:        A package manager for the web
+Carthage:        A simple, decentralized dependency manager for Cocoa
+dep:        Go dependency management tool
+CocoaPods:        The Cocoa Dependency Manager.
+poetry:        Python dependency management and packaging made easy.
+vcpkg:        C++ Library Manager for Windows, Linux, and MacOS
+pnpm:        📦🚀 Fast, disk space efficient package manager
+winget-cli:        Windows Package Manager CLI (aka winget)
+choco:        Chocolatey - the package manager for Windows
+antigen:        The plugin manager for zsh.
+cargo:        The Rust package manager
+fisher:        A package manager for the fish shell.
+conan:        Conan - The open-source C/C++ package manager
+patch-package:        Fix broken node modules instantly 🏃🏽‍♀️💨
+awesome-npm:        Awesome npm resources and tips
+nix:        Nix, the purely functional package manager
+cli:        the package manager for JavaScript
+athens:        A Go module datastore and proxy
+xmake:        🔥 A cross-platform build utility based on Lua
+whalebrew:        Homebrew, but with Docker images
+npx:        execute npm package binaries (moved)
+rubygems:        Library packaging and distribution for Ruby.
+berry:        📦🐈 Active development trunk for Yarn 2+ ⚒
+dcos:        DC/OS - The Datacenter Operating System
+habitat:        Modern applications with built-in automation
+hatch:        A modern project, package, and virtual env manager for Python
+tink:        a dependency unwinder for javascript
+ied:        📦 Like npm, but faster - an alternative package manager for Node
+luarocks:        LuaRocks is the package manager for the Lua programming language.
+bolt:        ⚡️ Super-powered JavaScript project management
+spack:        A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+Paket:        A dependency manager for .NET with support for NuGet packages and Git repositories.
+chromebrew:        Package manager for Chrome OS
+bpkg:        Lightweight bash package manager
+Mint:        A package manager that installs and runs executable Swift packages
+straight.el:        🍀 Next-generation, purely functional package manager for the Emacs hacker.
+topgrade:        Upgrade everything
+BaGet:        A lightweight NuGet and symbol server
+integration:        HACS gives you a powerful UI to handle downloads of all your custom needs.
+peru:        a package manager for including other people's code in your projects
+aura:        A secure, multilingual package manager for Arch Linux and the AUR.
+opam:        opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
+libraries.io:        📚 The Open Source Discovery Service
+macports-ports:        The MacPorts ports tree
+dnf:        Package manager based on libdnf and libsolv. Replaces YUM.
+buckaroo:        The decentralized package manager for C++ and friends 🏝️
+Shrine:        A TempleOS distro for heretics
+nimble:        Package manager for the Nim programming language.
+basher:        A package manager for shell scripts.
+trizen:        Lightweight AUR Package Manager
+Rome:        Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
+Projeny:        A project and package manager for Unity
+pacapt:        An ArchLinux's pacman-like wrapper for many package managers
+modern-cpp-template:        A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
+erlang.mk:        A build tool for Erlang that just works.
+Beak:        A command line interface for your Swift scripts
+dub:        Package and build management system for D
+nve:        Run any command on specific Node.js versions
+fusesoc:        Package manager and build abstraction tool for FPGA/ASIC development
+Zebra:        A Useful Package Manager for iOS
+spago:        🍝 PureScript package manager and build tool powered by Dhall and package-sets
+niv:        Easy dependency management for Nix projects
+npq:        🎖safely* install packages with npm or yarn by auditing them as part of your install process
+ostree:        Operating system and container binary deployment and upgrades
+rpm-ostree:        ⚛📦 Hybrid image/package system with atomic upgrades and package layering
+macports-base:        The MacPorts command-line client
+scoop-directory:        A directory of buckets for the scoop package manager for Windows
+quelpa:        Build and install your Emacs Lisp packages on-the-fly directly from source
+bake:        A build system that lets you clone, build and run C/C++ projects with a single command
+hb-appstore:        Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles
+fdroidclient:        Android client application.
+website:        Yarn package manager website
+poac:        Package manager for C++
+npminstall:        Make `npm install` fast and easy.
+cget:        C++ package retrieval
+UpmGitExtension:        Git extension for Unity Package Manager (UPM)
+Ice:        ❄️ A developer friendly package manager for Swift; 100% compatible with Swift Package Manager
+dorado:        🐟 Yet Another bucket for lovely Scoop
+appget:        Free and open package manager for Windows.
+poet:        Poet helps you declare, manage and install dependencies of Python projects, ensuring you have the right stack everywhere.
+ellipsis:        ◦◦◦ Ellipsis is a package manager for dotfiles.
+ort:        A suite of tools to assist with reviewing Open Source Software dependencies.
+universe:        The Mesosphere Universe package repository.
+portage:        [MIRROR] Package management system
+CPM.cmake:        CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+cmake-conan:        CMake wrapper for conan C and C++ package manager

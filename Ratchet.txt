@@ -1,0 +1,68 @@
+Ratchet is a set of libraries to handle WebSockets asynchronously in PHP.
+ratchet:        Filter a stream of values monotonically
+Ratchet:        Asynchronous WebSocket server
+WebSocketBundle:        〽️ Symfony2 server side (Ratchet) & client websocket (Autobahn)
+DVWS:        OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
+Video-Call-App:        A text, audio and video chat application built with webRTC and Ratchet (PHP WebSocket)
+yii2-wschat:        Online chat based on web sockets
+CodeIgniter-Ratchet-Websocket:        This library contains the demo of commenting/posting realtime using CodeIgniter+AngularJS+Ratchet PHP Websocket
+jest-coverage-ratchet:        Uses jest coverage output to raise acceptable coverage threshold to current coverage
+WebSocketAndroidClient:        Android webSocket client for Ratchet Server
+mysql_websocket_chat:        Quickly get a websocket chat up and running
+codeigniter-websocket:        Codeigniter WebSocket Built for real-time application. Inspired by https://github.com/romainrg/ratchet_client
+react-ratchet-gulp:        An app demo build with Gulp, React, Ratchet.
+phpi-websocket:        Scaffolding for Websocket server using Ratchet & PHPi
+php-websocket-server:        WebSocket server with tags management, forward your messages on the right clients with ease !
+RatchetAndClankMod:        https://github.com/Gugu42/RatchetAndClankMod
+chatroom-php-mysql-ratchet:        Chat application in PHP & MySQL using Ratchet Library
+RatchetBundle:        Symfony Bundle to Provide Ratchet Web Socket Server
+cordova-react-redux-boilerplate:        A boilerplate including react, redux, react-router, webpack, cordova
+com.intellij.cordova.todolist:        This source code provides example for simple hybrid mobile app using cordova and ratchet 2.
+phpkonf-2015-demos:        PHPKonf 2015'de yaptığım "PHP ile Soket Programlama ve Ağ Servisleri" sunumuna ait demolar.
+bolt:        Asynchronous WebSocket client
+conference-call-ratchet:        A conference call implementation using WebRTC and Ratchet Web Socket
+ratchet-chat:        A simple ratchet chat using websocket and mysql to store the messages and keep a historic
+battleship:        Простая реализация игры Морской бой с использованием HTML5, JS, PHP, WebSocket
+react-ratchet:        Ratchet components built with React
+socket-chat:        A Symfony 4 based application for simple chat
+chat-vue:        Chat simples utilizando Websocket(Ratchet), Vue.JS e PHP
+phoenix_ratchet:        Phoenix Template Engine for Ratchet
+ratcheted:        Performance Survey of Several Ratcheted Key-Agreement and Messaging Protocols
+react-todo-list:        Trying a Single-Page Application PWA Todo List using ReactJS and Ratchet
+websocket-demo:        https://github.com/KennedyTedesco/websocket-demo
+virgil-ratchet-x:        Virgil Security Ratchet Objective-C/Swift SDK provides an implementation of the Double Ratchet algorithm, which is used by parties to exchange encrypted messages based on a shared secret key.
+php-websocket:        Demo PHP Ratchet WebSocket
+virgil-cryptowrapper-x:        Virgil Crypto library is a small, flexible and convenient wrapper for a variety of cryptographic algorithms. Includes asymmetric key generation, encryption/decryption of data, generation/verification of digital signatures, Pythia protocol and Double Ratchet protocol implementation.
+RCMemory:        Ratchet & Clank memory documentation - Mirrored from https://gitlab.com/Programie/RCMemory
+first-training-project:        Twitter like with chess game built using js, jquery, php, ratchet
+jank:        https://github.com/iamvery/jank
+ratchet-real-time-demo-with-laravel:        Laravel project demonstrating the usage of Ratchet library
+php-socket-simple-chat:        Simple chat by php socket
+generator-ratchet-boilerplate:        Yeoman generator for the Ratchet Boilerplate.
+bookarch:        A book archive example website built with Symfony framework
+Chatting-CI-Ratchet:        Aplikasi chating dengan framework codeigniter dan Ratchet sebagai websocket
+WSRatchetStarterProject:        Simple php WebSocket server that based on ratchet php and work like "echo" WebSocket server
+PHP-Ratchet:        This simple project aims to develop a simple chat application using PHP programming language that implement Ratchet Web socket.
+server:        Base server component for reamp
+chat-server:        A simple php live chat server using ratchet and eloquent
+Ratchet-Web:        Real-time chat using web-sockets
+oily-bird:        A PHP and JavaScript wrapper module that supports caching, websocket and database functionalities
+websocket-presentation:        Presentation and code for implementing websockets in PHP with Ratchet
+zamat-websocket:        Zamat websocket server bundle
+yii2-websocket:        This is the new maintained version of the yii2-websocket package
+connectomatic:        A mockup for a web application which groups users based on job history and hobbies
+Chat:        Chat app using Rathcet
+simple-chat-server-ratchet-php:        Simple PHP chat server which uses Ratchet library
+virgil-ratchet-kotlin:        Virgil Security Ratchet SDK provides an implementation of the Double Ratchet algorithm, which is used by parties to exchange encrypted messages based on a shared secret key.
+Symfony-Chat:        https://github.com/Hypatia13/Symfony-Chat
+giftr:        Store gift ideas for friend's birthday..
+phoenix_jank:        https://github.com/iamvery/phoenix_jank
+stupidmeteo:        Stupid Meteo Very simple mobile web application written in Python/Flask to upload a picture from a smartphone and overlaying text with current weather
+ratchet-demo:        https://github.com/hungneox/ratchet-demo
+Plantae:        Project created during class (T3 module)
+gympro-ios-mock:        Living HTML design for the Gympro iOS app
+websocket-server:        Simple Websocket server written in PHP
+twitter_stream_feed:        [test task] Simple web app to show last tweets in real-time.
+videochat.api:        https://github.com/youssefsamy/videochat.api
+maps-realtime-server:        https://github.com/gustavocastro78/maps-realtime-server
+elevators:        Асинхронное PHP приложение на базе ReactPHP/Ratchet, RabbitMQ, PostgreSQL

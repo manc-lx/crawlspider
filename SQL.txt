@@ -1,0 +1,90 @@
+SQL is a standard language for storing, retrieving and manipulating data in databases.
+spark:        Apache Spark - A unified analytics engine for large-scale data processing
+tidb:        TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+sequelize:        An easy-to-use multi SQL dialect ORM for Node.js
+cockroach:        CockroachDB - the open source, cloud-native distributed SQL database.
+osquery:        SQL powered operating system instrumentation, monitoring, and analytics.
+PayloadsAllTheThings:        A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+dbeaver:        Free universal database tool and SQL client
+mybatis-3:        MyBatis SQL mapper framework for Java
+knex:        A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+Dapper:        Dapper - a simple object mapper for .Net
+shardingsphere:        Distributed database middleware
+ClickHouse:        ClickHouse is a free analytics DBMS for big data
+presto:        The official home of the Presto distributed SQL query engine for big data
+mysql:        Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+mybatis-plus:        An powerful enhanced toolkit of MyBatis for simplify development
+timescaledb:        An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
+q:        q - Run SQL directly on CSV or TSV files
+directus:        Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
+sql.js:        A javascript library to run SQLite on the web.
+records:        SQL for Humans™
+soar:        SQL Optimizer And Rewriter
+rqlite:        The lightweight, distributed relational database built on SQLite.
+elasticsearch-sql:        Use SQL to query Elasticsearch
+usql:        Universal command-line interface for SQL databases
+server:        The core infrastructure backend (API, database, Docker, etc).
+devops-exercises:        Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+flyway:        Flyway by Redgate • Database Migrations Made Easy.
+nopCommerce:        The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+modin:        Modin: Speed up your Pandas workflows by changing a single line of code
+migrate:        Database migrations. CLI and Golang library.
+ransack:        Object-based searching.
+poco:        The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+falcon:        Free, open-source SQL client for Windows and Mac 🦅
+hue:        Open source SQL Query Assistant for Databases/Warehouses
+citus:        Distributed PostgreSQL for multi-tenant and real-time analytics workloads
+FAQGURU:        🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.
+orientdb:        OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
+Yearning:        🐳 A most popular sql audit platform for mysql
+yugabyte-db:        The high-performance distributed SQL database for global, internet-scale apps.
+Exposed:        Kotlin SQL Framework
+beam:        Apache Beam is a unified programming model for Batch and Streaming
+Opserver:        Stack Exchange's Monitoring System
+pg:        Golang ORM with focus on PostgreSQL features and performance
+jOOQ:        jOOQ is the best way to write SQL in Java
+dataset:        Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
+franchise:        🍟 a notebook sql client. what you get when have a lot of sequels.
+datasette:        An open source multi-tool for exploring and publishing data
+ksql:        The event streaming database purpose-built for stream processing applications
+ignite:        Apache Ignite
+sqldelight:        SQLDelight - Generates typesafe Kotlin APIs from SQL
+hive:        Apache Hive
+GRDB.swift:        A toolkit for SQLite databases, with a focus on application development
+requery:        requery - modern SQL based query & persistence for Java / Kotlin / Android
+go-clean-arch:        Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+Flask-AppBuilder:        Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
+nodejs-api-starter:        💥 A GraphQL API boilerplate (template) made with Node.js, TypeScript, and PostgreSQL
+zombodb:        Making Postgres and Elasticsearch work together like it's 2020
+crate:        CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
+go-sqlmock:        Sql mock driver for golang to test database interactions
+blazer:        Business intelligence made simple
+massive-js:        A data mapper for Node.js and PostgreSQL.
+sqlalchemy:        The Database Toolkit for Python
+xo:        Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
+JSqlParser:        JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
+beekeeper-studio:        Cross platform SQL editor and database management app for Windows, Linux, and Mac.
+ElasticHD:        Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等
+beakerx:        Beaker Extensions for Jupyter Notebook
+scenic:        Versioned database views for Rails
+h2database:        H2 is an embeddable RDBMS written in Java.
+pipelinedb:        High-performance time-series aggregation for PostgreSQL
+easy-tips:        A little Tips in my Code Career with Go&PHP 🥳🥳🥳
+fluentmigrator:        Fluent migrations framework for .NET
+sqlx:        🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+omniscidb:        OmniSciDB (formerly MapD Core)
+db:        Data access layer for PostgreSQL, MySQL, SQLite and MongoDB.
+liquibase:        Main Liquibase Source
+octosql:        OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+join-monster:        A GraphQL to SQL query execution layer for query planning and batch data fetching.
+sqlc:        Generate type safe Go from SQL
+pgbadger:        A fast PostgreSQL Log Analyzer
+npgsql:        Npgsql is the .NET data provider for PostgreSQL.
+HeidiSQL:        A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi
+calcite:        Apache Calcite
+gitbase:        SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
+sqlcheck:        Automatically identify anti-patterns in SQL queries
+rom:        Data mapping and persistence toolkit for Ruby
+sqorn:        A Javascript library for building SQL queries
+sql-migrate:        SQL schema migration tool for Go.
+better-sqlite3:        The fastest and simplest library for SQLite3 in Node.js.

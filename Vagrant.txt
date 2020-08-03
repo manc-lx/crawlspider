@@ -1,0 +1,90 @@
+Vagrant is an open-source software product for building and maintaining portable virtual software development environments.
+vagrant:        Vagrant is a tool for building and distributing development environments.
+VVV:        An open source Vagrant configuration for developing with WordPress
+bento:        Packer templates for building minimal Vagrant baseboxes for multiple platforms
+ansible-for-devops:        Ansible examples from Ansible for DevOps.
+redis-windows:        Vagrant redis configuration and the binary releases of MS Open Tech redis port of windows
+DetectionLab:        Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
+trellis:        Ansible playbooks for a WordPress LEMP stack
+shutit:        Automation framework for programmers
+ansible-vagrant-examples:        Ansible examples using Vagrant to deploy to local VMs.
+ansible-tuto:        Ansible tutorial
+infrastructure-as-code-tutorial:        Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
+vagrant-libvirt:        Vagrant provider for libvirt.
+kubernetes-vagrant-centos-cluster:        Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox, only PoC or Demo use.
+drupal-vm:        A VM for Drupal development
+learning-tools:        A collection of tools and files for learning new technologies
+osx-vm-templates:        macOS templates for Packer and VeeWee.
+vccw:        A Vagrant based development environment.
+image-builder-rpi:        SD card image for Raspberry Pi with Docker: HypriotOS
+vagrant-parallels:        Vagrant Parallels Provider
+malboxes:        Builds malware analysis Windows VMs so that you don't have to.
+metta:        An information security preparedness tool to do adversarial simulation.
+vagrant-lamp:        My default LAMP development stack for Vagrant
+landrush:        A Vagrant plugin that provides a simple DNS server for Vagrant guests
+packer-windows:        Windows Templates for Packer: Win10, Server 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
+kubernetes-vagrant-coreos-cluster:        Kubernetes cluster (for testing purposes) made easy with Vagrant and CoreOS.
+Chassis:        📦 Chassis is a virtual server for your WordPress site, built using Vagrant.
+pentest-env:        Pentest environment deployer (kali linux + targets) using vagrant and chef.
+windows-docker-machine:        Work with Windows containers and LCOW on Mac/Linux/Windows
+vagrant-projects:        Vagrant projects for Oracle products and other examples
+macinbox:        Puts macOS in a Vagrant box
+vagrant-docker-compose:        A Vagrant provisioner for docker compose.
+magma:        Platform for building access networks and modular network services
+wocker:        Create your WordPress development environment in 3 SECONDS!
+vagrant-php-dev-box:        PHP 7 vagrant development box with nginx, php-fpm, MySQL, Symfony, Laravel, ... on Ubuntu 16.04
+awesome-vagrant:        A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
+packer-templates:        Scripts and Templates used for generating Vagrant images
+magento2-vagrant-for-developers:        Vagrant Box for Magento 2 Developers
+docker-windows-box:        Various Vagrant envs with Windows 2019/10 and Docker, Swarm mode, LCOW, WSL2, ...
+gbt:        Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
+Helpers:        Handy helper classes, tutorials, etc. for developers
+Agile_Data_Code_2:        Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition
+packer-boxes:        Jeff Geerling's Packer build configurations for Vagrant boxes.
+ansible-playbooks:        Ansible playbook collection that have been written for Ubuntu. Some of the playbooks are Elasticsearch, Mesos, AWS, MySql, Sensu, Nginx etc..
+tads-boilerplate:        Terraform + Ansible + Docker Swarm boilerplate = DevOps on 🔥🔥🔥 | Infrastructure as Code
+cgPwn:        A lightweight VM for hardware hacking, RE (fuzzing, symEx, exploiting etc) and wargaming tasks
+lxdock:        Build and orchestrate your development environments with LXD - a.k.a. Vagrant is Too Heavy™
+wirbelsturm:        Wirbelsturm is a Vagrant and Puppet based tool to perform 1-click local and remote deployments, with a focus on big data tech like Kafka.
+boxbilling:        BoxBilling - Open source billing and client management software
+kube-ansible:        Build a Kubernetes cluster via Ansible playbook. 🔧 🔧 🔧
+vagrant-azure:        Enable Vagrant to manage virtual machines in Microsoft Azure
+vagrant-boxes:        baseboxes build with packer.io for use with vagrant
+vagrant-persistent-storage:        A Vagrant plugin that creates a persistent storage and attaches it to guest machine.
+vip-quickstart:        Retired
+mech:        Easy command line virtual machines for VMWare
+arcemu:        World Of Warcraft 3.3.5a server package
+simple-magento-vagrant:        A VERY simple Magento environment provisioner for Vagrant
+jenkins-bootstrap-shared:        Jenkins as immutable infrastructure made easy. A repository of shared scripts meant to be used as a git submodule. Packing Jenkins, plugins, and scripts into immutable packages and images.
+vagrantboxes:        Handcrafted Arch Linux Vagrant base box with ❤️
+robox:        The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
+vagrant-openstack-provider:        Use Vagrant to manage OpenStack Cloud instances.
+packer-centos-7:        This build has been moved - see README.md
+reprozip:        ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
+chef-bcpc:        Bloomberg Clustered Private Cloud distribution
+jhipster-devbox:        JHipster virtualized development box
+vagrant-debian-jessie:        Automatic Debian 8 Vagrant base box building on OSX, Linux and Windows
+packer:        Packer helpers and templates for Docker, IIS, SQL Server and Visual Studio on Windows and Ubuntu
+samuraiwtf:        The main SamuraiWTF collaborative distro repo.
+packer-build:        Packer Automated VM Image and Vagrant Box Builds
+nixbox:        NixOS Vagrant boxes [maintainer=@zimbatm]
+macos-cookbook:        A Chef cookbook used to provision macOS
+ansible-vault:        🔑 Ansible role for Vault
+joomlatools-vagrant:        Vagrant box for Joomla development.
+windows-vagrant:        Windows 2012R2/10/2016/2019 Base Vagrant Box (https://app.vagrantup.com/rgl)
+vagrant-exec:        Execute commands in Vagrant synced folder
+hands-on-DevOps:        A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec, Alpine 3.10, Ubuntu-bionic, CentOS 7...
+homestead_improved:        A un upgraded fork of the original Laravel Homestead
+DetectionLabELK:        DetectionLabELK is a fork from DetectionLab with ELK stack instead of Splunk.
+ansible-role-hardening:        Ansible role to apply a security baseline. Systemd edition.
+arch-boxes:        Arch-boxes provides automated builds of the Arch Linux releases for different providers and post-processors
+vagrant-lamp-bootstrap:        A super-simple Vagrantfile / bootstrap.sh to setup a LAMP stack inside Vagrant 100% automatically
+forklift:        Helpful deployment scripts for Foreman and Katello
+k8s-vagrant-multi-node:        A Kubernetes Vagrant Multi node environment using kubeadm.
+vagrant-butcher:        Delete Chef client and node when destroying Vagrant VM
+vagrant-elastic-stack:        Giving the Elastic Stack a try in Vagrant
+cakebox:        Framework agnostic virtual PHP Development Environment
+gitlab-ci-stack:        Full CI pipeline project based on Gitlab & Gitlab CI running Docker, completely automated setup by Vagrant & Ansible, providing Let´s Encrypt certificates for private Servers, multiple Gitlab-Runners and the Gitlab Container Registry, incl. GitLab Pages
+vagrant-php7:        A simple Vagrant LAMP setup with PHP 7.1 running on Ubuntu 16.04 LTS
+microservice-app:        A microservices architecture app powered by golang.
+adfs2:        Multi Vagrant environment with Active Directory

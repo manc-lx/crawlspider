@@ -1,0 +1,87 @@
+Node.js is a tool for executing JavaScript in a variety of environments.
+freeCodeCamp:        freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+electron:        Build cross-platform desktop apps with JavaScript, HTML, and CSS
+axios:        Promise based HTTP client for the browser and node.js
+30-seconds-of-code:        Short JavaScript code snippets for all your development needs
+express:        Fast, unopinionated, minimalist web framework for node.
+nvm:        Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+meteor:        Meteor, the JavaScript App Platform
+nw.js:        Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+freecodecamp.cn:        FCC China open source codebase and curriculum. Learn to code and help nonprofits.
+awesome-nodejs:        ⚡ Delightful Node.js packages and resources
+Ghost:        👻 The #1 headless Node.js CMS for professional publishing
+pm2:        Node.js Production Process Manager with a built-in Load Balancer.
+33-js-concepts:        📜 33 concepts every JavaScript developer should know.
+hexo:        A fast, simple & powerful blog framework, powered by Node.js.
+hackathon-starter:        A boilerplate for Node.js web applications
+nest:        A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+standard:        🌟 JavaScript Style Guide, with linter & automatic code fixer
+nativefier:        Make any web page a desktop application
+webtorrent:        ⚡️ Streaming torrent client for the web
+sheetjs:        📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+react-starter-kit:        React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
+mocha:        ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+ava:        Node.js test runner that lets you develop with confidence 🚀
+faas:        OpenFaaS - Serverless Functions Made Simple
+parse-server:        API server module for Node/Express
+sharp:        High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+joplin:        Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+pkg:        Package your Node.js project into an executable
+NeteaseCloudMusicApi:        网易云音乐 Node.js API service
+egg:        🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
+node-lessons:        📕《Node.js 包教不包会》 by alsotang
+mysql:        A pure node.js JavaScript Client implementing the MySQL protocol.
+statsd:        Daemon for easy but powerful stats aggregation
+edex-ui:        A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+fastify:        Fast and low overhead web framework, for Node.js
+keystone-classic:        Node.js CMS and web app framework
+N-blog:        《一起学 Node.js》
+ws:        Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+svgo:        🐯 Node.js tool for optimizing SVG files
+jsdom:        A JavaScript implementation of various web standards, for use with Node.js
+rxdb:        💻 🔄 📱 A realtime Database for JavaScript Applications
+lowdb:        ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+best-resume-ever:        👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+nvm-windows:        A node.js version management utility for Windows. Ironically written in Go.
+node-redis:        A high performance Node.js Redis client.
+awesome-cheatsheets:        👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+Inquirer.js:        A collection of common interactive command line user interfaces.
+feathers:        A framework for real-time applications and REST APIs with JavaScript and TypeScript
+hapi:        The Simple, Secure Framework Developers Trust
+fe-interview:        前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+spellbook-of-modern-webdev:        A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+wp-calypso:        The JavaScript and API powered WordPress.com
+smartcrop.js:        Content aware image cropping
+bit:        Build, distribute and collaborate on components.
+shelljs:        🐚 Portable Unix shell commands for Node.js
+NodeBB:        Node.js based forum software built for the modern web
+brain.js:        🤖 Neural networks in JavaScript
+volkswagen:        🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
+face-api.js:        JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+nightwatch:        End-to-end testing framework written in Node.js and using the Webdriver API
+gpu.js:        GPU Accelerated JavaScript
+ndb:        ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
+verdaccio:        📦🔐A lightweight private npm proxy registry
+reactide:        Reactide is the first dedicated IDE for React web application development.
+marko:        A declarative, HTML-based language that makes building web apps fun
+dataloader:        DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
+node-interview:        How to pass the Node.js interview of ElemeFE.
+outline:        The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+postgraphile:        Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+ungit:        The easiest way to use git. On any platform. Anywhere.
+art-template:        High performance JavaScript templating engine
+nexe:        🎉 create a single executable out of your node.js apps
+spectrum:        Simple, powerful online communities.
+napajs:        Napa.js: a multi-threaded JavaScript runtime
+bull:        Premium Queue package for handling distributed jobs and messages in NodeJS.
+connect:        Connect is a middleware layer for Node.js
+google-api-nodejs-client:        Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+pollyjs:        Record, Replay, and Stub HTTP Interactions.
+Administrative-divisions-of-China:        中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+warriorjs:        🏰 An exciting game of programming and Artificial Intelligence
+javascript-testing-best-practices:        📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+cube.js:        📊 Cube.js - Open Source Analytics Framework
+core:        🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+signale:        Highly configurable logging utility
+pnpm:        📦🚀 Fast, disk space efficient package manager
+ip2region:        Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm

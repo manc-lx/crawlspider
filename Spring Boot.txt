@@ -1,0 +1,88 @@
+Spring Boot is a coding and configuration model for Java applications.
+spring-boot:        spring-boot 项目实践总结
+mall:        mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+spring-boot-examples:        about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+apollo:        Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+generator-jhipster:        JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+spring-boot-demo:        Spring Boot的基础教程，由浅入深，一步一步学习Spring Boot，最后学到的不单单是基础！Spring Cloud基础教程请看：https://github.com/roncoo/spring-cloud-demo
+SpringAll:        循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
+jeecg-boot:        基于代码生成器的低代码平台，无代码开发、超越传统商业平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
+litemall:        又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+SpringCloudLearning:        《史上最简单的Spring Cloud教程源码》
+SpringBoot-Learning:        Spring Boot基础教程，Spring Boot 2.x版本连载中！！！
+eladmin:        项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+piggymetrics:        Microservice Architecture with Spring Boot, Spring Cloud and Docker
+spring-boot-admin:        Admin UI for administration of spring boot applications
+spring-boot-api-project-seed:        🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
+cas:        Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+hsweb-framework:        hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:便捷的通用增删改查,强大的权限管理,动态多数据源,动态表单,在线数据库维护等. 基于 spring-boot,mybaits.
+SpringCloud-Learning:        Spring Cloud基础教程，持续连载更新中
+SpringBoot-Labs:        一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+spring-cloud-examples:        Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等
+FEBS-Shiro:        Spring Boot 2.2.5，Shiro1.4.2 & Layui 2.5.5 权限管理系统。预览地址：http://47.104.70.138:8080/login
+springfox:        Automated JSON API documentation for API's built with Spring
+newbee-mall:        newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+Spring-Cloud-Platform:        Cloud-Platform是国内首个基于Spring Cloud的微服务开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Spring Boot2以及Spring Cloud Gateway相关核心组件，前端采用vue-element-admin组件。
+spring-cloud-netflix:        Integration with Netflix OSS components
+favorites-web:        云收藏 Spring Boot 2.X 开源项目
+awesome-spring-boot:        Spring Boot Resources
+spring-boot-projects:        该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。
+Spring-Boot-In-Action:        Spring Boot 系列实战合集
+hope-boot:        🌱 Hope-Boot 一款现代化的脚手架项目
+kkFileView:        使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、mp4，mp3以及众多类文本如txt、html、xml、java、properties、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览
+Guns:        Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)，可以直接作为一个后台管理系统的脚手架!
+xboot:        基于Spring Boot 2.x的一站式前后端分离快速开发平台XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID生成 动态权限管理 数据权限 工作流 代码生成 定时任务 第三方社交账号、短信登录 单点登录 OAuth2开放平台
+jwt-spring-security-demo:        A demo for using JWT (Json Web Token) with Spring Security and Spring Boot 2
+spring-cloud-gateway:        A Gateway built on Spring Framework 5.x and Spring Boot 2.x providing routing and more.
+spring-cloud-rest-tcc:        以Spring Cloud Netflix作为服务治理基础, 展示基于tcc思想所实现的分布式事务解决方案
+microservices-demo:        Deployment scripts & config for Sock Shop
+spring-cloud-kubernetes:        Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc...
+FEBS-Vue:        SpringBoot，Shiro，JWT，Vue & Ant Design 前后端分离权限管理系统（精力有限，停止维护）
+dubbo-spring-boot-starter:        Dubbo Spring Boot Starter
+TelegramBots:        Java library to create bots using Telegram Bots API
+microservices-platform:        基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。
+speedment:        Speedment is a Stream ORM Java Toolkit and Runtime
+SpringBootLearning:        《Spring Boot教程》源码
+spring-boot-starter-swagger:        自制spring boot starter for swagger 2.x，来试试吧，很好用哦~
+spring-boot-leaning:        Spring Boot 2.X 最全课程代码
+spring-boot-plus:        🔥 Spring-Boot-Plus is a easy-to-use, high-speed, high-efficient,feature-rich, open source spring boot scaffolding. 🚀
+poli:        An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
+zfile:        在线云盘、网盘、OnDrive、云存储、私有云、对象存储、h5ai
+spring-cloud-config:        External configuration (server and client) for Spring Cloud
+SpringBlog:        A simple blogging system implemented with Spring Boot + Hibernate + MySQL + Bootstrap4.
+grpc-spring-boot-starter:        Spring Boot starter module for gRPC framework.
+thinking-in-spring-boot-samples:        小马哥书籍《Spring Boot 编程思想》示例工程
+iBase4J:        Spring，SpringBoot 2.0，SpringMVC，Mybatis，mybatis-plus，motan/dubbo分布式，Redis缓存，Shiro权限管理，Spring-Session单点登录，Quartz分布式集群调度，Restful服务，QQ/微信登录，App token登录，微信/支付宝支付；日期转换、数据类型转换、序列化、汉字转拼音、身份证号码验证、数字转人民币、发送短信、发送邮件、加密解密、图片处理、excel导入导出、FTP/SFTP/fastDFS上传下载、二维码、XML读写、高精度计算、系统配置工具类等等。
+My-Blog:        🌴A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
+spring-boot-vuejs:        Example project showing how to build a Spring Boot App providing a GUI with Vue.js
+spring-cloud-flycloud:        🔥🔥🔥FlyClould 微服务实战项目框架，在该框架中，包括了用 Spring Cloud 构建微服务的一系列基本组件和框架，对于后台服务框架的搭建有很大的参考价值，大家可以参考甚至稍加修改可以直接应用于自己的实际的项目开发中，该项目没有采用Maven进行项目构建，Maven通过xml进行依赖管理，导致整个配置文件太过臃肿，另外灵活性也不是很强，所以我采用Gradle进行项目构建和依赖管理，在FlyTour项目中我们见证了Gradle的强大，通过简单的一些配置就可以轻松的实现组件化的功能。该项目共有11个Module工程。其中10个位微服务工程，这10个微服务工程构成了一个完整的微服务系统，微服务系统包含了8个基础服务，提供了一整套微服务治理功能，他们分别是配置中心module_c…
+spring-boot-quick:        🌿 基于springboot的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、spring-batch、异常处理、日志输出、多模块开发、多环境打包、缓存cache、爬虫、jwt、dubbo和Async等等📌
+jasypt-spring-boot:        Jasypt integration for Spring boot
+segmentfault-lessons:        Segment Fault 在线讲堂 代码工程
+genie:        Distributed Big Data Orchestration Service
+spring-boot-samples:        Spring Boot samples by Netgloo
+jeesite4:        Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE），在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源
+spring-cloud-sleuth:        Distributed tracing for spring cloud
+xxl-sso:        A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO）
+spring-fu:        Programmatic configuration for Spring Boot using Java & Kotlin DSLs
+spring-security-react-ant-design-polls-app:        Full Stack Polls App built using Spring Boot, Spring Security, JWT, React, and Ant Design
+staffjoy:        微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
+jbot:        Make Slack and Facebook Bots in Java.
+whatsmars:        Java生态研究(Spring Boot + Redis + Dubbo + RocketMQ + Elasticsearch)🔥🔥🔥🔥🔥
+weixin-java-mp-demo-springboot:        基于Spring Boot 和 WxJava 实现的微信公众号Java后端Demo，支持多公众号
+any-video:        【已停止维护】
+pybbs:        更实用的Java开发的社区(论坛)，Better use of Java development community (forum)
+spring-cloud-study:        开源书《跟我学Spring Cloud》的配套代码。讨论QQ群：731548893
+mycollab:        An open source, free, high performance, stable and secure Java Application Business Platform of Project Management and Document
+blog:        SpringBoot + Mybatis + thymeleaf 搭建的个人博客 http://www.54tianzhisheng.cn/
+White-Jotter:        白卷是一款使用 Vue+Spring Boot 开发的前后端分离项目，附带全套开发教程。（A simple CMS developed by Spring Boot and Vue.js with development tutorials）
+micro-server:        Microserver is a Java 8 native, zero configuration, standards based, battle hardened library to run Java Rest Microservices via a standard Java main class. Supporting pure Microservice or Micro-monolith styles.
+gs-rest-service:        Building a RESTful Web Service :: Learn how to create a RESTful web service with Spring.
+springboot-project:        这是一个用SpringBoot+JPA打造的基于微信服务号平台的点餐系统的后端，前端是一个使用Vue.js构建的运行于微信公众号的WebApp。前后端完全分离，前后端之间通过RESTful风格的接口相连。
+jbone:        jbone基于Spring Cloud框架开发，旨在为中小企业提供稳定的微服务解决方案，为开发人员提供基础开发骨架，jbone包含微服务中所有常用组件，例如注册中心、服务管理、服务监控、JVM监控、内存分析、调用链跟踪、API网关等等。业务功能包括系统权限的统一管理、单点登录、CMS、电商平台、工作流平台、支付平台等等。
+springboot-dubbox:        基于Spring-boot和dubbox的API接口和后台管理系统
+pacbot:        PacBot (Policy as Code Bot)
+dubbo-spring-boot-mybatis-redis:        通过dubbo+spring boot+mybatis+redis等主流技术搭建成一套分布式服务框架
+FEBS-Cloud:        基于Spring Cloud Hoxton.RELEASE、Spring Cloud OAuth2 & Spring Cloud Alibaba & Element 微服务权限系统，开箱即用。预览地址：https://cloud.mrbird.cn
+X-SpringBoot:        X-SpringBoot是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
+great-big-example-application:        A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack

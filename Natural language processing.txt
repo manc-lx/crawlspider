@@ -1,0 +1,91 @@
+Natural language processing (NLP) is the study of how computers and humans interact.
+transformers:        🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+AiLearning:        AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+bert:        TensorFlow code and pre-trained models for BERT
+HanLP:        Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+spaCy:        💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+lectures:        Oxford Deep NLP 2017 course
+Virgilio:        Your new Mentor for Data Science E-Learning.
+gensim:        Topic Modelling for Humans
+awesome-nlp:        📖 A curated list of resources dedicated to Natural Language Processing (NLP)
+Awesome-pytorch-list:        A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+stanford-tensorflow-tutorials:        This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+compromise:        modest natural-language processing
+rasa:        💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+nltk:        NLTK Source
+flair:        A very simple framework for state-of-the-art Natural Language Processing (NLP)
+allennlp:        An open-source NLP research library, built on PyTorch.
+botpress:        🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+bert-as-service:        Mapping a variable-length sentence to a fixed-length vector using BERT model
+CoreNLP:        Stanford CoreNLP: A Java suite of core NLP tools.
+TextBlob:        Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
+nlp-tutorial:        Natural Language Processing Tutorial for Deep Learning Researchers
+text_classification:        all kinds of text classification models and more with deep learning
+tensorflow_cookbook:        Code for Tensorflow Machine Learning Cookbook
+Awesome-Chinese-NLP:        A curated list of resources for Chinese NLP 中文自然语言处理相关资料
+ML-NLP:        此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
+ansj_seg:        ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
+xlnet:        XLNet: Generalized Autoregressive Pretraining for Language Understanding
+TensorFlow-2.x-Tutorials:        TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。
+nlp_chinese_corpus:        大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP
+nlp-recipes:        Natural Language Processing Best Practices & Examples
+smile:        Statistical Machine Intelligence & Learning Engine
+DeepPavlov:        An open source library for deep learning end-to-end dialog systems and chatbots.
+mycroft-core:        Mycroft Core, the Mycroft Artificial Intelligence platform.
+stanza:        Official Stanford NLP Python Library for Many Human Languages
+flashtext:        Extract Keywords from sentence or Replace keywords in sentences.
+attention-is-all-you-need-pytorch:        A PyTorch implementation of the Transformer model in "Attention is All You Need".
+practical-pytorch:        DEPRECATED and not maintained - see official repo at https://github.com/pytorch/tutorials
+nlp.js:        An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+TagUI:        Command-line tool for digital process automation (RPA)
+BERT-pytorch:        Google AI 2018 BERT pytorch implementation
+tokenizers:        💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+ERNIE:        An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)
+franc:        Natural language detection
+Chinese-BERT-wwm:        Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）
+snips-nlu:        Snips Python library to extract meaning from text
+d2l-pytorch:        This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
+nlp_tasks:        Natural Language Processing Tasks and References
+libpostal:        A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
+ltp:        Language Technology Platform
+GPT2-Chinese:        Chinese version of GPT2 training code, using BERT tokenizer.
+prose:        📖 A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+Parsr:        Transforms PDF, Documents and Images into Enriched Structured Data
+nlp-architect:        A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks
+Dive-into-DL-TensorFlow2.0:        本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
+DeepNLP-models-Pytorch:        Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
+text:        Data loaders and abstractions for text and NLP
+sumy:        Module for automatic summarization of text documents and HTML pages.
+rasa_core:        Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
+nlp:        🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
+awesome-deeplearning-resources:        Deep Learning and deep reinforcement learning research papers and some codes
+sentiment:        AFINN-based sentiment analysis for Node.js.
+papers:        Summaries of machine learning papers
+Familia:        A Toolkit for Industrial Topic Modeling
+eli5:        A library for debugging/inspecting machine learning classifiers and explaining their predictions
+gluon-nlp:        NLP made easy
+kcws:        Deep Learning Chinese Word Segment
+lingvo:        Lingvo
+pytorch-sentiment-analysis:        Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
+neuralcoref:        ✨Fast Coreference Resolution in spaCy with Neural Networks
+thinc:        🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
+nlp-roadmap:        ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP
+kasaya:        A "WYSIWYG" (sort of) scripting language and runtime for browser automation
+bertviz:        Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
+sling:        SLING - A natural language frame semantics parser
+Ai-Learn:        人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域
+lazynlp:        Library to scrape and clean web pages to create massive datasets.
+sru:        Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)
+PyTorch-NLP:        Basic Utilities for PyTorch Natural Language Processing (NLP)
+Kashgari:        Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
+DeepLearn:        Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
+textlint:        The pluggable natural language linter for text and markdown.
+aeneas:        aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
+spacy-course:        👩‍🏫 Advanced NLP with spaCy: A free online course
+DeepLearningForNLPInPytorch:        An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.
+knockknock:        🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
+Information-Extraction-Chinese:        Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
+awesome-sentence-embedding:        A curated list of pretrained sentence and word embedding models
+texthero:        Text preprocessing, representation and visualization from zero to hero.
+Jiagu:        Jiagu深度学习自然语言处理工具 知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
+awesome-bert:        bert nlp papers, applications and github resources, including the newst xlnet ， BERT、XLNet 相关论文和 github 项目

@@ -1,0 +1,89 @@
+Serverless architecture refers to apps that depend on third-party services or custom code.
+serverless:        Serverless 架构应用开发指南 - Serverless Architecture Application Development Guide with Serverless Framework.
+kong:        🦍 The Cloud-Native API Gateway
+tidb:        TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+faas:        OpenFaaS - Serverless Functions Made Simple
+prisma1:        💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
+chromeless:        🖥 Chrome automation made simple. Runs locally or headless on AWS Lambda.
+firecracker:        Secure and fast microVMs for serverless computing.
+Zappa:        Serverless Python
+functions-samples:        Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
+cube.js:        📊 Cube.js - Open Source Analytics Framework
+awesome-aws:        A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
+apex:        Build, deploy, and manage AWS Lambda functions with ease.
+up:        Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+examples:        Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
+serverless-application-model:        AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
+chalice:        Python Serverless Microframework for AWS
+dapr:        Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+landscape:        🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+pulumi:        Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+kubeless:        Kubernetes Native Serverless Framework
+fission:        Fast and Simple Serverless Functions for Kubernetes
+aws-sam-cli:        CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+openwhisk:        Apache OpenWhisk is an open source serverless cloud platform
+fn:        The container native, cloud agnostic serverless platform.
+react-firebase-starter:        Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
+micronaut-core:        Micronaut Application Framework
+lib:        Standard Library API Development, Deployment, and Management Tools
+serverless-offline:        Emulate AWS λ and API Gateway locally when developing your Serverless project
+aws-serverless-express:        Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
+claudia:        Deploy Node.js projects to AWS Lambda and API Gateway easily
+nuclio:        High-Performance Serverless event and data processing platform
+appwrite:        Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+squeezer:        Squeezer Framework - Build serverless dApps
+serving:        Kubernetes-based, scale-to-zero, request-driven compute
+embark:        Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
+cloud-custodian:        Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+aws-serverless-workshops:        Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+webiny-js:        Platform for building serverless applications and APIs (Node.js, React, GraphQL)
+functions:        IronFunctions - the serverless microservices platform by
+incubator-apisix:        The Cloud-Native API Gateway
+docs:        User documentation for Knative components.
+midway:        🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
+komiser:        ☁️ Cloud Environment Inspector 👮🔒 💰
+gloo:        The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
+bless:        Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
+serverless-chrome:        🌐 Run headless Chrome/Chromium on AWS Lambda
+streamalert:        StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
+aws-mobile-react-native-starter:        AWS Mobile React Native Starter App https://aws.amazon.com/mobile
+crossplane:        Manage any infrastructure your applications need directly from Kubernetes
+awesome-learning-resources:        🔥 Awesome list of resources on Web Development.
+keda:        KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+stacks-blockchain:        The Stacks 2.0 blockchain implementation
+awesome-serverless:        DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
+spec:        The Open Application Model specification
+components:        The Serverless Framework's new infrastructure provisioning technology — Build, compose, & deploy serverless apps in seconds...
+space-cloud:        Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
+bref:        Serverless PHP on AWS Lambda
+scar:        Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
+chrome-aws-lambda:        Chromium Binary for AWS Lambda and Google Cloud Functions
+middy:        🛵 The stylish Node.js middleware engine for AWS Lambda
+jets:        Ruby on Jets
+faas-netes:        Serverless Kubernetes with OpenFaaS (Functions as a Service)
+MoonMail:        Email marketing platform for bulk emailing via Amazon SES (Google Cloud Platform and Azure coming soon)
+event-gateway:        React to any event with serverless functions across clouds
+wrangler:        🤠 wrangle your cloudflare workers
+rudr:        A Kubernetes implementation of the Open Application Model specification
+flogo:        Project Flogo is an open source ecosystem of opinionated event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
+fx:        A Function as a Service tool makes a function as a container-based service in seconds.
+azure-functions-host:        The host/runtime that powers Azure Functions
+kui:        A hybrid command-line/UI development experience for cloud-native development
+serverless-webpack:        Serverless plugin to bundle your lambdas with Webpack
+LambdAuth:        A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient solution that is scalable and highly available and can be used with Amazon Cognito for Developer Authenticated Identities.
+aws-lambda-power-tuning:        AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced.
+LambStatus:        [Maintenance mode] Serverless Status Page System
+faast.js:        Serverless batch computing made simple.
+wg-serverless:        CNCF Serverless WG
+awesome-zeit:        The best resources related to ZEIT
+awesome-layers:        λ A curated list of awesome AWS Lambda Layers.
+hook.io:        Open-Source Microservice Hosting Platform
+python-lambda:        A toolkit for developing and deploying serverless Python code in AWS Lambda.
+blockstack-browser:        The Blockstack Browser
+architect:        The simplest, most powerful way to build serverless applications
+formio:        A Form and Data Management Platform for Progressive Web Applications.
+ng-toolkit:        ⭐ Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
+jamstack.org:        The official Jamstack site
+binaryalert:        BinaryAlert: Serverless, Real-time & Retroactive Malware Detection.
+serverless-next.js:        ⚡ Deploy your next apps using the serverless framework
+cstate:        🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.

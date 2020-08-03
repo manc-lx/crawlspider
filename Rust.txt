@@ -1,0 +1,91 @@
+Rust is a systems programming language created by Mozilla.
+rust:        Empowering everyone to build reliable and efficient software.
+alacritty:        A cross-platform, GPU-accelerated terminal emulator
+bat:        A cat(1) clone with wings.
+servo:        The Servo Browser Engine
+awesome-rust:        A curated list of Rust code and resources.
+flatbuffers:        FlatBuffers: Memory Efficient Serialization Library
+fd:        A simple, fast and user-friendly alternative to 'find'
+yew:        Rust / Wasm framework for building client web apps
+redox:        Mirror of https://gitlab.redox-os.org/redox-os/redox
+firecracker:        Secure and fast microVMs for serverless computing.
+Rocket:        A web framework for Rust.
+exa:        A modern version of ‘ls’.
+rustlings:        🦀 Small exercises to get you used to reading and writing Rust code!
+sonic:        🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+tokio:        A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+actix-web:        Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+swc:        Super-fast typescript / javascript compiler written in rust
+starship:        ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+ip2region:        Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
+nushell:        A new type of shell
+tikv:        Distributed transactional key-value database, originally created to complement TiDB
+gdbgui:        Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+navi:        An interactive cheatsheet tool for the command-line and application launchers
+awesomo:        An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+compiler-explorer:        Run compilers interactively from your web browser and interact with the assembly
+hyper:        An HTTP library for Rust
+iced:        A cross-platform GUI library for Rust, inspired by Elm
+MeiliSearch:        Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+xsv:        A fast CSV command line toolkit written in Rust.
+wasmer:        🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+citybound:        A work-in-progress, open-source, multi-player city simulation game.
+openethereum:        Fast and feature-rich multi-network Ethereum client.
+coreutils:        Cross-platform Rust rewrite of the GNU coreutils
+spotify-tui:        Spotify for the terminal written in Rust 🚀
+linkerd2:        Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+cargo:        The Rust package manager
+amethyst:        Data-oriented and data-driven game engine written in Rust
+diesel:        A safe, extensible ORM and Query Builder for Rust
+hyperfine:        A command-line benchmarking tool
+RustPython:        A Python Interpreter written in Rust
+rust-learning:        A bunch of links to blog posts, articles, videos, etc for learning Rust
+book:        The Rust Programming Language
+blog_os:        Writing an OS in Rust
+actix:        Actor framework for Rust.
+hexyl:        A command-line hex viewer
+quicktype:        Generate types and converters from JSON, Schema, and GraphQL
+ffsend:        📬 Easily and securely share files from the command line. A fully featured Firefox Send client.
+tauri:        Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+rust-clippy:        A bunch of lints to catch common mistakes and improve your Rust code
+vector:        A lightweight and ultra-fast tool for building observability pipelines
+grin:        Minimal implementation of the Mimblewimble protocol.
+clap:        A full featured, fast Command Line Argument Parser for Rust
+talent-plan:        open source training courses about distributed database and distributed systemes
+geckodriver:        WebDriver for Firefox
+lsd:        The next gen ls command
+bitwarden_rs:        Unofficial Bitwarden compatible server written in Rust
+broot:        A new way to see and navigate directory trees : https://dystroy.org/broot
+remacs:        Rust ❤️ Emacs
+nom:        Rust parser combinator framework
+azul:        Desktop GUI Framework
+gfx:        A low-overhead Vulkan-like GPU API for Rust.
+delta:        A viewer for git and diff output
+lemmy:        🐀 Building a federated alternative to reddit in rust
+tantivy:        Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+mio:        Metal IO library for Rust
+zola:        A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+sled:        the champagne of beta embedded databases
+quiche:        🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+tokei:        Count your code, quickly.
+piston:        A modular game engine written in Rust
+wasm-bindgen:        Facilitating high-level interactions between Wasm modules and JavaScript
+serde:        Serialization framework for Rust
+lucet:        Lucet, the Sandboxing WebAssembly Compiler.
+tui-rs:        Build terminal user interfaces and dashboards using Rust
+open-location-code:        Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
+intellij-rust:        Rust plugin for the IntelliJ Platform: https://intellij-rust.github.io/
+rustfmt:        Format Rust code
+rfcs:        RFCs for changes to Rust
+rls:        Repository for the Rust Language Server (aka RLS)
+stdweb:        A standard library for the client-side Web
+crossbeam:        Tools for concurrent programming in Rust
+reqwest:        An easy and powerful Rust HTTP Client
+warp:        A super-easy, composable, web server framework for warp speeds.
+pastel:        A command-line tool to generate, analyze, convert and manipulate colors
+juniper:        GraphQL server library for Rust
+Toshi:        A full-text search engine in rust
+tfs:        Mirror of https://gitlab.redox-os.org/redox-os/tfs
+tree-sitter:        An incremental parsing system for programming tools
+wasm-pack:        📦✨ your favorite rust -> wasm workflow tool!
+conrod:        An easy-to-use, 2D GUI library written entirely in Rust.

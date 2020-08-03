@@ -1,0 +1,91 @@
+Julia is a high-level, high-performance dynamic programming language for numerical computing.
+julia:        The Julia Language: A fresh approach to technical computing.
+papermill:        📚 Parameterize, execute, and analyze notebooks
+Gadfly.jl:        Crafty statistical graphics for Julia.
+ESL-CN:        The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。
+DifferentialEquations.jl:        Multi-language suite for high-performance solvers of differential equations
+JuMP.jl:        Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
+Knet.jl:        Koç University deep learning framework.
+Plots.jl:        Powerful convenience for Julia visualizations and data analysis
+Julia.jl:        Curated decibans of Julia programming language.
+PyCall.jl:        Package to call Python functions from the Julia language
+cocalc:        CoCalc: Collaborative Calculation in the Cloud
+DataFrames.jl:        In-memory tabular data in Julia
+Zygote.jl:        Intimate Affection Auditor
+TensorFlow.jl:        A Julia wrapper for TensorFlow
+MLJ.jl:        A Julia machine learning framework
+fib:        Performance Benchmark of top Github languages
+AlphaZero.jl:        A generic, simple and fast implementation of Deepmind's AlphaZero algorithm.
+UnicodePlots.jl:        Unicode-based scientific plotting for working in the terminal
+learn-julia-the-hard-way:        Learn Julia the hard way!
+Makie.jl:        High level plotting on the GPU.
+julia-vscode:        Julia extension for Visual Studio Code
+Cxx.jl:        The Julia C++ Interface
+probabilistic_robotics:        solution of exercises of the book "probabilistic robotics"
+Optim.jl:        Optimization functions for Julia
+Distributions.jl:        A Julia package for probability distributions and associated functions.
+LightGraphs.jl:        An optimized graphs package for the Julia programming language
+JuliaBoxTutorials:        Learn Julia via interactive tutorials!
+go-cshared-examples:        Calling Go Functions from Other Languages using C Shared Libraries
+julia-vim:        Vim support for Julia.
+Weave.jl:        Scientific reports/literate programming for Julia
+model-zoo:        Please do not feed the models
+OnlineStats.jl:        Single-pass algorithms for statistics
+CUDAnative.jl:        Julia support for native CUDA programming
+ScikitLearn.jl:        Julia implementation of the scikit-learn API
+LightML.jl:        Minimal and clean examples of machine learning algorithms implemented in Julia
+Convex.jl:        A Julia package for disciplined convex programming
+JuliaZH.jl:        Julia语言中文文档
+ForwardDiff.jl:        Forward Mode Automatic Differentiation for Julia
+Images.jl:        An image library for Julia
+DataStructures.jl:        Julia implementation of Data structures
+JuliaBasics:        The open source version of book `Julia Programming Basics`
+Pluto.jl:        ⚡ Lightweight reactive notebooks for Julia
+PyPlot.jl:        Plotting for Julia based on matplotlib.pyplot
+Documenter.jl:        A documentation generator for Julia.
+GLM.jl:        Generalized linear models in Julia
+DynamicalSystems.jl:        Award winning software library for chaos and nonlinear dynamics
+ParallelAccelerator.jl:        The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs
+Pkg.jl:        Pkg - package manager for the Julia language
+POMDPs.jl:        MDPs and POMDPs in Julia - An interface for defining, solving, and simulating fully and partially observable Markov decision processes on discrete and continuous spaces.
+StatsBase.jl:        Basic statistics for Julia
+QuantumOptics.jl:        Library for the numerical simulation of closed as well as open quantum systems.
+mostly-harmless-replication:        Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
+CuArrays.jl:        A Curious Cumulation of CUDA Cuisine
+ApproxFun.jl:        Julia package for function approximation
+Oceananigans.jl:        🌊 Fast and friendly fluid dynamics on CPUs and GPUs
+BenchmarkTools.jl:        A benchmarking framework for the Julia language
+ModelingToolkit.jl:        A modeling framework for automatically parallelized scientific computing in Julia
+Query.jl:        Query almost anything in julia
+gcc_termux:        Gcc for termux with fortran scipy etc... Use apt for newest updates instructions in README.txt
+Kernels:        This is a set of simple programs that can be used to explore the features of a parallel platform.
+HybridAStarTrailer:        A path planning algorithm based on Hybrid A* for trailer truck
+Julia-DataFrames-Tutorial:        A tutorial on Julia DataFrames package
+julia-intellij:        💻 Julia Plugin for IntelliJ IDEA ┗😃┛ ┏😃┓ ┗😃┛
+DiffEqTutorials.jl:        Tutorials for using the DiffEq ecosystem
+Unitful.jl:        Physical quantities with arbitrary units
+Literate.jl:        Simple package for literate programming in Julia
+Luxor.jl:        Simple drawings using vector graphics; Cairo "for tourists!"
+Latexify.jl:        Convert julia objects to LaTeX equations, arrays or other environments.
+jns:        jupyter notebook and lab on Raspberry Pi
+PlotlyJS.jl:        Julia library for plotting with plotly.js
+Parameters.jl:        Types with default field values, keyword constructors and (un-)pack macros
+MixedModels.jl:        A Julia package for fitting (statistical) mixed-effects models
+Interpolations.jl:        Fast, continuous interpolation of discrete datasets in Julia
+OpenCL.jl:        OpenCL Julia bindings
+Measurements.jl:        Error propagation calculator and library for physical measurements. It supports real and complex numbers with uncertainty, arbitrary precision calculations, operations with arrays, and numerical integration.
+DSP.jl:        Filter design, periodograms, window functions, and other digital signal processing functionality
+Clustering.jl:        A Julia package for data clustering
+Distances.jl:        A Julia package for evaluating distances (metrics) between vectors.
+Julia-Cheat-Sheet:        Julia v1.0 Cheat Sheet
+AutoMLPipeline.jl:        A package that makes it trivial to create and evaluate machine learning pipeline architectures.
+MultivariateStats.jl:        A Julia package for multivariate statistics and data analysis (e.g. dimension reduction)
+Catlab.jl:        A framework for applied category theory in the Julia language
+Compose.jl:        Declarative vector graphics
+LanguageServer.jl:        An implementation of the Microsoft Language Server Protocol for the julia language.
+Soss.jl:        Probabilistic programming via source rewriting
+ArrayFire.jl:        Julia wrapper for the ArrayFire library
+Calculus.jl:        Calculus functions in Julia
+PGFPlotsX.jl:        Create plots in Julia using the PGFPlots LaTeX package
+JLD.jl:        Saving and loading julia variables while preserving native types
+MPI.jl:        MPI wrappers for Julia

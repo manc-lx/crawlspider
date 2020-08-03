@@ -1,0 +1,91 @@
+Project management is about building scope and executing on the project's goals.
+erpnext:        Open Source Alternative to SAP
+kanboard:        Kanban project management software
+openproject:        OpenProject is the leading open source project management software.
+octobox:        📮Untangle your GitHub Notifications
+taiga-front:        Agile project management platform. Built on top of Django and AngularJS
+projectile:        Project Interaction Library for Emacs
+bolt:        ⚡️ Super-powered JavaScript project management
+dephell:        📦 🔥 Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
+pearProject:        pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
+goodwork:        Self hosted project management and collaboration tool powered by Laravel & VueJS
+actionview:        An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.
+92five:        Self hosted project management application
+mycollab:        An open source, free, high performance, stable and secure Java Application Business Platform of Project Management and Document
+organice:        An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
+toodles:        Project management directly from the TODOs in your codebase
+vscode-project-manager:        Project Manager Extension for Visual Studio Code
+gantt-elastic:        Gantt Chart [ javascript gantt chart, gantt component, vue gantt, vue gantt chart, responsive gantt, project manager , vue projects ]
+masterlab:        简单高效、基于敏捷开发的项目管理工具
+Projeny:        A project and package manager for Unity
+zentaopms:        Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​
+JavaScriptEnhancements:        JavaScript Enhancements is a plugin for Sublime Text 3. It offers not only a smart javascript autocomplete but also a lot of features about creating, developing and managing javascript projects (real-time errors, code refactoring, etc.).
+lavagna:        Lavagna: issue tracker/project management tool
+leantime:        Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
+ganttproject:        Official GanttProject repository
+workflowr:        Organize your project into a research website
+prm:        A minimal project manager for the terminal.
+gh-board:        "Serverless" Kanban for GitHub Issues using gh-pages
+yona:        Project Hosting SW, DEMO:
+triage:        Interactive command-line GitHub issue & notification triaging tool.
+TeamVision:        Teamvision软件工程协作工具
+How-to-collaborate-on-github:        A mini book about collaborating on GitHub
+phproject:        A high performance full-featured project management system
+towncrier:        Building newsfiles for your project.
+awesome-management:        👔 Engineering Team Management Knowledge Base
+pmanager:        A project management system built using laravel. Watch full video here
+Scrumwala:        Scrumwala: Your very own Scrum, Agile project management web app - built with Laravel
+Forge:        F# CLI tool for project, file, and solution management
+free-pmo:        Project management software for freelancers or agencies, built with Laravel 5.
+gantt-for-react:        🌿 Frappe Gantt components for React wrapper. 一个简单的甘特图 React 组件封装。
+counsel-projectile:        Ivy UI for Projectile
+farm:        Zerocrat Core Engine
+Collabtive:        Collabtive is web based project management software
+DrWatson.jl:        The perfect sidekick to your scientific inquiries
+projj:        Manage repository easily.
+vcspull:        🔄 synchronize projects via yaml/json manifest. built on libvcs
+Kreta:        Modern project management solution
+wp-project-manager:        The Project Management plugin for WordPress
+web2project:        A web-based project management system featuring gantt charts, time logging, and an extendable module system.
+ocean:        🌊 The Data Economy
+resources:        Project proposals
+jira-dependency-graph:        Graph visualizer for JIRA tickets' dependencies
+vscode-kanban:        Kanban board for Visual Studio Code.
+bitnami-docker-redmine:        Bitnami Docker Image for Redmine
+traq:        Project management and issue tracking system written in PHP.
+master-plan:        Project Management for Hackers
+overview:        🎈 Start here for current projects, how to get involved, and joining community calls, a resource for new and veteran members
+egroupware:        Web based groupware server written in PHP, forum at https://help.egroupware.org/
+masterplan:        MasterPlan is a project management software / visual idea board software. It attempts to be easy to use, lightweight, and fun.
+codo-tools:        CODO运维工具支持：告警管理、告警自愈、项目管理、事件管理、加密解密、随机密码、提醒管理等
+wookteam:        WookTeam是一款轻量级的在线团队协作工具，提供各类文档工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，知识库管理等工具。
+redmine-progressive-projects-list:        Redmine plugin provides projects list with progress bars for every project and version
+rebacklogs:        Re:Backlogs is an Open Source Project Management Tool.
+atom-project-viewer:        Project Viewer - An Atom's package
+wuffle:        A multi-repository task board for GitHub issues.
+ganttchart_generator:        Google spreadsheet add-on which allows users to create a gantt chart automatically
+projectforge:        https://github.com/micromata/projectforge
+psync:        Synchronize project based on rsync; support watching changes and sync automatically
+web-monitoring:        Documentation and project-wide issues for the Website Monitoring project (a.k.a. "Scanner")
+projmgr:        R-based project management tools
+yoda:        GitHub extension for agile project management, using the issues subsystem.
+inq:        A gem that explains the state of a GitHub repository.
+gop:        Moved to https://gitea.com/lunny/gop
+hr-payroll:        HRM is a Modern and responsive Human Resource Management System. It is developed by PHP and Codeigniter framework. It is designed and developed for office management and company employee management.
+pull-request-labeler-action:        ⚡ Github action to label your pull requests auto-magically ✨(using committed files)
+pms:        Laravel based Project Management System
+effective:        Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [Old code base; launching privately then more publicly with BRAND NEW code base in June 2020!]
+pmis:        Odoo as a Project Management Information System
+latelier:        L'atelier, a project management tool
+react-trello-multiboard:        React-Trello-Multiboard is a single-page application built with React displaying multiple cards of several Trello® boards and lists. The cards can be filtered by preferred team members.
+activity:        Making it easier for nonprofits to manage their project activities and indicators. Interested in contributing? Check out our open issues: https://tinyurl.com/activity-issues
+KanboardCSS:        Kanboard plugin theme for improved design
+NearBeach:        NearBeach is an open sourced project management tool, helping you keep track of your project. It comes with a simple CRM and requirement tools
+duck:        Create command snippets for repetitive development task. Share them to an online repository system (self hosted options available).
+Project-Management-Software:        PHP - Issue Tracking And Project Management System with multilanguage support, email server sync, responsive design
+Orchardcollaboration:        Orchard Collaboration is a free, open source ticketing system, project management and collaboration framework build on top of the Orchard CMS. It natively integrates with Orchard CMS and extends its features by allowing its users to collaboratively work on the content or by simplifying communication with the customers.
+binder:        Emacs global minor mode facilitating multi-file writing projects
+phpcollab:        Project management and collaboration over the internet.
+djanban:        Stats for kanban boards, now as a Django application
+datum:        Zerocracy Project Data Model
+webissues:        WebIssues team collaboration system.

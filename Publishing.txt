@@ -1,0 +1,91 @@
+Publishing is the dissemination of making information available to the general public through various mediums.
+Ghost:        👻 The #1 headless Node.js CMS for professional publishing
+lerna:        🐉 A tool for managing JavaScript projects with multiple packages.
+pandoc:        Universal markup converter
+papermill:        📚 Parameterize, execute, and analyze notebooks
+gradle-play-publisher:        GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.
+substance:        A JavaScript library for web-based content editing.
+canvas:        A Laravel publishing platform
+wink:        A Laravel-based publishing platform
+Casper:        The default personal blogging theme for Ghost
+writefreely:        Build a digital writing community.
+epubcheck:        Validation tool for EPUB
+sile:        Simon's Improved Layout Engine
+texture:        A visual editor for research.
+auto:        Generate releases based on semantic version labels on pull requests.
+easybook:        Book publishing as easy as it should be (built with Symfony components)
+joss:        The Journal of Open Source Software
+postleaf:        Simple, beautiful publishing with Node.js.
+Publish-Docker-Github-Action:        A Github Action which uses the Git branch as the Docker tag for pushing
+markdeep:        Official public Markdeep source archive
+The-Shell:        Ghost Theme 👻
+pressbooks:        Open publishing. Open web. Open source.
+gradle-maven-publish-plugin:        Gradle plugin that configures an uploadArchives task to automatically upload all of your Java, Kotlin or Android libraries to any Maven instance.
+android-maven-publish:        Modification of the standard Maven Publish plugin to be compatible with android-library projects (aar).
+caffeine-theme:        A minimalist, Material Design inspired Ghost Theme for optimal desktop and mobile experiences
+Ghost-CLI:        CLI Tool for installing & updating Ghost
+PodcastGenerator:        Open Source Podcast Publishing Solution since 2006
+pandoc-scholar:        Create beautiful and semantically meaningful articles with pandoc.
+notehub:        A pastebin for markdown pages.
+dita-ot:        The DITA Open Toolkit is an implementation of the OASIS DITA specification.
+rootstock:        Clone me to create your Manubot manuscript
+Open-Publisher:        Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
+parsifal:        Parsifal is a tool to assist researchers to perform Systematic Literature Reviews
+google-docs-publisher:        Publish good looking Google Docs
+Ghost-Android:        🤖 Ghost for Android
+manshar:        NO LONGER BEING MAINTAINED - Arabic social publishing platform — منصة نشر مخصصة للغة العربية
+manubot:        Python utilities for Manubot: Manuscripts, open and automated
+boo:        Boo - A beautiful, clean and responsive theme for Ghost.
+lines-engine:        Lines is a customizable blog framework for Rails. It aims at making publishing simple and beautiful.
+dotcom-rendering:        The Guardian DotCom Rendering Service.
+London:        A free, open source theme for Ghost
+whatsbook:        Create books from WhatsApp group chats with Python and LaTeX
+publ-epub-revision:        Shared workspace for EPUB 3 specifications.
+Starter:        A development starter theme for Ghost
+ghost-on-heroku:        One-button Heroku deploy for the Ghost 3.2.0 blogging platform.
+fjpublish:        A simple CLI for publish your projects.
+uptoc:        A static file deployment tool that supports multiple platforms./ 一个支持多家云厂商的静态文件部署工具
+archivist:        A full-stack publishing solution involving different technologies to power digital archives
+Editorial:        A free, open source theme for Ghost
+Massively:        A free, open source theme for Ghost
+vipa:        📚 Virtual Intelligent Publishing Assistant (Vipa): A journal management and publishing software
+asciidoc-book-toolchain:        Book publishing toolchain based on AsciiDoc
+Subtitles:        Add subtitles into your WordPress posts, pages, custom post types, and themes. No coding required. Simply activate Subtitles and you're ready to go.
+thunder-distribution:        A Drupal 8 based platform for professional publishers
+typemill:        TYPEMILL is a simple and lightweight Flat-File-CMS for authors and publishers.
+Lyra:        A paid-members theme for Ghost
+janeway:        A journal management system designed for publishing scholarly articles.
+django-publications:        A Django app for managing scientific publications.
+quad:        document processor in Racket
+lightning-rs:        Yet another static site generator—but this one's written in Rust
+web-publisher:        Superdesk Publisher - the next generation publishing platform for journalists and newsrooms.
+please:        please is semver release made easy
+amusewiki:        Text::Amuse-based publishing platform
+2read:        Convert article in current tab to readable form and upload it to P2P network - IPFS
+wpub:        W3C Web Publications
+org-mode:        This is a MIRROR only, do not send PR.
+branchsite:        CLI tool for publishing your static website to a separate branch
+publish:        Publish provides beautiful editorial interfaces for the management of content within API
+hyperfeed:        decentralized rss publishing
+rentry:        Markdown pastebin from command line https://rentry.co/
+dispatch:        A publishing platform for modern newspapers.
+publish-nuget:        📦 GitHub action to automate publishing NuGet packages when project version changes
+poosh:        🌎 Publish local files to virtually any remote endpoint (e.g. AWS S3)
+bookiza.cli:        A book reification framework (CLI) for the web. Website →
+languagecheck:        Improve the language of your paper before submission
+teleposter:        Simple and lightweight client for Telegra.ph
+arabica:        A sound and versatile pandoc LaTeX boilerplate to produce academic books using Markdown files featuring YAML, KOMA-Script, BibLaTeX and CSL
+aletheia-app:        Alethia peer to peer publishing platform
+quantum-journal:        LaTeX template class for Quantum - the open journal for quantum science
+cusca:        A ghost theme
+crossref:        Download metadata for all DOIs using the Crossref API
+publ-cg:        EPUB 3 Community Group Repository
+open-retractions:        ‼️ 📄 🔍 an API and web interface to check if a paper has been retracted
+allofplos:        Repository for the allofplos project.
+in2publish_core:        in2publish Community Version
+git-rdm:        A research data management plugin for the Git version control system.
+Pico:        A paid members publishing theme for Ghost
+apple-news:        A Node.js client for interacting with the Apple News API 📰
+github-create-release-action:        Github Action that create Github Release automatically
+biblatex-sp-unified:        An opinionated biblatex implementation of the Unified Stylesheet for Linguistics Journals
+dokuroam:        DokuWiki based implementation of Roam Research

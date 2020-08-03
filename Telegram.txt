@@ -1,0 +1,89 @@
+Telegram is a non-profit, cloud-based instant messaging service.
+Telegram:        Telegram for Android source
+tdesktop:        Telegram Desktop messaging app
+python-telegram-bot:        We have made you a wrapper you can't refuse
+webogram:        Telegram web application, GPL v3
+community-edition:        Free and Open Source messaging and emailing app that combines common web applications into one.
+alerts-and-pickers:        Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
+chat:        Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+node-telegram-bot-api:        Telegram Bot API for NodeJS
+Messenger:        Open source, native iOS Messenger, with audio/video calls and realtime chat conversations (full offline support).
+franz:        Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
+Telethon:        Pure Python 3 MTProto API Telegram client library, for bots too!
+PokemonGo-Bot:        The Pokemon Go Bot, baking with community.
+libretaxi:        Open source Uber #deleteuber
+telegraf:        Modern Telegram Bot Framework for Node.js
+bottender:        ⚡️ A framework for building conversational user interfaces.
+pyTelegramBotAPI:        Python Telegram bot api.
+td:        Cross-platform library for building Telegram clients
+matterbridge:        bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
+telegram-list:        List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
+telepot:        Python framework for Telegram Bot API
+core:        PHP Telegram Bot based on the official Telegram Bot API
+telegram-bot-api:        Golang bindings for the Telegram Bot API
+TelegramBots:        Java library to create bots using Telegram Bots API
+telegram-bot-sdk:        🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.
+claudia-bot-builder:        Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
+messaging-apis:        Messaging APIs for multi-platform
+sharer.js:        🔛 🔖 Create your own social share buttons. No jquery.
+ferdi:        🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
+Telegram.Bot:        .NET Client for Telegram Bot API
+TelegramGallery:        world level Gallery , from Telegram，Photo album selector，QQ style
+integram:        Integrate Telegram into your workflow – Trello, Gitlab, Bitbucket and other bots
+MadelineProto:        Async PHP client/server API for the telegram MTProto protocol
+pyrogram:        Telegram MTProto API Client Library and Framework for Python
+Unigram:        A Telegram desktop app made for Windows 10
+telegram-bot-ruby:        Ruby wrapper for Telegram's Bot API
+telebot:        The easy way to write Telegram bots in Node.js
+intergram:        Free live chat widget linked to your Telegram messenger
+TelegramGroup:        Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
+mtg:        Bullshit-free MTPROTO proxy for Telegram
+telegram-react:        Experimental Telegram web client with tdlib, webassembly and react js under the hood
+TLSharp:        Telegram client library implemented in C#
+rssbot:        中文 Telegram RSS 机器人
+Chatistics:        💬 Python scripts to parse Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.
+integrations:        Connect your App to Multiple Messaging Channels with the W3C Open standard.
+Zabbix-in-Telegram:        Zabbix Notifications with graphs in Telegram
+aiva:        AIVA (A.I. Virtual Assistant): General-purpose virtual assistant for developers.
+java-telegram-bot-api:        Telegram Bot API for Java
+informer:        A Telegram Mass Surveillance Bot in Python
+telegram-api:        Complete async capable Telegram bot API implementation for PHP7
+DarkNet_ChineseTrading:        🚇暗网中文网监控爬虫(DEEPMIX)[站点已更新,脚本暂无法正常运行,请等待最新推送]
+telegramd:        Unofficial open source telegram server written in golang
+TelegramTUI:        Telegram client on your terminal
+telegram-mtproto:        Telegram client api (MTProto) library
+flowerss-bot:        A telegram bot for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
+telegram-bot:        Ruby gem for building Telegram Bot with optional Rails integration
+telegram-sms:        A robot running on your Android device.
+Universal-Arduino-Telegram-Bot:        Use Telegram on your Arduino (ESP8266 or Wifi-101 boards)
+mailgo:        💌 mailgo, a new concept of mailto and tel links
+TelegramBotPHP:        A very simple PHP Telegram Bot API for sending messages.
+telegram-send:        Send messages and files over Telegram from the command-line.
+telega.el:        GNU Emacs telegram client (unofficial)
+awesome-telegram:        Collection great groups, channels, bots and libraries for Telegram
+OctoBot:        Cryptocurrency trading bot: high frequency, daily trading, social trading, ...
+telegram_backup:        Java app to download all your telegram data.
+Telegram-Anti-Revoke:        Telegram anti-revoke plugin - Telegram 防撤回插件
+awesome-bots:        Awesome Links about bots.
+diun:        🔔 Receive notifications when an image is updated on a Docker registry
+chatengine:        Open source mtproto server written in golang with compatible telegram client
+W.I.L.L:        A python written personal assistant
+gOSINT:        OSINT Swiss Army Knife
+GroupButler:        This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more!
+aiotg:        Asynchronous Python library for building Telegram bots
+pytg:        Python package that wraps around Telegram messenger CLI. Send and receive messages, and more.
+telegram:        Telegram Bot API Wrapper for Scala
+alertmanager-bot:        Bot for Prometheus' Alertmanager
+tgbot-cpp:        C++ library for Telegram bot API
+telegram-middleman-bot:        🤖 A Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
+tgram:        typegram: open source publishing platform
+awesome-telegram-chats:        https://github.com/A-gambit/awesome-telegram-chats
+shell-bot:        🤖 Telegram bot that executes commands and sends the live output
+mautrix-telegram:        A Matrix-Telegram hybrid puppeting/relaybot bridge
+UnifiedMessageRelay:        Group Message Forward Framework (supports QQ Telegram Line Discord)
+lanGhost:        👻 A LAN dropbox chatbot controllable via Telegram
+telegram-tutorial:        Уроки по написанию своих Telegram-ботов
+messenger-iOS-chat-swift-firestore:        Messenger Clone - Real-time iOS Chat with Firebase Firestore written in Swift
+teloxide:        📮 An elegant Telegram bots framework for Rust
+TrashEmail:        A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.
+laravel-social-auto-posting:        🌈Laravel social auto posting

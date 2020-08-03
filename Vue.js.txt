@@ -1,0 +1,91 @@
+Vue.js is a JavaScript framework for building interactive web applications.
+vue:        🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+free-programming-books-zh_CN:        📚 免费的计算机编程类中文书籍，欢迎投稿
+vue-element-admin:        🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+element:        A Vue.js 2.0 UI Toolkit for Web
+ionic-framework:        A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+prettier:        Prettier is an opinionated code formatter.
+vue2-elm:        基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+nuxt.js:        The Intuitive Vue Framework
+vuetify:        🐉 Material Component Framework for Vue
+taro:        开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
+vuex:        🗃️ Centralized State Management for Vue.js.
+uni-app:        uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
+iview:        A high quality UI Toolkit built on Vue.js 2.0
+sheetjs:        📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+postwoman:        👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
+mpvue:        基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+Daily-Interview-Question:        我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+NativeScript:        NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
+vux:        Mobile UI Components based on Vue & WeUI
+vuepress:        📝 Minimalistic Vue-powered static site generator
+vue-router:        🚦 The official router for Vue.js.
+CS-Interview-Knowledge-Map:        Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
+marktext:        📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+mint-ui:        Mobile UI elements for Vue.js
+quasar:        Quasar Framework - Build high-performance VueJS user interfaces in record time
+iview-admin:        Vue 2.0 admin management system template based on iView
+vant:        Lightweight Mobile UI Components built on Vue
+docsify:        🃏 A magical documentation site generator.
+jeecg-boot:        基于代码生成器的低代码平台，无代码开发、超越传统商业平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
+litemall:        又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+best-resume-ever:        👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+electron-vue:        An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+Vue.Draggable:        Vue drag-and-drop component based on Sortable.js
+better-scroll:        📜 inspired by iscroll, and it supports more features and has a better scroll perfermance
+fe-interview:        前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+bootstrap-vue:        BootstrapVue, with over 45 plugins, more than 85 custom components and over 670 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+koel:        🐦 A personal music streaming server that works.
+vue-admin-template:        a vue2.0 minimal admin template
+ant-design-vue:        🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
+vue-manage-system:        基于vue + element的后台管理系统解决方案
+bootstrap-table:        An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+coreui-free-bootstrap-admin-template:        CoreUI is free bootstrap admin template
+PicGo:        🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+vue-awesome-swiper:        🏆 Swiper component for @vuejs
+vue-resource:        The HTTP client for Vue.js
+eladmin:        项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+codesandbox-client:        An online IDE for rapid web development
+vue2-manage:        基于 vue + element-ui 的后台管理系统
+learnVue:        Vue.js 源码解析
+mdx:        JSX in Markdown for ambitious projects
+awesome-github-vue:        Vue相关开源项目库汇总
+magnetW:        磁力链接聚合搜索
+d2-admin:        An elegant dashboard
+vue-material:        Material design for Vue.js
+blog:        我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
+vue2-happyfri:        vue2 + vue-router + vuex 入门项目
+cube-ui:        🔶 A fantastic mobile ui lib implement by Vue
+muse-ui:        Material Design UI library for Vuejs 2.0
+OnsenUI:        Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
+easy-mock:        A persistent service that generates mock data quickly and provids visualization view.
+buefy:        Lightweight UI components for Vue.js based on Bulma
+vee-validate:        ✔ Template Driven Validation Framework for Vue.js
+text-mask:        Input mask for React, Angular, Ember, Vue, & plain JavaScript
+habitica:        A habit tracker app which treats your goals like a Role Playing Game.
+chameleon:        🦎 一套代码运行多端，一端所见即多端所见
+tiptap:        A rich-text editor for Vue.js
+vue-native-core:        Vue Native is a framework to build cross platform native mobile apps using JavaScript
+vuestic-admin:        Free and Beautiful Vue.js Admin Template
+puppeteer-recorder:        Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+directus:        Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
+vue-storefront:        Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/ and the new community initiative for improving Headless Security standards https://headless-security.or…
+rematch:        A Redux Framework
+vue-lazyload:        A Vue.js plugin for lazyload your Image or Component in your application.
+gridsome:        ⚡️ The Jamstack framework for Vue.js
+mall-admin-web:        mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
+gridea:        ✍️A static blog writing client (一个静态博客写作客户端)
+vue-enterprise-boilerplate:        An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
+vuido:        Native desktop applications using Vue.js.
+ant-design-vue-pro:        👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
+v-charts:        基于 Vue2.0 和 ECharts 封装的图表组件📈📊
+vue-quill-editor:        🍡@quilljs editor component for @vuejs
+vue-i18n:        🌐 Internationalization plugin for Vue.js
+xmall:        基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等
+cssfx:        ✨ Beautifully simple click-to-copy CSS effects
+zero:        Zero is a web server to simplify web development.
+pagekit:        Pagekit CMS
+Blog:        关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
+learnapollo:        👩🏻‍🏫 Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
+vue-multiselect:        Universal select/multiselect/tagging component for Vue.js

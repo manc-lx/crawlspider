@@ -1,0 +1,88 @@
+A server is a program made to process requests and deliver data to clients.
+express:        Fast, unopinionated, minimalist web framework for node.
+gin:        Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+vapor:        💧 A server-side Swift web framework.
+postgrest:        REST API for any Postgres database
+How-To-Secure-A-Linux-Server:        An evolving how-to guide for securing a Linux server.
+node-restify:        The future of Node.js REST development
+http-server:        a simple zero-configuration command-line http server
+mailinabox:        Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+sonic:        🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+hydra:        OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+micro:        Micro is a framework for cloud native development
+OpenRCT2:        An open source re-implementation of RollerCoaster Tycoon 2 🎢
+Kitura:        A Swift web framework and HTTP server.
+puma:        A Ruby/Rack web server built for concurrency
+vibora:        Fast, asynchronous and elegant Python web framework.
+webhook:        webhook is a lightweight incoming webhook server to run shell commands
+mailcatcher:        Catches mail and serves it through a dream.
+ponzu:        Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
+ejabberd:        Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
+kbengine:        A MMOG engine of server.
+ssh-chat:        Chat over SSH.
+react-server:        🚀 Blazing fast page load and seamless navigation.
+ET:        Unity3D Client And C# Server Framework
+mumble:        Mumble is an Open Source, low-latency, high quality voice chat software
+cellnet:        High performance, simple, extensible golang open source network library
+vespa:        Vespa is an engine for low-latency computation over large data sets.
+cuberite:        A lightweight, fast and extensible game server for Minecraft
+patchwork:        A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+laravel-s:        LaravelS is an out-of-the-box adapter between Swoole and Laravel/Lumen.
+warp:        A super-easy, composable, web server framework for warp speeds.
+swifter:        Tiny http server engine written in Swift programming language.
+grant:        OAuth Proxy
+Organizr:        HTPC/Homelab Services Organizer - Written in PHP
+beast:        HTTP and WebSocket built on Boost.Asio in C++11
+glusterfs:        Gluster Filesystem - (this is only a public mirror, see the README for contributing)
+graphql-shield:        🛡 A GraphQL tool to ease the creation of permission layer.
+ion:        Distributed RTC System by pure Go and Flutter
+wire-server:        🇪🇺 Wire back-end services
+deepdetect:        Deep Learning API and Server in C++11 support for Caffe, Caffe2, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
+actionhero:        Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
+thin:        A very fast & simple Ruby web server
+OkSocket:        An blocking socket client for Android applications.
+Simple-Web-Server:        A very simple, fast, multithreaded, platform independent HTTP and HTTPS server and client library implemented using C++11 and Boost.Asio. Created to be an easy way to make REST resources available from C++ applications.
+mockoon:        Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
+Heimdall:        An Application dashboard and launcher
+aqueduct:        Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider.
+crossbar:        Crossbar.io - WAMP application router
+imageserver:        Image server toolkit in Go
+falcon:        A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
+magma:        The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.
+TSW:        Tencent Server Web
+go-guerrilla:        Mini SMTP server written in golang
+armor:        Uncomplicated, modern HTTP server
+form-data:        A module to create readable `"multipart/form-data"` streams. Can be used to submit forms and file uploads to other web applications.
+ardb:        A redis protocol compatible nosql, it support multiple storage engines as backend like Google's LevelDB, Facebook's RocksDB, OpenLDAP's LMDB, PerconaFT, WiredTiger, ForestDB.
+faygo:        Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
+health:        Laravel Health Panel
+Venice:        Coroutines, structured concurrency and CSP for Swift on macOS and Linux.
+Papercut-SMTP:        Papercut SMTP -- The Simple Desktop Email Server
+im_service:        golang im server
+nano:        Lightweight, facility, high performance golang based game server framework
+verge:        Official Verge Core Source Code Repository 💪
+picfit:        An image resizing server written in Go
+web-server-bundle:        WebServerBundle provides commands for running applications using the PHP built-in web server. It simplifies your local development setup because you don't have to configure a proper web server such as Apache or Nginx to run your application.
+Resty:        The minimalist framework of RESTful(server and client) - Resty
+mist-ce:        Mist Cloud Management Platform - Community Edition
+knowledge:        文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。
+open62541:        Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
+node-oidc-provider:        OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
+welder:        👨‍🏭Set up your Linux server with plain shell scripts
+webpack-serve:        Repository has moved:
+X:        新生命X组件，数据中间件XCode、日志、网络、RPC、序列化、缓存、Windows服务
+homeserver:        A Matrix homeserver written in Rust.
+Hedwig:        Send email to any SMTP server like a boss, in Swift and cross-platform
+cross-platform-node-guide:        📗 How to write cross-platform Node.js code
+bankai:        🚉 - friendly web compiler
+bittorrent-tracker:        🌊 Simple, robust, BitTorrent tracker (client & server) implementation
+azerothcore-wotlk:        AzerothCore - Modular MMORPG Server. Based on MaNGOS -> TrinityCore -> SunwellCore
+go-imap:        📥 An IMAP library for clients and servers
+oragono:        A modern IRC server (daemon/ircd) written in Go.
+py-kms:        KMS Server Emulator written in Python
+appserver:        A multithreaded application server for PHP, written in PHP.
+forgottenserver:        A free and open-source MMORPG server emulator written in C++
+angel:        A polished, production-ready backend framework in Dart for the VM, AOT, and Flutter.
+x-prober:        🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
+deprecated:        🚀 Framework for building universal web app and static website in Vue.js (beta)
+Express:        Swift Express is a simple, yet unopinionated web application server written in Swift

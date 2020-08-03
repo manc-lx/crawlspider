@@ -1,0 +1,90 @@
+Phaser is a fun, free, and fast 2D game framework for making HTML5 games for desktop and mobile web browsers.
+phaser:        Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+OpenSC2K:        OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
+phaser-examples:        🎮 Game collections made by Phaser
+Machine-Learning-Flappy-Bird:        Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm
+phaser-es6-webpack:        A bootstrap project for create games with Phaser + ES6 + Webpack.
+phaser-ce:        Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+games:        一个基于Phaser的小游戏集合
+phaser3-typescript:        Phaser 3 and TypeScript
+DragonBonesJS:        DragonBones TypeScript / JavaScript Runtime
+webpack-starter-basic:        A simple webpack starter project for your basic modern web development needs.
+iogrid:        Multiplayer game engine/framework built using SocketCluster and Phaser
+phaser-ce-npm-webpack-typescript-starter-project:        Project to get you started with your Phaser-CE (using the npm module) game using Typescript and Webpack for building! No hassle asset management, Google Web Font loader, live server, development vs distribution build pipeline, Electron packaging for desktop builds, and more...
+commit4:        🎮 Winner of Game Off 2017.
+phaser3-docs:        Phaser 3 Documentation and TypeScript Defs
+phaserquest:        Reproduction of Mozilla's BrowserQuest using Phaser, socket.io and Node.js
+generator-phaser:        A yeoman generator for phaser games
+free-tex-packer:        Free texture packer
+phaser-catch-the-cat:        An HTML5 game 'Catch The Cat' powered by Phaser 3
+slick-ui:        Lightweight Phaser UI plugin
+phaser-input:        Adds input boxes to Phaser like CanvasInput, but also works for WebGL and Mobile, made for Phaser only.
+expo-phaser:        Build awesome 2D games with Phaser.js and Expo
+phaser-state-transition:        State transition plugin for Phaser.js
+navmesh:        A plugin for path-finding in JS using navmeshes, with wrappers for Phaser 3 and Phaser 2
+slither.io-clone:        Learn how to make Slither.io with JavaScript and Phaser! This game clones all the core features of Slither.io, including mouse-following controls, snake collisions, food, snake growth, eyes, and more. Progress through each part of the source code with our Slither.io tutorial series.
+generator-phaser-plus:        [🛑 DISCONTINUED] It has been a long journey but development of `generator-phaser-plus` is now over. I recommend you have a look and fork `yandeu/phaser-project-template` instead.
+phaser-collection:        phaser h5小游戏项目集锦
+phaser-ui-tools:        Functions for creating a UI in Phaser. Rows, columns, viewports, scrollbars, stuff like that.
+Creature_WebGL:        2D Skeletal Animation WebGL Runtimes for Creature ( PixiJS, PhaserJS, ThreeJS, BabylonJS, Cocos Creator )
+phaser-arcade-slopes:        📐 A Phaser CE plugin that brings sloped tile collision handling to the Arcade Physics engine
+enable3d:        3D HTML5 Framework / Physics for three.js (using Ammo.js) / 3D extension for Phaser 3
+phaser3-particle-editor:        A flexible editor for building phaser particles.
+Phaser-Kinetic-Scrolling-Plugin:        Kinetic Scrolling plugin for Canvas using Phaser Framework
+ion-phaser:        A web component to integrate Phaser Framework with Angular, React, Vue, etc 🎮
+phaser-project-template-es6:        Phaser 3 - Starter Template with ES6 (ESNext features included) and webpack.
+phaser-spine:        A plugin for Phaser 2 that adds Spine support
+phaser-list-view:        List view class for Phaser. Great for high scoreboards.
+phaser3-typescript-project-template:        A quick-start project template that uses Phaser 3, TypeScript and Rollup for bundling
+IsoCitySim:        🌇 A simulation of a city using isometric tiles
+phaser-ts-boilerplate:        The boilerplate for Phaser 2 we use internally at Azerion
+badsanta:        BadSanta - Multiplayer HTML5 Game (http://santa.qake.se)
+reldens:        Reldens - You can make it
+phaser3-tilemap-pack:        Phaser 3 Project Template with Webpack, Tilemap, and Asset Pack
+red-packet-rain:        仿淘宝,京东红包雨(基于Phaser框架)
+phaser-ads:        A Phaser plugin for providing nice ads integration in your phaser.io game
+phaser-webpack-loader:        Asset loader for Phaser + Webpack.
+phaser-starter:        Minimal starter project to get a Phaser game environment up and running with ease.
+gowog:        Gowog, Golang based Web multiplayer Online Game
+weixin-minigame-tutorial:        Flappy Bird adaptation on Wechat Minigame using PhaserJS + English Wechat Minigames Tutorial
+phaser-boilerplate:        Phaser ES6 Boilerplate
+phaser-ui-comps:        Phaser 3 UI Components built by Adobe Animate
+phaser3-ninepatch-plugin:        Nine Patch plugin for Phaser3!
+phaser-cli:        Create Phaser projects with no build configuration.
+phaser-parcel:        A Phaser 3 game template using Parcel bundler
+phasocketonline:        A server and client for a multiplayer browser game. Server in node.js, game in javascript with phaser and using socket.io for websockets.
+Phaser.io-v3-Boilerplate:        🕹 Phaser.io v3 minimal Boilerplate w/ parceljs bundler ( ES6 )
+phaser-nineslice:        NineSlice plugin for Phaser!
+phaser-tilemap-plus:        Tilemap animations, physics, events and custom property enhancements for Tiled JSON map files
+phaser3-webpack-es6-dev-starter:        Development set up for Phaser 3, Webpack, and ES6.
+collection-mobile-page:        我做过的h5
+phaser-sprite-gui:        Inspect and manipulate Phaser Sprites (via dat.gui). Phaser 2/CE
+phaser-web-workers:        A simple Phaser plugin that allows you to easily integrate Web Workers in your game
+phaser-super-storage:        A cross platform storage plugin for Phaser
+phaser3-typescript-platformer-example:        Phaser 3 TypeScript Platformer Example
+uai_shot:        A multiplayer ship game built with Elixir, Phoenix Framework and Phaser. 🚀
+phaser3-simple-rpg:        A simple Phaser3 RPG using Typescript ⚔️
+phaser-node-kit:        Rapid Game Development with PhaserJS and Node for Modern Browsers
+expo-graphics:        Tools to help simplify working with three, pixi, phaser, ect...
+wechat-small-game-phaser:        make phaser works with wechat small game
+phaser3-faq:        Answers to frequent questions
+blocker:        🎮 (WIP - phase 3) Multiplayer online game using Phaser + WebSocket (Socket.IO)
+generator-phaser-browserify:        A generator for Phaser using Gulp and Browserify
+brunch-phaser:        A Brunch skeleton for making games with Phaser 3. Variants for CoffeeScript, ES6, TypeScript
+phaser-plugin-game-scale:        Scale or resize the game canvas. Phaser v3.15 only
+Phaser-PickApple:        A simple game based on Phaser.js
+PhaserTutorials:        Large collection of tutorials for Phaser, that I've followed. Original source listed in README files.
+phaser-behavior-plugin:        Behavior System for Phaser games (1.8KB min+gzip)
+gstatsjs:        Graphics statistic (DrawCalls and TextureCount) for WebGL
+phaser-es6-starter:        🚀 A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.
+phaser-plugin-scene-graph:        Prints the display tree. Phaser 2/CE
+phaser-plugin-game-gui:        Inspect and manipulate some common game settings. Phaser 2/CE
+TooManyCaptains:        🕹 Too Many Captains and Not Enough Wire
+bomber:        Bomberman with multiplayer
+phaser-candy-crush:        Candy crush like game made with Phaser HTML5 game engine
+vue-phaser-starter:        A game starter project which using Phaser, Vue, ES6, Webpack.
+cycles:        A turn-based game system built with phaser
+procedural_dungeon:        PhaserJS plugin for the procedural generation of dungeon layouts for games.
+PhaserHearthStone:        Learn Phaser Game Engine
+phaser3-es6-webpack4:        Plain webpack 4 Boilerplate with Babel, SASS and Phaser3 on board.
+elemental-one:        A simple platformer made along the theme of Ludum Dare 28

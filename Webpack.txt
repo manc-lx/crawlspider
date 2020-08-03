@@ -1,0 +1,91 @@
+Webpack is a bundler that takes modules with dependencies and creates static assets.
+vue-element-admin:        🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
+webpack:        A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+vue2-elm:        基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+ngx-admin:        Customizable admin dashboard template based on Angular 9+
+react-starter-kit:        React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
+react-redux-links:        Curated tutorial and resource links I've collected on React, Redux, ES6, and more
+js-stack-from-scratch:        🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+generator-jhipster:        JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+mojs:        The motion graphics toolbelt for the web
+ice:        🚀 Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
+react-loadable:        ⏳ A higher order component for loading components with promises.
+electron-react-boilerplate:        A Foundation for Scalable Cross-Platform Apps
+webpack-dashboard:        A CLI dashboard for webpack dev server
+front-end-guide:        📚 Study guide and introduction to the modern front end stack.
+electron-vue:        An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+bootstrap-vue:        BootstrapVue, with over 45 plugins, more than 85 custom components and over 670 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+sage:        WordPress starter theme with a modern development workflow
+webpack-bundle-analyzer:        Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
+vue2-manage:        基于 vue + element-ui 的后台管理系统
+razzle:        ✨ Create server-rendered universal JavaScript applications with no configuration
+art-template:        High performance JavaScript templating engine
+html-webpack-plugin:        Simplifies creation of HTML files to serve your webpack bundles
+d2-admin:        An elegant dashboard
+nodeppt:        This is probably the best web presentation tool so far!
+react-app-rewired:        Override create-react-app webpack configs without ejecting
+svgr:        Transform SVGs into React components 🦁
+nebular:        💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
+webpack-dev-server:        Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
+prerender-spa-plugin:        Prerenders static HTML in a single-page application.
+structor:        Structor - React UI Builder [DEPRECATED]
+whs.js:        🚀 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
+jarvis:        A very intelligent browser based Webpack dashboard
+WebSlides:        Create HTML presentations in seconds —
+nwb:        A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)
+blendid:        A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
+poi:        ⚡A zero-config bundler for JavaScript applications.
+bundlephobia:        🏋️ Find out the cost of adding a new frontend dependency to your project
+Manta:        🎉 Flexible invoicing desktop app with beautiful & customizable templates.
+webpacker:        Use Webpack to manage app-like JavaScript modules in Rails
+react_on_rails:        Integration of React + Webpack + Rails using rails/webpacker to build Universal (Isomorphic) Apps (aka Server Rendering)
+blog:        梁少峰的个人博客
+vue-loader:        📦 Webpack loader for Vue.js components
+backpack:        🎒 Backpack is a minimalistic build system for Node.js projects.
+loadable-components:        The recommended Code Splitting library for React ✂️✨
+offline-plugin:        Offline plugin (ServiceWorker, AppCache) for webpack (https://webpack.js.org/)
+babel-loader:        📦 Babel loader for webpack
+FAQGURU:        🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.
+happypack:        Happiness in the form of faster webpack build times.
+laravel-mix:        An elegant wrapper around Webpack for the 80% use case.
+awesome-webpack:        A curated list of awesome Webpack resources, libraries and tools
+mavonEditor:        mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
+angular-electron:        Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) 🚤
+css-loader:        CSS Loader
+create-react-app-typescript:        DEPRECATED: Create React apps using typescript with no build configuration.
+react:        React+webpack+redux+ant design+axios+less全家桶后台管理框架
+after.js:        Next.js-like framework for server-rendered React apps built with React Router 4
+neutrino:        Create and build modern JavaScript projects with zero initial configuration.
+sass-loader:        Compiles Sass to CSS
+awesome-webpack-cn:        [印记中文](https://docschina.org/) - webpack 优秀中文文章
+haul:        Haul is a command line tool for developing React Native apps, powered by Webpack
+cookiecutter-flask:        A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+phenomic:        Websites & apps static generator. Works React, Webpack, ReasonML and whatever you want ⚡️
+typescript-library-starter:        Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
+Vue-cnodejs:        基于vue.js重写Cnodejs.org社区的webapp
+dive-into-webpack:        全面的Webpack教程《深入浅出Webpack》电子书
+webpack-blocks:        📦 Configure webpack using functional feature blocks.
+webpack-libs-optimizations:        Using a library in your webpack project? Here’s how to optimize it
+electron-webpack-dashboard:        Electron Desktop GUI for Webpack Dashboard
+reactGo:        Your One-Stop solution for a full-stack universal Redux App!
+DOClever:        做最好的接口管理平台
+vue-express-mongo-boilerplate:        ⭐ MEVN Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS
+react-course:        Code for TylerMcGinnis.com's "React" course
+csslayout:        A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
+webpackmonitor:        A tool for monitoring webpack optimization metrics through the development process
+critters:        🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
+webpack-tricks:        Tips and tricks in using Webpack
+react-isomorphic-starterkit:        Create an isomorphic React app in less than 5 minutes
+awesome-typescript-loader:        Awesome TypeScript loader for webpack
+mpx:        Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架
+create-react-kotlin-app:        Create React apps using Kotlin with no build configuration
+hard-source-webpack-plugin:        https://github.com/mzgoddard/hard-source-webpack-plugin
+webpack-book:        From apprentice to master (CC BY-NC-ND)
+nx-admin:        👍 A magical 🐮 ⚔ vue admin，记得star
+vue-cli-plugin-electron-builder:        Easily Build Your Vue.js App For Desktop With Electron
+webpack-chain:        A chaining API to generate and simplify the modification of Webpack configurations.
+minipack:        📦 A simplified example of a modern module bundler written in JavaScript
+webpack-hot-middleware:        Webpack hot reloading you can attach to your own server
+heyui:        🎉UI Toolkit for Web, Vue2.0 http://www.heyui.top
+webpack-merge:        Merge designed for webpack

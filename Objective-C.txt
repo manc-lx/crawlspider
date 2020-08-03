@@ -1,0 +1,91 @@
+Objective-C is general purpose, object-oriented programming language used for macOS and iOS operating systems.
+awesome-ios:        A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+open-source-ios-apps:        📱 Collaborative List of Open-Source iOS Apps
+open-source-mac-os-apps:        🚀 Awesome list of open source applications for macOS.
+SDWebImage:        Asynchronous image downloader with cache support as a UIImageView category
+IQKeyboardManager:        Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
+realm-cocoa:        Realm is a mobile database: a replacement for Core Data & SQLite
+MJRefresh:        An easy way to use pull-to-refresh.
+CocoaPods:        The Cocoa Dependency Manager.
+SVProgressHUD:        A clean and lightweight progress HUD for your iOS and tvOS app.
+CocoaLumberjack:        A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+OpenEmu:        🕹 Retro video game emulation for macOS
+IGListKit:        A data-driven UICollectionView framework for building fast and flexible lists.
+Mantle:        Model framework for Cocoa and Cocoa Touch
+infer:        A static analyzer for Java, C, C++, and Objective-C
+TimLiu-iOS:        iOS开发常用三方库、插件、知名博客等等
+ios-good-practices:        Good ideas for iOS development, by Futurice developers.
+FSCalendar:        A fully customizable iOS calendar library, compatible with Objective-C and Swift
+Quick:        The Swift (and Objective-C) testing framework.
+macdown:        Open source Markdown editor for macOS.
+MJExtension:        A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.
+Aspects:        Delightful, simple library for aspect oriented programming in Objective-C and Swift.
+sequelpro:        MySQL/MariaDB database management for macOS
+analyze:        Draven's Blog
+BackgroundMusic:        Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+JVFloatLabeledTextField:        UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users
+hammerspoon:        Staggeringly powerful macOS desktop automation with Lua
+Reachability:        ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability
+kotlin-native:        Kotlin/Native infrastructure
+nimbus:        The iOS framework that grows only as fast as its documentation
+Awesome-ARKit:        A curated list of awesome ARKit projects and resources. Feel free to contribute!
+CYLTabBarController:        [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item. [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新。【iOS13 & Dark Mode & iPhone XS MAX supported】
+Halfrost-Field:        ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+XLForm:        XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
+assimp:        The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
+popping:        A collection of animation examples for iOS apps.
+MacPass:        A native OS X KeePass client
+FSPagerView:        FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+terminal-notifier:        Send User Notifications on macOS from the command-line.
+JLRoutes:        URL routing library for iOS with a simple block-based API
+SAMKeychain:        Simple Objective-C wrapper for the keychain that works on Mac and iOS
+iOSProject:        iOS project of collected some demos for iOS App, use Objective-C
+awesome-swift:        A curated list of awesome Swift frameworks, libraries and software.
+TSMessages:        💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot
+quicktype:        Generate types and converters from JSON, Schema, and GraphQL
+flutter-examples:        [Examples] Simple basic isolated apps, for budding flutter devs.
+vimr:        VimR — Neovim GUI for macOS
+JXCategoryView:        A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)
+MonkeyDev:        CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
+ZipArchive:        ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
+OHHTTPStubs:        Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
+iOS-Developer-Roadmap:        Roadmap to becoming an iOS developer in 2018.
+Provenance:        iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |
+ESTabBarController:        ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!
+material-components-ios:        Modular and customizable Material Design UI components for iOS
+Sloth:        Native Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+NJKWebViewProgress:        UIWebView progress interface
+mapbox-gl-native:        Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
+PINRemoteImage:        A thread safe, performant, feature rich image fetcher
+nui:        Style iOS apps with a stylesheet, similar to CSS
+TLYShyNavBar:        Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!
+SBJson:        This framework implements a strict JSON parser and generator in Objective-C.
+EAIntroView:        Highly customizable drop-in solution for introduction views.
+KeepingYouAwake:        Prevents your Mac from going to sleep.
+FoldingTabBar.iOS:        Folding Tab Bar and Tab Bar Controller
+PYSearch:        🔍 An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad) .
+HMSegmentedControl:        A highly customizable drop-in replacement for UISegmentedControl.
+coobjc:        coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foundation and UIKit API in cokit framework like NSFileManager, JSON, NSData, UIImage etc. We also add tuple support in coobjc.
+gravity:        Gravity Programming Language
+DKNightVersion:        Manage Colors, Integrate Night/Multiple Themes. (Unmaintained)
+CocoaDebug:        iOS Debugging Tool 🚀
+SCLAlertView:        Beautiful animated Alert View. Written in Objective-C
+XHLaunchAd:        🔥The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad. 【 Github下载不了/下载慢 可以访问国内下载地址: https://gitee.com/CoderZhuXH/XHLaunchAd】
+MarqueeLabel:        A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame
+promises:        Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
+santa:        A binary authorization system for macOS
+JKCategories:        JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.
+LayoutKit:        LayoutKit is a fast view layout library for iOS, macOS, and tvOS.
+cordova-android:        Apache Cordova Android
+WordPress-iOS:        WordPress for iOS - Official repository
+ChatSecure-iOS:        ChatSecure is a free and open source encrypted chat client for iOS that supports OTR and OMEMO encryption over XMPP.
+JGProgressHUD:        An elegant and simple progress HUD for iOS and tvOS, compatible with Swift and ObjC.
+xmake:        🔥 A cross-platform build utility based on Lua
+ClangFormat-Xcode:        Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang
+TYAttributedLabel:        TYAttributedLabel 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
+clang:        Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project
+eigen:        The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app.
+Harpy:        Notify users when a new version of your app is available and prompt them to upgrade.
+LNPopupController:        LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
+Ono:        A sensible way to deal with XML & HTML for iOS & macOS
+NYXImagesKit:        A set of efficient categories for UIImage class. It allows filtering, resizing, masking, rotating, enhancing... and more.

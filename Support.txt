@@ -1,0 +1,89 @@
+Get your team and customers the help they need.
+erpnext:        Open Source Alternative to SAP
+zammad:        Zammad is a web based open source helpdesk/customer support system
+helpy:        Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.
+django-helpdesk:        A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
+handesk:        A Powerful Laravel Help Desk and Lead Management App
+vue-beautiful-chat:        A simple and beautiful Vue chat component backend agnostic, fully customisable and extendable.
+freescout:        FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
+adblockfast:        Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+trudesk:        ☕ 🌱 Trudesk is an open source help desk/ticketing solution.
+community-skeleton:        Opensource UVDesk Community Helpdesk Project built for all to make a full Ticket Support System along with many more other features.
+node-zendesk:        a zendesk API client library for use with node.js
+dynamic-support:        A complete library to build Android apps with a built-in theme engine.
+AndroidResizer:        Java Desktop app to resize XXXHDPI (or lower) images and sort them into folders automatically.
+docs:        System76 documentation site
+Support:        Repository used to track issues, bugs and upcoming features for future releases of AnyStatus.
+follow-github-organisation:        Get notified when a new repository is created in a GitHub organisation
+novosga:        Sistema de Gerenciamento de Atendimento adaptável para grandes e pequenas organizações.
+SCOBot:        SCORM API for Content. JavaScript library, QUnit tests and examples.
+eventum:        Eventum Issue Tracking System
+tokio-modbus:        A tokio-based modbus library
+selfupdate:        Basic script for project self update from VCS
+citellus:        Automation Troubleshooting Framework to validate configuration and log files with bash, python, ruby and others
+react-native-zendesk-chat:        React Native Wrapper around Zendesk Chat v2
+iOSDeviceSupport:        存放iOS镜像文件、iOSDeviceSupport、真机调试包、DeviceSupport、iOS-DeviceSupport，供大家参考，目前收录iOS8.0~iOS14.0，持续更新中
+browserslist-generator:        A library that makes generating and validating Browserslists a breeze!
+yii2-ticket-support:        Yii2 Ticket Support Module, easy, flexible, multilang, has mongodb, works with mailbox, queue
+cassandra-image:        Cassandra Image using Packer for Docker and EC2 AMI. Covers managing EC2 Cassandra clusters with Ansible.
+Kommunicate-Android-Chat-SDK:        Kommunicate.io Android Chat SDK for Customer Support
+support_center:        Support center made with Laravel
+kchat:        PHP Based Live Chat Aplication
+knowledge-base-v3:        MyEtherWallet's Knowledge Base
+orange3-associate:        🍊 📦 Frequent itemsets and association rules mining for Orange 3.
+Dayon:        Dayon! - A cross-platform remote desktop assistance solution for your family and friends
+samwise.js:        A loyal support widget for your app
+android-percent-layout-sample:        Note: Its build using ConstraintLayout. The sample is an alternative for nested layouts. Build to remove nested structure and create a flat xml layout, which eventually improves performance
+fusionauth-issues:        FusionAuth issue submission project
+RemoteSupportTool:        an easy single click solution for remote maintenance
+laravel-support:        Rinvex common support helpers, contracts, and traits required by various Rinvex packages. Validator functionality, and basic controller included out-of-the-box.
+DevSummit-presentations:        Esri Developer Summit presentations and demos
+data.gouv.fr:        Ce dépôt rassemble les tickets techniques qui portent sur data.gouv.fr.
+wasm-check:        TypeScript / JavaScript library for detect WebAssembly features in node.js & browser
+support-system:        uCare Support System - Support Ticket Help Desk for WordPress. A great free alternative for Zendesk or Freshdesk
+DiscordTickets:        Ticket management bot for Discord
+core:        🔥 Antares Core Implemenation. Most important project layer, this is the heart for your app. ACL, notifiter, console, geoip, areas, utils and many more...
+help:        Need help with libuv? Post your question here.
+OpenCircle:        Open-source Circle of 6 with improved security and privacy features. PLEASE NOTE: For the new Circulo app please visit: https://gitlab.com/circuloapp/circulo-android
+support:        Unofficial support for VersionPress
+DevelopersRising:        Archive only! DISSOLVED! Verein zur Förderung von ProgrammiererInnen 💻 🎉
+Kommunicate-Web-SDK:        Kommunicate Web Live Chat Plugin for customer support
+is-style-supported:        Feature test support for CSS properties and their assignable values
+OpenVINO-18.04-Support:        Official scripts modified by yours truly (@nikhilraghava) and @jameshi16 that allow OpenVINO™ to run on Ubuntu 18.04.
+es-compat:        Check JavaScript code compatibility with target runtime environments
+amp-05-windows-tune:        https://github.com/CiscoSecurity/amp-05-windows-tune
+install:        basic script for project installation
+starfish:        Run your own FOSS Contributor Fund - use starfish to find eligible voters
+SupportBoi:        A support ticket Discord bot.
+Microduino-IDE-Support:        Microduino/mCookie IDE-Support and Libraries
+pyvista-support:        A place to ask questions regarding general use of PyVista based software
+SupportEmail:        Prepopulates emails with support information in iOS apps
+booster:        https://github.com/evolbioinfo/booster
+frontend:        #人类加油 #we-stay-strong 面向疫区内外民众和医疗机构的多维度信息整合平台 前端
+Simplex-Support-Services:        Support system for Arma 3
+MineVKR:        WIP REAL RTX for Minecraft Java Edition...
+remoton:        (Go) Own remote desktop platform
+ServiceStation:        Service Station
+laravel-xml:        Laravel XML support; middle-ware, response, and utilities.
+knowledgebase:        The easiest way to add a Knowledge Base / FAQ to your WordPress blog
+LaravelElasticEmail:        A Laravel wrapper for Elastic Email. Can send emails with multiple attachments
+support-bot:        Assistant bot for the Telegram support group
+.github:        Default configuration for @TheAlgorithms repos
+nspace.hu-soundshift:        Sound Shift for iRacing provide audible cues for gear shifting and braking. This repository contains its own Sound Shift files for iRacing users to download and use for their installation. Especially when new cars enter the service. You can download Sound Shift at
+vscode-angular-support:        VS code extension to analyze angular specific definitions
+drop-python:        It's about time to drop support for old Pythons
+orb:        🌐 Your friendly JavaScript languages handler. ORB turns fastly and easily your website/project to multilingual.
+is-at-rule-supported:        Feature test support for CSS at-rules
+TSQB:        A simple Discord bot to manage support tickets
+discussions:        Get in touch with the DLang community
+diss:        Debian Integrated Support System
+workshop:        Workshop: Micromagnetics with Ubermag
+Cocos2dx-android-SDK:        AIHELP provides the best in-app user support and messaging with AI chatbot. Our state-of-the-art SDK is easy to integrate with your Apps, to allow you to better serve millions of customers with more efficient, fewer man power.
+packetevents:        Lightweight packetlistener & packetsender with multi version supporting utilities(1.7.10->1.16.1)
+scripts:        🔧 Support scripts for ngX-Rocket projects
+attendance-bundle:        NovoSGA v2.0 attendance module.
+public:        Public tracker for Issues in the Mac app
+iRoleMaster.help:        Help files for iRoleMaster
+sponsor:        🙌 Sponsor Ahmad Awais on his full-time #OpenSourcerer journey of creating free software.
+Resistance_and_support_forex:        presenting a statistical method to calculate resistance and support of time-series signals such as currency price
+Support-pp:        A support system for the Sinusbot

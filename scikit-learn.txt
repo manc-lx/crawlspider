@@ -1,0 +1,90 @@
+scikit-learn is a Python module for machine learning.
+100-Days-Of-ML-Code:        100 Days of ML Coding
+AiLearning:        AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+PythonDataScienceHandbook:        Python Data Science Handbook: full text in Jupyter Notebooks
+handson-ml:        A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+data-science-ipython-notebooks:        Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+Virgilio:        Your new Mentor for Data Science E-Learning.
+python-machine-learning-book:        The "Python Machine Learning (1st edition)" book code repository and info resource
+dive-into-machine-learning:        Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+onnx:        Open standard for machine learning interoperability
+tpot:        A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+mlcourse.ai:        Open Machine Learning Course
+dask:        Parallel computing with task scheduling
+python-machine-learning-book-2nd-edition:        The "Python Machine Learning (2nd edition)" book code repository and info resource
+featuretools:        An open source python library for automated feature engineering
+auto-sklearn:        Automated Machine Learning with scikit-learn
+machinelearning:        My blogs and code for machine learning. http://cnblogs.com/pinard
+pipeline:        PipelineAI Kubeflow Distribution
+sklearn-doc-zh:        📖 [译] scikit-learn（sklearn） 中文文档
+skorch:        A scikit-learn compatible neural network library that wraps PyTorch
+scikit-learn-videos:        Jupyter notebooks from the scikit-learn video series
+interpret:        Fit interpretable models. Explain blackbox machine learning.
+yellowbrick:        Visual analysis and diagnostic tools to facilitate machine learning model selection.
+onnxruntime:        ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+autogluon:        AutoGluon: AutoML Toolkit for Deep Learning
+Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials:        A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.
+orange3:        🍊 📊 💡 Orange: Interactive data analysis https://orange.biolab.si
+eli5:        A library for debugging/inspecting machine learning classifiers and explaining their predictions
+scikit-plot:        An intuitive library to add plotting functionality to scikit-learn objects.
+mars:        Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
+python-cheat-sheet:        Python Cheat Sheet NumPy, Matplotlib
+m2cgen:        Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby) with zero dependencies
+adversarial-robustness-toolbox:        Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference
+hummingbird:        Hummingbird compiles trained ML models into tensor computation for faster inference.
+practical-machine-learning-with-python:        Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
+DAT8:        General Assembly's 2015 Data Science course in Washington, DC
+auto_ml:        [UNMAINTAINED] Automated machine learning for analytics & production
+Machine-Learning-with-Python:        Small scale machine learning projects to understand the core concepts
+pbpython:        Code, Notebooks and Examples from Practical Business Python
+ml-workspace:        🛠 All-in-one web-based IDE specialized for machine learning and data science.
+xcessiv:        A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python.
+StudyBook:        Study E-Book(ComputerVision DeepLearning MachineLearning Math NLP Python ReinforcementLearning)
+python-machine-learning-book-3rd-edition:        The "Python Machine Learning (3rd edition)" book code repository
+hyperlearn:        50% faster, 50% less RAM Machine Learning. Numba rewritten Sklearn. SVD, NNMF, PCA, LinearReg, RidgeReg, Randomized, Truncated SVD/PCA, CSR Matrices all 50+% faster
+sktime:        A scikit-learn compatible Python toolbox for machine learning with time series
+mleap:        MLeap: Deploy Spark Pipelines to Production
+spark-sklearn:        (Deprecated) Scikit-learn integration package for Apache Spark
+sparkit-learn:        PySpark + Scikit-learn = Sparkit-learn
+metric-learn:        Metric learning algorithms in Python
+text-analytics-with-python:        Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! This repository contains code and datasets used in my book, "Text Analytics with Python" published by Apress/Springer.
+nolearn:        Combines the ease of use of scikit-learn with the power of Theano/Lasagne
+data-science-complete-tutorial:        For extensive instructor led learning
+sklearn-porter:        Transpile trained scikit-learn estimators to C, Java, JavaScript and others.
+gplearn:        Genetic Programming in Python, with a scikit-learn inspired API
+scikit-learn-tips:        🤖⚡ Daily scikit-learn tips
+modAL:        A modular active learning framework for Python
+kmodes:        Python implementations of the k-modes and k-prototypes clustering algorithms, for clustering categorical data
+scikit-learn-doc-cn:        scikit-learn机器学习库中文文档翻译项目
+MachineLearningStocks:        Using python and scikit-learn to make stock predictions
+hyperparameter_hunter:        Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries
+Data-science-best-resources:        Carefully curated resource links for data science in one place
+HungaBunga:        HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!
+baikal:        A graph-based functional API for building complex scikit-learn pipelines.
+Windows-Machine-Learning:        Samples and Tools for Windows ML.
+scikit-multilearn:        A scikit-learn based module for multi-label et. al. classification
+openscoring:        REST web service for the true real-time scoring (<1 ms) of R, Scikit-Learn and Apache Spark models
+skll:        SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.
+awesome-python-data-science:        Probably the best curated list of data science software in Python.
+palladium:        Framework for setting up predictive analytics services
+prince:        👑 Python factor analysis library (PCA, CA, MCA, MFA, FAMD)
+data-science-portfolio:        Portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
+AlphaPy:        Automated Machine Learning [AutoML] with Python, scikit-learn, and Keras
+scikit-survival:        Survival analysis built on top of scikit-learn
+machineJS:        [UNMAINTAINED] Automated machine learning- just give it a data file! Check out the production-ready version of this project at ClimbsRocks/auto_ml
+sklearn-bayes:        Python package for Bayesian Machine Learning with scikit-learn API
+onnxmltools:        ONNXMLTools enables conversion of models to ONNX
+mljar-supervised:        ✨ Automated Machine Learning Python package designed to save time for a data scientist 😎
+scikit-multiflow:        A machine learning package for streaming data in Python.
+ProjectLearn-Project-Based-Learning:        🔰 A curated list of project tutorials for project based learning in web development, mobile development, game development, machine learning and artificial intelligence
+winerama-recommender-tutorial:        A wine recommender system tutorial using Python technologies such as Django, Pandas, or Scikit-learn, and others such as Bootstrap.
+thesemicolon:        This repository contains Ipython notebooks and datasets for the data analytics youtube tutorials on The Semicolon.
+kymatio:        Wavelet scattering transforms in Python with GPU acceleration
+iterative-stratification:        scikit-learn cross validators for iterative stratification of multilabel data
+adam_qas:        ADAM - A Question Answering System. Inspired from IBM Watson
+machine-learning-python:        機器學習: Python
+libfaceid:        libfaceid is a research framework for prototyping of face recognition solutions. It seamlessly integrates multiple detection, recognition and liveness models w/ speech synthesis and speech recognition.
+scikit-and-tensorflow-workbooks:        based on "Hands-On Machine Learning with Scikit-Learn & TensorFlow" (O'Reilly, Aurelien Geron)
+profanity-check:        A fast, robust Python library to check for offensive language in strings.
+sklearn-evaluation:        scikit-learn model evaluation made easy: plots, tables and markdown reports.
+giotto-tda:        A high-performance topological machine learning toolbox in Python

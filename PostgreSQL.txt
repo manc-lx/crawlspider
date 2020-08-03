@@ -1,0 +1,91 @@
+PostgreSQL is an open source database system.
+sequelize:        An easy-to-use multi SQL dialect ORM for Node.js
+metabase:        The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+typeorm:        ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+redash:        Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+postgrest:        REST API for any Postgres database
+dbeaver:        Free universal database tool and SQL client
+Qix:        Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
+knex:        A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+shardingsphere:        Distributed database middleware
+postgraphile:        Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+timescaledb:        An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
+pgcli:        Postgres CLI with autocompletion and syntax highlighting
+node-postgres:        PostgreSQL client for node.js.
+cube.js:        📊 Cube.js - Open Source Analytics Framework
+pgweb:        Cross-platform client for PostgreSQL databases
+awesome-postgres:        A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+xorm:        Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
+bookshelf:        A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
+usql:        Universal command-line interface for SQL databases
+diesel:        A safe, extensible ORM and Query Builder for Rust
+NewsBlur:        NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
+flyway:        Flyway by Redgate • Database Migrations Made Easy.
+blog:        Everything about database,bussiness.(Most for PostgreSQL).
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+backup:        Easy full stack backup operations on UNIX-like systems.
+falcon:        Free, open-source SQL client for Windows and Mac 🦅
+adminer:        Database management in a single PHP file
+asyncpg:        A fast PostgreSQL Database Client Library for Python/asyncio.
+citus:        Distributed PostgreSQL for multi-tenant and real-time analytics workloads
+react-firebase-starter:        Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
+bolt:        Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.
+pg:        Golang ORM with focus on PostgreSQL features and performance
+jOOQ:        jOOQ is the best way to write SQL in Java
+franchise:        🍟 a notebook sql client. what you get when have a lot of sequels.
+patroni:        A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+sysbench:        Scriptable database and system performance benchmark
+sqlboiler:        Generate a Go ORM tailored to your database schema.
+wal-e:        Continuous Archiving for Postgres
+node-orm2:        Object Relational Mapping
+pgloader:        Migrate to PostgreSQL in a single command!
+devilbox:        A modern Docker LAMP stack and MEAN stack for local development
+SqlSugar:        Best ORM Fastest ORM Simple Easy Sqlite orm Oracle ORM Mysql Orm postgresql ORm SqlServer oRm
+stolon:        PostgreSQL cloud native High Availability and more.
+nodejs-api-starter:        💥 A GraphQL API boilerplate (template) made with Node.js, TypeScript, and PostgreSQL
+zombodb:        Making Postgres and Elasticsearch work together like it's 2020
+pg-promise:        PostgreSQL interface for Node.js
+formspree:        Easy HTML form without PHP or JavaScript
+massive-js:        A data mapper for Node.js and PostgreSQL.
+xo:        Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
+JSqlParser:        JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
+beekeeper-studio:        Cross platform SQL editor and database management app for Windows, Linux, and Mac.
+php-crud-api:        Single file PHP script that adds a REST API to a SQL database
+notadd:        A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
+pipelinedb:        High-performance time-series aggregation for PostgreSQL
+prest:        pREST is a way to serve a RESTful API from any databases written in Go
+full-stack-fastapi-postgresql:        Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+pony:        Pony Object Relational Mapper
+sqlx:        🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+db:        Data access layer for PostgreSQL, MySQL, SQLite and MongoDB.
+scala-exercises:        The easy way to learn Scala.
+octosql:        OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+sqlc:        Generate type safe Go from SQL
+TablePlus:        TablePlus macOS issue tracker
+sqitch:        Sensible database change management
+pgbadger:        A fast PostgreSQL Log Analyzer
+miniflux:        Minimalist and opinionated feed reader
+npgsql:        Npgsql is the .NET data provider for PostgreSQL.
+HeidiSQL:        A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi
+tsung:        Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.
+postgresqltuner:        Simple script to analyse your PostgreSQL database configuration, and give tuning advice
+dolibarr:        Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundation and freelances. You can freely install, use and distribute it as a standalone a…
+sqlcheck:        Automatically identify anti-patterns in SQL queries
+sqler:        write APIs using direct SQL queries with no hassle, let's rethink about SQL
+psycopg2:        PostgreSQL database adapter for the Python programming language
+sqorn:        A Javascript library for building SQL queries
+FreeSql:        🦄 dotnet ORM, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Odbc orm, 达梦 orm, 人大金仓 orm, 神通 orm, MsAccess orm.
+migra:        Like diff but for PostgreSQL schemas
+pgsync:        Sync data from one Postgres database to another
+linq2db:        Linq to database provider.
+postgres:        Postgres.js - The Fastest full featured PostgreSQL client for Node.js
+algernon:        🎩 Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+slonik:        A PostgreSQL client with strict types, detailed logging and assertions.
+wal-g:        Archival and Restoration for Postgres
+querybuilder:        SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+mara-pipelines:        A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
+backup-manager:        Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
+cstore_fdw:        Columnar store for analytics with Postgres, developed by Citus Data. Check out the mailing list at https://groups.google.com/forum/#!forum/cstore-users or join our slack channel at https://slack.citusdata.com
+analytics:        Simple and privacy-friendly alternative to Google Analytics
+ServiceStack.OrmLite:        Fast, Simple, Typed ORM for .NET
+webapp.rs:        A web application completely written in Rust. 🌍

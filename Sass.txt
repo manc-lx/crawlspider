@@ -1,0 +1,91 @@
+Sass is a stable extension to classic CSS.
+bootstrap:        The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+vue2-elm:        基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+Hover:        A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+tabler:        Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+ngx-admin:        Customizable admin dashboard template based on Angular 9+
+blueprint:        A React-based UI toolkit for the web
+css:        The CSS design system that powers GitHub
+bourbon:        A Lightweight Sass Tool Set
+stylelint:        A mighty, modern style linter
+nebular:        💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
+css-blocks:        High performance, maintainable stylesheets.
+generator-angular-fullstack:        Yeoman generator for an Angular app with an Express server
+hamburgers:        Tasty CSS-animated Hamburgers
+balloon.css:        Simple tooltips made of pure CSS
+neat:        [no longer maintained]
+chatwoot:        Open-source live chat software 🔥💬
+csshake:        CSS classes to move your DOM!
+madge:        Create graphs from your CommonJS, AMD or ES6 module dependencies
+angular-electron:        Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) 🚤
+sass-loader:        Compiles Sass to CSS
+jeet:        The most advanced, yet intuitive, grid system available for Sass or Stylus
+devportfolio:        A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+mini.css:        A minimal, responsive, style-agnostic CSS framework!
+FoundationPress:        FoundationPress is a WordPress starter theme based on Foundation 6 by Zurb
+modular-admin-html:        ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
+Gutenberg:        A meaningful web typography starter kit.
+family.scss:        Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.
+Uniform:        A jQuery plugin to make your form controls look how you want them to. Now with HTML-5 attributes!
+rfs:        ✩ Automates responsive resizing ✩
+stylefmt:        stylefmt is a tool that automatically formats stylesheets.
+eui:        Elastic UI Framework 🙌
+Han:        「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
+SmartStoreNET:        Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+include-media:        📐 Simple, elegant and maintainable media queries in Sass
+100-days-of-code-frontend:        Curriculum for learning front-end development during #100DaysOfCode.
+css-modal:        A modal built with pure CSS, enhanced with JavaScript
+reactql:        Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR
+webpack-encore:        A simple but powerful API for processing & compiling assets built around Webpack
+dart-sass:        The reference implementation of Sass, written in Dart.
+kuma:        The project that powers MDN.
+shards-ui:        🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
+refills:        [no longer maintained]
+awesome-sass:        🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
+atoms:        Atoms for Blaze UI
+webpack-starter:        ✨ A lightweight foundation for your next webpack based frontend project.
+react-shopping-cart:        🛍️ Simple ecommerce cart application built with React Redux
+bitters:        Add a dash of pre-defined style to your Bourbon.
+static-site-boilerplate:        A better workflow for building modern static websites.
+bulmaswatch:        Themes for Bulma
+wordless:        All the power of Pug, Sass, Coffeescript and WebPack in your WordPress theme. Stop writing themes like it's 1998.
+sassdoc:        Release the docs!
+spotless:        Keep your code spotless
+gridlex:        Just a CSS Flexbox Grid System
+generator-ngx-rocket:        🚀 Extensible Angular 9+ enterprise-grade project generator
+a11y.css:        This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
+propeller:        Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
+react-dashboard:        🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥
+sing-app:        💥Free and open-source admin dashboard template built with Bootstrap 4 💥
+StarAdmin-Free-Bootstrap-Admin-Template:        A Free Responsive Admin Dashboard Template Built With Bootstrap 4. Elegant UI Theme for Your Web App!
+vue-netease-music:        🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Player
+sass.js:        Sass.js - API for emscripted libsass to run in the browser
+jekyll-assets:        🎨 Asset pipelines for Jekyll.
+starter-kit:        📦 Angular 9+ starter kit for enterprise-grade projects
+angled-edges:        📐 Quickly create angled section edges using only Sass
+budgeting:        Budgeting - React + Redux + Webpack (tree shaking) Sample App
+tris-webpack-boilerplate:        A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
+concise.css:        A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.
+livingstyleguide:        Easily create front-end style guides with Markdown and Sass/SCSS.
+material-angular-dashboard:        Material Angular Admin Template
+typi:        A sass mixin to make responsive typography easy
+furatto:        It's a flat, fast and powerful front-end framework for rapid web development.
+sierra:        Sierra SCSS library
+three-dots:        🔮 CSS loading animations made by single element.
+select2-bootstrap-theme:        A Select2 v4 Theme for Bootstrap 3
+steroidesign:        Themes based on the biggest StartUps (buttons, color palette, components, etc.) ready to use in your own projects.
+SassMagic:        Collection best of Sass mixins and function
+echoes-player:        Echoes Player: the missing Media Player experience for Youtube - Built with Angular (9), ngrx (9), Angular CLI, Boostrap (SASS), Youtube api
+gulp-boilerplate:        A boilerplate for building web projects with Gulp.js.
+Responsive:        📱 A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites
+eyeglass:        NPM Modules for Sass
+web-extension-starter:        🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
+vue-music-player:        🎵Vue.js写一个音乐播放器+📖One(一个).A music player + One by Vue.js
+sassy-starter:        🎉 Sassy starter - HTML / SCSS (SMACSS)
+hylia:        Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.
+SnippetStore:        🎉 A snippet management app for developers 🚀
+primitive:        ⛏️ ‎ A front-end design toolkit for developing web apps.
+generator-m-ionic:        Advanced workflows and setup for building rock-solid Ionic apps
+material-dashboard-lite:        A free dashboard template with material design lite
+wordpress-gulp-starter-kit:        [NOT MAINTAINED] A starter kit for developing WordPress themes with Gulp.
+particle:        A simple portfolio Jekyll theme:

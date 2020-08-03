@@ -1,0 +1,90 @@
+Ubuntu is a Linux-based operating system.
+openvpn-install:        Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+crouton:        Chromium OS Universal Chroot Environment
+Linux-Tutorial:        《Java 程序员眼中的 Linux》
+Stacer:        Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+deepin-wine-ubuntu:        Deepin Wine for Ubuntu/Debian
+Flatabulous:        This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
+bento:        Packer templates for building minimal Vagrant baseboxes for multiple platforms
+btfs:        A bittorrent filesystem based on FUSE.
+Publii:        Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+fluxgui:        Better lighting for Linux. Open source GUI for xflux
+hstr:        bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+lamp:        Install LAMP(Linux + Apache + MySQL/MariaDB/Percona Server + PHP ) for CentOS/Fedora/Debian/Ubuntu
+polybar-themes:        A collection of polybar themes/configs with different styles, colors and variants
+aptly:        aptly - Debian repository management tool
+Remarkable:        Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
+PlexGuide.com:        Welcome to https://PlexGuide.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space!
+howdy:        🛡️ Windows Hello™ style facial authentication for Linux
+build:        Armbian build tools
+Tool-X:        Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X you can install almost 370+ hacking tools in termux app and other linux based distributions.
+mindforger:        Thinking notebook and Markdown editor.
+vimix-gtk-themes:        Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
+learning-tools:        A collection of tools and files for learning new technologies
+docker-headless-vnc-container:        Collection of Docker images with headless VNC environments
+Dragonfire:        the open-source virtual assistant for Ubuntu based Linux distributions
+vccw:        A Vagrant based development environment.
+wslu:        A collection of utilities for Windows 10 Linux Subsystems
+DockSTARTer:        DockSTARTer helps you get started with home server apps running in Docker.
+dotfiles:        💻 macOS / Ubuntu dotfiles
+rofi:        Rofi Based Custom Applets And Menus.
+sublime-text-imfix:        Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
+AvalonStudio:        Cross platform IDE and Shell
+valet-linux:        A fork of Laravel Valet to work in Linux.
+rtinst:        seedbox installation script for Ubuntu and Debian systems
+lightgallery-desktop:        A modern, electron and nodejs based image viewer for Mac, Windows and Linux.
+backintime:        Back In Time - A simple backup tool for Linux
+ansible-nas:        Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
+WSL-Programs:        A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
+libpointmatcher:        An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics
+Mac-Linux-USB-Loader:        Boot Linux on your Mac, easily
+IKEv2-setup:        Set up Ubuntu Server 20.04 (or 18.04) as an IKEv2 VPN server
+netkiller.github.io:        Netkiller Free ebook - 免费电子书
+fgmk:        Retro RPG Game Maker
+tf-coriander:        OpenCL 1.2 implementation for Tensorflow
+vpstoolbox:        A powerful Toolbox for Linux VPS.
+ethereum_nvidia_miner:        💰 USB flash drive ISO image for Ethereum, Zcash and Monero mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless)
+ffmpeg:        Docker build for FFmpeg on Ubuntu / Alpine / Centos 7 / Scratch
+AtoMiC-ToolKit:        AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickg…
+displaylink-debian:        DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
+swizzin:        A simple, modular seedbox solution
+ansible-role-docker:        Ansible Role - Docker
+debops:        DebOps - Your Debian-based data center in a box
+vidcutter:        Been busy guys, will be reviewing and integrating pull requests shortly. Thanks to all contributors! LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
+gifcurry:        😎 The open-source, Haskell-built video editor for GIF makers.
+tunic:        Install Linux from a running Windows system, without need for a live USB.
+coriander:        Build NVIDIA® CUDA™ code for OpenCL™ 1.2 devices
+piku:        The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+ubuntu-post-install:        A set of post-installation shell scripts for Ubuntu
+QB:        QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
+vm:        💻 ☁️ 📦 The Nextcloud VM (virtual machine) and Home/SME Server
+open-build-service:        Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
+hardening:        Hardening Ubuntu. Systemd edition.
+Windows-Subsystem-For-Linux-Setup-Guide:        An in-depth Guide for getting started with the Windows Subsystem for Linux!
+atilo:        Linux installer for termux
+sentora-core:        Sentora is a web hosting control panel written in PHP for *NIX
+mkosi:        Build Legacy-Free OS Images
+Deepin-Apps-Installation:        本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
+Brightness:        Brightness Controller
+TinyFaces:        Free stock avatars for everyone 👦🏼👨🏾👩🏻 (Built w/ Swift)
+ufw-docker:        To fix the Docker and UFW security flaw without disabling iptables
+Sierra-gtk-theme:        MacOS High Sierra like theme for GTK 3, GTK 2 and Gnome-Shell etc.
+docker.ubuntu:        Docker role for Ansible on Ubuntu 14.04+
+conjure-up:        Deploying complex solutions, magically.
+suru-icon-theme:        The source of the Suru icon and cursor set
+polo:        Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
+plymouth-themes:        A hugh collection (80+) of plymouth themes ported from android bootanimations
+WordOps:        Install and manage a high performance WordPress stack with a few keystrokes
+AnLinux-App:        AnLinux allow you to run Linux on Android without root access.
+buildSwiftOnARM:        All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 5.1.5
+dynamic-wallpaper:        Simple bash script to set a Dynamic Wallpaper according to certain conditions.
+guac-install:        Script for installing Guacamole on Ubuntu
+mons:        POSIX Shell script to quickly manage monitors on X
+comfortable-swipe:        Comfortable 3-finger and 4-finger swipe gesture using Xdotool in native C++
+packer-boxes:        Jeff Geerling's Packer build configurations for Vagrant boxes.
+ansible-playbooks:        Ansible playbook collection that have been written for Ubuntu. Some of the playbooks are Elasticsearch, Mesos, AWS, MySql, Sensu, Nginx etc..
+glim:        GRUB Live ISO Multiboot
+momo:        WebRTC Native Client Momo
+php-7-debian:        Install PHP 7 on Debian/Ubuntu
+razer-blade-stealth-linux:        Install and run Linux on a Razer Blade Stealth (late 2016) and Razer Core.
+QTodoTxt:        Cross Platform todo.txt GUI

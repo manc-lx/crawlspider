@@ -1,0 +1,91 @@
+Peer-to-Peer applications are decentralized or distributed.
+bitcoin:        Bitcoin Core integration/staging tree
+syncthing:        Open Source Continuous File Synchronization
+go-ethereum:        Official Go implementation of the Ethereum protocol
+webtorrent:        ⚡️ Streaming torrent client for the web
+ipfs:        Peer-to-peer hypermedia protocol
+ZeroNet:        ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+gun:        An open source cybersecurity protocol for syncing decentralized graph data.
+peerjs:        Simple peer-to-peer with WebRTC
+webtorrent-desktop:        ❤️ Streaming torrent app for Mac, Windows, and Linux
+PeerTube:        ActivityPub-federated video streaming platform using P2P directly in your web browser
+beaker:        An experimental peer-to-peer Web browser
+Dragonfly:        Dragonfly is an intelligent P2P based image and file distribution system.
+webrtc:        Pure Go implementation of the WebRTC API
+js-ipfs:        IPFS implementation in JavaScript
+lbry-sdk:        The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+orbit-db:        Peer-to-Peer Databases for the Decentralized Web
+monero:        Monero: the secure, private, untraceable cryptocurrency
+simple-peer:        📡 Simple WebRTC video, voice, and data channels
+torrent:        Full-featured BitTorrent client package and utilities
+kraken:        P2P Docker registry capable of distributing TBs of data in seconds
+tribler:        Privacy enhanced BitTorrent client with P2P content discovery
+qTox:        qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
+bisq:        A decentralized bitcoin exchange network
+patchwork:        A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+go-libp2p:        libp2p implementation in Go
+golem:        Golem is creating a global market for computing power.
+instant.io:        🚀 Streaming file transfer over WebTorrent (torrents on the web)
+magnetissimo:        Web application that indexes all popular torrent sites, and saves it to the local database.
+bitcoin-wallet:        Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
+bt:        BitTorrent library and client with DHT, magnet links, encryption and more
+transgui:        🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
+ipfs-desktop:        An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+hublin:        DEPRECATED - An easy and free video conference service based on WebRTC
+awesome-peer-to-peer:        A list of peer-to-peer resources.
+roll-call:        📞 Free and reliable audio calls for everyone w/ browser p2p.
+orbit:        A distributed, serverless, peer-to-peer chat application on IPFS
+noise:        A decentralized P2P networking stack written in Go.
+i2pd:        🛡 I2P: End-to-End encrypted and anonymous Internet
+syncthing-android:        Wrapper of syncthing for Android.
+js-libp2p:        The JavaScript Implementation of libp2p networking stack.
+c-toxcore:        The future of online communications.
+dash:        Dash - Reinventing Cryptocurrency
+metastream:        Watch streaming media with friends.
+WaykiChain:        Public Blockchain as a Decentralized Finance Infrastructure Service Platform
+cargo-crev:        A cryptographically verifiable code review system for the cargo (Rust) package manager.
+FISCO-BCOS:        A consortium blockchain platform （联盟区块链底层技术平台）
+CovenantSQL:        A decentralized, trusted, high performance, SQL database with blockchain features
+qtum:        Qtum Core Wallet
+i2p.i2p:        I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties. This is a mirror of the official Monotone repository.
+exonum:        An extensible open-source framework for creating private/permissioned blockchain applications
+bitcoin.org:        Bitcoin.org Website
+rats-search:        BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
+bittorrent-dht:        🕸 Simple, robust, BitTorrent DHT implementation
+toxic:        An ncurses-based Tox client
+ViralJS:        Express.JS middleware to enable P2P distribution for your app. Your decentralized CDN made easy.
+radicle:        A peer-to-peer stack for code collaboration
+ipfs-companion:        Browser extension that simplifies access to IPFS resources on the web
+openbazaar-go:        OpenBazaar 2.0 Server Daemon in Go
+ipfs-webui:        A frontend for an IPFS node.
+syncthing-macos:        Frugal and native macOS Syncthing application bundle
+CacheP2P:        "More users = More capacity"
+aether:        Aether is a peer-to-peer network of independent, self-moderated communities.
+FileNation:        The simplest way to send your files around the world using IPFS. ✏️ 🗃
+smarGate:        内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
+ebookcoin:        Ebookcoin has been updated to DDN Blockchain，please get it from https://github.com/ddnlink/ddn
+Peergos:        A p2p, secure file storage, social network and application protocol
+fair-analytics:        📊 An analytics server that doesn't undermine user's privacy
+OCSystem:        🚀ONLYCHAIN blockchain underlying system-OCSystem
+hlsjs-p2p-engine:        A hls.js plugin to offload bandwidth from expensive traditional CDNs，while also maximizing a user’s viewing experience.
+lnbook:        Mastering the Lightning Network (LN)
+p2p-media-loader:        An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
+vpncloud:        Peer-to-peer VPN
+node-android:        Run Node.js on Android by rewrite Node.js in Java
+openbazaar-desktop:        OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
+webrtc_android:        webrtc VideoCall VideoConference 视频通话 视频会议
+flatend:        Quickly build microservices using p2p networking in NodeJS/Go.
+webtorrent-cli:        WebTorrent, the streaming torrent client. For the command line.
+sciencefair:        The futuristic, fabulous and free desktop app for working with scientific literature 🔬 📖
+rust-ipfs:        The InterPlanetary File System (IPFS), implemented in Rust.
+peer-pad:        📝 Online editor providing collaborative editing in really real-time using CRDTs and IPFS.
+index:        A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, tokens, derivatives and futures, and their protocols.
+BiglyBT:        Feature-filled Bittorrent client based on the Azureus open source project
+gsnova:        Private proxy solution & network troubleshooting tool.
+PearPlayer.js:        支持WebRTC的多源多协议混合P2P-CDN的流媒体播放器
+peer-calls:        Group peer to peer video calls for everyone written in Go and TypeScript
+zcoin:        The privacy-focused cryptocurrency
+NSmartProxy:        NSmartProxy是一款开源免费的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)
+bitcoinclassic:        Bitcoin Classic integration/staging tree
+OpenBazaar-Client:        (DEPRECATED) Front-end Electron application for talking with the OpenBazaar-Server daemon
+awesome-ethereum:        ⚡ Awesome Ethereum Resources

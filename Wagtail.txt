@@ -1,0 +1,91 @@
+Wagtail is an open source CMS written in Python and built on the Django web framework.
+wagtail:        A Django content management system focused on flexibility and user experience
+awesome-wagtail:        A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+puput:        A Django blog app implemented in Wagtail
+bakerydemo:        Next generation Wagtail demo, born in Reykjavik
+draftail:        📝🍸 A configurable rich text editor built with Draft.js
+wagtaildemo:        Old example site implemented with Wagtail. Please see https://github.com/wagtail/bakerydemo for the current demo site
+coderedcms:        A content management system for marketing websites based on Django and Wagtail.
+longclaw:        A shop for Wagtail CMS
+wagtailmenus:        An app to help you manage and render menus in your Wagtail projects more effectively
+wagtail-bootstrap-blog:        Wagtail blog based on Bootstrap 4, support Markdown and Latex
+wagalytics:        A Google Analytics dashboard in your Wagtail admin
+cfgov-refresh:        Django project protecting American consumers
+wagtailmedia:        A Wagtail module for managing video and audio files within the admin
+wagtailtrans:        A Wagtail add-on for supporting multilingual sites
+Wagtail-Pipit:        Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+wagtail-personalisation:        Rule-based personalisation for Wagtail CMS
+website:        Code for the Outreachy website, based on Python, Django, and Bootstrap.
+wagtail-geo-widget:        Wagtail-Geo-Widget is the complete map solution for your Wagtail site.
+wagtail-experiments:        A/B testing for Wagtail
+wagtail-torchbox:        Wagtail build of Torchbox.com
+django-oscar-wagtail:        Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?)
+wagtail-condensedinlinepanel:        Fast, drop-in replacement for Wagtail's inline panel with drag and drop
+openstax-cms:        The OpenStax CMS, built using Wagtail on top of Django.
+wagtail-flags:        Feature flags for Wagtail sites
+Reddit-Wallpaper-Changer:        Reddit Wallpaper Changer
+wagtailgmaps:        Simple Google Maps address formatter for Wagtail fields
+wagtail-alt-generator:        Insert image description and tags with the help of computer vision
+wagtail-netlify:        Wagtail <3 Netlify
+madewithwagtail:        A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system
+wagtailfontawesome:        Moved to GitLab
+wagtailgridder:        Wagtail Gridder is a Bootstrap 4 enabled layout for the Wagtail CMS. Grid Items are created within categories, and displayed on a Grid Index Page. The JavaScript libraries Gridder and MixItUp are included.
+wagtail-grapple:        A Wagtail app that makes building GraphQL endpoints a breeze!
+wagtail-react-streamfield:        Powerful field for inserting multiple blocks with nesting
+wagtail-2fa:        2 Factor Authentication for Wagtail
+ls.joyous:        A calendar application for Wagtail
+wagtail-factories:        Factory boy classes for wagtail
+wagtail-cache:        A simple page cache for Wagtail based on the Django cache middleware.
+wagtail-sharing:        Easier sharing of Wagtail drafts
+draftjs-filters:        Filter Draft.js content to preserve only the formatting you allow
+wagtail-django-recaptcha:        A simple recaptcha field for Wagtail Form Pages
+wagtailenforcer:        The Wagtail arm of the law - enforce security protocols on your Wagtail site
+wagtail-simple-gallery:        A simple gallery app for Wagtail.
+wagtail-metadata-mixin:        🔍 OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages
+wagtail-graphql:        App to automatically add GraphQL support to a Wagtail website
+wagtail-import-export:        Page export from one Wagtail instance into another
+wagtailcommonblocks:        Common StreamField blocks for Wagtail
+wagtailembedder:        Snippets embedder for Wagtail richtext fields
+vagrant-wagtail-develop:        A script to painlessly set up a Vagrant environment for development of Wagtail
+wagtailclearstream:        A work-in-progress app to make Wagtail's StreamField more modular
+wagtail-inventory:        Search Wagtail pages by the StreamField blocks they contain
+wagtail-headless-preview:        Previews for headless Wagtail setups
+pari:        Django/Wagtail based PARI webapp
+beginner-wagtail:        A super simple implementation of Wagtail CMS
+django-hyper-editor:        Django Integration of Hyper Editor
+react-streamfield:        Powerful field for inserting multiple blocks with nesting.
+wagtail-resume:        A Wagtail project made to simplify creation of resumes for developers.
+wagtailcolumnblocks:        Streamfield columns for Wagtail
+wagtail-react-blog:        A blog built with React, Bootstrap and Wagtail Rest API
+wagtail-pg-search-backend:        PostgreSQL full text search backend for Wagtail CMS
+wagtail_textract:        Text extraction for Wagtail document search
+wagtailmodelchoosers:        A Wagtail app to pick generic models (rather than snippets or pages)
+wagtailmath:        Beautiful equations in your StreamField content
+wagtailvideos:        Videos for Wagtail CMS, including transcoding
+wagtail-vue-talk:        How to vue wagtail in a better light
+wagtaildraftail:        🐦📝🍸 Draft.js editor for Wagtail, built upon Draftail and draftjs_exporter
+draftjs-conductor:        📝✨ Little Draft.js helpers to make rich text editors “just work”
+wagtail-react-project:        Wagtail template with a React/Redux frontend.
+freeturn:        Freelance mission control
+wagtail-whoosh:        Search backend for Wagtail CMS using Whoosh engine.
+wagtail-birdsong:        Create, send, preview, edit and test email campaigns from within Wagtail
+oscar-wagtail-demo:        A Django recipe for integrating Oscar E-commerce into a Wagtail CMS application.
+wagtail-calendar:        A planning calendar for wagtail
+Django-wagtailmedium:        A Medium Editor integration for the Wagtail CMS.
+WF-website:        Website for Western Friend, part of the Religious Society of Friends
+wagtail-filepreviews:        Extend Wagtail's Documents with image previews and metadata from FilePreviews
+digihel:        City of Helsinki Digital Helsinki Wagtail CMS
+localore:        Wagtail-based CMS and Ansible playbooks for Localore: Finding America
+wagtail-redirect-importer:        Your friendly neighborhood importer that lets you import redirects from different tabular data formats, such as .csv and .xls
+wagtail-readinglevel:        Wagtail plugin to determine the reading level of of text input into a rich text field
+wagtail-marketing-addons:        An (opinionated) overview of all pages and their corresponding promotion settings.
+wagtailformblocks:        A Wagtail module that provides content blocks to display and process user defined forms
+devheldev:        Our development site with Wagtail
+pipeline:        The Polytechnic's content management system
+wagtail-opengraph-image-generator:        Wagtail Open Graph Image Generator will assist you in automatically creating Open Graph images for your pages.
+wagtail-openshift-quickstart:        Wagtail CMS quickstart for deployment on OpenShift
+wagtailCMS-tutorial:        Wagtail是一套基于Python Django的内容管理系统，为很多大型机构，比如NASA、Google、MIT、Mizilla等所使用，本项目旨在将其官方文档翻译整理为中文语言。
+wagtailcontentstream:        An abstract Django model with a Wagtail StreamField named body with multiple blocks I use on a regular basis. It's opinioned: very little HTML is allowed in the text block, forcing authors to create structured data.
+wagmail:        Build, template, send & schedule emails from Wagtail
+wagtailfacelift:        WARNING: This repo isn't maintained anymore! Drop-in CSS enhancements for Wagtail's Streamfield
+wagtail_uplift:        Theme for Wagtail

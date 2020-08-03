@@ -1,0 +1,89 @@
+Software-defined networking (SDN) is an architecture for programmable, centrally managed networks.
+ZeroTierOne:        A Smart Ethernet Switch for Earth
+dpdk-ans:        ANS(Accelerated Network Stack) on DPDK, DPDK native TCP/IP stack.
+awesome-sdn:        An awesome list of papers, projects and communities about SDN.
+sdn-handbook:        SDN手册
+kube-ovn:        A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations
+libzt:        Library version of ZeroTier
+faucet:        FAUCET is an OpenFlow controller for multi table OpenFlow 1.3 switches, that implements layer 2 switching, VLANs, ACLs, and layer 3 IPv4 and IPv6 routing.
+poseidon:        Poseidon is a python-based application that leverages software defined networks (SDN) to acquire and then feed network traffic to a number of machine learning techniques. The machine learning algorithms classify and predict the type of device.
+ofsoftswitch13:        OpenFlow 1.3 switch.
+vedetta:        OpenBSD Router Boilerplate
+Learning-SDN:        SDN 學習及實作範例。
+yabgp:        Yet Another BGP Python Implementation
+computer-networking:        Free resources for a self-taught education in Computer Networking
+stratum:        Stratum Project Main Repo
+sdwannewhope:        SD-WAN security and insecurity
+a-deep-rl-approach-for-sdn-routing-optimization:        A Deep-Reinforcement Learning Approach for Software-Defined Networking Routing Optimization
+terraform-provider-zerotier:        Create, modify and destroy ZeroTier networks and members through Terraform.
+Kathara:        Implementation of the notorious Netkit using Python and Docker, allowing for SDN, NFV and traditional routing protocols.
+cherry:        OpenFlow Controller written in Go
+fastclick:        FastClick - A faster version the Click Modular Router featuring batching, advanced multi-processing and improved Netmap and DPDK support (ANCS'15). Check the metron branch for Metron specificities (NSDI'18).
+CNTT:        CNTT
+good-articles-by-sort:        本仓库用来存放我看过的认为比较好的文章---根据分类排序
+nff-go-nat:        NAT (network address translation) example for NFF-Go framework
+meetups:        Repository to gather all presentations and info from all Taiwan Cloud Native meetups.
+lighty-core:        Lightweight OpenDaylight runtime library.
+beehive-netctrl:        Distributed SDN controller built on top of beehive.
+RyuApps:        Creates a simple Ryu app using the tutorials and then adds on to it.
+pathman-sr:        Pathman SR is an open-source app to compute paths and deploy routes in Segment Routing-enabled network.
+openshift-monitoring:        A realtime distributed monitoring tool for OpenShift Enterprise
+iovisor-ovn:        IOVisor OVN integration
+quantum:        A lightweight, encrypted, WAN oriented, software defined network device.
+cloudsimsdn:        CloudSimSDN is an SDN extension of CloudSim project to simulate SDN and SFC features in the context of a cloud data center.
+opendaylight-sample-apps:        Sample applications for use with OpenDaylight (https://www.opendaylight.org/)
+openflow:        The OpenFlow middleware library
+acipdt:        Python+Excel utility for Cisco ACI configuration
+flowmanager:        An SDN application that gives a network administrator, or a student, the ability to control flows in an OpenFlow network without coding.
+sdwan-harvester:        🌐 Automatically enumerate and fingerprint SD-WAN nodes on the internet
+python-openflow:        Low level OpenFlow messages parser used by Kytos SDN Platform
+multipath:        Multipath routing with Ryu and Pyretic SDN Controllers
+ansible-role-aci-model:        A comprehensive Ansible role to model and deploy Cisco ACI fabrics
+DELTA:        PROJECT DELTA: SDN SECURITY EVALUATION FRAMEWORK
+multipath-sdn-controller:        🎛 Multipath Software Defined Networking Controller which sets up multipath forwarding tables and adjusts them based on network measurements
+kytos:        Kytos SDN Platform is the fastest way to deploy an SDN Network. With this you can deploy a basic OpenFlow controller or your own controller. Kytos was designed to be easy to install, use, develop and share Network Apps (NApps). Kytos is incredibly powerful and easy, its modular design makes Kytos a lightweight SDN Platform.
+son-emu:        Attention! Legacy! This repo will be replaced with https://github.com/containernet/vim-emu
+Ryu-SDN-IP:        SDN-IP project implemented by Ryu SDN framework.
+fog05:        End-to-End Compute, Storage and Networking Virtualisation.
+network-controller:        🦃️🦃️🦃️🦃️🦃️ A Kubernetes CNI Network Controller Implement in Go
+v-switch:        Virtual Encrypted Switch across the network, using UDP + AES + TAP
+ddos-blackhole:        DDoS mitigation using null routing
+SDN-Datacenter:        Making a software defined datacenter. Which includes various virtual networks with mutiple network functions deployed on it. This includes SDN network deployed on real hardware.
+basebox:        A tiny OpenFlow controller for OF-DPA switches.
+SOL:        SOL: SDN optimization layer. A framework for writing network optimization problems more easily.
+katana-slice_manager:        5G Network E2E Slice Manager
+TupleNet:        TupleNet is a lightweight tool for building virtual-networking
+xdp:        Package xdp allows one to use XDP sockets from the Go programming language.
+MafDet:        System that aims to detect and mitigate DDoS attacks using Machine Learning techniques & SDN.
+awesome-sdn-security:        Collection of SDN security related resources
+BPFabric:        BPFabric implementations. Details about this work are available in the research paper "BPFabric: Data Plane Programmability for Software Defined Networks" published at ANCS 2017
+openshift-management:        OpenShift Management Playbooks
+edge:        ZeroTier Edge software and root filesystem (AARCH64)
+netbox-joined-inventory:        Netbox_joined_inventory is a python script that gathers data from a Netbox source-of-truth and stores them as Ansible inventory, group_vars and host_vars files.
+pilot:        Simple web-based SDN controller for family and friends
+ztadmin:        A scriptable interface to ZeroTier One's administration API.
+idsfree:        Launch hacking tests in cloud providers securely, isolated and without raise security alerts in the provider
+sdwan-infiltrator:        🔮 NSE script to automatically discover SD-WAN nodes
+The-Road-to-SDN:        The Road to SDN @ FuZhou University
+GTP-U_OvS-kernel-extension:        Open vSwitch kernel module extension with GTP-U tunnel support
+feiskyer.github.io:        Personal blog.
+ffho-salt-public:        Salt-Orchestrated OpenSource based Software-Defined-Freifunk-Infrastructre-Network configuration :) Mirrored from https://git.ffho.net/FreifunkHochstift/ffho-salt-public
+SDN-Simulation:        Reproduce the Simulation for Software Defined Network(SDN) based on Omnetpp-5.4.1 and Reinforcement Learning Algorithm in paper "QoS-Aware Adaptive Routing in Multi-layer Hierarchical Software Defined Networks: A Reinforcement Learning Approach"
+study_sdn:        Learning SDN within Ryu controller and SDN experiments/以Ryu作为控制器的SDN学习以及实验
+nlan:        Interactive SDN/IOT with tega db and Jupyter/IPython
+sfc_app:        Service Function Chaining Application for Ryu SDN controller
+beba-switch:        BEBA Software Switch implementation
+sdn-cockpit:        Open-source teaching framework for software-defined networking (SDN)
+son-mano-framework:        SONATA's Service Platform MANO Framework
+sdn-vm-polimi:        VM for the SDN class at Polimi
+IDPI:        Advanced extra high speed deep packet inspect library with private AFDL language supported
+bgpls:        A BGP Link-State collector library for Go
+RoutingFlow:        RoutingFlow is a project inspired by RouteFlow, aims to implement legacy and distributed routing protocol in a OpenFlow network.
+genorch:        Generic Orchestration Platform 😎
+SDNFV101:        Having fun with SDN in chain of NFV with some Docker ! 🙉
+ofp_sniffer:        An OpenFlow sniffer to help network troubleshooting in production networks.
+SDN_DDoS_Simulation:        An attempt to detect and prevent DDoS attacks using reinforcement learning. The simulation was done using Mininet.
+inform-inspect:        Ubiquiti Unifi Inform Packet Inspector
+staticRouter:        基于Mininet对SDN/OpenFlow网络进行仿真，搭建了由一个三层路由器staticRouter、一个二层自学习交换机以及若干台主机构成的网络拓扑。使用POX做控制器，编程实现了网络中各个主机之间的连通性。
+SDN-IP-Ryu:        SDN-IP application implemented on Ryu which allows a Software Defined Network to connect to external networks on the Internet using the standard Border Gateway Protocol (BGP).
+ofswitch13:        OFSwitch13 -- OpenFlow 1.3 module for ns-3.

@@ -1,0 +1,91 @@
+TensorFlow is an open source software library for numerical computation.
+tensorflow:        An Open Source Machine Learning Framework for Everyone
+keras:        Deep Learning for humans
+TensorFlow-Examples:        TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+transformers:        🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+gold-miner:        🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+basics:        📚 Learn ML with clean code, simplified math and illustrative visuals.
+bert:        TensorFlow code and pre-trained models for BERT
+handson-ml:        A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+data-science-ipython-notebooks:        Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+Real-Time-Voice-Cloning:        Clone a voice in 5 seconds to generate arbitrary speech in real-time
+Mask_RCNN:        Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+100-Days-Of-ML-Code:        100-Days-Of-ML-Code中文版
+TensorFlow-Course:        Simple and ready-to-use tutorials for TensorFlow
+DeepSpeech:        A TensorFlow implementation of Baidu's DeepSpeech architecture
+spleeter:        Deezer source separation library including pretrained models.
+Virgilio:        Your new Mentor for Data Science E-Learning.
+facenet:        Face recognition using Tensorflow
+face-api.js:        JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+netron:        Visualizer for neural network, deep learning and machine learning models
+DeepCreamPy:        Decensoring Hentai with Deep Neural Networks
+stanford-tensorflow-tutorials:        This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+horovod:        Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+Deep-Learning-with-TensorFlow-book:        深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+tflearn:        Deep learning library featuring a higher-level API for TensorFlow.
+ncnn:        ncnn is a high-performance neural network inference framework optimized for the mobile platform
+kubeflow:        Machine Learning Toolkit for Kubernetes
+dopamine:        Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
+onnx:        Open standard for machine learning interoperability
+EffectiveTensorflow:        TensorFlow tutorials and best practices.
+sonnet:        TensorFlow-based neural network library
+TensorFlow-Tutorials:        TensorFlow Tutorials with YouTube Videos
+tutorials:        机器学习相关教程
+bert-as-service:        Mapping a variable-length sentence to a fixed-length vector using BERT model
+mit-deep-learning:        Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+autokeras:        AutoML library for deep learning
+faceai:        一款入门级的人脸、视频、文字检测以及识别的项目.
+DCGAN-tensorflow:        A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"
+nlp-tutorial:        Natural Language Processing Tutorial for Deep Learning Researchers
+nni:        An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+text_classification:        all kinds of text classification models and more with deep learning
+d2l-en:        Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
+tensorlayer:        Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
+generative-models:        Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
+python-machine-learning-book-2nd-edition:        The "Python Machine Learning (2nd edition)" book code repository and info resource
+deepo:        Set up deep learning environment in a single command line.
+photoprism:        Personal Photo Management powered by Go and Google TensorFlow
+tensorflow_cookbook:        Code for Tensorflow Machine Learning Cookbook
+tensorpack:        A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
+darkflow:        Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
+swift:        Swift for TensorFlow
+xlnet:        XLNet: Generalized Autoregressive Pretraining for Language Understanding
+seq2seq:        A general-purpose encoder-decoder framework for Tensorflow
+TensorFlow-2.x-Tutorials:        TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。
+eat_tensorflow2_in_30_days:        Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+TopDeepLearning:        A list of popular github projects related to deep learning
+MMdnn:        MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
+Learning-to-See-in-the-Dark:        Learning to See in the Dark. CVPR 2018
+python-small-examples:        告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。
+keras-js:        Run Keras models in the browser, with GPU support using WebGL
+keras-rl:        Deep Reinforcement Learning for Keras.
+alluxio:        Alluxio, data orchestration for analytics and machine learning in the cloud
+edward:        A probabilistic programming language in TensorFlow. Deep generative models, variational inference.
+serving:        A flexible, high-performance serving system for machine learning models
+TensorFlow-World:        🌎 Simple and ready-to-use tutorials for TensorFlow
+graph_nets:        Build Graph Nets in Tensorflow
+DeepPavlov:        An open source library for deep learning end-to-end dialog systems and chatbots.
+TensorFlow-Book:        Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
+sketch-code:        Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
+tensorspace:        Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
+Practical_RL:        A course in reinforcement learning in the wild
+pipeline:        PipelineAI Kubeflow Distribution
+DeepLearningZeroToAll:        TensorFlow Basic Tutorial Labs
+textgenrnn:        Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+SSD-Tensorflow:        Single Shot MultiBox Detector in TensorFlow
+cvat:        Powerful and efficient Computer Vision Annotation Tool (CVAT)
+lucid:        A collection of infrastructure and tools for research in neural network interpretability.
+Tensorflow-Tutorial:        Tensorflow tutorial from basic to hard
+CapsNet-Tensorflow:        A Tensorflow implementation of CapsNet(Capsules Net) in paper Dynamic Routing Between Capsules
+tensorflow-docs:        TensorFlow 最新官方文档中文版
+tensorflow-generative-model-collections:        Collection of generative models in Tensorflow
+docs:        TensorFlow documentation
+examples:        TensorFlow examples
+TensorFlowOnSpark:        TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
+HyperLPR:        基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
+tf-faster-rcnn:        Tensorflow Faster RCNN for Object Detection
+tf-pose-estimation:        Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.
+Chinese-BERT-wwm:        Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）
+hands-on-ml-zh:        📖 [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
+gocv:        Go package for computer vision using OpenCV 4 and beyond.
+SmartCropper:        🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image. 智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。

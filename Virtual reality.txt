@@ -1,0 +1,90 @@
+Virtual reality is an artificial environment displayed through digital means.
+three.js:        JavaScript 3D library.
+aframe:        🅰️ web framework for building virtual reality experiences.
+bullet3:        Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+engine:        Fast and lightweight WebGL game engine
+Relativ:        Build your own VR headset for $100.
+VRTK:        A productive toolkit for rapidly building spatial computing solutions in the Unity software.
+webxr:        Repository for the WebXR Device API Specification.
+ipyvolume:        3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
+awesome-aframe:        [DISCONTINUED] Collection of awesome resources for the A-Frame WebVR framework.
+viro:        ViroReact: AR and VR using React Native
+aframe-react:        Build virtual reality experiences with A-Frame and React.
+superframe:        📦 A super collection of A-Frame components.
+utymap:        Highly customizable library for procedural world generation based on real map data
+networked-aframe:        A web framework for building multi-user virtual reality experiences.
+exokit:        Native VR/AR/XR engine for JavaScript 🦖
+arcan:        Arcan - [Display Server, Multimedia Framework, Game Engine] -> "Desktop Engine"
+android-3D-model-viewer:        Android app to load 3D models using pure OpenGL ES 2.0. Published on Play Store
+lovr:        Virtual Reality Engine
+Hover-UI-Kit:        Create beautiful user interfaces for immersive VR/AR experiences.
+uxofvr.com:        A list of resources about the UI/UX considerations for VR.
+a-painter:        🎨 Paint in VR in your browser.
+calcflow:        A virtual reality tool for mathematical modeling!
+aframe-inspector:        🔍 Visual inspector tool for A-Frame. Hit *<ctrl> + <alt> + i* on any A-Frame scene.
+DungeonTemplateLibrary:        🌏: dungeon free resources. [terrain generation / roguelike generation]
+webxr-samples:        Samples to demonstrate use of the WebXR Device API
+Car-Simulator:        Autonomous car simulator (based on JavaScript & WebGL) implemented by fuzzy control system, genetic algorithm and particle swarm optimization.
+IdeaSpace:        😎 Create interactive 3D and VR web experiences for desktop, mobile & VR devices
+Sol-R:        Open-Source CUDA/OpenCL Speed Of Light Ray-tracer
+UnityModules:        Leap Motion SDK for Unity.
+AR-VRCourse:        VR,AR,MR 开发入门教程
+polymer:        🎨 graphics + interaction engine
+cosmoscout-vr:        🌌 A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.
+virocore:        ViroCore cross-platform AR/VR renderer
+webxr-polyfill:        Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard
+ViveInputUtility-Unity:        A toolkit that helps developing/prototyping VR apps.
+safespaces:        3D/VR Desktop built for Arcan
+MapsSDK-Unity:        This repository contains samples, documentation, and supporting scripts for Maps SDK, a Microsoft Garage project.
+Punchkeyboard:        Punchkeyboard is an open-source keyboard for virtual reality, enhanced with autocomplete and next word prediction functionality for a swift typing experience.
+RealityUI:        A Swift Package for creating familiar UI Elements in a RealityKit rendered Augmented Reality or Virtual Reality scene.
+guri-vr:        https://gurivr.com
+OpenXR-SDK-Source:        Sources for OpenXR loader, basic API layers, and example code.
+ViveGrip:        Physics-based grabbing for SteamVR development in Unity.
+OpenXR-SDK:        Generated headers and sources for OpenXR loader.
+patches:        Patches is a visual programming editor for building WebVR and WebGL experiences.
+avitab:        X-Plane plugin that displays a tablet to aid VR usage
+CentroUI:        CentroUI is a library for building user interfaces for WebVR
+StereoKit:        An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
+Kerbal-VR:        An add-on for Kerbal Space Program (KSP) to enable virtual reality.
+remixvr:        RemixVR is a tool for collaboratively building customisable VR experiences.
+HoloViveObserver:        Shared Reality: Observe a VR session from the same room using a HoloLens!
+react-native-360:        A React Native wrapper for Google VR Cardboard SDK
+webvrrocks:        Your guide to Virtual Reality in the browser.
+PumkinsAvatarTools:        A toolbox for easily setting up VRChat avatars in Unity. Adds functionality to the editor and automates some of the tedious tasks.
+HVVR:        Hierarchical Visibility for Virtual Reality, which implements a hybrid CPU/GPU ray-caster, suited for real time rendering of effects such as lens distortion.
+ApertusVR:        Virtual Reality Software Library
+a-blast:        💥 Save the World From the Cutest Creatures in the Universe!
+covise:        Collaborative Visualization and Simulation Environment, OpenCOVER and oddlot
+vr-speech-sandbox-vive:        WARNING: This repository is no longer maintained ⚠️ This repository will not be updated. The repository will be kept available in read-only mode.
+spark-ar-creators:        List of 3000 (and counting) Spark AR Creators. Open an issue or contact me if you want to be added.❤️
+aframe-registry:        [DISCONTINUED] Curated collection of community A-Frame components.
+MixedRealityResources:        Mixed Reality related resources
+mathworldvr:        Math world in WebVR, powered by A-frame.
+ImsvGraphVis:        Immersive Graph Visualization
+MIVisionX:        MIVisionX toolkit is a set of comprehensive computer vision and machine intelligence libraries, utilities, and applications bundled into a single toolkit. Khronos OpenVX is also delivered with MIVisionX.
+omegalib:        A hybrid visualization framework for desktops, large immersive displays and the web
+lvr:        👓 Augmented Reality for everyone - Out of the world experiences
+janusweb:        An in-browser implementation of JanusVR
+blockchain3d:        Open-source 3D and VR Blockchain Visualisations
+Simple-OpenVR-Driver-Tutorial:        A sample OpenVR Driver for you to learn from
+resonate:        Building generative VR worlds
+spatial-computing:        Samples showing how to use Azure and AI services in Mixed Reality projects
+unity-experiment-framework:        UXF - Framework for creating human behaviour experiments in Unity
+aframe-svg-extruder:        A-Frame component to extrude your SVG's files and use in WebVR scenes like magic 🌟
+awesome-vr-ux:        Awesome VR UX
+oculusvr_samples:        Samples for Oculus Rift and OpenGL
+nomai-vr:        Outer Wilds VR Mod
+webxr-input-profiles:        WebXR Gamepad assets, source library, and schema
+WebScreenVR:        WebScreenVR enhance your workspace while in Virtual Reality, allowing you to cast your screen and different applications around you in a 3D environment.
+exokit-web:        Exokit WebXR engine for the browser
+run-on-coal:        Simple and light-weight 3D game engine
+project-athena:        Vircadia metaverse engine, based on the High Fidelity Virtual Reality Platform.
+OpenPSVR:        Open Source Open VR driver for the Playstation VR.
+android-3d-model-viewer:        Android app to load 3D models in obj, stl, dae & gltf format using pure OpenGL ES 2.0. Published on Play Store https://play.google.com/store/apps/details?id=org.andresoviedo.dddmodel2
+opencollar:        The Open Source Role Play Device for the Metaverse.
+vimeo-threejs-player:        A plugin for streaming video from Vimeo to WebGL/VR/AR apps
+vr-player:        🎥 A video player built in ReactVR
+immersive:        Immersive Three.js Workshop
+worlds2:        Building Virtual Reality Worlds using Three.js
+MoonMotion:        Moon Motion Toolkit - Free and open source toolkit for VR locomotion

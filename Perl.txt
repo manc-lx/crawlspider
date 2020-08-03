@@ -1,0 +1,91 @@
+Perl is a highly capable and feature-rich programming language.
+Command-line-text-processing:        ⚡ From finding text to search and replace, from sorting to beautifying text and more 🎨
+theos:        A cross-platform suite of tools for building and deploying software for iOS and other platforms.
+mojo:        ✨ Mojolicious - Perl real-time web framework
+kaitai_struct:        Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
+postgresqltuner:        Simple script to analyse your PostgreSQL database configuration, and give tuning advice
+weechat:        The extensible chat client.
+Mojo-Webqq:        【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
+activemq:        Mirror of Apache ActiveMQ
+rsnapshot:        a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
+imapsync:        Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is
+avro:        Apache Avro is a data serialization system.
+ack2:        **ack 2 is no longer being maintained. ack 3 is the latest version.**
+KomodoEdit:        Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
+munin:        Main repository for munin master / node / plugins
+arl:        lists of most popular repositories for most favoured programming languages (according to StackOverflow)
+Mojo-Weixin:        使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
+zeroclickinfo-goodies:        DuckDuckGo Instant Answers based on Perl & JavaScript
+perl5:        🐫The Perl language interpreter.
+openkore:        A free/open source client and automation tool for Ragnarok Online
+shc:        Shell script compiler
+nipe:        An engine to make Tor network your default gateway
+Monitorix:        Monitorix is a free, open source, lightweight system monitoring tool.
+scripting_course:        📓 A reference guide to Linux command line, Vim and Scripting
+sysadmin-util:        Tools for Linux/Unix sysadmins.
+OneLang:        https://github.com/onelang/OneLang
+Color-Scripts:        User contributed color scripts
+youtube-viewer:        Lightweight application for searching and playing videos from YouTube.
+trizen:        Lightweight AUR Package Manager
+convos:        Convos 👥 is the simplest way to use IRC in your browser
+fib:        Performance Benchmark of top Github languages
+inxi:        inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
+exiftool:        ExifTool meta information reader/writer
+slimserver:        Server for Logitech Squeezebox players. This server is also called Logitech Media Server
+zeroclickinfo-spice:        DuckDuckGo Instant Answers based on JavaScript (JSON) APIs
+dotdotpwn:        DotDotPwn - The Directory Traversal Fuzzer
+musicbrainz-server:        The official musicbrainz-server codebase
+rt:        Request Tracker, an enterprise-grade issue tracking system
+mt-aws-glacier:        Perl Multithreaded Multipart sync to Amazon Glacier
+cli:        This is the DEPRECATED Linode CLI. Use https://github.com/linode/linode-cli
+asbru-cm:        Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
+ls--:        ls on steroids
+clamav-faq:        ClamAV FAQ
+bsed:        Simple SQL-like syntax on top of Perl text processing.
+awesome:        Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
+altium2kicad:        Altium to KiCad converter for PCB and schematics
+Perlito:        "Perlito" Perl programming language compiler
+hack-tools:        hack tools
+latexindent.pl:        Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
+intel-cmt-cat:        User space software for Intel(R) Resource Director Technology
+Thruk:        Thruk is a multibackend monitoring webinterface for Naemon, Nagios, Icinga and Shinken using the Livestatus API.
+metacpan-web:        Web interface for MetaCPAN
+bugzilla:        Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:
+Perl5-IDEA:        Perl5 plugins for IntelliJ IDEA
+simple.vm:        Simple virtual machine which inteprets bytecode.
+longview:        Linode Longview Agent
+pulledpork:        Pulled Pork for Snort and Suricata rule management (from Google code)
+zeroclickinfo-fathead:        DuckDuckGo Instant Answers based on keyword data files
+weed:        Heavily Xchat inspired beautiful irssi theme.
+Server:        EQEmu - Open Source EverQuest Server
+neard:        🎲 Portable WAMP software stack
+O-Saft:        O-Saft - OWASP SSL advanced forensic tool
+defects4j:        A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering Research
+openfoodfacts-server:        Open Food Facts database and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff
+LANraragi:        Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
+ack3:        ack is a grep-like search tool optimized for source code.
+netdisco:        A web-based network management tool.
+shellver:        Reverse Shell Cheat Sheet TooL
+reverse-shell-cheatsheet:        🙃 Reverse Shell Cheat Sheet 🙃
+Crypt-LE:        Crypt::LE - Let's Encrypt / Buypass / ACME client and library in Perl for obtaining free SSL certificates (inc. generating RSA/ECC keys and CSRs). HTTP/DNS verification is supported out of the box, easily extended with plugins, easily dockerized.
+cli-debugging-cheatsheets:        🔥 Collection of command-line debugging cheatsheets for multiple languages and runtimes
+metacpan-api:        A free, open API for everything you want to know about CPAN
+awesome-ci:        Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
+bioperl-live:        Core BioPerl 1.x code
+rsh:        generate reverse shell from CLI for linux and Windows.
+centreon-plugins:        Collection of plugins for softwares compatible with Nagios plugins
+KongFuOfArchitect:        (🆕更新中！)《架构师的功夫》教程合集、文章合集包含 思想指引、资源汇总、范式编程、高效成长、必备算法、详细笔记...
+Cookbook:        Code snippets for various programming languages and libraries
+XBruteForcer:        X Brute Forcer Tool 🔓 WordPress , Joomla , DruPal , OpenCart , Magento
+webperl:        Run Perl in the browser with WebPerl!
+scot:        Sandia Cyber Omni Tracker (SCOT)
+vcf2maf:        Convert a VCF into a MAF, where each variant is annotated to only one of all possible gene isoforms
+needrestart:        Restart daemons after library updates.
+proxenet:        The ONLY hacker friendly proxy for webapp pentests.
+OCSInventory-Server:        Communication server of OCS Inventory
+openQA:        openQA web-frontend, scheduler and tools.
+imscp:        i-MSCP Main Repository
+libagar:        Cross-Platform GUI Toolkit (stable)
+mysql-sandbox:        Quick and painless install of one or more MySQL servers in the same host.
+spamassassin:        Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests
+l3dsr:        Direct Server Return load balancing across Layer 3 boundaries.

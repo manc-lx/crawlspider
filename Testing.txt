@@ -1,0 +1,91 @@
+Eliminate bugs and ship with more confidence by adding these tools to your workflow.
+puppeteer:        Headless Chrome Node.js API
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+nodebestpractices:        ✅ The Node.js best practices list (July 2020)
+jest:        Delightful JavaScript Testing.
+cypress:        Fast, easy and reliable testing for anything that runs in a browser.
+postwoman:        👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
+mocha:        ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+enzyme:        JavaScript Testing utilities for React
+ava:        Node.js test runner that lets you develop with confidence 🚀
+jasmine:        Simple JavaScript testing framework for browsers and node.js
+goreplay:        GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+react-testing-library:        🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
+Catch2:        A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+learn-go-with-tests:        Learn Go with test-driven development
+testify:        A toolkit with common assertions and mocks that plays nicely with the standard library
+mockito:        Most popular Mocking framework for unit tests written in Java
+faker:        Faker is a Python package that generates fake data for you.
+httpbin:        HTTP Request & Response Service, written in Python + Flask.
+phpstan:        PHP Static Analysis Tool - discover bugs in your code without running it!
+Quick:        The Swift (and Objective-C) testing framework.
+pollyjs:        Record, Replay, and Stub HTTP Interactions.
+javascript-testing-best-practices:        📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+factory_bot:        A library for setting up Ruby objects as test data.
+Detox:        Gray box end-to-end testing and automation framework for mobile apps
+react-cosmos:        Dev environment for building scalable, high-quality user interfaces
+pytest:        The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+HeadlessBrowsers:        A list of (almost) all headless web browsers in existence
+chromedp:        A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+bash-oo-framework:        Bash Infinity is a modern boilerplate / framework / standard library for bash
+robotframework:        Generic automation framework for acceptance testing and RPA
+toxiproxy:        ⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+hypothesis:        Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+jmeter:        Apache JMeter
+intern:        A next-generation code testing stack for JavaScript.
+Codeception:        Full-stack testing PHP framework
+terratest:        Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+goss:        Quick and Easy server testing/validation
+testcontainers-java:        Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+qunit:        🔮 An easy-to-use JavaScript unit testing framework.
+Nimble:        A Matcher Framework for Swift and Objective-C
+ts-jest:        TypeScript preprocessor with sourcemap support for Jest
+tcpcopy:        An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
+httplab:        The interactive web server
+go-fuzz:        Randomized testing for Go
+dredd:        Language-agnostic HTTP API Testing Tool
+jest-cheat-sheet:        Jest cheat sheet
+powermock:        PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.
+syzkaller:        syzkaller is an unsupervised coverage-guided kernel fuzzer
+inKino:        A multiplatform Dart movie app with 40% of code sharing between Flutter and the Web.
+wpt:        Test suites for Web platform specs — including WHATWG, W3C, and others
+mimesis:        Mimesis is a package for Python, which helps generate big volumes of fake data for a variety of purposes in a variety of languages.
+shoulda-matchers:        Simple one-liner tests for common Rails functionality
+go-grpc-middleware:        Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+macaca:        Automation solution for multi-platform. 多端自动化解决方案
+minitest:        minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+molecule:        Molecule aids in the development and testing of Ansible roles
+gotests:        Automatically generate Go test boilerplate from your source code.
+rewire:        Easy monkey-patching for node.js unit tests
+spock:        The Enterprise-ready testing and specification framework.
+doctest:        The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
+toxy:        Hackable HTTP proxy for resiliency testing and simulated network conditions
+go-sqlmock:        Sql mock driver for golang to test database interactions
+database_cleaner:        Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.
+hiper:        🚀 A statistical analysis tool for performance testing
+pa11y:        Pa11y is your automated accessibility testing pal
+react-hooks-testing-library:        🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
+jest-image-snapshot:        ✨ Jest matcher for image comparisons. Most commonly used for visual regression testing.
+kotest:        Powerful, elegant and flexible test framework for Kotlin
+web-skills:        A visual overview of useful skills to learn as a web developer
+pywinauto:        Windows GUI Automation with Python (based on text properties)
+specta:        A light-weight TDD / BDD framework for Objective-C & Cocoa
+lighthousebot:        Run Lighthouse in CI, as a web service, using Docker. Pass/Fail GH pull requests.
+Pester:        Pester is the ubiquitous test and mock framework for PowerShell.
+zalenium:        A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
+puppeteer-examples:        Puppeteer example scripts for running Headless Chrome from Node. Run them at https://puppeteersandbox.com
+maildev:        📫 SMTP Server + Web Interface for viewing and testing emails during development.
+hatch:        A modern project, package, and virtual env manager for Python
+awaitility:        Awaitility is a small Java DSL for synchronizing asynchronous operations
+inspec:        InSpec: Auditing and Testing Framework
+finatra:        Fast, testable, Scala services built on TwitterServer and Finagle
+spek:        A specification framework for Kotlin
+manticore:        Symbolic execution tool
+reactopt:        A CLI React performance optimization tool that identifies potential unnecessary re-rendering
+pythonVSCode:        This extension is now maintained in the Microsoft fork.
+mockery:        A mock code autogenerator for Golang
+nunit:        NUnit 3 Framework
+should.js:        BDD style assertions for node.js -- test framework agnostic
+kasaya:        A "WYSIWYG" (sort of) scripting language and runtime for browser automation
+awesome-software-quality:        Software Quality Wiki
+badssl.com:        🔒 Memorable site for testing clients against bad SSL configs.

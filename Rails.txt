@@ -1,0 +1,91 @@
+Ruby on Rails (Rails) is a web application framework written in Ruby.
+rails:        Ruby on Rails
+discourse:        A platform for community discussion. Free, open, simple.
+gitlabhq:        GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+devise:        Flexible authentication solution for Rails with Warden.
+diaspora:        A privacy-aware, distributed, open source social network.
+spree:        Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+activeadmin:        The administration framework for Ruby on Rails applications.
+kaminari:        ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
+simple_form:        Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+factory_bot:        A library for setting up Ruby objects as test data.
+octicons:        A scalable set of icons handcrafted with <3 by GitHub
+react-rails:        Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.
+rails-style-guide:        A community-driven Ruby on Rails style guide
+paper_trail:        Track changes to your rails models
+brakeman:        A static analysis security vulnerability scanner for Ruby on Rails applications
+buffalo:        Rapid Web Development w/ Go
+will_paginate:        Pagination library for Rails, Sinatra, Merb, DataMapper, and more
+mailcatcher:        Catches mail and serves it through a dream.
+webpacker:        Use Webpack to manage app-like JavaScript modules in Rails
+administrate:        A Rails engine that helps you put together a super-flexible admin dashboard.
+cancancan:        The authorization Gem for Ruby on Rails.
+graphql-ruby:        Ruby implementation of GraphQL
+chatwoot:        Open-source live chat software 🔥💬
+simplecov:        Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
+octobox:        📮Untangle your GitHub Notifications
+refinerycms:        An extendable Ruby on Rails CMS that supports Rails 6.0+
+suspenders:        A Rails template with our standard defaults, ready to deploy to Heroku.
+annotate_models:        Annotate Rails classes with schema and routes info
+clearance:        Rails authentication with email & password.
+homeland:        🎪 Open source discussion website.
+solidus:        🛒Solidus, Rails eCommerce System
+ahoy:        Simple, powerful, first-party analytics for Rails
+devise_token_auth:        Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
+timecop:        A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
+shoulda-matchers:        Simple one-liner tests for common Rails functionality
+public_activity:        Easy activity tracking for models - similar to Github's Public Activity
+elasticsearch-rails:        Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+Portus:        Authorization service and frontend for Docker registry (v2)
+lobsters:        Computing-focused community centered around link aggregation and discussion
+inherited_resources:        https://github.com/activeadmin/inherited_resources
+comfortable-mexican-sofa:        ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine
+mercury:        Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline.
+pagy:        The ultimate pagination ruby gem
+feedbin:        RSS Reader
+oj:        Optimized JSON
+client_side_validations:        Client Side Validations made easy for Ruby on Rails
+split:        📈 The Rack Based A/B testing framework
+scenic:        Versioned database views for Rails
+sorcery:        Magical authentication for Rails 3 & 4
+devise_invitable:        An invitation strategy for devise
+meta-tags:        Search Engine Optimization (SEO) for Ruby on Rails applications.
+awesome-rails:        A curated list of awesome things related to Ruby on Rails
+flipper:        🐬 feature flipping for ruby (performant and simple)
+zammad:        Zammad is a web based open source helpdesk/customer support system
+thin:        A very fast & simple Ruby web server
+browser:        Do some browser detection with Ruby. Includes ActionController integration.
+rspec-rails-examples:        RSpec cheatsheet & Rails app: Learn how to expertly test Rails apps from a model codebase
+her:        Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.
+staytus:        💡 An open source solution for publishing the status of your services
+foreman:        an application that automates the lifecycle of servers
+responders:        A set of Rails responders to dry up your application
+hound:        Automated code review for GitHub pull requests.
+ruby-bookmarks:        Ruby and Ruby on Rails bookmarks collection
+Spina:        Spina CMS
+awesome-opensource-apps:        🏠ℹ️ Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
+recaptcha:        ReCaptcha helpers for ruby apps
+config:        Easiest way to add multi-environment yaml settings to Rails, Sinatra, Pandrino and other Ruby projects.
+shoryuken:        A super efficient Amazon SQS thread based message processor for Ruby
+coverband:        Ruby production code coverage collection and reporting (line of code usage)
+zen-rails-security-checklist:        Checklist of security precautions for Ruby on Rails applications.
+thinking-sphinx:        Sphinx plugin for ActiveRecord/Rails
+catarse:        The first open source crowdfunding platform for creative projects in the world
+closure_tree:        Easily and efficiently make your ActiveRecord models support hierarchies
+bootstrap_form:        Official repository of the bootstrap_form gem, a Rails form builder that makes it super easy to create beautiful-looking forms using Bootstrap 4
+teaspoon:        Teaspoon: Javascript test runner for Rails. Use Selenium, BrowserStack, or PhantomJS.
+trestle:        A modern, responsive admin framework for Ruby on Rails
+brimir:        Email helpdesk built using Ruby on Rails and Zurb Foundation
+simple_token_authentication:        Simple (but safe) token authentication for Rails apps or API with Devise.
+recommendable:        👍👎 A recommendation engine using Likes and Dislikes for your Ruby app
+premailer-rails:        CSS styled emails without the hassle.
+lol_dba:        lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed. Also, it can generate .sql migration scripts.
+validates_timeliness:        Date and time validation plugin for ActiveModel and Rails. Supports multiple ORMs and allows custom date/time formats.
+rails-security-checklist:        🔑 Community-driven Rails Security Checklist (see our GitHub Issues for the newest checks that aren't yet in the README)
+counter_culture:        Turbo-charged counter caches for your Rails app.
+classroom:        GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+thredded:        The best Rails forums engine ever.
+snibox:        Self-hosted snippet manager
+karafka:        Framework for Apache Kafka based Ruby and Rails applications development.
+CodeTriage:        Discover the best way to get started contributing to Open Source projects
+active_attr:        What ActiveModel left out

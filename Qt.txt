@@ -1,0 +1,91 @@
+Qt, pronounced "cute", is a cross-platform application development framework.
+cool-retro-term:        A good looking terminal emulator which mimics the old cathode display...
+openage:        Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+qt:        Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+tiled:        A flexible level editor
+liteide:        LiteIDE is a simple, open source, cross-platform Go IDE.
+flameshot:        Powerful yet simple to use screenshot software
+qutebrowser:        A keyboard-driven, vim-like browser based on PyQt5.
+spyder:        Official repository for Spyder - The Scientific Python Development Environment
+urh:        Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
+nodegui:        A library for building cross-platform native desktop applications with Node.js and CSS 🚀. For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️
+MuseScore:        MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+react-nodegui:        Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
+Qv2ray:        ⭐ Linux/Windows/macOS 跨平台 V2ray 客户端 | 支持 SSR/Trojan/NaiveProxy | 使用 C++/Qt5 开发 | 可拓展插件式设计 ⭐
+PySimpleGUI:        Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo…
+olive:        Free open-source non-linear video editor
+mapbox-gl-native:        Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
+qTox:        qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
+QtScrcpy:        Android real-time display control software
+Clementine:        🍊 Clementine Music Player
+pywebview:        Build GUI for your Python program with JavaScript, HTML, and CSS
+LibreCAD:        LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
+antimony:        CAD from a parallel universe
+mixxx:        Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+apkstudio:        Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+openauto:        AndroidAuto headunit emulator
+edb-debugger:        edb is a cross platform AArch32/x86/x86-64 debugger.
+appleseed:        A modern open source rendering engine for animation and visual effects
+gqrx:        Software defined radio receiver powered by GNU Radio and Qt.
+qgroundcontrol:        Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
+QDarkStyleSheet:        A dark style sheet for QtWidgets application
+feedback:        Feedback & wiki for Snipaste https://snipaste.com
+hotspot:        The Linux perf GUI for performance analysis.
+toggldesktop:        Toggl Desktop app for Windows, Mac and Linux
+mindforger:        Thinking notebook and Markdown editor.
+moonlight-qt:        GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
+sqlitestudio:        A free, open source, multi-platform SQLite database manager.
+otter-browser:        Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5
+CuteMarkEd:        Qt Markdown Editor
+Lector:        Qt based ebook reader
+linuxdeployqt:        Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
+qtbase:        Qt Base (Core, Gui, Widgets, Network, ...)
+GoldenCheetah:        Performance Software for Cyclists, Runners and Triathletes
+Guitar:        Git GUI Client
+LibrePCB:        A powerful, innovative and intuitive EDA tool for everyone!
+nitroshare-desktop:        Network file transfer application for Windows, OS X, & Linux
+neovim-qt:        Neovim client library and GUI, in Qt5.
+examples:        Learn to create a desktop app with Python and Qt
+awesome-qt-qml:        A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
+SlicerGitSVNArchive:        Multi-platform, free open source software for visualization and image computing.
+GammaRay:        GammaRay is a tool to poke around in a Qt-application and also to manipulate the application to some extent.
+MEGAsync:        Easy automated syncing between your computers and your MEGA Cloud Drive
+qdirstat:        QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
+veles:        Binary data analysis and visualization tool
+qt-material-widgets:        🎨 Qt widgets-based implementation of the Material Design specification.
+mlt:        MLT Multimedia Framework
+TTKMusicplayer:        TTKMusicPlayer that imitation Kugou music, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、QQ音乐、虾米音乐、酷我音乐、酷狗音乐、百度音乐等等)
+aspia:        Remote desktop and file transfer tool.
+awesome-qt:        A curated list of awesome tools, libraries, and resources for the Qt framework.
+ritual:        Use C++ libraries from Rust
+slate:        Pixel Art Editor
+gImageReader:        A Gtk/Qt front-end to tesseract-ocr.
+cutelyst:        A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework.
+strawberry:        🍓 Strawberry Music Player
+guiscrcpy:        A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
+score:        ossia score, an interactive sequencer for the intermedia arts.
+qspectrumanalyzer:        Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, hackrf_sweep, rtl_power, rx_power and other backends)
+goneovim:        Neovim GUI written in Golang, using a Golang qt backend
+SciHubEVA:        A Cross Platform Sci-Hub GUI Application
+notes:        Note-taking application, write down your thoughts.
+PyFlow:        Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
+QtSharp:        Mono/.NET bindings for Qt
+Qt-Frameless-Window-DarkStyle:        simple MainWindow class implementation with frameless window and custom dark style. It adds also support for titlebar and buttons (minimize, maximize, close)
+tufao:        An asynchronous web framework for C++ built on top of Qt
+screencloud:        Screenshot sharing application for Windows, Mac and Linux.
+hidviz:        A tool for in-depth analysis of USB HID devices communication
+ksnip:        Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots.
+qt.go:        Qt binding for Go (Golang) aims get Go's compile speed again.
+huestacean:        Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.
+CTK:        A set of common support code for medical imaging, surgical navigation, and related purposes.
+Ripes:        A graphical processor simulator and assembly editor for the RISC-V ISA
+nheko:        No longer maintained - Desktop client for the Matrix protocol (active fork https://github.com/Nheko-Reborn)
+qlcplus:        Q Light Controller Plus
+ScriptCommunicator_serial-terminal:        Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
+Quaternion:        A Qt5-based IM client for Matrix
+qtwebkit:        QtWebKit development repository
+Qt-Nice-Frameless-Window:        Qt Frameless Window for both Windows and OS X, support Aero Snap, drop shadow on Windows, and support Native Style such as round corner, drop shadow on OS X. Based on QMainWindow.
+QtAutoUpdater:        A Qt library to automatically check for updates and install them
+qhttp:        a light-weight and asynchronous HTTP library (both server & client) in Qt5 and c++14
+qmqtt:        MQTT Client for Qt
+Qt-Advanced-Docking-System:        Advanced Docking System for Qt
