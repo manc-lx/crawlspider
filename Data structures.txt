@@ -1,0 +1,89 @@
+Data structures are a way of organizing and storing data.
+coding-interview-university:        A complete computer science study plan to become a software engineer.
+javascript-algorithms:        📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+fucking-algorithm:        刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+leetcode:        Provide all my solutions and explanations in Chinese for all the Leetcode coding problems.
+swift-algorithm-club:        Algorithms and data structures in Swift, with explanations!
+interview:        📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
+C-Plus-Plus:        Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+OpenRefine:        OpenRefine is a free, open source power tool for working with messy data and improving it
+CtCI-6th-Edition:        Cracking the Coding Interview 6th Ed. Solutions
+OI-wiki:        🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
+dsa.js-data-structures-algorithms-javascript:        🥞Data Structures and Algorithms explained and implemented in JavaScript
+boltons:        🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library. Nothing like Michael Bolton.
+C:        Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+pygorithm:        A Python module for learning all major algorithms
+algorithms_and_data_structures:        180+ Algorithm & Data Structure Problems using C++
+C-Sharp-Algorithms:        📚 📈 Plug-and-play class-library project of standard Data Structures and Algorithms in C#
+algodeck:        An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
+LeetCode-Swift:        Solutions to LeetCode by Swift
+Javascript:        A repository for All algorithms implemented in Javascript (for educational purposes only)
+java-algorithms-implementation:        Algorithms and Data Structures implemented in Java
+Go:        Algorithms Implemented in GoLang
+algorithms.js:        Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
+crossbeam:        Tools for concurrent programming in Rust
+python-data-structure-cn:        problem-solving-with-algorithms-and-data-structure-using-python 中文版
+write-a-hash-table:        ✏️ Learn how to write a hash table in C
+computer-science-in-javascript:        Computer science reimplemented in JavaScript
+JCTools:        https://github.com/JCTools/JCTools
+javascript-datastructures-algorithms:        📚 collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
+rust-algorithms:        Common data structures and algorithms in Rust
+Leetcode:        Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.
+SDE-Interview-Questions:        Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
+c-algorithms:        A library of common data structures and algorithms written in C.
+Data-Structures-and-Algorithms:        Data Structures and Algorithms implementation in Go
+Collections-C:        A library of generic data structures.
+atomix:        A reactive Java framework for building fault-tolerant distributed systems
+ext-ds:        An extension providing efficient data structures for PHP 7
+CS_Offer:        计算机学科基础知识和主流编程语言相关内容的总结
+jgrapht:        Master repository for the JGraphT project
+immer:        Postmodern immutable and persistent data structures for C++ — value semantics at scale
+Play-with-Data-Structures:        Codes of my MOOC Course <Play Data Structures in Java>. Updated contents and practices are also included. 我在慕课网上的课程《Java语言玩转数据结构》示例代码。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。
+interviewGuide:        后端技术总结——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。最佳阅读地址：http://notfound9.github.io/interviewGuide/
+binarytree:        Python Library for Studying Binary Trees
+list:        🐆 An immutable list with unmatched performance and a comprehensive functional API.
+eclipse-collections:        Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
+data-structures:        A collection of powerful data structures
+lago:        🌲 Data Structures and Algorithms library in JavaScript (TypeScript soon!)
+scalacaster:        Purely Functional Algorithms and Data Structures in Scala
+Algo_Ds_Notes:        It is a repository that is a collection of algorithms and data structures with implementation in various languages.
+go-algorithms:        Algorithms and data structures for golang
+nutsdb:        A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
+codelibrary:        💎Collection of algorithms and data structures
+Rust:        All Algorithms implemented in Rust
+PKUCourse:        北大计算机课程大作业
+NumCpp:        C++ implementation of the Python Numpy library
+cyclops:        An advanced, but easy to use, platform for writing functional applications in Java 8.
+Buckets-JS:        A complete, fully tested and documented data structure library written in pure JavaScript.
+coding-problems:        Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures
+flatbush:        A very fast static spatial index for 2D points and rectangles in JavaScript
+algorithms:        Data Structure Libraries and Algorithms implementation
+e-maxx-eng:        Translation of http://e-maxx.ru into English
+leetcode-python:        Leetcode Python Solution and Explanation. Also a Guide to Prepare for Software Engineer Interview.
+algos:        Popular Algorithms and Data Structures implemented in popular languages
+Index:        Repositories Index
+dashmap:        Blazing fast concurrent HashMap for Rust.
+DataStructures-Algorithms:        The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!
+Algorithm:        Algorithm is a library of tools that is used to create intelligent applications.
+js-stl:        Data structures implemented in JS
+leetcode-patterns:        A curated list of 170+ leetcode questions grouped by their common patterns
+HackerRank:        HackerRank solutions in Java/JS/Python/C++/C#
+kactl:        KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
+light-tips:        Some code tips about algorithms, php and more 🔥
+Coursera:        Quiz & Assignment of Coursera
+bidict:        The bidirectional mapping library for Python.
+Advanced-Algorithms:        100+ algorithms & data structures generically implemented in C#.
+data-structure-and-algorithms-with-ES6:        Data Structures and Algorithms using ES6
+reftree:        Automatically generated diagrams and animations for Scala data structures
+adblockfast:        Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+vue-mc:        Models and Collections for Vue
+ytt:        YAML templating tool that works on YAML structure instead of text
+rpds:        Rust Persistent Data Structures
+python_intro:        Jupyter notebooks in Russian. Introduction to Python, basic algorithms and data structures
+Online-Judge-Solutions:        Solutions to ACM ICPC - style problems
+cs-playground-react:        In-Browser Algorithm and Data Structures Practice
+hat-trie:        C++ implementation of a fast and memory efficient HAT-trie
+Algorithms:        Efficient Algorithms
+kotlin-algorithm-club:        Algorithms and data structures in Kotlin.
+heapify:        The fastest JavaScript priority queue out there. Zero dependencies.
+heapless:        Heapless, `static` friendly data structures

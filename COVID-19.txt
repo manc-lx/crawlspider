@@ -1,0 +1,83 @@
+The coronavirus disease 2019 (COVID-19) is an infectious disease caused by SARS-CoV-2.
+COVID-19:        COVID-19 Italia - Monitoraggio situazione
+covid19:        Visualize & track the 2020 COVID-19 pandemic by country.
+covid-19-data:        Data on COVID-19 (coronavirus) confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data
+covid19india-react:        Tracking the impact of COVID-19 in India
+covid-chestxray-dataset:        We are building an open database of COVID-19 cases with chest X-ray or CT images.
+app:        COVID-19 App
+Covid19Radar:        Open Source / Internationalization/ iOS Android Cross Platform Contact Tracing App by exposure notification framework Xamarin App and Server Side Code
+corona-cli:        🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms). https://NodeCLI.com
+coronavirus-tracker-api:        🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!
+corona:        Reverse engineering SARS-CoV-2
+covid19_scenarios:        Models of COVID-19 outbreak trajectories and hospital demand
+awesome-coronavirus:        🦠 Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
+CoronaTracker:        Coronavirus tracker app for iOS & macOS with maps & charts
+covid19-dashboard:        Tableau de bord de suivi de l'épidémie de COVID-19
+covid-19:        📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country
+tika-python:        Tika-Python is a Python binding to the Apache Tika™ REST services allowing Tika to be called natively in the Python community.
+covid19model:        Code for modelling estimated deaths and cases for COVID19.
+COVID-Net:        COVID-Net Open Source Initiative
+COVID-CT:        COVID-CT-Dataset: A CT Scan Dataset about COVID-19
+2019-wuhan-coronavirus-data:        2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV)
+covidAPI:        Coronavirus API for Current cases by country COVID-19
+hamagen-react-native:        Israel's Ministry of Health's COVID-19 Exposure Prevention App
+stayinghomeclub:        A list of all the companies WFH or events changed because of covid-19
+covidify:        Covidify - corona virus report and dataset generator for python 📈
+exposure-notifications-android:        Exposure Notifications Android Reference Design
+nCov2019:        query stats of infected coronavirus cases
+seirsplus:        Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing.
+coronadatascraper:        COVID-19 Coronavirus data scraped from government and curated data sources.
+pneumonia:        中国新型冠状病毒肺炎地级市疫情图
+makair:        🦠 Mass-producible open-source Covid-19 ARDS ventilator. Aims at helping hospitals cope with a possible shortage of professional ventilators during the outbreak. Worldwide.
+coronavirus:        🦠 Novel Coronavirus (COVID-19) Tracker
+Schema.NET:        Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
+covidtrends:        Tracking the growth of COVID-19 Cases worldwide
+api-covid19-in:        COVID Rest API for India data, using Cloudflare Workers
+ncov_2019:        为抗击新肺炎贡献一份技术力量-App研发
+covid19-brazil-api:        API com dados atualizados sobre o status do COVID-19 🦠
+2019-ncov-japan:        🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan
+Face-Mask-Detection:        Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras
+data:        Daily time-series epidemiology and hospitalization data for all countries, state/province data for 50+ countries and county/municipality data for CO, FR, NL, PH, UK and US. Covariates for all available regions include demographics, mobility reports, government interventions, weather and more.
+covid19-full-stack-application:        Coronavirus - (COVID-19) Full Stack Application
+python_corona_simulation:        An agent-based simulation of corona and other viruses in python
+COVID-QA:        API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources.
+covid19br:        Confirmed cases and deaths of COVID-19 in Brazil, at municipal (city) level. Description of the data: https://doi.org/10.1590/SciELOPreprints.362
+Corona-tracker:        An easy-to-use PWA to monitor the user's wellness and learn about COVID-19.
+cert-covid19:        Informationssammlung zum Thema CoVid-19
+Social-Distancing-Analyser-COVID-19:        A social distancing analyzer AI tool to regulate social distancing protocol using video surveillance of CCTV cameras and drones. Social Distancing Analyser to prevent COVID19
+covid19-forecast-hub:        Projections of COVID-19, in standardized format
+Coronavirus-Epidemic-2019-nCov:        👩🏻‍⚕️Covid-19 estimation and forecast using statistical model; 新型冠状病毒肺炎统计模型预测
+AmboVent:        AmboVent 1690.108
+chime:        COVID-19 Hospital Impact Model for Epidemics
+Open-Source-COVID-19:        A global collection of Open Source projects during COVID-19
+Inspire-OpenLung:        An [IN PROGRESS] open source, low cost, low resource, quick deployment ventilator design that utilizes a Ambu-bag as a core component. Another project into the "war" against COVID-19. [Repo in Potuguese]
+covidtesting:        The COVID-19 Testing Gap: an interactive data visualization
+covid3d:        🌏 An interactive 3D visualization of COVID-19.
+Pulse:        A pendant to warn you when you touch your face
+Epidemiology101:        Epidemic Modeling for Everyone
+CurveFit:        Generic curve fitting package with nonlinear mixed effects model
+coronastatus:        🇳🇴🇳🇱🇸🇰🇩🇰🇨🇴🇮🇹🇫🇷🇲🇽🇺🇸🇺🇦🇪🇸🇧🇷🇨🇦🇦🇺🇸🇬🇦🇷🇲🇾🇲🇹🇨🇱🇮🇳🇵🇹🇹🇷🇱🇹🇳🇵🇨🇿🇮🇩🇵🇭🇳🇬🇷🇴Join the fight! Open source webapp that let people report their health status to get overview of COVID-19
+covid-policy-tracker:        Systematic dataset of Covid-19 policy, from Oxford University
+covid19za:        Coronavirus COVID-19 (2019-nCoV) Data Repository and Dashboard for South Africa
+COVID19_imaging_AI_paper_list:        COVID-19 imaging-based AI paper collection
+nCov2019_data_crawler:        疫情数据爬虫，2019新型冠状病毒数据仓库，轨迹数据，同乘数据，报道
+covid-19-uk-data:        Coronavirus (COVID-19) UK Historical Data
+wuhan2019:        Lest we forget this pandemic, or at least I won't forget. This project keep an archive for the mainstream media's articles which covering on COVID-19 (2019.12-). Including those deleted by CCP. Update till April 24th, 2020. All rights reserved to the author and his/her organization. 声援陈玫、蔡伟及其女友，北京朝阳公安立即放人！
+wuhan.support:        #人类加油 #we-stay-strong 我们关注的是你所关注的：面向疫区内外民众和医疗机构的多维度信息整合平台
+covid:        Tracking Coronavirus Growth
+pepp-pt-documentation:        Documentation for Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT)
+Coronavirus-Tracker:        An Android Application written in Kotlin 📱 with MVVM Architecture using latest Android Development tools like Dagger2, Room, ViewModel, LiveData, Retrofit and Coroutines to display CoVID-19 Data
+covid19-live-visualization:        Live visualization of novel corona virus (COVID19) outbreak
+lungmask:        Automated lung segmentation in CT
+2019-ncov-frontend:        🌏 Map, data and timeline of coronavirus (COVID-19)
+COVID-19-API:        API Service for tracking the COVID-19
+covid19-api:        A Simple FastAPI for Covid-19 Cases Exploration
+care:        Care is a single point to link Hospitals, Corona Care Centers and Volunteers to the unified Corona Safe Network so that the Kerala Chief Minister's Office has direct access to live reports of health data v/s our total. healthcare capacity
+community:        🌍 The Africa COVID-19 Response Toolkit (ACRT)
+2019-nCov:        Use Google Maps Timeline data to compare with COVID-19 patient history location.
+pyross:        PyRoss: inference, forecasts, and optimised control of epidemiological models in Python
+COVID-19-Timeline:        以社会学年鉴模式体例规范地统编自2019年末起武汉新冠肺炎疫情进展的时间线(2019年12月1日-2020年4月24日)。感谢志愿者的辛劳操作。
+DL-COVID-19:        Mobility changes in response to COVID-19, provided by Descartes Labs
+kabarvirus:        KabarVirus.com: cepat (PageSpeed 100), ringan (10 KB)
+kovid:        A CLI to fetch and compare the 2019 coronavirus pandemic statistics. It also fetches historical data and attempts to draw histograms of it to visualise the rate of infections.
+covid-19-apis:        Postman COVID-19 API Resource Center—API collections to help in the COVID-19 fight.

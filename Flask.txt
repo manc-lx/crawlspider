@@ -1,0 +1,91 @@
+Flask is a web framework for Python based on the Werkzeug toolkit.
+flask:        The Python micro framework for building web applications.
+dash:        Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+Zappa:        Serverless Python
+proxy_pool:        Python爬虫代理IP池(proxy pool)
+awesome-flask:        A curated list of awesome Flask resources and plugins
+flasky:        Companion code to my O'Reilly book "Flask Web Development", second edition.
+eve:        REST API framework designed for human beings
+blockchain:        A simple Blockchain in Python
+trape:        People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+grip:        Preview GitHub README.md files locally before committing them.
+Flask-SocketIO:        Socket.IO integration for Flask applications.
+responder:        A familiar HTTP Service Framework for Python.
+cookiecutter-flask:        A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+flask-sqlalchemy:        Adds SQLAlchemy support to Flask
+nginx-ui:        Nginx UI allows you to access and modify the nginx configurations files without cli.
+microblog:        A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
+flask_jsondash:        🐍 📊 📈 Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.
+toapi:        Every web site provides APIs.
+Flask-AppBuilder:        Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
+CTFd:        CTFs as you need them
+ShadowSocksShare:        Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
+formspree:        Easy HTML form without PHP or JavaScript
+nyaa:        Bittorrent software for cats
+flask-restplus:        Fully featured framework for fast, easy and documented API development with Flask
+flask-base:        A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more.
+quokka:        LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
+flasgger:        Easy OpenAPI specs and Swagger UI for your Flask API
+uwsgi-nginx-flask-docker:        Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
+pyt:        A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
+authlib:        The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
+flaskbb:        A classic Forum Software in Python using Flask.
+flask-ask:        Alexa Skills Kit for Python
+flaskr-tdd:        Flaskr: Intro to Flask, Test-Driven Development (TDD), and JavaScript
+Deep-Learning-in-Production:        In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
+wechat-admin:        Wechat Management System
+Flask-Migrate:        SQLAlchemy database migrations for Flask applications using Alembic
+explore-flask:        Source of Explore Flask book
+ProxyPool:        An Efficient ProxyPool with Getter, Tester and Server
+flask-oauthlib:        YOU SHOULD USE https://github.com/lepture/authlib
+PyOne:        PyOne-一款给力的onedrive文件管理、分享程序
+React-Redux-Flask:        Boilerplate application for a Python/Flask JWT Backend and a Javascript/React/Redux Front-End with Material UI.
+gxgk-wechat-server:        校园微信公众号，使用 Python、Flask、Redis、MySQL、Celery [DEPRECATED]
+30-Days-of-Python:        A New Version of 30 Days of Python is nearly here. Get started today.
+dtale:        Visualizer for pandas data structures
+flask-restplus-server-example:        Real-life RESTful server example on Flask-RESTplus
+dynaconf:        Configuration Management for Python 🔧 ⚙
+web_develop:        《Python Web开发实战》书中源码
+flask-website:        The Flask website, built with Flask!
+tensorflow-101:        learn code with tensorflow
+flask-graphql:        Adds GraphQL support to your Flask application.
+weixin-python:        微信SDK - 包括微信支付,微信公众号,微信登陆,微信消息处理等
+indico:        Indico - A feature-rich event management system, made @ CERN, the place where the Web was born.
+webargs:        A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.
+sqlite-web:        Web-based SQLite database browser written in Python
+whoogle-search:        Self-hosted, ad-free, privacy-respecting Google metasearch engine
+flask-jwt-extended:        An open source Flask extension that provides JWT support (with batteries included)!
+flask-vuejs-template:        Flask + Vue JS Template
+bibi:        An e-commerce fullstack solution for Flask 出口电商全栈解决方案
+Flask-HTTPAuth:        Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes
+Flask-Scaffold:        Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
+heroku-buildpack-python:        The official Heroku buildpack for Python apps.
+flask-bones:        An example of a large scale Flask application using blueprints and extensions.
+python-dependency-injector:        Dependency injection framework for Python
+keras-flask-deploy-webapp:        😺 Pretty & simple image classifier app template. Deploy your own trained model or pre-trained model (VGG, ResNet, Densenet) to a web app using Flask in 10 minutes.
+TableExport:        The simple, easy-to-implement library to export HTML tables to xlsx, xls, csv, and txt files.
+apispec:        A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
+spark-movie-lens:        An on-line movie recommender using Spark, Python Flask, and the MovieLens dataset
+flask-peewee:        flask integration for peewee, including admin, authentication, rest api and more
+chinese-dos-games-web:        🌐 Source code of https://dos.zczc.cz
+flask-mongoengine:        MongoEngine flask extension with WTF model forms support
+bowtie:        Create a dashboard with python!
+chartkick.py:        Create beautiful Javascript charts with minimal code
+Never-Blink:        👀Blink and lose.
+sparrow:        运维管理平台（python3+flask+pycharts+apscheduler+gunicorn),模块化结构设计,底层依托mysql、influxdb、elasticsearch、zabbix、k8s等数据源数据
+Frozen-Flask:        Freezes a Flask application into a set of static files.
+flask-apscheduler:        Adds APScheduler support to Flask
+Flaskex:        Simple flask example for quick prototypes and small applications
+flask-restx:        Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
+flask-restful-swagger:        A Swagger spec extractor for flask-restful
+build-a-saas-app-with-flask:        Learn how to build a production ready web app with Flask and Docker.
+flask-marshmallow:        Flask + marshmallow for beautiful APIs
+flask-profiler:        a flask profiler which watches endpoint calls and tries to make some analysis.
+Flask-Blogging:        A Markdown Based Python Blog Engine as a Flask Extension.
+rest-api-sections:        A small repository of projects built in my course, REST APIs with Flask and Python.
+lin-cms-flask:        🎀A simple and practical CMS implememted by flask
+PyMessager:        Python API to develop chatbot on Facebook Messenger Platform
+osroom:        [很多问题在维修中, 作者疫情期间忙碌，很多问题无法及时处理] 准备v3.0 Beta, v2.2维护少｜ OS鹿 | Python Flask开源网站
+LXC-Web-Panel:        LXC Web Panel repository
+memegen:        The open source meme generator.
+pygmy:        An open-source, feature rich & extensible url-shortener + analytics written in Python 🍪

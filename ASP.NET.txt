@@ -1,0 +1,91 @@
+ASP.NET is a web framework for building modern web apps and services.
+aspnetcore:        ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+aspnetboilerplate:        ASP.NET Boilerplate - Web Application Framework
+AspNetCore.Docs:        Documentation for ASP.NET Core
+server:        The core infrastructure backend (API, database, Docker, etc).
+Electron.NET:        Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
+NSwag:        The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+clean-code-dotnet:        🛁 Clean Code concepts and tools adapted for .NET
+ImageProcessor:        📷 A fluent wrapper around System.Drawing for the processing of image files.
+SmartStoreNET:        Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+aspnet-api-versioning:        Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
+aspnetcore-angular-universal:        ASP.NET Core & Angular Universal advanced starter - PWA w/ server-side rendering for SEO, Bootstrap, i18n internationalization, TypeScript, unit testing, WebAPI REST setup, SignalR, Swagger docs, and more! By @TrilonIO
+BaGet:        A lightweight NuGet and symbol server
+aspnetcore-Vue-starter:        *NEW* Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more! By @TrilonIO
+DncZeus:        DncZeus 是一个基于ASP.NET Core 3 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET Core 3 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo):
+csla:        A home for your business logic in any .NET application.
+dotvvm:        Open source MVVM framework for Web Apps
+mvcarchitecture:        ASP.NET MVC Solution Architecture – Best Practices
+rrod:        Exploring a new web architecture with React, Redux, Orleans and Dotnet Core
+Finbuckle.MultiTenant:        Finbuckle.MultiTenant is a multitenancy library for ASP.NET Core. It provides functionality for tenant resolution, per-tenant app configuration, and per-tenant data isolation.
+YAFNET:        🌐 YAF.NET - C# ASP.NET Forum
+Gofer.NET:        Easy C# API for Distributed Background Tasks/Jobs for .NET Core.
+SharPyShell:        SharPyShell - tiny and obfuscated ASP.NET webshell for C# web applications
+WebMarkupMin:        The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+aspnet-core-3-jwt-authentication-api:        ASP.NET Core 3.1 JWT Authentication API
+aspnet-core-jwt-authentication-api:        ASP.NET Core 2.2 JWT Authentication API
+SapphireDb:        SapphireDb Server, a self-hosted, easy to use realtime database for Asp.Net Core and EF Core
+OpenTouryo:        ”Open棟梁”は、長年の.NETアプリケーション開発実績にて蓄積したノウハウに基づき開発した.NET用アプリケーション フレームワークです。 (”OpenTouryo” , is an application framework for .NET which was developed using the accumulated know-how with a long track record in .NET application development.)
+AspNetCore.Identity.MongoDB:        MongoDB Data Store Adaptor for ASP.NET Core Identity
+Identity.Dapper:        Identity package that uses Dapper instead EntityFramework for use with .NET Core
+electron.net-api-demos:        Explore the Electron.NET APIs
+aspnetcore-vueclimiddleware:        Helpers for building single-page applications on ASP.NET MVC Core using Vue Cli or Quasar Cli.
+dotNetify-react-template:        Real-time React SPA template using dotNetify.
+Examine:        A .NET indexing and search engine powered by Lucene.Net
+Articulate:        A wonderful Blog engine built on Umbraco
+ng2-signalr:        angular2 - asp.net signalr library
+aspnet-core-identity:        ASP.NET Core Identity Series
+mvcdonutcaching:        ASP.NET MVC Extensible Donut Caching brings donut caching to ASP.NET MVC 3 and later. The code allows you to cache all of your page apart from one or more Html.Actions which can be executed every request. Perfect for user specific content.
+react-core-boilerplate:        Powerful ASP.NET Core 3 templates with React, true server-side rendering and Docker support
+aspnetcore-tooling:        Tools for ASP.NET Core apps, such as MSBuild targets, Visual Studio extensions, and command line tools. (Open issues on https://github.com/dotnet/aspnetcore/issues)
+Huxley:        JSON proxy for the UK National Rail Live Departure Board SOAP API
+aspnetcore-Vue-starter-signalR:        Asp.NETCore 2.0 Vue 2 (ES6) SPA Starter kit, contains routing, Vuex, and SignalR
+BlazorTable:        Blazor Table Component with Sorting, Paging and Filtering
+raygun4net:        Raygun provider for .NET
+simple_aspnet_auth:        Simple ASP.NET Authorisation boilerplate project. No EF, no database, no IdentityServer4 just a basic logging in system for both cookies and JWT and a controller with a set of examples.
+fileuploader:        Beautiful and powerful HTML file uploading tool. A jQuery, PHP and Node.js plugin that transforms the standard input into a revolutionary and fancy field on your page.
+XPO:        DevExpress eXpress Persistent Objects (XPO) ORM for .NET Framework / .NET Core / .NET Standard 2.0
+auth0-aspnetcore-webapi-samples:        Auth0 Integration Samples for ASP.NET Core WebAPI Services
+bootstrap-aspnetcore-starter:        DevExpress ASP.NET Core Bootstrap starter
+auth0-aspnetcore-mvc-samples:        Auth0 Integration Samples for ASP.NET Core MVC Web Applications
+identityazuretable:        This project provides a high performance cloud solution for ASP.NET Identity Core using Azure Table storage replacing the Entity Framework / MSSQL provider.
+MultiTenancyServer:        MultiTenancyServer core library.
+Reddnet:        A mini Reddit written in Asp.Net Core
+riskfirst.hateoas:        Powerful HATEOAS functionality for .NET web api
+Mockaco:        🐵 HTTP mock server, useful to stub services and simulate dynamic API responses, leveraging ASP.NET Core features, built-in fake data generation and pure C# scripting
+electron.net-musicplayer-sample:        https://github.com/ElectronNET/electron.net-musicplayer-sample
+ReCaptcha-Asp-Net:        Google ReCaptcha for Asp Net, simplified
+abp-ng-zorro:        ng-zorro template for asp.net zero
+shopping-cart-k8s:        Service Mesh patterns for Microservices
+AspNetSeo:        Helpers for handling the SEO-data for ASP.NET web-applications
+Testavior:        Testavior is a lightweight solution to help you develop Behavior Tests for ASP.NET Core
+azure-sql-db-sync-api-change-tracking:        Using Azure SQL Change Tracking API to Sync mobile Apps data with the Cloud
+Listrr:        listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
+aspnet-core-react-redux-playground-template:        *SPA template* ASP.NET Core 3.1 / React + Redux + TypeScript + Hot Module Replacement (HMR)
+Foodchooser-ASPNET-Angular-Cross-Platform:        Cross Platform Application for Demo with Angular & ASP.NET WebAPI
+pidget:        Error reporting for .NET using sentry.io
+aspnetcore-vue:        Sample setup on using asp.net core 2.1 + vue cli 3 in one project
+Awesome-Microservices-NetCore:        The Best Resources for Microservices in .NET Core - Tutorials, Source Code Samples, ...
+fluentassertions.mvc:        Fluent Assertions extensions for ASP.NET MVC
+BlogCoreEngine:        A simple BlogEngine written in ASP.NET Core
+aspnet-core-3-basic-authentication-api:        ASP.NET Core 3.1 - Basic HTTP Authentication API
+bizbook-server:        The repository of bizbook server web api project
+HealthNet:        .Net health check endpoint
+aspnet-docker:        https://github.com/GoogleCloudPlatform/aspnet-docker
+AspNetCore.Authentication.WeixinAuth:        An ASP.NET Core authentication middleware: WeixinAuth for https://mp.weixin.qq.com （微信公众平台/网页授权登录）
+ngx-signalr-hubservice:        Makes using SignalR in Angular 2/4 easy
+planet-scale-azure:        Globally-distributed applications with Microsoft Azure - Free e-book
+auth0-aspnet-owin-webapi-samples:        Auth0 Integration Samples for ASP.NET OWIN Web API Services
+aspnet-core-vue-vuex-playground-template:        *SPA template* ASP.NET Core 3.1 / Vue + Vuex + TypeScript + Hot Module Replacement (HMR)
+Adoxio.Dynamics.Connect:        Implements OrganizationWebProxyClient with Dynamics 365 Server-to-Server authentication.
+ASP.Net-EventCalendar:        JQuery FullCalendar implementation in ASP.NET
+evolutility-asp.net:        Lightweight CRUD framework for heavy lifting using ASP.net and MS-SQL Server.
+Base:        Base Application For Projects
+Social-Network:        Twitter like Social network written in ASP.NET MVC5
+UMeditor-For-Azure-Blob:        使用Microsoft Azure存储（Blob）保存 UMeditor中上传的图片、视频 、附件、涂鸦、等...
+Perfon.Net:        Performance monitoring framework for Web Api and MVC applications without using windows performance counters. Built-in REST API and UI dashboard.
+ThreeDPayment:        Est altyapısına sahip tüm bankalarla uyumlu 3DPay model sanal pos örneği - ASP.NET Core 3.1 ile yazılan yeni version https://github.com/sefacan/3DPaymentAspNetCore
+elmah-loganalyzer:        A viewer and analyzer for ELMAH logs
+sentry-dotnet-samples:        Samples using the new Sentry .NET SDK
+R7.Documents:        Classic DNN Documents module, redesigned
+afdemp-coding-bootcamp-csharp:        C# Exercises for Alliance for Digital Employability Coding Bootcamp

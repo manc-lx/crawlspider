@@ -1,0 +1,90 @@
+The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows, and Mac.
+MvvmCross:        The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
+MvvmCross-Samples:        Tutorials and samples for MvvmCross: The .NET MVVM framework for cross-platform solutions.
+NPlus1DaysOfMvvmCross:        Repos from the video series for N+1 days of MvvmCross - from http://slodge.blogspot.co.uk - indexed by Aboo at http://mvvmcross.wordpress.com
+Chameleon:        Chameleon is a flexible media player build with Xamarin.Forms
+Cheesebaron.MvxPlugins:        A collection of plugins for MvvmCross
+MvxScaffolding:        🏗️ A customizable template used to scaffold a cross-platform MvvmCross application.
+Nethereum.UI.Wallet.Sample:        Cross platform wallet example using Nethereum, Xamarin.Forms and MvvmCross
+MvxForms:        Sample App with Xamarin.Forms and MvvmCross
+XBottomSheet:        Xamarin Customizable Bottomsheet - iOS & Android
+MvvmCross-Dreams:        Xamarin MvvmCross DREAMS is an opinionated take on how to make an MvvmCross app.
+XamFormsMvxTemplate:        A Visual Studio 2017 template for projects based on Xamarin.Forms 3.3 and MvvmCross 6.2
+xamarin-mvvvm-frameworks:        A Comparison of MVVM Frameworks for Xamarin Projects
+TagsView:        Simple and highly customizable Xamarin.iOS tag list view. Originally inspired by https://github.com/ElaWorkshop/TagListView
+XamSvg-Samples:        Samples for Xamarin Svg enterprise cross platform and full featured Svg image control
+AppRopio.Mobile:        AppRopio - mobile apps builder for iOS/Android based on Xamarin
+MvvmCross-VisualStudioAddIn:        Templates to create MvvmCross projects in Visual Studio
+MvvmCrossStarterKit:        The starter project to develop apps with Xamarin + MvvmCross
+MvvmCross.FSharp:        💅 Extensions to make MvvmCross bindings more F#-ish
+Xamarin.Popups:        Xamarin plugin to show alerts, loadings, custom widgets and custom popups from the viewmodel! 0 LINES OF CODE ON VIEWS
+PH.SharedElement:        🖼 Android demo using MvvmCross 5 with shared elements transitions
+mvxforms-samples:        Xamarin Forms MvvmCross Samples
+weissdigital.xamarin.addins.mvxcontentpage:        Creates a Forms MvxContentPage with a CodeBehind class.
+XamarinWorkshop-GetReal:        Getting real with Xamarin. What does it take to go cross-platform?
+MinoriEditorShell:        An implementation of a cross-platform dockable window system using MvvmCross. Simular in concept to Visual Studio.
+MvvmCross_Sample:        MvvmCross 6 Sample Project
+bottomnavview-xamarin-example:        Example showing navigation in MvvmCross with BottomNavigationView in Xamarin.Android
+mvvmcross-samples:        Mvvm Cross Sample(s) for Various Platforms
+g0rdan.MvxPlugin.AlertDialog:        https://github.com/g0rdan/g0rdan.MvxPlugin.AlertDialog
+MvvmTools:        A library that provide the following cross platform features: -Direct bind of the events (in your views) to the methods or commands (in your view models) in your XAML code -Creating a preview of your view model at design time -Easy way of creating commands in your view models.
+SoundByteOSS:        Extensible music client for Windows 10, Xbox One & iOS
+Fluxamarin:        Library to create flux-like architecture apps with Xamarin Forms
+AndroidArchitectureComponent:        Android Architecture Component with Room database,View Model and Live Data
+MvvmCross-Qr-Code-Scanner:        Universal QrCodeScanner for Windows,Android and iOS , based on MVVM Cross framework and zxing mobile net library.
+logofx-client-mvvm-viewmodelfactory:        Definition and implementation of view model factory pattern.
+MvvmCross-Plugins:        https://github.com/mgj/MvvmCross-Plugins
+MvvmCross.Platforms.Wpf.ItemsViewPresenter:        A simple library for MvvmCross that will enable the using of ItemsControls to host your views.... This include the Tabbed GUI for example.
+XamarinMvvmCrossExamples:        https://github.com/mr-kg/XamarinMvvmCrossExamples
+TMapViews:        Map views for Android and iOS for use with Xamarin and MvvmCross
+ARDC.BizCard:        https://github.com/rodolphocastro/ARDC.BizCard
+MvvmCross-SMS-Example:        Xamarin.iOS project (MvvmCross)
+CleanArchitectureWithXamarin:        https://github.com/jacobduijzer/CleanArchitectureWithXamarin
+MvxTutorials:        The code from the MVXTutorials
+Meetups:        Xablu is the host of several Meetups, in this repository you will find the presentations and the samples
+MvvmCross-Tutorials:        Tutorials for MvvmCross, Xamarin.Android, and Xamarin.iOS
+CrossPlatformSummit:        Sample apps for the 2017 Cross-Platform dev summit
+mvvmcorss-reactiveui-interop:        https://github.com/flyingxu/mvvmcorss-reactiveui-interop
+ARDemo:        And AR Demo with Xamarin Forms and MvvmCross
+mvx-custom-binding:        Simple MvvmCross Custom Data Binding example
+Xamarin-Starter:        Xamarin Forms with MVVMCross and Autofac starter template for small-to-medium apps. It will communicate with the WebApi-Boilerplate starter template for auth and user profile
+MapX:        Explore various Xamarin mapping solutions.
+How-to-bind-appointments-in-Xamarin.Forms-Schedule-using-MVVMCross:        This example demonstrates how to bind the appointments in Xamarin.Forms Schedule using MVVMCross.
+food-by-me:        Xamarin Android & MVVM Cross application to manage recipes
+Net.MvvmCross.Plugins.FeatureRegistry:        Provides application features management service.
+xamarin-playground:        This is a repository that includes some Xamarin.iOS, Xamarin.Android and Xamarin.Forms simple examples, to investigate about the different functionalities offered by this technology 👨‍💻📱🚀
+doing:        An app built in Xamarin.Forms focused on improving people's productivity 📲
+mcforms:        Mvvm Cross 5 and Xamarin Forms template
+LearningXamarin:        https://github.com/vincenzo-petronio/LearningXamarin
+TestMvvmCross:        TestMvvmCross first app
+SCRecover:        IAB330 Assignment - Online self-service hub for injured customers
+MvvmCross-Drawer-Navigation-with-Fragments:        https://github.com/cachely/MvvmCross-Drawer-Navigation-with-Fragments
+Net.MvvmCross.Plugins.WebBrowser:        Provides a cross-platform UI for displaying the web page.
+Xamarin.AndroidInThreeWays:        Here are examples of possible ways to write Xamarin.Android native applications. Three the same applications written in three separate projects with code behind architecture, model view presenter and model view-view model.
+Net.MvvmCross.Plugins.UserAgent:        Provides a cross-platform functionality to get the current User-Agent value.
+IncidentApp:        Skeleton framework WebAPI services for SHE Test
+mvx-scaffolding:        🏗️ A customizable template used to scaffold a cross-platform MvvmCross application.
+StaffStuff-MvvmCross:        A basic MvvmCross-WPF sample application.
+RPECalc:        Rate of Perceived Exertion Calculator
+basic-mvvmcross-setup-xamarin-native:        A Basic MvvmCross setup for a Xamarin.iOS and Xamarin.Android project.
+Breakout:        Breakout is an implementation of the breakout game for Android using Xamarin, Monogame and MvvmCross
+MvxRecyclerViewSelection:        Demonstrates using color state lists to select a single item in a MvvmCross MvxRecyclerView.
+xamarin-forms-mvvmcross-bottomtabbar:        https://github.com/rogerwcpt/xamarin-forms-mvvmcross-bottomtabbar
+gdprinfo:        A cross platform Xamarin MvvmCross plugin, with the main purpose of detecting if the current device is in the EEA, which would make it subject to the GDPR regulation.
+MvxNotificationNavigation:        Demonstrates how the IMvxNavigationService, and changes made to the way navigation works, doesn't account for a scenario where you need to navigate to a ViewModel from an Android notification via PendingIntent.
+cube.js:        https://github.com/llyb120/cube.js
+Net.MvvmCross.Plugins.DateTimeConverter:        A set of date and time converters.
+basic-mvvmcross-setup-xamarin-forms:        A Basic MvvmCross setup for Xamarin.Forms project
+XamarinProjectTemplates:        A repo containing project templates that streamline Xamarin development
+RestaurantBilling.Droid:        MVVMCross sample for Xamarin.android project also have sqlite connection explored in sample
+TravelApp:        An app that allows the user to write reviews on venues based on location.
+xam-sdc:        https://github.com/RomaRudyak/xam-sdc
+IwantIcan:        Android client for an internship app
+ContactsList:        https://github.com/kkrzysiek/ContactsList
+TipCalc:        MvvmCross Xamarin.Android sample.
+Xamarin-Template:        This is a template solution for creating Xamarin Forms Apps
+XamarinAndroidTest:        https://github.com/JuanchoAnime/XamarinAndroidTest
+xam-native-users:        Native xamarin app, see or add users
+MvvX.Plugins.AppCenter:        Appcenter plugin for Mvvmcross in order to manage cross-platform apis compatibility
+FireTvApp:        an app for the the firetv based Devices using MVVMCross
+Net.MvvmCross.Extensions:        A collection of MvvmCross extensions.

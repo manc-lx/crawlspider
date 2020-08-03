@@ -1,0 +1,90 @@
+Streamline your code deployment so you can focus on your product.
+fastlane:        🚀 The easiest way to automate building and releasing your iOS and Android apps
+ray:        A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+capistrano:        Remote multi-server automation tool
+deployer:        Deployer is a free and open source deployment tool.
+up:        Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+caprover:        [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
+AppImageKit:        Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
+shipit:        Universal automation and deployment tool ⛵️
+node-config:        Node.js Application Configuration
+gaia:        Build powerful pipelines in any programming language.
+st2:        StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://…
+rundeck:        Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+gradle-play-publisher:        GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.
+linuxdeploy:        Install and run GNU/Linux on Android
+rocketeer:        Send your projects up in the clouds
+distillery:        Simplify deployments in Elixir with OTP releases!
+Production-Level-Deep-Learning:        A guideline for building practical production-level deep learning systems to be deployed in real world applications.
+cobbler:        Cobbler is a versatile Linux deployment server
+now-examples:        Old examples of ZEIT Now projects you can deploy yourself
+deploy:        Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
+react-gh-pages:        Deploying a React App (created using create-react-app) to GitHub Pages
+seldon-core:        A framework to deploy, manage and scale your production machine learning to thousands of models
+nnvm:        https://github.com/dmlc/nnvm
+nanobox:        The ideal platform for developers
+keel:        Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
+seldon-server:        Machine Learning Platform and Recommendation Engine built on Kubernetes
+PHPloy:        PHPloy - Incremental Git (S)FTP deployment tool that supports multiple servers, submodules and rollbacks.
+laravel-deployer:        🚀 Zero-downtime deployment out-of-the-box
+capsule:        Dead-Simple Packaging and Deployment for JVM Apps
+snowflake:        Graphical SFTP client and terminal emulator with helpful utilities
+AutoDMG:        Create deployable system images from OS X installer
+linuxdeployqt:        Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
+AutomatedLab:        AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.
+exoframe:        Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
+github-pages-deploy-action:        🚀 GitHub action for deploying a project to GitHub pages.
+crowbar:        Cloud Operations Platform
+docker-rails:        Dockerize Rails 6 with ActionCable, Webpacker, Stimulus, Elasticsearch, Sidekiq
+keras-flask-deploy-webapp:        😺 Pretty & simple image classifier app template. Deploy your own trained model or pre-trained model (VGG, ResNet, Densenet) to a web app using Flask in 10 minutes.
+rails:        Official Ruby on Rails specific tasks for Capistrano
+scottyjs:        Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
+init.d:        ⚙️ Batch scripts for Rails production environment install on Ubuntu Server.
+gulp-gh-pages:        A gulp 4 plugin to publish contents to Github pages
+FlubuCore:        A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+git-directory-deploy:        deploy a directory as a git branch
+gradle-tomcat-plugin:        Gradle plugin supporting deployment of your web application to an embedded Tomcat web container
+ecs-deploy:        Powerful CLI tool to simplify Amazon ECS deployments, rollbacks & scaling
+discharge:        ⚡️ A simple, easy way to deploy static websites to Amazon S3.
+git-deploy:        Php Script for Auto-Pull in server (Using WebHook from GitLab, GitHub and Bitbucket)
+fabric-bolt:        Fabric deployments via a web interface
+rultor:        DevOps Team Assistant
+easy-deploy-bundle:        The easiest way to deploy your Symfony applications
+elasticsearch:        This repository has been archived.
+dbdeployer:        DBdeployer is a tool that deploys MySQL database servers easily.
+jruby-rack:        Rack for JRuby and Java appservers
+bootleg:        Simple deployment and server automation for Elixir.
+butler:        🎩 Command-line itch.io helper
+vinyl-ftp:        Blazing fast vinyl adapter for FTP
+phoenix-chat-example:        💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.5.3 🚀
+kapp:        kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
+nelson:        Automated, multi-region container deployment
+meteor-now:        Instantly deploy your Meteor apps with `meteor-now`
+mix_docker:        Put your Elixir app production release inside minimal docker image
+Trampoline:        Admin Spring Boot Locally
+kubernetes-digitalocean-terraform:        📋 🌊 🌎 Setup a simple Kubernetes cluster in Digital Ocean using Terraform
+ansible-rails:        Ansible: Ruby on Rails Server
+template-building-blocks:        A tool for deploying Azure infrastructure based on proven practices. Azure building blocks take advantage of the Azure CLI and Azure Resource Manager templates to provision collections of resources as logical units with production-ready settings.
+ShineUpdater:        An Enterprise app update framework for iOS
+s3-sync-action:        🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
+applikatoni:        🍕 A self-hosted deployment server for your team
+aws-deployment-framework:        The AWS Deployment Framework (ADF) is an extensive and flexible framework to manage and deploy resources across multiple AWS accounts and regions based on AWS Organizations.
+post-tuto-deployment:        Build and deploy a machine learning app from scratch 🚀
+cloudbreak:        A tool for provisioning and managing Apache Hadoop clusters in the cloud. Cloudbreak, as part of the Hortonworks Data Platform, makes it easy to provision, configure and elastically grow HDP clusters on cloud infrastructure. Cloudbreak can be used to provision Hadoop across cloud infrastructure providers including AWS, Azure, GCP and OpenStack.
+swarmlet:        A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
+deployr:        A simple golang application to automate the deployment of software releases.
+vue-cli-plugin-s3-deploy:        A vue-cli plugin that uploads your built Vue.js project to an S3 bucket
+kubectl-plugins:        A Collection of Plugins for kubectl Integration (exec as any user, context switching, etc).
+harp:        A Go application deployment tool.
+adapt:        ReactJS for your infrastructure. Create and deploy full-stack apps to any infrastructure using the power of React.
+bastille:        Bastille is an open-source system for automating deployment and management of containerized applications on FreeBSD.
+TYPO3-Console:        Console command for TYPO3 CMS
+gradle-cargo-plugin:        Gradle plugin that provides deployment capabilities to local and remote containers via Cargo
+stretcher:        Deployment tool with consul/serf event notification.
+morph:        NixOS deployment tool
+rollback:        Ansible role to rollback scripting applications like PHP, Python, Ruby, etc. in a capistrano style
+git-auto-deploy:        Deploy your GitHub, GitLab or Bitbucket projects automatically on Git push events or web hooks
+concourse-up:        Deprecated - used Control Tower instead
+mason:        Cross platform package manager for C/C++ apps
+helloworld-msa:        Main repository with documentation and support files
+fusioninventory-for-glpi:        FusionInventory plugin for GLPI

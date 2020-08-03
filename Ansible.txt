@@ -1,0 +1,89 @@
+Ansible is a simple and powerful automation engine.
+ansible:        Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+streisand:        Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+algo:        Set up a personal VPN in the cloud
+kubespray:        Deploy a Production Ready Kubernetes Cluster
+awx:        AWX Project
+devops-exercises:        Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+kubeasz:        使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+rundeck:        Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+semaphore:        Open Source alternative to Ansible Tower
+ansible-for-devops:        Ansible examples from Ansible for DevOps.
+DevOps-Guide:        DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
+mac-dev-playbook:        Mac setup and configuration via Ansible.
+molecule:        Molecule aids in the development and testing of Ansible roles
+KubeOperator:        KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
+OpsManage:        自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI
+opendevops:        CODO是一款为用户提供企业多混合云、一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台
+ansible-lint:        Best practices checker for Ansible
+trellis:        Ansible playbooks for a WordPress LEMP stack
+netboot.xyz:        Network bootable operating system installer based on iPXE
+deploy:        Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
+openshift-ansible:        Install and config an OpenShift 3.x cluster
+ansible-vagrant-examples:        Ansible examples using Vagrant to deploy to local VMs.
+werf:        GitOps delivery tool
+ansible-tuto:        Ansible tutorial
+ansible-cmdb:        Generate host overview from ansible fact gathering output
+testinfra:        Testinfra test your infrastructures
+chrome-aws-lambda:        Chromium Binary for AWS Lambda and Google Cloud Functions
+ansible-os-hardening:        This Ansible role provides numerous security-related configurations, providing all-round base protection.
+infrastructure-as-code-tutorial:        Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
+PlexGuide.com:        Welcome to https://PlexGuide.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space!
+terraform-inventory:        Terraform State → Ansible Dynamic Inventory
+vps-comparison:        A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
+drupal-vm:        A VM for Drupal development
+ansible-interactive-tutorial:        Interactive Ansible tutorials with dead simple setup via Docker
+learning-tools:        A collection of tools and files for learning new technologies
+starhackit:        StarHackIt: React/Native/Node fullstack starter kit with authentication and authorisation, data backed by SQL.
+Cloudbox:        Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
+ceph-ansible:        Ansible playbooks to deploy Ceph, the distributed filesystem.
+ansible-elasticsearch:        Ansible playbook for Elasticsearch
+web_develop:        《Python Web开发实战》书中源码
+vpn-at-home:        1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
+raspberry-pi-dramble:        Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
+ara:        ARA Records Ansible playbooks and makes them easier to understand and troubleshoot. This is the GitHub mirror for https://opendev.org/recordsansible/ara.
+manageiq:        ManageIQ Open-Source Management Platform
+content:        Security automation content in SCAP, OSCAL, Bash, Ansible, and other formats
+ansible-nas:        Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
+breeze:        Deploy a Production Ready Kubernetes Cluster with graphical interface
+dank-selfhosted:        Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD.
+configuration:        A collection of edx configuration scripts and utilities that edx.org uses to deploy openedx.
+ansible-role-mysql:        Ansible Role - MySQL
+workshops:        Training Course for Ansible Automation Platform
+ansible-best-practises:        A project structure that outlines some best practises of how to use ansible
+mysqltools:        一个用于快速构建大规模，高质量，全自动化的 mysql分布式集群环境的工具；包含mysql 安装、备份、监控、高可用、读写分离、优化、巡检、自行化运维
+ansible-ssh-hardening:        This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
+opscloud:        运维管理平台(阿里云)，自动同步阿里云配置信息，堡垒机（容器），批量运维，Kubernetes，Zabbix管理等功能
+ansible-role-docker:        Ansible Role - Docker
+ansible-role-jenkins:        Ansible Role - Jenkins CI
+postgresql:        Fairly full featured Ansible role for Postgresql.
+debops:        DebOps - Your Debian-based data center in a box
+ansible-role-nginx:        Ansible role for NGINX
+ansible-prometheus:        Deploy Prometheus monitoring system
+ansible-vim:        A vim plugin for syntax highlighting Ansible's common filetypes
+op-note:        当我有服务器时我做了什么 · 个人服务器运维指南
+drill:        Drill is a HTTP load testing application written in Rust inspired by Ansible syntax
+ios-dev-playbook:        不会运维的 iOS 开发不是好设计师。这个 Ansible Playbook 能快速配置 iOS 开发需要的服务，安装如 Gogs、GitLab、Jenkins、Ghost、Ajenti 等常用服务。
+ansible-docker:        Install / Configure Docker and Docker Compose using Ansible.
+kubeadm-playbook:        Fully fledged (HA) Kubernetes Cluster using official kubeadm, ansible and helm. Tested on RHEL/CentOS/Ubuntu with support of http_proxy, dashboard installed, ingress controller, heapster - using official helm charts
+polemarch:        Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.
+aspnet-core-react-template:        ASP.NET Core 3.1 / React SPA Template App
+terraform-provisioner-ansible:        Marrying Ansible with Terraform 0.12.x
+lain:        LAIN's main repo
+docker.ubuntu:        Docker role for Ansible on Ubuntu 14.04+
+debops-wordpress:        Your superpowered WordPress server in three commands.
+ansible-letsencrypt:        An ansible role to generate TLS certificates and get them signed by Let's Encrypt
+Ops:        基于centos6+python3.6+django2+ansible2.4+celery4.2 运维管理系统，目前实现功能：用户和用户组管理、资产管理、集成ansible2.4、简易堡垒机(主机分配支持rdp以及vnc、用户分配、文件上传下载、配置禁用命令清单、操作录像回放功能)、CI/CD（支持git仓库和svn仓库）、数据库管理（一部分）、celery任务编排、知识库及文件共享
+kubeadm-ansible:        Build a Kubernetes cluster using kubeadm via Ansible.
+ansible-role-certbot:        Ansible Role - Certbot (for Let's Encrypt)
+ansible-lockdown:        Ansible playbook roles for security
+ansigenome:        A tool to help you gather information and manage your Ansible roles.
+ansible-role-gitlab:        Ansible Role - GitLab
+packer-boxes:        Jeff Geerling's Packer build configurations for Vagrant boxes.
+docker-ansible:        Docker images for Ansible software, installed in a selected Linux distributions (Debian/Ubuntu/CentOS/Alpine).
+xxproject:        SpringCloud 微服务综合实例。分布式配置中心，服务发现&负载均衡，链路断路器，API网关，OAuth2认证授权，分布式追踪，ELK日志中心，Ansible/Docker持续交付等最佳实践。
+ansible-role-php:        Ansible Role - PHP
+ansible-provisioning:        Ansible provisioning framework - a set of modules, plugins, and documentation for provisioning with Ansible
+tads-boilerplate:        Terraform + Ansible + Docker Swarm boilerplate = DevOps on 🔥🔥🔥 | Infrastructure as Code
+ansible-vault:        ansible lookup plugin for secrets stored in Vault(by HashiCorp)
+rak8s:        Stand up a Raspberry Pi based Kubernetes cluster with Ansible

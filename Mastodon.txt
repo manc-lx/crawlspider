@@ -1,0 +1,88 @@
+Mastodon is a free, decentralized, open-source microblogging network.
+mastodon:        Your self-hosted, globally interconnected microblogging community
+Twidere-Android:        https://github.com/TwidereProject/Twidere-Android
+documentation:        Full documentation repository for Mastodon
+Tusky:        An Android client for the microblogging server Mastodon
+pinafore:        Alternative web client for Mastodon
+whalebird-desktop:        An Electron based Mastodon and Pleroma client for Windows, Mac and Linux
+Mstdn:        Tiny web-based mastodon client for your desktop
+rustodon:        A Mastodon-compatible, ActivityPub-speaking server in Rust
+dockerfiles:        Discontinued. Fork at your will.
+toot:        A very simple Mastodon command-line client for posting toots.
+aardwolf:        Powering connected social communities with open software.
+go-mastodon:        mastodon client for golang
+mastodon-twitter-poster:        Crossposter to post statuses between Mastodon and Twitter
+awesome-mastodon:        Curated list of awesome Mastodon-related stuff!
+social:        🎉 Social can be used for work, or to connect to the fediverse!
+tootle:        [WIP] GTK3 client for Mastodon
+tootstream:        A command line interface for interacting with Mastodon instances
+self-hosted-docker-server-templates:        Just some templates to get someone started with hosting various servers in Docker
+moa:        A Mastodon, Twitter, and Instagram Cross-poster
+mastodon.el:        Emacs client for Mastodon
+MastodonKit:        MastodonKit is a Swift Framework that wraps Mastodon's API
+brutaldon:        A brutalist web interface for Mastodon: moved to https://git.carcosa.net/jmcbray/brutaldon
+mastodon-bot:        a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon
+madonctl:        CLI client for the Mastodon social network API
+tooty:        An alternative multi-accounts Web client for Mastodon.
+tsuru:        desktop client.
+mastodon-api:        Mastodon API Client Library
+TheDesk:        Mastodon/Misskey Client for PC.
+Gakki:        🌼🌸 A React Native App for Mastodon. 一个由React Native编写的长毛象客户端App🦋
+SubwayTooter:        Mastodon client app for Android
+naumanni:        Naumanni is a Web user interface specially designed for Mastodon.
+wordpress-activitypub:        ActivityPub for WordPress
+go-blurhash:        🖼#️⃣ A pure Go implementation of Blurhash
+mastodon-instances:        Mastodon instances list
+hyperspace:        The new beautiful, fluffy client for Mastodon in React + TypeScript
+microstatus:        Lightweight Mastodon- and GNU social-compatible ActivityPub and OStatus server implementation
+node-mastodon:        Mastodon API Client for node
+mastodon-terraform:        Boilerplate for running Mastodon on AWS using Terraform and CircleCI.
+ShareXin:        ShareX for Linux and BSD
+the-federation.info:        Statistics hub for the Fediverse
+forget:        Continuous post deletion for twitter and mastodon
+tooter:        Add 'Toot' and 'Share to Mastodon' buttons to the web
+gobo:        💭 Gobo: Your social media. Your rules.
+tootbot:        Python tool for mirroring Reddit posts to Twitter and Mastodon
+flodgatt:        A blazingly fast drop-in replacement for the Mastodon streaming API server
+sengi:        Mastodon & Pleroma Multi-account Desktop Client
+stacks:        Launch your open-source web apps with one docker command
+iMast:        📱🐘 Mastodon Client for iOS
+mastodon-bridge:        Moved to https://source.joinmastodon.org/mastodon/bridge
+emuarius:        Bridge between Twitter and Mastodon
+Flantter:        Flantter is twitter and mastodon client for UWP.
+hyperspace-classic:        The classic fluffy client for Mastodon written in React + TypeScript
+ananas:        The Python Bot Framework for Mastodon
+feedpushr:        A simple feed aggregator daemon with sugar on top.
+Nautilus:        Turn your website into an ActivityPub profile
+masto.js:        🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
+mastodon_ynh:        Free, open-source social network for YunoHost
+mastodon-twitter-sync:        Synchronizes posts from Mastodon to Twitter and back
+madon:        Golang Mastodon API library
+mastodon-tools:        Useful tools for Mastodon users !
+mastodon-hnbot:        A bot posting the Hacker News stories with 100+ points to Mastodon
+megalodon:        Mastodon, Pleroma and Misskey API client library for node.js and browser
+Mastodon.swift:        A Swift / RxSwift / Moya / Gloss based API client for Mastodon instances.
+Activity-Relay:        Yet another powerful customizable ActivityPub relay server written in Go.
+joinmastodon:        Moved to https://source.joinmastodon.org/mastodon/joinmastodon
+mastofeed:        ActivityPub feed => iframe embed. https://www.mastofeed.com
+hunter:        A Elixir client for Mastodon, a GNU Social compatible micro-blogging service
+mnm:        Mastodon Network Monitoring
+OCRbot:        An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances
+mastodon-simplified-federation:        Simplifies following and interacting with remote users on other Mastodon instances.
+go-ostatus:        An OStatus library written in Go
+DroiDon:        UNDER DEVELOPMENT: DroiDon is android app for Mastodon https://github.com/tootsuite/mastodon
+Mammut:        An Android Client for Mastodon
+mastodon-autofollow:        Autofollow bot for mastodon
+mastodo:        A fork of the GNU Social/AP-compatible microblogging server
+goldfinger:        A Webfinger utility for Ruby
+vim-mastodon:        Mastodon client for Vim
+pyborg-1up:        🤖 A modern overhaul of an old favorite irc bot for multiple platforms
+hastodon:        mastodon client module for Haskell
+mastodon.js:        Javascript Mastodon API for Web Browsers with streaming support
+kktCSS:        CSS Styling for Mastodon to look like Kirakiratter
+MammutAPI:        🐘Mastodon's Unofficial Swift Framework
+fediplay:        a Mastodon client that automatically plays your friends' music
+ivory:        A Mastodon automoderator.
+polybot:        A framework for making social media bots for multiple networks
+mastomods:        CSS tweaks and custom themes for Mastodon.
+docker-bitlbee:        Run bitlbee with TLS and custom protocols in a container

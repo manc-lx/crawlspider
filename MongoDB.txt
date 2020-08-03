@@ -1,0 +1,90 @@
+MongoDB is an open source NoSQL document-oriented database.
+meteor:        Meteor, the JavaScript App Platform
+mall:        mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+spring-boot-examples:        about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+mongo:        The MongoDB Database
+parse-server:        API server module for Node/Express
+N-blog:        《一起学 Node.js》
+mean:        The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
+NodeBB:        Node.js based forum software built for the modern web
+reaction:        Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
+node-elm:        基于 node.js + Mongodb 构建的后台系统
+habitica:        A habit tracker app which treats your goals like a Role Playing Game.
+eve:        REST API framework designed for human beings
+generator-angular-fullstack:        Yeoman generator for an Angular app with an Express server
+mall-learning:        mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis5.0、Mongodb4.2.5、Mysql5.7等技术，采用Docker容器化部署。
+NewsBlur:        NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
+blog:        Everything about database,bussiness.(Most for PostgreSQL).
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+laravel-mongodb:        A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+node-express-mongoose-demo:        A simple demo app using node and mongodb for beginners
+migrate:        Database migrations. CLI and Golang library.
+backup:        Easy full stack backup operations on UNIX-like systems.
+machinery:        Machinery is an asynchronous task queue/job queue based on distributed message passing.
+FAQGURU:        🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.
+fiora:        An interesting chat application power by socket.io, koa, mongodb and react
+mongo-express:        Web-based MongoDB admin interface, written with Node.js and express
+practicalnode:        Practical Node.js, 1st and 2nd Editions [Apress] 📓
+westore:        微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
+bigchaindb:        Meet BigchainDB. The blockchain database.
+adminMongo:        adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
+mongoengine:        A Python Object-Document-Mapper for working with MongoDB
+nosqlclient:        Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
+node-orm2:        Object Relational Mapping
+sacred:        Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
+mall-swarm:        mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+awesome-programming-books:        📚 经典技术书籍推荐，持续更新...
+DOClever:        做最好的接口管理平台
+DoraCMS:        DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
+express-mongoose-es6-rest-api:        💥 A boilerplate application for building RESTful APIs Microservice in Node.js using express and mongoose in ES6 with code coverage and JsonWebToken Authentication
+mongo-csharp-driver:        .NET Driver for MongoDB
+cloudtunes:        Web-based music player for the cloud ☁️ 🎶 Play music from YouTube, Dropbox, etc.
+bulletproof-nodejs:        Implementation of a bulletproof node.js API 🛡️
+jsonbox:        A Free HTTP based JSON storage. Now with protected boxes.
+thal:        Getting started with Puppeteer and Chrome Headless for Web Scraping
+drywall:        🚧 Project moved, see Aqua and Frame
+db:        Data access layer for PostgreSQL, MySQL, SQLite and MongoDB.
+quokka:        LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
+phpfastcache:        A high-performance backend cache system. It is intended for use in speeding up dynamic web applications by alleviating database load. Well implemented, it can drops the database load to almost nothing, yielding faster page load times for users, better resource utilization. It is simple yet powerful.
+arctic:        High performance datastore for time series and tick data
+artipub:        Article publishing platform that automatically distributes your articles to various media channels
+builderbook:        Open source web app. Built with React, Material-UI, Next, Express, Mongoose, MongoDB.
+cezerin:        Cezerin is React and Node.js based eCommerce platform.
+space-cloud:        Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
+SpringBootLearning:        《Spring Boot教程》源码
+mgo:        The MongoDB driver for Go
+spring-boot-leaning:        Spring Boot 2.X 最全课程代码
+goxygen:        Generate a modern Web project with Go and Angular, React or Vue in seconds🚀
+lad:        👦 Lad scaffolds a Koa webapp and API framework for Node.js
+mongojs:        Node.js module that implements the offical mongo api
+mongo-hacker:        MongoDB Shell Enhancements for Hackers
+alerta:        Alerta monitoring system
+saas:        Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
+webchat:        🔈 Websocket project based on vue（基于vue2.0的实时聊天项目）
+admin-bro:        AdminBro is an admin panel for apps written in node.js
+Front-end-tutorial:        🐼 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
+Nodejs-Roadmap:        【Nodejs-Roadmap】侧重于 Node.js 服务端的开发指南，公众号 “Nodejs技术栈”
+awesome-mongodb:        🍃 A curated list of awesome MongoDB resources, libraries, tools and applications
+variety:        A schema analyzer for MongoDB
+cinema-microservice:        Example of a cinema microservice
+NoSQLMap:        Automated NoSQL database enumeration and web application exploitation tool.
+mongorito:        🍹 MongoDB ODM for Node.js apps based on Redux
+aqua:        💡 A website and user system starter
+xhgui:        A graphical interface for XHProf data built on MongoDB
+rest:        REST API generator with Node.js, Express and Mongoose
+mongo-php-library:        MongoDB PHP library
+grandnode:        Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+rsyslog:        a Rocket-fast SYStem for LOG processing
+express-rest-es2017-boilerplate:        ⌛️ Express boilerplate for building RESTful APIs
+Angular-Full-Stack:        Angular Full Stack project built using Angular, Express, Mongoose and Node. Whole stack in TypeScript.
+weixin:        微信小游戏辅助合集（加减大师、包你懂我、大家来找茬腾讯版、头脑王者、好友画我、悦动音符、我最在行、星途WeGoing、猜画小歌、知乎答题王、腾讯中国象棋、跳一跳、题多多黄金版）
+typegoose:        Typegoose - Define Mongoose models using TypeScript classes.
+spring-data-mongodb:        Provide support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
+squidex:        Headless CMS and Content Managment Hub
+transporter:        Sync data between persistence engines, like ETL only not stodgy
+mongoaudit:        🔥 A powerful MongoDB auditing and pentesting tool 🔥
+go-sniffer:        🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
+mikro-orm:        TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
+cheatsheets:        JavaScript and Node.js cheatsheets
+wildduck:        Opinionated email server
+mongodb-memory-server:        Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most cases with zero-config).

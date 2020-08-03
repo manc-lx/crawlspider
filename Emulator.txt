@@ -1,0 +1,89 @@
+An emulator is any hardware or software that allows one computer to behave like another.
+OpenEmu:        🕹 Retro video game emulation for macOS
+yuzu:        Nintendo Switch Emulator
+v86:        x86 virtualization in JavaScript, running in your browser and NodeJS
+Android-Debug-Database:        A library for debugging android databases and shared preferences - Make Debugging Great Again
+dolphin:        Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+ish:        Linux shell for iOS
+citra:        A Nintendo 3DS Emulator
+jsnes:        A JavaScript NES emulator.
+Provenance:        iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |
+xenia:        Xbox 360 Emulator Research Project
+pcsx2:        PCSX2 - The Playstation 2 Emulator
+gameboy.live:        🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
+unicorn:        Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
+simplify:        Android virtual machine and deobfuscator
+PyBoy:        Game Boy emulator written in Python
+ruffle:        A Flash Player emulator written in Rust
+docker-android:        Android in docker solution with noVNC supported and video recording
+jquery.terminal:        jQuery Terminal Emulator - web based terminal
+Ryujinx:        Experimental Nintendo Switch Emulator written in C#
+goboy:        Multi-platform Nintendo Game Boy Color emulator written in Go
+miasm:        Reverse engineering framework in Python
+jor1k:        Online OR1K Emulator running Linux
+SimpleNES:        An NES emulator in C++
+LaiNES:        Cycle-accurate NES emulator in ~1000 lines of code
+Cxbx-Reloaded:        Xbox (Original) Emulator
+jsemu:        A list of emulators written in the JavaScript programming language
+bap:        Binary Analysis Platform
+EasyProtector:        一行代码检测XP/调试/多开/模拟器/root
+selfie:        An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+Vita3K:        Experimental PlayStation Vita emulator
+qiling:        Qiling Advanced Binary Emulation Framework
+azerothcore-wotlk:        AzerothCore - Modular MMORPG Server. Based on MaNGOS -> TrinityCore -> SunwellCore
+py-kms:        KMS Server Emulator written in Python
+GPCS4:        A Playstation 4 emulator just begin
+BizHawk:        BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+ChameleonMini:        The ChameleonMini is a versatile contactless smartcard emulator compliant to NFC. The ChameleonMini was developed by https://kasper-oswald.de. The device is available at https://shop.kasper.it. For further information see the Getting Started Page https://rawgit.com/emsec/ChameleonMini/master/Doc/Doxygen/html/_page__getting_started.html or the Wi…
+decaf-emu:        Researching Wii U emulation.
+em-dosbox:        An Emscripten port of DOSBox
+Play-:        Play! - PlayStation 2 Emulator
+coffee-gb:        Gameboy emulator in Java 8.
+medusa:        An open source interactive disassembler
+cemu_graphic_packs:        Community Graphic Packs for Cemu
+cloud-functions-emulator:        A local emulator for deploying, running, and debugging Google Cloud Functions.
+wasmboy:        Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️
+ProjectPSX:        Experimental C# Playstation Emulator
+gameboy:        Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.
+GIOVANNI:        A Gameboy Emulator for the Apple Watch
+desmume:        DeSmuME is a Nintendo DS emulator
+unidbg:        Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation
+J2ME-Loader:        A J2ME emulator for Android.
+assembler-simulator:        Simple 8-bit Assembler Simulator with Angular.js
+Mesen:        Mesen is a cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#
+AndroidSDK:        🐳 Full-fledged Android SDK Docker Image
+pce:        Emulates Mac Plus, PC, & Atari ST in the browser using WebAssembly
+diyHue:        Philips Hue emulator that is able to control multiple types of lights
+SameBoy:        Game Boy and Game Boy Color emulator written in C
+anti-emulator:        Android Anti-Emulator
+AndroidNativeEmu:        Allows you to partly emulate an Android native library.
+CEmu:        Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features
+mooneye-gb:        A Game Boy research project and emulator written in Rust
+ipasim:        iOS emulator for Windows
+darkstar:        DEPRECATED - FFXI Server Emulator - See Project Topaz
+xqemu:        Open-source emulator to play original Xbox games on Windows, macOS, and Linux
+pcjs:        PCjs Machines 1.0 (archived)
+Gearboy:        Game Boy / Gameboy Color emulator for iOS, macOS, Raspberry Pi, Windows, Linux and RetroArch.
+bsnes:        bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
+PyRoyale:        A open-source server emulator for Mario Royale browser game.
+rv8:        RISC-V simulator for x86-64
+quadplay:        The quadplay✜ fantasy console
+picolove:        PICO-8 Reimplementation in Love2D
+higan:        higan is a multi-system emulator focused on accuracy, preservation, and configurability.
+gomeboycolor:        Gameboy Color emulator
+lc3-vm:        Write your own virtual machine for the LC-3 computer!
+rustynes:        👾 An NES emulator by Rust and WebAssembly
+CLK:        A latency-hating emulator of 8- and 16-bit platforms: the Acorn Electron, Amstrad CPC, Apple II/II+/IIe and early Macintosh, Atari 2600 and ST, ColecoVision, Commodore Vic-20, MSX 1, Oric 1/Atmos, Sega Master System and Sinclair ZX80/81.
+jswqx:        文曲星模拟器
+nestopia:        Enhanced version of Nestopia for Linux, BSD, macOS, Windows, and more
+Trinity:        Trinity Exploit - Emulator Escape
+86Box:        Emulator of x86-based machines based on PCem.
+CoreBoy:        A GameBoy Emulator, in C#
+hnes:        🎮 NES Emulator written in Haskell
+firebird:        Third-party multi-platform emulator of the ARM-based TI-Nspire calculators
+minivmac4ios:        Mini vMac for iOS
+jsnes-web:        A browser UI for JSNES, a JavaScript NES emulator
+ServUO:        An Ultima Online server emulator written in C# .NET
+parchment:        The Interactive Fiction player for the web
+Octo:        A Chip8 IDE
+ANESE:        Another NES Emulator - written for fun & learning - first implementation of wideNES

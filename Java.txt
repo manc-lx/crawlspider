@@ -1,0 +1,91 @@
+Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.
+CS-Notes:        📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+JavaGuide:        「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
+java-design-patterns:        Design patterns implemented in Java
+elasticsearch:        Open Source, Distributed, RESTful Search Engine
+spring-boot:        Spring Boot
+advanced-java:        😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+interviews:        Everything you need to know to get the job.
+RxJava:        RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+mall:        mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+guava:        Google core libraries for Java
+okhttp:        Square’s meticulous HTTP client for Java and Kotlin.
+retrofit:        A type-safe HTTP client for Android and the JVM
+leetcode:        LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+MPAndroidChart:        A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
+Java:        All Algorithms implemented in Java
+spark:        Apache Spark - A unified analytics engine for large-scale data processing
+zxing:        ZXing ("Zebra Crossing") barcode scanning library for Java, Android
+leakcanary:        A memory leak detection library for Android.
+JCSprout:        👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
+spring-boot-examples:        about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+jadx:        Dex to Java decompiler
+arthas:        Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+fastjson:        A fast JSON parser/generator for Java.
+WxJava:        WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发
+selenium:        A browser automation framework and ecosystem.
+libgdx:        Desktop/Android/HTML5/iOS Java game development framework
+CNTK:        Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
+generator-jhipster:        JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+spring-boot-demo:        spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+IntelliJ-IDEA-Tutorial:        IntelliJ IDEA 简体中文专题教程
+toBeTopJavaer:        To Be Top Javaer - Java工程师成神之路
+ExoPlayer:        An extensible media player for Android
+jenkins:        Jenkins automation server
+easyexcel:        快速、简单避免OOM的java处理Excel工具
+JavaFamily:        【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+flatbuffers:        FlatBuffers: Memory Efficient Serialization Library
+xxl-job:        A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+spring-cloud-alibaba:        Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+Android-CleanArchitecture:        This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
+dbeaver:        Free universal database tool and SQL client
+mybatis-3:        MyBatis SQL mapper framework for Java
+cat:        CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+redisson:        Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
+hutool:        A set of tools that keep Java sweet.
+flink:        Apache Flink
+HikariCP:        光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+java8-tutorial:        Modern Java - A Guide to Java 8
+Sentinel:        A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+graal:        GraalVM: Run Programs Faster Anywhere 🚀
+logger:        ✔️ Simple, pretty and powerful logger for android
+ray:        A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+LearningNotes:        Enjoy Learning.
+deeplearning4j:        Eclipse Deeplearning4j, ND4J, DataVec and more - deep learning & linear algebra for Java/Scala with GPUs + Spark
+playframework:        Play Framework
+logstash:        Logstash - transport and process your logs, events, or other data
+bytecode-viewer:        A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+vert.x:        Vert.x is a tool-kit for building reactive applications on the JVM
+MaterialDrawer:        The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
+infer:        A static analyzer for Java, C, C++, and Objective-C
+androidannotations:        Fast Android Development. Easy maintainance.
+realm-java:        Realm is a mobile database: a replacement for SQLite & ORMs
+RxTool:        Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | ArcGis | VTPK | 编译运行一下说不定会找到惊喜
+presto:        The official home of the Presto distributed SQL query engine for big data
+mockito:        Most popular Mocking framework for unit tests written in Java
+technology-talk:        汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+android-async-http:        This project under develop
+tink:        Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+recyclerview-animators:        An Android Animation library which easily add itemanimator to RecyclerView items.
+elasticsearch-analysis-ik:        The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
+PermissionsDispatcher:        A declarative and comprehensive API to handle Android runtime permissions.
+Android:        GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
+uCrop:        Image Cropping Library for Android
+jib:        🏗 Build container images for your Java applications.
+webmagic:        A scalable web crawler framework for Java.
+labs:        This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
+mybatis-plus:        An powerful enhanced toolkit of MyBatis for simplify development
+spring-boot-admin:        Admin UI for administration of spring boot applications
+glide-transformations:        An Android transformation library providing a variety of image transformations for Glide.
+fullstack-tutorial:        🚀 fullstack tutorial 2020，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+Sourcetrail:        Sourcetrail - free and open-source interactive source explorer
+BottomBar:        (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
+zookeeper:        Mirror of Apache Hadoop ZooKeeper
+MaterialViewPager:        A Material Design ViewPager easy to use library
+antlr4:        ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+ip2region:        Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
+jsoup:        jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
+spring-boot-api-project-seed:        🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
+cas:        Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+dropwizard:        A damn simple library for building production-ready RESTful web services.
+finagle:        A fault tolerant, protocol-agnostic RPC system

@@ -1,0 +1,91 @@
+JavaScript (JS) is a lightweight interpreted programming language with first-class functions.
+freeCodeCamp:        freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+vue:        🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+react:        A declarative, efficient, and flexible JavaScript library for building user interfaces.
+bootstrap:        The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+You-Dont-Know-JS:        A book series on JavaScript. @YDKJS on twitter.
+javascript:        JavaScript Style Guide
+electron:        Build cross-platform desktop apps with JavaScript, HTML, and CSS
+axios:        Promise based HTTP client for the browser and node.js
+javascript-algorithms:        📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+node:        Node.js JavaScript runtime ✨🐢🚀✨
+free-programming-books-zh_CN:        📚 免费的计算机编程类中文书籍，欢迎投稿
+deno:        A secure JavaScript and TypeScript runtime
+angular:        One framework. Mobile & desktop.
+TypeScript:        TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+three.js:        JavaScript 3D library.
+material-ui:        React components for faster and easier web development. Build your own design system, or start with Material Design.
+30-seconds-of-code:        Short JavaScript code snippets for all your development needs
+webpack:        A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+atom:        The hackable text editor
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+Chart.js:        Simple HTML5 Charts using the <canvas> tag
+express:        Fast, unopinionated, minimalist web framework for node.
+nodebestpractices:        ✅ The Node.js best practices list (July 2020)
+html5-boilerplate:        A professional front-end template for building fast, robust, and adaptable web apps or sites.
+element:        A Vue.js 2.0 UI Toolkit for Web
+lodash:        A modern JavaScript utility library delivering modularity, performance, & extras.
+meteor:        Meteor, the JavaScript App Platform
+Front-End-Checklist:        🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+ionic-framework:        A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+yarn:        📦🐈 Fast, reliable, and secure dependency management.
+materialize:        Materialize, a CSS Framework based on Material Design
+clean-code-javascript:        🛁 Clean Code concepts adapted for JavaScript
+prettier:        Prettier is an opinionated code formatter.
+nw.js:        Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+babel:        🐠 Babel is a compiler for writing next generation JavaScript.
+freecodecamp.cn:        FCC China open source codebase and curriculum. Learn to code and help nonprofits.
+serverless:        ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+awesome-nodejs:        ⚡ Delightful Node.js packages and resources
+parcel:        📦🚀 Blazing fast, zero configuration web application bundler
+awesome-interview-questions:        A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+leetcode:        LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+project-based-learning:        Curated list of project-based tutorials
+Ghost:        👻 The #1 headless Node.js CMS for professional publishing
+hyper:        A terminal built on web technologies
+33-js-concepts:        📜 33 concepts every JavaScript developer should know.
+jest:        Delightful JavaScript Testing.
+discourse:        A platform for community discussion. Free, open, simple.
+hexo:        A fast, simple & powerful blog framework, powered by Node.js.
+fullPage.js:        fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+pixi.js:        The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+clipboard.js:        ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋
+video.js:        Video.js - open source HTML5 & Flash video player
+nest:        A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+Leaflet:        🍃 JavaScript library for mobile-friendly interactive maps
+phaser:        Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+Rocket.Chat:        The ultimate Free Open Source Solution for team communications.
+strapi:        🚀 Open source Node.js Headless CMS to easily build customisable APIs
+gold-miner:        🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+async:        Async utilities for node and the browser
+vuetify:        🐉 Material Component Framework for Vue
+taro:        开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
+carbon:        🖤 Create and share beautiful images of your source code
+front-end-interview-handbook:        🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+select2:        Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+nylas-mail:        💌 An extensible desktop mail app built on the modern web. Forks welcome!
+Modernizr:        Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+vuex:        🗃️ Centralized State Management for Vue.js.
+faker.js:        generate massive amounts of realistic fake data in Node.js and the browser
+standard:        🌟 JavaScript Style Guide, with linter & automatic code fixer
+fetch:        A window.fetch JavaScript polyfill.
+uni-app:        uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
+iview:        A high quality UI Toolkit built on Vue.js 2.0
+open-source-mac-os-apps:        🚀 Awesome list of open source applications for macOS.
+uppy:        The next open source file uploader for web browsers 🐶
+date-fns:        ⏳ Modern JavaScript date utility library ⌛️
+sequelize:        An easy-to-use multi SQL dialect ORM for Node.js
+webtorrent:        ⚡️ Streaming torrent client for the web
+mobx:        Simple, scalable state management.
+layui:        采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
+sheetjs:        📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+ember.js:        Ember.js - A JavaScript framework for creating ambitious web applications
+project-guidelines:        A set of best practices for JavaScript projects
+uBlock:        uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+html2canvas:        Screenshots with JavaScript
+sweetalert:        A beautiful replacement for JavaScript's "alert"
+react-starter-kit:        React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
+modern-js-cheatsheet:        Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+typeorm:        ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+dragula:        👌 Drag and drop so simple it hurts
+Daily-Interview-Question:        我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。

@@ -1,0 +1,91 @@
+Linux is an open source operating system.
+the-art-of-command-line:        Master the command line, in one page
+node:        Node.js JavaScript runtime ✨🐢🚀✨
+atom:        The hackable text editor
+hyper:        A terminal built on web technologies
+the-book-of-secret-knowledge:        A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+mkcert:        A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+nylas-mail:        💌 An extensible desktop mail app built on the modern web. Forks welcome!
+nativefier:        Make any web page a desktop application
+alacritty:        A cross-platform, GPU-accelerated terminal emulator
+Motrix:        A full-featured download manager.
+linux-insides:        A little bit about a linux kernel
+PowerShell:        PowerShell for every system!
+awesome-swift:        A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+libgdx:        Desktop/Android/HTML5/iOS Java game development framework
+docker_practice:        Learn and understand Docker technologies, with real DevOps practice!
+Boostnote:        A markdown editor for developers on Mac, Windows and Linux.
+marktext:        📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+notable:        The Markdown-based note-taking app that doesn't suck.
+edex-ui:        A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+electronic-wechat:        💬 A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+cool-retro-term:        A good looking terminal emulator which mimics the old cathode display...
+linux-command:        Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+sherlock:        🔎 Hunt down social media accounts by username across social networks
+brook:        Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+kivy:        Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+xbmc:        Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+How-To-Secure-A-Linux-Server:        An evolving how-to guide for securing a Linux server.
+gvisor:        Application Kernel for Containers
+dockerfiles:        Various Dockerfiles I use on the desktop and on servers.
+openage:        Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+electron-builder:        A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+Command-line-text-processing:        ⚡ From finding text to search and replace, from sorting to beautifying text and more 🎨
+linux-dash:        A beautiful web dashboard for Linux
+Mailspring:        💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors.
+musicbox:        网易云音乐命令行版本
+the-practical-linux-hardening-guide:        This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
+ChakraCore:        ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
+OpenRCT2:        An open source re-implementation of RollerCoaster Tycoon 2 🎢
+keepassxc:        KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+browser-laptop:        [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
+openFrameworks:        openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
+vuls:        Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
+qt:        Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+lynis:        Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+crouton:        Chromium OS Universal Chroot Environment
+webtorrent-desktop:        ❤️ Streaming torrent app for Mac, Windows, and Linux
+Linux-Tutorial:        《Java 程序员眼中的 Linux》
+polybar:        A fast and easy-to-use status bar
+systemd:        The systemd System and Service Manager
+The-Golang-Standard-Library-by-Example:        Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
+gotop:        A terminal based graphical activity monitor inspired by gtop and vtop
+gitsome:        A supercharged Git/GitHub command line interface (CLI). An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+test-your-sysadmin-skills:        A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+pwntools:        CTF framework and exploit development library
+brave-browser:        Next generation Brave browser for macOS, Windows, Linux, Android.
+macOS-Simple-KVM:        Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+glfw:        A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+psutil:        Cross-platform lib for process and system monitoring in Python
+Ventoy:        A new bootable USB solution.
+linuxkit:        A toolkit for building secure, portable and lean operating systems for containers
+peek:        Simple animated GIF screen recorder with an easy to use interface
+ish:        Linux shell for iOS
+TrinityCore:        TrinityCore Open Source MMO Framework (master = 8.3.0.34963, 3.3.5 = 3.3.5a.12340)
+wasmer:        🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+ajenti:        Ajenti Core and stock plugins
+awesome-cheatsheets:        超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 ⚡
+termux-app:        Android terminal and Linux environment - app repository.
+FreeCAD:        This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+Stacer:        Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+AppImageKit:        Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
+devops-exercises:        Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+gitignore.io:        Create useful .gitignore files for your project
+pupy:        Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+outline-client:        Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+nuclear:        Streaming music player that finds free music for you
+ArchiSteamFarm:        C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
+community-edition:        Free and Open Source messaging and emailing app that combines common web applications into one.
+opensnitch:        OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+PENTESTING-BIBLE:        Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+nixpkgs:        Nix Packages collection
+dxvk:        Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+fail2ban:        Daemon to ban hosts that cause multiple authentication errors
+htop:        htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+TiddlyWiki5:        A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+progress:        Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+rr:        Record and Replay Framework
+up:        Ultimate Plumber is a tool for writing Linux pipes with instant live preview
+Gogh:        Color Scheme for Gnome Terminal and Pantheon Terminal
+firefly-iii:        Firefly III: a personal finances manager

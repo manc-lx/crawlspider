@@ -1,0 +1,85 @@
+Homebrew is a package manager for macOS.
+brew:        🍺🐧 The Homebrew package manager for Linux
+hub:        A command-line tool that makes git easier to use with GitHub.
+homebrew-cask:        🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+homebrew-core:        🍻 Default formulae for the missing package manager for macOS
+mas:        📦 Mac App Store command line interface
+goreleaser:        Deliver Go binaries as fast and easily as possible
+Mos:        一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS
+dotfiles:        🌷
+homebrew-bundle:        📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+mac-dev-playbook:        Mac setup and configuration via Ansible.
+whalebrew:        Homebrew, but with Docker images
+mockserver:        MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby. MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and…
+devilutionX:        Diablo build for modern operating systems
+Luma3DS:        Noob-proof (N)3DS "Custom Firmware"
+Kosmos:        All-in-One CFW Package for the Nintendo Switch - previously SDFilesSwitch
+kubefwd:        Bulk port forwarding Kubernetes services for local development.
+homebrew-cask-fonts:        🖋 Casks of Ｆ🅾𝓝𝐓𝚂
+Goldleaf:        🍂 Multipurpose homebrew tool for Nintendo Switch
+formation:        💻 macOS setup script for front-end development
+strap:        👢 Bootstrap your macOS development system.
+cointop:        The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+homebrew-services:        🚀 Manage background services with macOS' launchctl daemon manager
+AppIcon:        AppIcon generates *.appiconset contains each resolution image for iOS
+kerl:        Easy building and installing of Erlang/OTP instances
+homebrew-openjdk:        AdoptOpenJDK HomeBrew Tap
+Guide_3DS:        A complete guide to 3DS custom firmware, from stock to boot9strap.
+taskell:        Command-line Kanban board/task manager with support for Trello boards and GitHub projects
+cider:        Hassle-free bootstrapping with Homebrew.
+linuxbrew-core:        🍻🐧 Core formulae for the Homebrew package manager on Linux
+libnx:        Library for Switch Homebrew
+homebrew-cask-versions:        🔢 Alternate versions of Casks
+goenv:        🚙 Like pyenv and rbenv, but for Go.
+install:        📥 Homebrew (un)installer
+cli:        The command line vault (Windows, macOS, & Linux).
+brew-php-switcher:        Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only.
+homebrew-emacs-plus:        Emacs Plus formulae for the Homebrew package manager
+EdiZon:        💡 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)
+brewformulas.org:        A website to search and discover formulas from Homebrew for Mac
+homebrew-nginx:        🚒 Community NGINX tap for custom modules
+jarvis:        Dotfiles for a powerful, web development-focused environment powered by Neovim, iTerm2, tmux, and zsh
+NX-Shell:        3DShell port for the Nintendo Switch.
+dark-mode:        Control the macOS dark mode from the command-line
+libctru:        Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11)
+hb-appstore:        Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles
+formulae.brew.sh:        🏎 An online formulae browser for Homebrew
+dl-engineer-guidebook:        深度学习工程师生存指南
+SysDVR:        Stream switch games to your PC via USB or network
+ros-install-osx:        Installing ROS on OS X.
+homebrew-osgeo4mac:        Mac homebrew tap for maintaining a stable work environment for the OSGeo.org geospatial toolset
+mac_os:        Shell scripts for automated macOS machine setup.
+Octo:        A Chip8 IDE
+redisapp:        The easiest way to get started with Redis on the Mac
+SwitchThemeInjector:        Create custom themes for the nintendo switch !
+DevMyMac:        ✨ ✨ A Simple Tool To Setup A Mac for Development✨✨
+homebrew-v2ray:        The homebrew tap for v2ray-core.
+homebrew-autoupdate:        🍹 An easy, convenient way to automatically update Homebrew.
+mac_os-config:        Shell scripts for customized macOS machine setup and configuration.
+cave-story-md:        A fan port of Cave Story for the Sega Mega Drive
+homebrew-avr:        Homebrew AVR Toolchain
+JKSV:        Data Tool For Switch
+uLaunch:        🚀 Custom, open-source qlaunch (Nintendo Switch HOME menu) replacement/reimplementation
+8bitworkshop:        web-based IDE for 8-bit programming and Verilog development
+homebrew-file:        Brewfile manager for Homebrew
+xdebug-osx:        Simple bash script to toggle xdebug on/off in OSX
+homebrew-postgresql:        🐘 PostgreSQL formulae for the Homebrew package manager
+nxdumptool:        Generates XCI/NSP/HFS0/ExeFS/RomFS/Certificate/Ticket dumps from Nintendo Switch gamecards and installed SD/eMMC titles.
+pcgen:        PCGen Data Sets
+homebrew-cask-drivers:        🖨 Casks of Drivers
+tobutobugirl:        An arcade platformer homebrew game for the Game Boy
+fastboot3DS:        A homebrew bootloader for the Nintendo 3DS that is similar to android's fastboot.
+EdiZon_CheatsConfigsAndScripts:        The official EdiZon Editor Config and Editor Script repository.
+iterm-fish-fisher-osx:        Complete guide and Bash script to install Command Line Tools + Homebrew + iTerm2 + Fish Shell + Fisher + Plugins for development purposes
+nesicide:        Integrated Development Environment for the 8-bit Nintendo Entertainment System
+homebrew-kde:        Moved
+homebrew-bio:        🍺🔬 Bioinformatics formulae for the Homebrew package manager (macOS and Linux)
+homebrew-command-not-found:        🔍 Ubuntu’s command-not-found equivalent for Homebrew on macOS
+homebrew-zathura:        Homebrew formulae to build Zathura on Mac OS X
+Brewlet:        The missing menulet for brew.sh: keeping your packages up-to-date, and your system secure.
+golinks:        🌐A web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance. Similar to bunny1 or yubnub.
+3ds-examples:        Examples for 3DS using devkitARM, libctru, citro3d and citro2d
+openssl-osx-ca:        Simple periodic task to sync OSX Keychain certs to Homebrew installed OpenSSL & LibreSSL
+Carting:        🚘 A simple tool for updating Carthage script phase
+ngdevkit:        Open source development for Neo-Geo
+ansible-role-homebrew:        Ansible Role - Homebrew

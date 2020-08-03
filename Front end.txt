@@ -1,0 +1,90 @@
+Front end is the programming and layout that people see and interact with.
+vue:        🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+react:        A declarative, efficient, and flexible JavaScript library for building user interfaces.
+Front-End-Checklist:        🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+ionic-framework:        A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+frontend-dev-bookmarks:        Manually curated collection of resources for frontend web developers.
+gold-miner:        🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+iview:        A high quality UI Toolkit built on Vue.js 2.0
+hyperapp:        The tiny framework for building hypertext applications.
+awesome-cheatsheets:        👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+Front-End-Performance-Checklist:        🎮 The only Front-End Performance Checklist that runs faster than the others
+fe-interview:        宇宙最强的前端面试指南 (https://lucifer.ren/fe-interview)
+bit:        Build, distribute and collaborate on components.
+tui.editor:        🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+ant-design-vue:        🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
+tachyons:        Functional css for humans
+weekly:        前端精读周刊
+marko:        A declarative, HTML-based language that makes building web apps fun
+bootstrap-material-design:        Material Design for Bootstrap - Powerful and free UI KIT for Bootstrap 4
+gremlins.js:        Monkey testing library for web apps and Node.js
+frontend-stuff:        📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
+tui.calendar:        🍞📅A JavaScript calendar that has everything you need.
+perfect-scrollbar:        Minimalistic but perfect custom scrollbar plugin
+gdbgui:        Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+growth-ebook:        Growth Engineering: The Definitive Guide。全栈增长工程师指南
+backbone.marionette:        The Backbone Framework
+Awsome-Front-End-learning-resource:        GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
+ng-zorro-antd:        UI components lib based on Ant Design for Angular
+zeroclipboard:        The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
+vue-enterprise-boilerplate:        An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
+frontend-case-studies:        💼 A curated list of technical talks and articles about real world enterprise frontend development
+hospitalrun-frontend:        Frontend for HospitalRun
+developer-roadmap-chinese:        2019 年成為 Web 開發人員的路線圖
+nerv:        A blazing fast React alternative, compatible with IE8 and React 16.
+webpacker:        Use Webpack to manage app-like JavaScript modules in Rails
+Hippy:        A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+san:        A fast, portable, flexible JavaScript component framework
+imba:        🐤 The friendly full-stack language
+reagent:        A minimalistic ClojureScript interface to React.js
+create-react-app-typescript:        DEPRECATED: Create React apps using typescript with no build configuration.
+Front-End-Design-Checklist:        💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers
+front-end-handbook-2019:        [Book] 2019 edition of our front-end development handbook
+forum:        🍺 Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) pra issues
+react-fontawesome:        Font Awesome 5 React component
+localResizeIMG:        🔥 前端本地客户端压缩图片，兼容IOS，Android，PC、自动按需加载文件
+mini.css:        A minimal, responsive, style-agnostic CSS framework!
+pattern.css:        CSS only library to fill empty background with beautiful patterns.
+webpack-libs-optimizations:        Using a library in your webpack project? Here’s how to optimize it
+redux-orm:        A small, simple and immutable ORM to manage relational data in your Redux store.
+frontend-tech-list:        📝 Frontend Tech List for Developers 💡
+hiper:        🚀 A statistical analysis tool for performance testing
+telegram-list:        List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
+TNFE-Weekly:        每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
+growth-in-action:        全栈增长工程师实战
+webpack-book:        From apprentice to master (CC BY-NC-ND)
+full-stack-fastapi-postgresql:        Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+rfs:        ✩ Automates responsive resizing ✩
+awesome-casestudy:        📕 Curated list of technical case studies on WebGL and creative development
+react-imgpro:        📷 Image Processing Component for React
+img2css:        Convert any image to pure CSS.
+the-front-end-knowledge-you-may-not-know:        😇 你可能不知道的前端知识点
+bttn.css:        Awesome buttons for awesome projects!
+Front-End-Web-Development-Resources:        This repository contains content which will be helpful in your journey as a front-end Web Developer
+webhook.site:        ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
+fe:        《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
+layerJS:        layerJS: Javascript UI composition framework
+OverVue:        Prototyping Tool For Vue Devs 适用于Vue的原型工具
+vecty:        Vecty: your frontend, in Go
+ansible-cmdb:        Generate host overview from ansible fact gathering output
+vue-fontawesome:        Font Awesome 5 Vue component
+awesome-jupyter:        A curated list of awesome Jupyter projects, libraries and resources
+devmap:        Карта развития веб-разработчика
+reactpatterns:        Patterns for React Developers
+ViewUI:        A high quality UI Toolkit built on Vue.js 2.0
+login-flow:        🔑 A login/register flow built with React&Redux
+frontdesk:        Community driven list of useful things for Front End Developers
+frontendDaily:        前端开发技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch
+Awesome-Interview:        Collection of awesome interview references.
+spring-boot-vuejs:        Example project showing how to build a Spring Boot App providing a GUI with Vue.js
+webpack-starter:        ✨ A lightweight foundation for your next webpack based frontend project.
+userbase:        Create secure and private web apps using only static JavaScript, HTML, and CSS.
+percy:        Libraries for building interactive frontend browser apps with Rust + WebAssembly. Supports server side rendering.
+webapp.rs:        A web application completely written in Rust. 🌍
+bulmaswatch:        Themes for Bulma
+OverlayScrollbars:        A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+jetpack:        🚀 Jetpack – Webpack made more convenient.
+visual-center:        Find the visual center of your images.
+shariff:        👮 Shariff enables website users to share their favorite content without compromising their privacy.
+nipplejs:        🎮 A virtual joystick for touch capable interfaces.
+Sublime-Text-Plugins-for-Frontend-Web-Development:        📝 A Collection of Plugins for Frontend Web Development

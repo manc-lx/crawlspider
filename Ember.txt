@@ -1,0 +1,91 @@
+Ember is a framework for creating web applications.
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+Ghost:        👻 The #1 headless Node.js CMS for professional publishing
+discourse:        A platform for community discussion. Free, open, simple.
+ember.js:        Ember.js - A JavaScript framework for creating ambitious web applications
+text-mask:        Input mask for React, Angular, Ember, Vue, & plain JavaScript
+sharedrop:        Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+ember-cli:        The Ember.js command line utility
+data:        A data persistence library for Ember.js.
+ember-simple-auth:        A library for implementing authentication/authorization in Ember.js applications.
+ember-table:        https://github.com/Addepar/ember-table
+zoid:        Cross domain components
+stimulus_reflex:        Build reactive applications with the Rails tooling you already know and love.
+awesome-grid:        A curated list of grid(table) libraries and resources that developers may find useful.
+ember-inspector:        Adds an Ember tab to the browser's Developer Tools that allows you to inspect Ember objects in your application.
+ember-paper:        The Ember approach to Material Design.
+ember-cli-mirage:        An Ember Addon to easily integrate Mirage JS into your Ember app.
+ember-electron:        ⚡ Build, test, compile and package desktop apps with Ember and Electron
+rfcs:        RFCs for changes to Ember
+website:        Source for emberjs.com
+storefront-api-examples:        Example custom storefront applications built on Shopify's Storefront API
+travis-web:        The Ember web client for Travis CI
+ember-power-select:        The extensible select component built for ember.
+ember-engines:        Composable Ember applications for ambitious user experiences
+ember-bootstrap:        Ember-cli addon for using Bootstrap as native Ember components.
+Ghost-Admin:        Ghost's admin client
+ember-cp-validations:        Ember computed property based validations
+ui:        Rancher UI
+ember-intl:        Localization library for any Ember Application or Addon
+esri-loader:        A tiny library to help load ArcGIS API for JavaScript modules in non-Dojo applications
+ember-runloop-handbook:        A deep dive into the Ember JS runloop.
+ember-infinity:        ⚡ Simple, flexible Infinite Scroll for Ember CLI Apps.
+ember-decorators:        Useful decorators for Ember applications.
+ember-simple-auth-token:        Ember Simple Auth extension that is compatible with token-based authentication like JWT.
+ember-cli-flash:        Simple, highly configurable flash messages for ember-cli
+ember-metrics:        Send data to multiple analytics integrations without re-implementing new API
+ember-websockets:        Ember.js websockets and socket.io addon
+corber:        CLI for building hybrid apps with Ember/Vue/Glimmer/Cordova
+ember-light-table:        Lightweight, contextual component based table for Ember 2.3+
+skylines:        Live tracking, flight database and competition framework
+ember-burger-menu:        An off-canvas sidebar component with a collection of animations and styles using CSS transitions
+ember-cli-page-object:        This ember-cli addon eases the construction of page objects on your acceptance and integration tests
+ember-can:        Simple authorisation addon for Ember apps
+ember-exam:        Run your tests with randomization, splitting, and parallelization for beautiful tests.
+ember-apollo-client:        🚀 An ember-cli addon for Apollo Client and GraphQL
+ember-graphql-adapter:        GraphQL adapter for Ember Data
+ember-test-selectors:        Enabling better element selectors in Ember.js tests
+ember-lifeline:        An Ember addon for managing the lifecyle of asynchronous behavior in your objects
+ember-in-viewport:        Detect if an Ember View or Component is in the viewport @ 60FPS
+eslint-plugin-ember:        An ESlint plugin that provides set of rules for Ember Applications based on commonly known good practices.
+ember-service-worker:        A pluggable approach to Service Workers for Ember.js
+ember-font-awesome:        ember-cli addon for using Font Awesome icons in Ember apps
+flexi:        Just a layout framework. Design for cross-platform with ease.
+ember-cli-document-title:        Adding document title behaviour to your ember app
+ember-models-table:        Table with pagination, sorting, filtering and much more
+ember-template-lint:        Linter for Ember or Handlebars templates
+ember-leaflet:        🔥 🍃 Easy and declarative mapping for ember
+emberx-select:        Select component for Ember based on the native html select element.
+ember-tooltips:        Easy and extendible tooltips for Ember components - http://sir-dunxalot.github.io/ember-tooltips/
+intellij-emberjs:        Ember.js support for JetBrains IDEs (IntelliJ, WebStorm, ...)
+ember-power-calendar:        Powerful and customizable calendar component for Ember
+library-app:        Detailed Ember.js Octane v3.17 tutorial for absolute beginners. https://yoember.com
+ember-native-dom-helpers:        Test helpers for your integration tests that fire native events
+ember-page-title:        Page title management for Ember.js Apps
+ember-file-upload:        HTML5 file uploads for Ember apps
+ember-cli-notifications:        ⚛ Atom inspired notification messages for ember-cli
+scroll-js:        Light cross-browser scroller that uses native javascript
+ember-pikaday:        A datepicker component for Ember CLI projects.
+ember-cli-mocha:        Mocha and Chai tests for ember-cli applications
+ember-web-app:        NOTICE: official repository moved to https://github.com/zonkyio/ember-web-app
+hummingbird-client:        🔥 Ember.js app for Kitsu
+ember-form-for:        https://github.com/martndemus/ember-form-for
+ember-basic-dropdown:        The basic dropdown you ember app needs
+awesome-ember:        A curated list of awesome Ember.js stuff like addons, articles, videos, gists and more.
+qunit-dom:        High Level DOM Assertions for QUnit
+code-corps-ember:        Ember web application for Code Corps.
+ember-cli-pace:        Pace.js load progress bar for Ember apps, incl. Flash-like initial script lazy loading
+ember-impagination:        An Ember Addon that puts the fun back in asynchronous, paginated datasets
+ember-socket-guru:        Addon for easy integration with Pusher.js, ActionCable, Socket.io and Phoenix Channels
+ember-content-placeholders:        Composable components for rendering fake (progressive) content like facebook
+challenge:        Team recruiting challenges
+ember-tether:        Tether an element to another element in the DOM
+call-my-congress:        DEPRECATED. Simple app that displays contact information for US Congress representatives by district.
+ember-cli-eslint:        Ember CLI addon for linting Ember projects with ESLint
+rustdoc:        Not a real thing, see https://github.com/rust-lang/rust for rustdoc's actual source code
+ember-toggle:        Checkbox based Toggle Switches for Ember
+ember-cookies:        Cookies abstraction for Ember.js that works both in the browser as well as with Fastboot on the server
+emberconf-2017:        A collection of links that summarize EmberConf 2017
+ember-osf-web:        Ember front-end for the Open Science Framework
+ember-wordpress:        The bridge between Ember.js and Wordpress
+broccoli-serviceworker:        ServiceWorker generator for Broccoli and Ember.js

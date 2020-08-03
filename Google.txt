@@ -1,0 +1,91 @@
+Google LLC is an American multinational technology company that specializes in Internet-related services and products.
+bert:        TensorFlow code and pre-trained models for BERT
+hosts:        🗽最新可用的google hosts文件。国内镜像：
+yapf:        A formatter for Python files
+dopamine:        Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
+functions-samples:        Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
+google-api-nodejs-client:        Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+google-access-helper:        谷歌访问助手破解版
+tensorlayer:        Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
+Alerter:        An Android Alerting Library
+googler:        🔍 Google from the terminal
+google-map-react:        Google map library for react that allows rendering components as markers 🎉
+ipv6-hosts:        Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation
+closure-library:        Google's common JavaScript library
+Share-SSR-V2ray:        🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站
+Google-IPs:        🇺🇸 Google 全球 IP 地址库
+google-hosts:        Google hosts generator
+hybridauth:        Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
+mdui:        MDUI 是一个基于 Material Design 的前端框架。
+gts:        ☂️ TypeScript style guide, formatter, and linter.
+android_packages_apps_GmsCore:        Free implementation of Play Services
+gmusicapi:        An unofficial client library for Google Music.
+canner:        ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+flutter-ui-nice:        More than 130+ pages in this beautiful app and more than 45 developers has contributed to it.
+login-with:        Stateless login-with microservice for OAuth
+flutterfire:        🔥 A collection of Firebase plugins for Flutter apps.
+laravel-analytics:        A Laravel package to retrieve pageviews and other data from Google Analytics
+openthread:        OpenThread released by Google is an open-source implementation of the Thread networking protocol
+gcsf:        a FUSE file system based on Google Drive
+Omni-Notes:        Open source note-taking application for Android
+google-maps-services-js:        Node.js client library for Google Maps API Web Services
+GAM:        command line management for Google G Suite
+santa-tracker-android:        Ho Ho Ho
+ReplaceGoogleCDN:        ♋ 一个 Chrome 插件：将 Google CDN 替换为国内的。
+geo-heatmap:        🗺️ Generate an interactive geo heatmap from your Google location data
+cordova-plugin-googlemaps:        Google Maps plugin for Cordova
+google-ctf:        Google CTF
+google-translate-api:        A free and unlimited API for Google Translate 💵🚫
+MacAssistant:        Google Assistant for macOS!
+search-engine-optimization:        🔍 A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
+google-maps-react:        Companion code to the "How to Write a Google Maps React Component" Tutorial
+t-rex-runner:        the t-rex runner game extracted from chromium
+vue-mdc:        Material web components for Vue.js
+killedbygoogle:        Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
+ChromeLikeTabSwitcher:        Provides a tab switcher similar to the one, which is used in Google Chrome on Android
+GoAgent-Always-Available:        一直可用的GoAgent，会定时扫描可用的google gae ip，提供可自动化获取ip运行的版本
+cloudprober:        An active monitoring software to detect failures before your customers do.
+node-google-spreadsheet:        Google Sheets API (v4) wrapper for Node.js
+laravel-sitemap:        Create and generate sitemaps with ease
+Espresso:        🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
+leetcode:        👏🏻 leetcode solutions for Humans™
+Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs:        Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
+google-auth-library-nodejs:        🔑 Google Auth Library for Node.js
+socialite:        Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
+OutlookGoogleCalendarSync:        Sync your Outlook and Google calendars
+ingress-gce:        Ingress controller for Google Cloud
+nativescript-plugin-firebase:        🔥 NativeScript plugin for Firebase
+ODrive:        Google Drive GUI for Windows / Mac / Linux
+Image-Downloader:        Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
+BEGAN-tensorflow:        Tensorflow implementation of "BEGAN: Boundary Equilibrium Generative Adversarial Networks"
+apkupdater:        APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
+GassistPi:        Google Assistant for Single Board Computers
+play-authenticate:        An authentication plugin for Play Framework 2.x (Java)
+AutoCrawler:        Google, Naver multiprocess image web crawler (Selenium)
+YoutubeUX:        With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+sketch-map-generator:        Sketch plugin to fill a shape with a map generated from a given location using Google Maps and Mapbox
+schema-org:        A fluent builder Schema.org types and ld+json generator
+spacy-transformers:        🛸 spaCy pipelines for pre-trained BERT, XLNet and GPT-2
+googleads-mobile-unity:        Official Unity Plugin for the Google Mobile Ads SDK
+laravel-google-calendar:        Manage events on a Google Calendar
+Simplicity:        A simple way to implement Facebook and Google login in your iOS apps.
+pygooglenews:        If Google News had a Python library
+MTrans:        Multi-source Translation
+gmail_clone:        A Gmail Clone built with Flutter
+GoogleTranslate:        🌐 Google 翻译 Mac 客户端
+rules_docker:        Rules for building and handling Docker images with Bazel
+GDriveFS:        An innovative FUSE wrapper for Google Drive.
+html-pdf-chrome:        HTML to PDF converter via Chrome/Chromium
+datasheets:        Read data from, write data to, and modify the formatting of Google Sheets
+OCBarrage:        iOS 弹幕库 OCBarrage, 同时渲染5000条弹幕也不卡, 轻量, 可拓展, 高度自定义动画, 超高性能, 简单易上手; A barrage render-engine with high performance for iOS. At the same time, rendering 5000 barrages is also very smooth, lightweight, scalable, highly custom animation, ultra high performance, simple and easy to use!
+djangae:        The best way to run Django on Google Cloud
+gphotos-sync:        Google Photos and Albums backup with Google Photos Library API
+Leku:        🌍 Map location picker component for Android. Based on Google Maps. An alternative to Google Place Picker.
+VersaPlayer:        Versatile Video Player implementation for iOS, macOS, and tvOS
+PlaystoreDownloader:        A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)
+CloudComparer:        Compare the various managed cloud services offered by the major public cloud providers in the market.
+angular-recaptcha:        AngularJS directive to add a reCaptcha widget to your form
+geocoder:        Geocode addresses to coordinates
+sou:        简单搜索，一个简单的前端界面。用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。
+pyment:        Format and convert Python docstrings and generates patches
+JetpackMvvm:        🐔🐔🐔一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目

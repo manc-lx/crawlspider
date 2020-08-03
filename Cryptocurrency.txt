@@ -1,0 +1,91 @@
+A cryptocurrency is a digital currency that uses cryptography.
+bitcoin:        Bitcoin Core integration/staging tree
+ccxt:        A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+blockchain:        A simple Blockchain in Python
+grin:        Minimal implementation of the Mimblewimble protocol.
+lbry-sdk:        The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+lnd:        Lightning Network Daemon ⚡️
+monero:        Monero: the secure, private, untraceable cryptocurrency
+tendermint:        ⟁ Tendermint Core (BFT Consensus) in Go
+litecoin:        Litecoin source tree
+cardano-sl:        Cryptographic currency implementing Ouroboros PoS protocol
+EthList:        The Comprehensive Ethereum Reading List
+tribeca:        A high frequency, market making cryptocurrency trading platform in node.js
+freqtrade:        Free, open source crypto trading bot
+xmrig:        RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
+awesome-coins:        ₿ A guide (for humans!) to cryto-currencies and their algos.
+StockSharp:        Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins and options).
+BlockChain:        黑马程序员 120天全栈区块链开发 开源教程
+CryptoList:        Curated collection of blockchain & cryptocurrency resources.
+status-react:        a free (libre) open source, mobile OS for Ethereum
+blockchain_go:        A simplified blockchain implementation in Golang
+nano-node:        Nano is a cryptocurrency
+alpha_vantage:        A python wrapper for Alpha Vantage API for financial data.
+bcoin:        Javascript bitcoin library for node.js and browsers
+Blockchain-stuff:        Blockchain and Crytocurrency Resources
+bitcoin-on-nodejs:        《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：
+crypto-signal:        The #1 Automated Technical Analysis (TA) & Algo. Trading tool for Coinbase, Bittrex, Binance, and more! (Track over 500+ coins)
+blockchain-tutorial:        🌾 A step-by-step blockchain tutorial in simplified Chinese
+python-binance:        Binance Exchange API python implementation for automated trading
+Krypto-trading-bot:        Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++
+catalyst:        An Algorithmic Trading Library for Crypto-Assets in Python
+cosmos-sdk:        ⛓️ A Framework for Building High Value Public Blockchains ✨
+cryptocurrency-icons:        A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
+gocryptotrader:        A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
+cointop:        The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+SimpleCoin:        Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python as educational material. In other words, a simple Bitcoin clone.
+coinmon:        💰 The cryptocurrency price tool on CLI. 🖥
+php-mpos:        MPOS stands for Mining Portal Open Source. Please be aware that the Issue tracker on Github is a Bug Tracker, not a Support Forum!
+binance-trader:        💰 Cryptocurrency Trading Bot for Binance (Experimental)
+dash:        Dash - Reinventing Cryptocurrency
+lightning-rfc:        Lightning Network Specifications
+marketstore:        DataFrame Server for Financial Timeseries Data
+bitshares-core:        BitShares Blockchain implementation and command-line interface
+qtum:        Qtum Core Wallet
+blockchain-cli:        ⛓️ A minimal blockchain command-line interface.
+technicalindicators:        A javascript technical indicators written in typescript with pattern recognition right in the browser
+bitcoin.org:        Bitcoin.org Website
+fooltrader:        a modular quant framework
+aeternity:        æternity: solving scalability problems by making sense of state-channels
+cosmos:        ⚛ Internet of Blockchains
+Gekko-Strategies:        Strategies to Gekko trading bot with backtests results and some useful tools.
+lightning-app:        An easy-to-use cross-platform Lightning wallet
+eclair:        A scala implementation of the Lightning Network.
+zvt:        a lightweight modular quant framework
+coinbase-pro-trading-toolkit:        DEPRECATED — The Coinbase Pro trading toolkit
+cryptocoins:        Cryptocoins is the most complete vector/webfont icon pack of your favourite cryptocurrencies
+cryptocurrency-arbitrage:        A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
+ebookcoin:        Ebookcoin has been updated to DDN Blockchain，please get it from https://github.com/ddnlink/ddn
+naivecoin:        A cryptocurrency implementation in less than 1500 lines of code
+RaspiBolt:        Bitcoin & Lightning full node on a Raspberry Pi
+peatio:        An open-source Crypto-Currency exchange.
+go:        Stellar's public monorepo of go code
+hummingbot:        Hummingbot: a client for crypto market making
+moneymanagerex:        Money Manager Ex is an easy to use, money management application built with wxWidgets
+node-binance-api:        Node Binance API is an asynchronous node.js library for the Binance API designed to be easy to use.
+informer:        A Telegram Mass Surveillance Bot in Python
+CoiniumServ:        Next-gen crypto currency mining pool software
+BlueWallet:        Bitcoin thin client for iOS & Android. Built with React Native
+python-bittrex:        Python bindings for bittrex
+bitcoin-trading-dca:        Bitcoin investing using Dollar Cost Averaging
+awesome-blockchain:        Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥
+python-poloniex:        Poloniex API wrapper for Python 2.7 & 3
+dcrd:        Decred daemon in Go (golang).
+status-go:        The Status module that consumes go-ethereum
+lbrycrd:        The blockchain that provides the digital content namespace for the LBRY protocol
+skycoin:        Skycoin Core and Wallet
+Cryptocurrency-Trading-Bots-Python-Beginner-Advance:        Crypto Trading Bots in Python - Triangular Arbitrage, Beginner & Advanced Cryptocurrency Trading Bots Written in Python
+neutrino:        Privacy-Preserving Bitcoin Light Client
+ledger-live-desktop:        Ledger Live (Desktop)
+beam:        Beam: Scalable Confidential Cryptocurrency. A Mimblewimble implementation.
+trace:        Full-featured, modern crypto portfolio & market explorer. Built with @flutter
+subzero:        Square's Bitcoin Cold Storage solution.
+exchange-core:        Ultra-fast matching engine written in Java based on LMAX Disruptor, Eclipse Collections, Real Logic Agrona, OpenHFT, LZ4 Java, and Adaptive Radix Trees.
+Scorex:        Scorex 2.0 Core
+bitshares-ui:        Fully featured Graphical User Interface / Reference Wallet for the BitShares Blockchain
+crypto-trading-bot:        Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance ... (public edition)
+peregrine:        Detects arbitrage opportunities across 131 cryptocurrency exchanges in 50 countries
+QtBitcoinTrader:        Secure multi crypto exchange trading client
+asch:        Asch is an efficient, flexible, safe and decentralized application platform, which was initially designed to lower the barrier to entry for developers.The services provided by the Asch platform include a public chain and a set of application SDKs.
+node-binance-trader:        Cryptocurrency Trading Bot Development Framework for the Binance exchange. Follow open NBT trading signals at
+peercoin:        Reference implementation of the Peercoin protocol

@@ -1,0 +1,90 @@
+Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.
+bootstrap:        The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+electron:        Build cross-platform desktop apps with JavaScript, HTML, and CSS
+animate.css:        🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+Font-Awesome:        The iconic SVG, font, and CSS toolkit
+html5-boilerplate:        A professional front-end template for building fast, robust, and adaptable web apps or sites.
+Front-End-Checklist:        🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+bulma:        Modern CSS framework based on Flexbox
+normalize.css:        A modern alternative to CSS resets
+materialize:        Materialize, a CSS Framework based on Material Design
+prettier:        Prettier is an opinionated code formatter.
+parcel:        📦🚀 Blazing fast, zero configuration web application bundler
+hyper:        A terminal built on web technologies
+styled-components:        Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+tailwindcss:        A utility-first CSS framework for rapid UI development.
+front-end-interview-handbook:        🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+iview:        A high quality UI Toolkit built on Vue.js 2.0
+Hover:        A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+postcss:        Transforming styles with JS plugins
+layui:        采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
+tabler:        Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+pure:        A set of small, responsive CSS modules that you can use in every web project.
+Daily-Interview-Question:        我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+scrollreveal:        Animate elements as they scroll into view.
+NativeScript:        NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
+autoprefixer:        Parse CSS and add vendor prefixes to rules by Can I Use
+popmotion:        Simple animation libraries for delightful user interfaces
+less.js:        Less. The dynamic stylesheet language.
+NES.css:        NES-style CSS Framework | ファミコン風CSSフレームワーク
+material-components-web:        Modular and customizable Material Design UI components for the web
+css-protips:        A collection of tips to help take your CSS skills pro
+ratchet:        Build mobile apps with simple HTML, CSS, and JavaScript components.
+30-seconds-of-css:        Short CSS code snippets for all your development needs
+You-Dont-Need-JavaScript:        CSS is powerful, you can do a lot of things without JS.
+amazeui:        Amaze UI, a mobile-first and modular front-end framework.
+front-end-guide:        📚 Study guide and introduction to the modern front end stack.
+bootswatch:        Themes for Bootstrap
+Front-End-Performance-Checklist:        🎮 The only Front-End Performance Checklist that runs faster than the others
+fe-interview:        前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+Web:        前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。持续更新...
+WebFundamentals:        Best practices for modern web development
+emotion:        👩‍🎤 CSS-in-JS library designed for high performance style composition
+card:        💳 make your credit card form better in one line of code
+ant-design-vue:        🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
+stylus:        Expressive, robust, feature-rich CSS language built for nodejs
+bootstrap-table:        An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+spectre:        Spectre.css - A Lightweight, Responsive and Modern CSS Framework
+coreui-free-bootstrap-admin-template:        CoreUI is free bootstrap admin template
+tachyons:        Functional css for humans
+frontend-bootcamp:        Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+photon:        The fastest way to build beautiful Electron apps using simple HTML and CSS
+css:        The CSS design system that powers GitHub
+rome:        The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+bourbon:        A Lightweight Sass Tool Set
+uncss:        Remove unused styles from CSS
+milligram:        A minimalist CSS framework.
+bootstrap-material-design:        Material Design for Bootstrap - Powerful and free UI KIT for Bootstrap 4
+cdnjs:        🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+GitHub-Dark:        Dark GitHub style
+critical:        Extract & Inline Critical-path CSS in HTML pages
+blog:        Too young, too simple. Sometimes, naive & stupid 🐌
+iCSS:        不止于 CSS
+chinese-copywriting-guidelines:        Chinese copywriting guidelines for better written communication／中文文案排版指北
+jsoup:        jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
+30-seconds-of-interviews:        A curated collection of common interview questions to help you prepare for your next interview.
+stylelint:        A mighty, modern style linter
+hint.css:        A CSS only tooltip library for your lovely websites.
+habitica:        A habit tracker app which treats your goals like a Role Playing Game.
+MathJax:        Beautiful math in all browsers
+jupyter-themes:        Custom Jupyter Notebook Themes
+tabler-icons:        A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+dompdf:        HTML to PDF converter for PHP
+lax.js:        Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+flag-icon-css:        🎏 A collection of all country flags in SVG — plus the CSS for easier integration
+js-beautify:        Beautifier for javascript
+timesheet.js:        JavaScript library for HTML5 & CSS3 time sheets
+rebass:        ⚛️ React primitive UI components built with styled-system.
+Metro-UI-CSS:        Build impressive responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
+magic:        CSS3 Animations with special effects
+css-selector:        The CssSelector component converts CSS selectors to XPath expressions.
+dom-to-image:        Generates an image from a DOM node using HTML5 canvas
+css-blocks:        High performance, maintainable stylesheets.
+styled-system:        ⬢ Style props for rapid UI development
+clarity:        UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
+hamburgers:        Tasty CSS-animated Hamburgers
+css.gg:        700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+ant-design-vue-pro:        👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
+jss:        JSS is an authoring tool for CSS which uses JavaScript as a host language.
+linaria:        Zero-runtime CSS in JS library
+styled-jsx:        Full CSS support for JSX without compromises

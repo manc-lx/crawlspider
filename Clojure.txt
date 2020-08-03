@@ -1,0 +1,91 @@
+Clojure is a dynamic, general-purpose programming language.
+metabase:        The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+deeplearning4j:        Eclipse Deeplearning4j, ND4J, DataVec and more - deep learning & linear algebra for Java/Scala with GPUs + Spark
+LightTable:        The Light Table IDE ⛺
+awesomo:        An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+mal:        mal - Make a Lisp
+riemann:        A network event stream processing system, in Clojure.
+reagent:        A minimalistic ClojureScript interface to React.js
+compojure:        A concise routing library for Ring/Clojure
+datascript:        Immutable database and Datalog query engine for Clojure, ClojureScript and JS
+clojure-style-guide:        A community coding style guide for the Clojure programming language
+intellij-rainbow-brackets:        🌈Rainbow Brackets / Rainbow Parentheses for IntelliJ based IDEs/Android Studio
+ring:        Clojure HTTP server abstraction
+cider:        The Clojure Interactive Development Environment that Rocks for Emacs
+status-react:        a free (libre) open source, mobile OS for Ethereum
+lein-figwheel:        Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
+Rich-Hickey-fanclub:        "every time I watch one of his talks I feel like someone has gone in and organized my brain"
+beakerx:        Beaker Extensions for Jupyter Notebook
+hiccup:        Fast library for rendering HTML in Clojure
+klipse:        Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp
+http-kit:        http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support
+onyx:        Distributed, masterless, high performance, fault tolerant data processing
+lumo:        Fast, cross-platform, standalone ClojureScript environment
+boot:        Build tooling for Clojure.
+sente:        Realtime web comms for Clojure/Script
+Arcadia:        Clojure in Unity
+lacinia:        GraphQL implementation in pure Clojure
+nodebook:        Nodebook - Multi-Lang Web REPL + CLI Code runner
+closh:        Bash-like shell based on Clojure
+konstellate:        Free and Open Source GUI to Visualize Kubernetes Applications.
+clojerl:        Clojure for the Erlang VM (unofficial)
+babashka:        A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
+liberator:        Liberator is a Clojure library for building RESTful applications.
+timbre:        Pure Clojure/Script logging library
+ultra:        A Leiningen plugin for a superior development environment
+lux:        The Lux Programming Language
+frontend:        CircleCI's frontend
+garden:        Generate CSS with Clojure
+defold:        Defold is a completely free to use game engine for development of desktop, mobile and web games.
+joker:        Small Clojure interpreter, linter and formatter.
+crux:        Document database with bitemporal graph queries
+compojure-api:        Sweet web apis with Compojure & Swagger
+uxbox:        UXBOX - The Open-Source prototyping tool
+mount:        managing Clojure and ClojureScript app state since (reset)
+duct:        Server-side application framework for Clojure
+carmine:        Redis client and message queue for Clojure
+nginx-clojure:        Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.
+bidi:        Bidirectional URI routing
+clj-kondo:        A linter for Clojure code that sparks joy.
+pulsar:        Fibers, Channels and Actors for Clojure
+neanderthal:        Fast Clojure Matrix Library
+cryogen:        A simple static site generator written in Clojure
+environ:        Library for managing environment variables in Clojure
+ferret:        Ferret is a free software lisp implementation for real time embedded control systems.
+awesome-clojurescript:        A community driven list of ClojureScript frameworks, libraries and wrappers.
+liquid:        Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
+cljfmt:        A tool for formatting Clojure code
+clojuredocs:        clojuredocs.org web app
+restQL-http:        Microservice query language
+nippy:        High-performance serialization library for Clojure
+integrant:        Micro-framework for data-driven architecture
+lispy:        Short and sweet LISP editing
+Selmer:        A fast, Django inspired template system in Clojure.
+clojure-mode:        Emacs support for the Clojure(Script) programming language
+packages:        Javascript libraries packaged up with Google Closure externs
+expound:        Human-optimized error messages for clojure.spec
+reitit:        A fast data-driven router for Clojure/Script
+clj-refactor.el:        A collection of Clojure refactoring functions for Emacs
+yada:        A powerful Clojure web library, full HTTP, full async - see https://juxt.pro/yada/index.html
+sablono:        Lisp/Hiccup style templating for Facebook's React in ClojureScript.
+lambdacd:        a library to define a continuous delivery pipeline in code
+precept:        A declarative programming framework
+medley:        A lightweight library of useful Clojure functions
+clojurecademy:        Clojurecademy Web Application
+codox:        Clojure documentation tool
+oz:        Data visualizations in Clojure and ClojureScript using Vega and Vega-lite
+rebel-readline:        Terminal readline library for Clojure dialects
+cljs-electron:        ClojureScript + Electron + Figwheel + Reagent = ❤❤❤
+ghostwheel:        Hassle-free inline clojure.spec with semi-automatic generative testing and side effect detection
+luminus-template:        a template project for the Luminus framework
+etaoin:        Pure Clojure Webdriver protocol implementation
+assistant:        Simple, extensible and powerful one stop personal assistant
+orchestra:        Complete instrumentation for clojure.spec
+cider-nrepl:        A collection of nREPL middleware originally designed to enhance Clojure editors
+ragtime:        Database-independent migration library
+cljfx:        Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
+docjure:        Read and write Office documents from Clojure
+aero:        A small library for explicit, intentful configuration.
+lein-ring:        Ring plugin for Leiningen
+spec-tools:        Clojure(Script) tools for clojure.spec
+pretty:        Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions

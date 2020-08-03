@@ -1,0 +1,91 @@
+Azure is a cloud computing service created by Microsoft.
+awesome-kubernetes:        A curated list for awesome kubernetes sources 🚢🎉
+recommenders:        Best Practices on Recommendation Systems
+azure-quickstart-templates:        Azure Quickstart Templates
+go-cloud:        The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+pulumi:        Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+caprover:        [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
+devops-exercises:        Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+sops:        Simple and flexible tool for managing secrets
+cloud-custodian:        Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+computervision-recipes:        Best Practices, code samples, and documentation for Computer Vision.
+midway:        🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
+docker-android:        Android in docker solution with noVNC supported and video recording
+komiser:        ☁️ Cloud Environment Inspector 👮🔒 💰
+clean-code-dotnet:        🛁 Clean Code concepts and tools adapted for .NET
+azure-powershell:        Microsoft Azure PowerShell
+ScoutSuite:        Multi-Cloud Security Auditing Tool
+mmlspark:        Microsoft Machine Learning for Apache Spark
+openapi-directory:        🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
+azure-cli:        Azure Command-Line Interface
+SmartStoreNET:        Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+AcademicContent:        Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
+azure-sdk-for-net:        This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+terraform-provider-azurerm:        Terraform provider for Azure Resource Manager
+MachineLearningNotebooks:        Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
+Covid19Radar:        Open Source / Internationalization/ iOS Android Cross Platform Contact Tracing App by exposure notification framework Xamarin App and Server Side Code
+gardener:        Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
+spark:        .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.
+seldon-server:        Machine Learning Platform and Recommendation Engine built on Kubernetes
+tfsec:        🔒🌍 Static analysis powered security scanner for your terraform code
+azure-sdk-for-python:        This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+Foundatio:        Pluggable foundation blocks for building distributed apps.
+typhoon:        Minimal and free Kubernetes distribution
+BaGet:        A lightweight NuGet and symbol server
+bank-vaults:        A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
+acs-engine:        WE HAVE MOVED: Please join us at Azure/aks-engine!
+manageiq:        ManageIQ Open-Source Management Platform
+architecture-center:        Azure Architecture Center
+checkov:        Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+AutomatedLab:        AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.
+cyberduck:        Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
+s3proxy:        Access other storage backends via the S3 API
+examples:        Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+vc-platform:        VirtoCommerce Platform repository
+azure-rest-api-specs:        The source for REST API specifications for Microsoft Azure.
+azure-sdk-for-go:        Microsoft Azure SDK for Go
+AzureTipsAndTricks:        Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
+aks-engine:        AKS Engine: Units of Kubernetes on Azure!
+altium-library:        Open source Altium Database Library with over 121,000 high quality components and full 3d models.
+letsencrypt-siteextension:        Azure Web App Site Extension for easy installation and configuration of Let's Encrypt issued SSL certifcates for custom domain names.
+cs-suite:        Cloud Security Suite - One stop tool for auditing the security posture of AWS/GCP/Azure infrastructure.
+vue-wordpress-pwa:        An offline-first SPA using Vue.js, the WordPress REST API and Progressive Web Apps
+Imgbot:        An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once it's done, ImgBot will open a pull request for you to review and merge. help@imgbot.net
+MCW:        Microsoft Cloud Workshop Project
+vscode-sqltools:        Database management for VSCode
+microservices-reference-implementation:        A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
+azure-policy:        Repository for Azure Resource Policy built-in definitions and samples
+CloudComparer:        Compare the various managed cloud services offered by the major public cloud providers in the market.
+iot-edge-v1:        Azure IoT Edge
+sentinel-attack:        Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK
+reference-architectures:        templates and scripts for deploying Azure Reference Architectures
+Kledex:        .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
+OrgKit:        Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
+Azure-Readiness-Checklist:        This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven't missed anything important!
+azure-service-bus:        ☁️ Azure Service Bus service issue tracking and samples
+ApplicationInsights-JS:        Microsoft Application Insights SDK for JavaScript
+elasticsearch:        This repository has been archived.
+RockPaperScissorsLizardSpock:        Rock, Paper, Scissors, Lizard, Spock - Sample Application
+cloud-design-patterns:        Prescriptive Architecture Guidance for Cloud Applications
+azure-devops-cli-extension:        Azure DevOps Extension for Azure CLI
+azure-iot-sdk-c:        A C99 SDK for connecting devices to Microsoft Azure IoT services
+SQLIndexManager:        Free GUI Tool for Index Maintenance on SQL Server and Azure
+25-days-of-serverless:        Repository responsible for 25 days of Serverless challenges
+azure-sdk-for-php:        Microsoft Azure SDK for PHP
+azure-spring-boot:        Spring Boot Starters for Azure services
+application-gateway-kubernetes-ingress:        This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
+WireMock.Net:        WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
+Azure-Design:        My Design resources for Azure
+azuredevopslabs:        Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
+Practical.CleanArchitecture:        Asp.Net Core 3.1 samples (+ Angular 9.0, React 16.13, Vue 2.6) with modern Clean Architecture, Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Blazor, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling, Health Checks, Security Headers, ...
+awesome-azure-learning:        This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
+aad-pod-identity:        Assign Azure Active Directory Identities to Kubernetes applications.
+office365-cli:        Manage Microsoft Office 365 and SharePoint Framework projects on any platform
+terracognita:        Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
+template-building-blocks:        A tool for deploying Azure infrastructure based on proven practices. Azure building blocks take advantage of the Azure CLI and Azure Resource Manager templates to provision collections of resources as logical units with production-ready settings.
+Streamstone:        Event store for Azure Table Storage
+ApplicationInsights-aspnetcore:        ASP.NET Core web applications monitoring
+ApplicationInsights-dotnet:        ApplicationInsights-dotnet
+vagrant-azure:        Enable Vagrant to manage virtual machines in Microsoft Azure
+live.asp.net:        Code for live.asp.net, which hosts the ASP.NET Community Stand-up
+Cosmonaut:        🌐 A supercharged Azure CosmosDB .NET SDK with ORM support

@@ -1,0 +1,91 @@
+C is a general purpose programming language that first appeared in 1972.
+neovim:        Vim-fork focused on extensibility and usability
+scrcpy:        Display and control your Android device
+git:        Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+awesome-cpp:        A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+open-source-mac-os-apps:        🚀 Awesome list of open source applications for macOS.
+vim:        The official Vim repository
+obs-studio:        OBS Studio - Free and open source software for live streaming and screen recording
+the_silver_searcher:        A code-searching tool similar to ack, but faster.
+FFmpeg:        Mirror of git://source.ffmpeg.org/ffmpeg.git
+curl:        A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+ruby:        The Ruby Programming Language [mirror]
+flatbuffers:        FlatBuffers: Memory Efficient Serialization Library
+shadowsocks-libev:        libev port of shadowsocks
+nuklear:        A single-header ANSI C gui library
+interview:        📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
+graal:        GraalVM: Run Programs Faster Anywhere 🚀
+radare2:        UNIX-like reverse engineering framework and command-line toolset
+mpv:        🎥 Command line video player
+goaccess:        GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+rufus:        The Reliable USB Formatting Utility
+infer:        A static analyzer for Java, C, C++, and Objective-C
+vcpkg:        C++ Library Manager for Windows, Linux, and MacOS
+kitty:        A cross-platform, fast, feature full, GPU based terminal emulator
+tig:        Text-mode interface for git
+phpredis:        A PHP extension for Redis
+Sourcetrail:        Sourcetrail - free and open-source interactive source explorer
+nnn:        n³ The missing terminal file manager for X.
+libsodium:        A modern, portable, easy to use crypto library.
+raspberry-pi-os:        Learning operating system development using Linux kernel and Raspberry Pi
+hashcat:        World's fastest and most advanced password recovery utility
+OpenRCT2:        An open source re-implementation of RollerCoaster Tycoon 2 🎢
+ip2region:        Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
+Craft:        A simple Minecraft clone written in C using modern OpenGL (shaders).
+reactos:        A free Windows-compatible Operating System
+thrift:        Apache Thrift
+Pillow:        The friendly PIL fork (Python Imaging Library)
+gdbgui:        Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+mal:        mal - Make a Lisp
+qmk_firmware:        Open-source keyboard firmware for Atmel AVR and Arm USB families
+systemd:        The systemd System and Service Manager
+kotlin-native:        Kotlin/Native infrastructure
+glfw:        A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+webview:        Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
+libevent:        Event notification library
+borg:        Deduplicating archiver with compression and authenticated encryption.
+vlc:        VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+rofi:        Rofi: A window switcher, application launcher and dmenu replacement
+robotgo:        RobotGo, Go Native cross-platform GUI automation @vcaesar
+cython:        The most widely used Python to C compiler
+lwan:        Experimental, scalable, high performance HTTP server
+sumatrapdf:        SumatraPDF reader
+htop:        htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+lz4:        Extremely Fast Compression algorithm
+C:        Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+Win32-OpenSSH:        Win32 port of OpenSSH
+tini:        A tiny but valid `init` for containers
+project-based-tutorials-in-c:        A curated list of project-based tutorials in C
+dumb-init:        A minimal init system for Linux containers
+FreeRDP:        FreeRDP is a free remote desktop protocol library and clients
+RetroArch:        Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+renderdoc:        RenderDoc is a stand-alone graphics debugging tool.
+GuiLite:        ✔️The smallest header-only GUI library(5 KLOC) for all platforms
+libvips:        A fast image processing library with low memory needs.
+librdkafka:        The Apache Kafka C/C++ library
+wren:        The Wren Programming Language
+moloch:        Moloch is an open source, large scale, full packet capturing, indexing, and database system.
+yaf:        Fast php framework written in c, built in php extension
+raylib:        A simple and easy-to-use library to enjoy videogames programming
+xxHash:        Extremely fast non-cryptographic hash algorithm
+acwj:        A Compiler Writing Journey
+conan:        Conan - The open-source C/C++ package manager
+lvgl:        Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+JohnTheRipper:        This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
+algorithms_and_data_structures:        180+ Algorithm & Data Structure Problems using C++
+s2n:        s2n : an implementation of the TLS/SSL protocols
+coobjc:        coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foundation and UIKit API in cokit framework like NSFileManager, JSON, NSData, UIImage etc. We also add tuple support in coobjc.
+awesome-c:        A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
+gravity:        Gravity Programming Language
+CS-Book:        计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
+clib:        C package manager-ish
+naxsi:        NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
+processhacker:        A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+dynomite:        A generic dynamo implementation for different k-v storage engines
+fswatch:        A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
+nghttp2:        nghttp2 - HTTP/2 C Library and tools
+RIOT:        RIOT - The friendly OS for IoT
+dokany:        User mode file system library for windows with FUSE Wrapper
+vis:        A vi-like editor based on Plan 9's structural regular expressions
+HP-Socket:        High Performance TCP/UDP/HTTP Communication Component
+kore:        An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for information on how to contribute via the mailing lists.

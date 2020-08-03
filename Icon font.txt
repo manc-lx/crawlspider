@@ -1,0 +1,89 @@
+Icon fonts contain glyphs and symbols in place of textual letters.
+nerd-fonts:        Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+awesome-stock-resources:        🌇 A collection of links for free stock photography, video and Illustration websites
+eva-icons:        A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
+Android-Iconics:        Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
+fontmin:        Minify font seamlessly
+RemixIcon:        Open source neutral style icon system
+rplibs:        Refs.cn 原型设计元件库，基于Axure RP 9/8，支持 Android、Apple、Windows、微信，移动、桌面平台的应用和网站原型设计。 三年历程 2k star，感谢大家使用。
+sketch-iconfont:        This plugin helps you easily insert and manage icons from icon fonts.
+coreui-icons:        CoreUI Free Icons - Premium designed free icon set with marks in SVG, Webfont and raster formats
+Iconic:        🎨 Auto-generated icon font library for iOS, watchOS and tvOS
+GanK:        干货集中营
+boxicons:        High Quality web friendly icons
+openwebicons:        A font!
+svg-icon:        An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
+Fork-Awesome:        A fork of the iconic font and CSS toolkit
+awesome-fonts:        Curated list of fonts and everything
+awesome-icons:        A curated list of awesome Web Font Icons
+glyphsearch:        Search for icons from Font Awesome, Glyphicons, IcoMoon, Ionicons, and Octicons
+IconFontCppHeaders:        C, C++ headers and C# classes for icon fonts: Font Awesome, Fork Awesome, Material Design, Kenney game icons and Fontaudio
+fontisto:        The iconic font and CSS toolkit. Fontisto gives you scalable vector icons that can instantly be customized: size, color, drop shadow and anything that can be done with the power of CSS.
+iconpark:        Collection of iconfonts
+bootstrap-iconpicker:        A simple icon picker
+prestashop-icon-font:        An open source icon pack made with love by the PrestaShop design team. You can use it everywhere to make your designs and websites look awesome.
+rubik:        Material Design 风格的 Vue.js UI 组件库
+Keyrune:        Magic: the Gathering set symbol pictographic font
+font-logos:        An icon font providing popular linux distro's logos
+EFIconFont:        Yet another stupid wrapper of icon font.
+IconFont:        IconFont is a way to build lossless images of pure color with font file。IconFont是一种通过字体文件来构建纯色图的方案。
+icon-font-to-png:        Python script (and library) for exporting icons from icon fonts (e.g. Font Awesome, Octicons) as PNG images
+awesome-iconjar:        Collect free icon sets for iconjar.
+webfonts-loader:        Make an icon font from SVGs!
+framework7-icons:        Free iOS-icons font for Framework7
+vectoriconsroundup:        A comparison between popular vectorial icon fonts
+redmine-theme-minimalflat2:        Minimal and flat theme for Redmine.
+MaterialFancyButtons:        Beautiful Fancy Button on endorphins.
+icons:        Simple, minimal line and clean icon pack in vector and font formats — free for public use.
+iconfont-webpack-plugin:        Simple icon font handling for webpack
+DevOpicons:        Heavily-optimised version of the Devicons icon-font.
+android-art:        🎄 Android™ 设计相关的在线工具: 图标制作、配色方案、尺寸修改、截图加壳等，持续更新...
+svgtofont:        Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+pixeden-stroke-7-icon:        A series of iOS 7 inspired vector icons in a custom @font-face icon font that can be styled dynamically using CSS.
+XEIcon:        Beautiful transformable iconic font made for the web.
+IconHandler:        Tint you Icons, change the size, apply alpha color and set a position easily. 👓
+gameicons-font:        An icon font for game-icons/icons.
+NanoIconPackLite:        带图标展示界面的简陋图标包APP模版 A lite icon pack dashboard with an icon UI
+MFixx:        Optimised version of the MFizz icon font.
+IconFontKit:        Icon fonts toolkit for iOS.
+open-weather-icons:        Weather icon font and css themed icons specialy created for Open Weather Map Api, ready to be used on any project.
+SansFonts:        WebKit Content Blocker to block web fonts in Safari (iOS & macOS)
+vue-icon-font:        IconFont plugin for Vuejs
+IconKit:        Beautiful light font icons.
+IconFont_Demo:        在iOS工程中使用iconfont技术节省图片开销
+JustIconFont:        🐢 IconFont library for Swift. Support FontAwesome, Iconic, Ionicons, MaterialIcons, Octicons and custom icons. Using iconfont by Enum.
+chart-type-icon:        An icon library that covers the vast majority of chart types
+atom-icon-fonts:        Atom snippets for a variety of icon fonts
+wh40k-icon:        Warhammer 40000 icons.
+vue-iconfont:        vue项目使用iconfont的最佳实践
+font-os:        font-os is an icon font containing Operating System logos to be used on your website.
+react-font-face:        https://github.com/ojdx/react-font-face
+SodierEmojiKeyBoardPlus:        支持自定义emoji表情，icon font , FontAwesome,斜体，超链接，粗体，下划线，字体，颜色，镂空字体等富文本
+Plugin.Glypher:        Extend support for font glyph (font icon) for Xamarin Forms applications
+redmine-theme-minimalflat:        Minimal and flat design Redmine theme.
+file-icons:        File icons in the file tree.
+brand-icons:        The social media iconic font and CSS framework
+symbols4sketch:        generate font files and preview sample with templated sketch source file
+EmojiOne:        Swift Library for EmojiOne - ★ this library
+svg2webfont:        Convert SVG icon files to webfonts on Desktop app(Electron), and generate sample HTML/CSS files.
+iconly:        Rails engine to manage your web icon fonts
+iuap-design-language:        iuap设计语言
+denali-icon-font:        Denali icon font has over 1000 solid and outline style icons available as a font.
+EBI-Icon-fonts:        A collection of functional and scientific icons for EMBL-EBI sites.
+neon-icon:        Neon icon by UI Lib
+Xamarin-Font-Icons:        Enable font icons using Xamarin
+fontagon:        Fontagon is a great tool that easily converts svg into icon font. Fontagon-cli allows faster conversion to commands.
+postcss-iconfont:        Create SVG/TTF/EOT/WOFF/WOFF2 fonts from several SVG icons with PostCSS
+wp-plugin-icons:        🔌 Wordpress Plugin Icon Font
+kentico-icons:        Icon set by Kentico (www.kentico.com)
+web-starter-kit:        Starter Kit, which contains all the standard frontend developer tasks - build styles and layout, image optimization, JS minification, creating icon-font from SVG and much more.
+unicons:        Unicons.css is a CSS file to make adding unicode characters to HTML in a semantic and easy to use way. Because Unicons.css is so lightweight you can include just one file to supplement or replace other icon font solutions on your site like FontAwesome
+cssCollapse:        A jQuery plugin that collapses boxes of content using CSS3 transition (it can also works as an accordion)
+Cross-browser_Custom_HTML_Select_Tag_Arrow:        A solution for the HTML Select tag that implement a custom arrow
+chess-merida-font:        Chess Merida Font is a full suite of all chess pieces icons for easy scalable vector graphics on websites
+docker-nerd-fonts-patcher:        🐳 Dockerized Nerd Fonts patcher
+FontAwesomeIconPack:        Add Font Awesome to your selectable icons in Umbraco 7 & Umbraco 8
+fonticon:        fonticon | Create your icon fonts in seconds. Make your website faster. Over 2,000 icons available.
+sheklak:        Sheklak is a persian font icons authored by mehdi nickhoo
+stenciljs-icons-example:        Using FontAwesome, Office UI Fabric and Material -icons in stenciljs
+awesome-free-stuff:        List of free stuff for your website

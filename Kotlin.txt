@@ -1,0 +1,90 @@
+Kotlin is a statically typed programming language for multiplatform applications.
+free-programming-books-zh_CN:        📚 免费的计算机编程类中文书籍，欢迎投稿
+okhttp:        Square’s meticulous HTTP client for Java and Kotlin.
+kotlin:        The Kotlin Programming Language
+leakcanary:        A memory leak detection library for Android.
+profile-summary-for-github:        Tool for visualizing GitHub profiles
+material-dialogs:        😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+anko:        Pleasant Android application development
+MMKV:        An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+recyclerview-animators:        An Android Animation library which easily add itemanimator to RecyclerView items.
+PermissionsDispatcher:        A declarative and comprehensive API to handle Android runtime permissions.
+awesome-kotlin:        A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+glide-transformations:        An Android transformation library providing a variety of image transformations for Glide.
+ImmersionBar:        android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62
+kotlinx.coroutines:        Library support for Kotlin coroutines
+tachiyomi:        Free and open source manga reader for Android
+android-ktx:        A set of Kotlin extensions for Android app development.
+ktor:        Framework for quickly creating connected applications in Kotlin with minimal effort
+kotlin-native:        Kotlin/Native infrastructure
+android-classyshark:        Analyze any Android/Java based app or game
+RxKotlin:        RxJava bindings for Kotlin
+sourcerer-app:        🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
+koin:        Koin - a pragmatic lightweight dependency injection framework for Kotlin
+Compressor:        An android image compression library.
+quicktype:        Generate types and converters from JSON, Schema, and GraphQL
+ideavim:        Vim emulation plug-in for IDEs based on the IntelliJ platform.
+from-java-to-kotlin:        From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
+rest-assured:        Java DSL for easy testing of REST services
+dialogplus:        Advanced dialog solution for android
+Blurry:        Blurry is an easy blur library for Android
+generator:        A code generator for MyBatis.
+android-tips-tricks:        ☑️ [Cheatsheet] Tips and tricks for Android Development
+Exposed:        Kotlin SQL Framework
+javalin:        A simple and modern Java and Kotlin web framework
+junit5:        The next generation of JUnit.
+Design-Patterns-In-Kotlin:        Design Patterns implemented in Kotlin
+RxDownload:        A multi-threaded download tool written with RxJava and Kotlin
+micronaut-core:        Micronaut Application Framework
+awesome-test-automation:        A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
+RxDocs:        Rx和RxJava文档中文翻译项目
+arrow:        Functional companion to Kotlin's Standard Library
+coil:        Image loading for Android backed by Kotlin Coroutines.
+Kotlin-Tutorials:        【Kotlin 视频教程】国内资料较少，我录制了一套视频作为抛砖引玉~
+fuel:        The easiest HTTP networking library for Kotlin/Android
+ktlint:        An anti-bikeshedding Kotlin linter with built-in formatter
+Lawnchair:        No clever tagline needed
+corda:        Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
+intellij-rainbow-brackets:        🌈Rainbow Brackets / Rainbow Parentheses for IntelliJ based IDEs/Android Studio
+android-showcase:        💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+KotlinMvp:        🔥 「停止维护」基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！
+mockk:        mocking library for Kotlin
+kotlin-dsl-samples:        Samples builds using the Gradle Kotlin DSL
+FastAdapter:        The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...
+tornadofx:        Lightweight JavaFX Framework for Kotlin
+detekt:        Static code analysis for Kotlin
+requery:        requery - modern SQL based query & persistence for Java / Kotlin / Android
+AutoDispose:        Automatic binding+disposal of RxJava streams.
+qksms:        The most beautiful SMS messenger for Android
+kotlin-in-chinese:        kotlin 官方文档翻译
+tivi:        Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+vertx-examples:        Vert.x examples
+kotlin-examples:        Various examples for Kotlin
+lwjgl3:        LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan), audio (OpenAL), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR) applications.
+Android-CleanArchitecture-Kotlin:        This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
+android_packages_apps_GmsCore:        Free implementation of Play Services
+Kotlin-for-Android-Developers:        Companion App for the book
+MovieGuide:        Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture
+kotest:        Powerful, elegant and flexible test framework for Kotlin
+beakerx:        Beaker Extensions for Jupyter Notebook
+apollo-android:        🤖 A strongly-typed, caching GraphQL client for the JVM, Android and Kotlin multiplatform
+kotlinpoet:        A Kotlin API for generating .kt source files.
+Kodein-DI:        Painless Kotlin Dependency Injection
+mockito-kotlin:        Using Mockito with Kotlin
+create-react-kotlin-app:        Create React apps using Kotlin with no build configuration
+jacoco:        🔬 JaCoCo - Java Code Coverage Library
+AdvancedAndroid:        Android 进阶
+kotlinx.serialization:        Kotlin multiplatform / multi-format serialization
+ArgusAPM:        Powerful, comprehensive (Android) application performance management platform. 360线上移动性能检测平台
+Simple-Calendar:        A simple calendar with events, customizable widgets and no ads.
+SuperSLiM:        A layout manager for the RecyclerView with interchangeable linear, grid, and staggered displays of views, all with configurable section headers including the sticky variety as specified in the material design docs.
+Twidere-Android:        https://github.com/TwidereProject/Twidere-Android
+aesthetic:        [DEPRECATED]
+mirai:        全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android
+transitioner:        A library for dynamic view-to-view transitions
+spek:        A specification framework for Kotlin
+camera-samples:        Multiple samples showing the best practices in camera APIs on Android.
+dotsindicator:        Three material Dots Indicators for view pagers in Android !
+Konfetti:        Celebrate more with this lightweight confetti particle system 🎊
+JsonToKotlinClass:        🚀Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )
+JBusDriver:        这是去幼儿园的班车(滑稽

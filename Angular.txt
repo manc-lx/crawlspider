@@ -1,0 +1,90 @@
+Angular is an open source web application platform.
+free-programming-books-zh_CN:        📚 免费的计算机编程类中文书籍，欢迎投稿
+angular:        One framework. Mobile & desktop.
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+ionic-framework:        A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+prettier:        Prettier is an opinionated code formatter.
+33-js-concepts:        📜 33 concepts every JavaScript developer should know.
+angular-cli:        CLI tool for Angular
+sheetjs:        📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+components:        Component infrastructure and Material Design components for Angular
+NativeScript:        NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
+generator-jhipster:        JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+terminus:        A terminal for a more modern age
+mean:        The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
+coreui-free-bootstrap-admin-template:        CoreUI is free bootstrap admin template
+codesandbox-client:        An online IDE for rapid web development
+protractor:        E2E test framework for Angular apps
+javascript-testing-best-practices:        📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+OnsenUI:        Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
+text-mask:        Input mask for React, Angular, Ember, Vue, & plain JavaScript
+ng-bootstrap:        Angular powered Bootstrap
+PeerTube:        ActivityPub-federated video streaming platform using P2P directly in your web browser
+awesome-angular:        📄 A curated list of awesome Angular resources
+raw:        The missing link between spreadsheets and data visualization
+ng-zorro-antd:        UI components lib based on Ant Design for Angular
+rematch:        A Redux Framework
+nebular:        💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
+angularfire:        The official Angular library for Firebase.
+must-watch-javascript:        A useful list of must-watch talks about JavaScript
+generator-angular-fullstack:        Yeoman generator for an Angular app with an Express server
+angularjs-styleguide:        AngularJS styleguide for teams
+primeng:        The Most Complete Angular UI Component Library
+ajenti:        Ajenti Core and stock plugins
+platform:        Reactive libraries for Angular
+clarity:        UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
+angular-education:        A list of helpful material to develop using Angular
+ui-grid:        UI Grid: an Angular Data Grid
+redux-logger:        Logger for Redux
+ngx-bootstrap:        Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
+graphql-code-generator:        A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+flex-layout:        Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API
+angular-seed:        🌱 [Deprecated] Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
+soundnode-app:        Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
+strider:        Open Source Continuous Integration & Deployment Server
+ngx-datatable:        ✨ A feature-rich yet lightweight data-table crafted for Angular
+TypeScript:        TypeScript使用手册。TypeScript is a superset of JavaScript that compiles to clean JavaScript output. http://www.typescriptlang.org
+ng-admin:        Add an AngularJS admin GUI to any RESTful API
+store:        🚀 NGXS - State Management for Angular
+nx:        Extensible Dev Tools for Monorepos
+openproject:        OpenProject is the leading open source project management software.
+angular-electron:        Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) 🚤
+ng-alain:        NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
+ngx-charts:        📊 Declarative Charting Framework for Angular
+NSwag:        The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+core:        The internationalization (i18n) library for Angular
+ShapeShifter:        SVG icon animation tool for Android, iOS, and the web
+awesome-webpack-cn:        [印记中文](https://docschina.org/) - webpack 优秀中文文章
+tabulator:        Interactive Tables and Data Grids for JavaScript
+taiga-front:        Agile project management platform. Built on top of Django and AngularJS
+angular-performance-checklist:        ⚡ Cheatsheet for developing lightning fast progressive Angular applications.
+polr:        🚡 A modern, powerful, and robust URL shortener
+Util:        Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。
+compodoc:        📔 The missing documentation tool for your Angular, Nest & Stencil application
+inKino:        A multiplatform Dart movie app with 40% of code sharing between Flutter and the Web.
+angular-filter:        Bunch of useful filters for AngularJS (with no external dependencies!)
+articles:        🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆
+angular-local-storage:        An AngularJS module that gives you access to the browsers local storage with cookie fallback
+lsp-mode:        Emacs client/library for the Language Server Protocol
+angular-ui-tree:        A tree component for AngularJS, without jQuery as dependency.
+body-scroll-lock:        Body scroll locking that just works with everything 😏
+angular-schema-form:        Generate forms from a JSON schema, with AngularJS!
+CleanArchitecture:        Clean Architecture Solution Template for Angular 9 and .NET Core 3.1
+angular-meteor:        Angular and Meteor - The perfect stack
+notadd:        A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
+angular2-jwt:        Helper library for handling JWTs in Angular 2+ apps
+survey-library:        JavaScript Survey and Form Library
+akita:        🚀 State Management Tailored-Made for JS Applications
+altair:        ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+codelyzer:        Static analysis for Angular projects.
+angular-seed-advanced:        Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
+ng-select:        ⭐ Native angular 6+ select component
+angular-ngrx-material-starter:        Angular, NgRx, Angular CLI & Angular Material Starter Project
+covalent:        Teradata UI Platform built on Angular Material
+Chromely:        Build HTML Desktop Apps on .NET/.NET Core using native GUI, HTML5, JavaScript, CSS
+angular-calendar:        A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
+angulartics:        Analytics for AngularJS applications.
+augury:        Angular Debugging and Visualization Tools
+wails:        Create desktop apps using Go and Web Technologies.
+angularjs-in-patterns:        AngularJS in patterns - this repository provides different look into AngularJS. It contains information where different design patterns are used inside the framework or any Angular application.
+keen-slider:        The HTML touch slider carousel with the most native feeling

@@ -1,0 +1,91 @@
+macOS is Apple's operating system.
+the-art-of-command-line:        Master the command line, in one page
+node:        Node.js JavaScript runtime ✨🐢🚀✨
+atom:        The hackable text editor
+awesome-mac:         Now we have become very big, Different from the original idea. Collect premium software in various categories.
+hyper:        A terminal built on web technologies
+ShadowsocksX-NG:        Next Generation of ShadowsocksX
+mkcert:        A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+nylas-mail:        💌 An extensible desktop mail app built on the modern web. Forks welcome!
+iina:        The modern video player for macOS.
+nativefier:        Make any web page a desktop application
+alacritty:        A cross-platform, GPU-accelerated terminal emulator
+awesome-macos-command-line:        Use your macOS terminal shell to do awesome things.
+dotfiles:        🔧 .files, including ~/.macos — sensible hacker defaults for macOS
+open-source-mac-os-apps:        🚀 Awesome list of open source applications for macOS.
+SDWebImage:        Asynchronous image downloader with cache support as a UIImageView category
+brew:        🍺 The missing package manager for macOS (or Linux)
+Motrix:        A full-featured download manager.
+PowerShell:        PowerShell for every system!
+Boostnote:        A markdown editor for developers on Mac, Windows and Linux.
+my-mac-os:        List of applications and tools that make my macOS experience even more amazing
+marktext:        📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+Kingfisher:        A lightweight, pure-Swift library for downloading and caching images from the web.
+macOS-Security-and-Privacy-Guide:        Guide to securing and improving privacy on macOS
+edex-ui:        A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+Best-App:        收集&推荐优秀的 Apps/硬件/技巧/周边等
+electronic-wechat:        💬 A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+WeChatPlugin-MacOS:        https://github.com/TKkk-iOSer/WeChatPlugin-MacOS
+textmate:        TextMate is a graphical text editor for macOS 10.12 or later
+cool-retro-term:        A good looking terminal emulator which mimics the old cathode display...
+Kap:        An open-source screen recorder built with web technology
+sherlock:        🔎 Hunt down social media accounts by username across social networks
+CocoaLumberjack:        A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+OpenEmu:        🕹 Retro video game emulation for macOS
+brook:        Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+kivy:        Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+awesome-macOS:         A curated list of awesome applications, softwares, tools and shiny things for macOS.
+Karabiner-Elements:        Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+xbmc:        Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+MMKV:        An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+electron-builder:        A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+OSX-KVM:        Run macOS on QEMU/KVM. Only commercial support is available. With OpenCore + Big Sur support now!
+WeChatExtension-ForMac:        Mac版微信的功能拓展(A plugin for Mac WeChat)
+SwifterSwift:        A handy collection of more than 500 native Swift extensions to boost your productivity.
+macdown:        Open source Markdown editor for macOS.
+m-cli:         Swiss Army Knife for macOS
+browser-laptop:        [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
+sequelpro:        MySQL/MariaDB database management for macOS
+Pock:        Display macOS Dock in Touch Bar
+WWDC:        The unofficial WWDC app for macOS
+AudioKit:        Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
+Amethyst:        Automatic tiling window manager for macOS à la xmonad.
+qt:        Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+webtorrent-desktop:        ❤️ Streaming torrent app for Mac, Windows, and Linux
+BackgroundMusic:        Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+mas:        📦 Mac App Store command line interface
+hammerspoon:        Staggeringly powerful macOS desktop automation with Lua
+gitsome:        A supercharged Git/GitHub command line interface (CLI). An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+devhub:        TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
+brave-browser:        Next generation Brave browser for macOS, Windows, Linux, Android.
+macOS-Simple-KVM:        Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+glfw:        A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+wasmer:        🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+gridea:        ✍️A static blog writing client (一个静态博客写作客户端)
+osxfuse:        FUSE extends macOS by adding support for user space file systems
+mac-setup:        Installing Development environment on macOS
+macvim:        Vim - the text editor - for macOS
+Swift-AI:        The Swift machine learning library.
+gitignore.io:        Create useful .gitignore files for your project
+outline-client:        Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+MacPass:        A native OS X KeePass client
+caprine:        Elegant Facebook Messenger desktop app
+community-edition:        Free and Open Source messaging and emailing app that combines common web applications into one.
+SAMKeychain:        Simple Objective-C wrapper for the keychain that works on Mac and iOS
+fail2ban:        Daemon to ban hosts that cause multiple authentication errors
+htop:        htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+Hackintosh:        Hackintosh long-term maintenance model EFI and installation tutorial
+Sparkle:        A software update framework for macOS
+SwiftyStoreKit:        Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺
+macos-virtualbox:        Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+cross-env:        🔀 Cross platform setting of environment scripts
+SwiftyBeaver:        Convenient & secure logging during development & release in Swift 3, 4 & 5
+vimr:        VimR — Neovim GUI for macOS
+Gifski:        🌈 Convert videos to high-quality GIFs on your Mac
+tagbar:        Vim plugin that displays tags in a window, ordered by scope
+nodegit:        Native Node bindings to Git.
+SS-Rule-Snippet:        搜集、整理、维护 Surge / Quantumult / Shadowrocket / Surfboard / clash(X) 实用规则。
+saws:        A supercharged AWS command line interface (CLI).
+Mos:        一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS
+Qv2ray:        ⭐ Linux/Windows/macOS 跨平台 V2ray 客户端 | 支持 SSR/Trojan/NaiveProxy | 使用 C++/Qt5 开发 | 可拓展插件式设计 ⭐

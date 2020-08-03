@@ -1,0 +1,91 @@
+.NET is a free, cross-platform, open source developer platform.
+aspnetcore:        ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+selenium:        A browser automation framework and ecosystem.
+corefx:        CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
+core:        Home repository for .NET Core
+coreclr:        CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
+react-native-windows:        A framework for building native Windows apps with React.
+awesome-dotnet:        A collection of awesome .NET libraries, tools, frameworks and software
+ILSpy:        .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+labs:        This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
+Avalonia:        Avalonia is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS
+mono:        Mono open source ECMA CLI, C# and .NET implementation.
+aspnetboilerplate:        ASP.NET Boilerplate - Web Application Framework
+OpenRA:        Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+APIJSON:        🏆码云最有价值开源项目 🚀后端接口和文档自动化，前端(客户端) 定制返回 JSON 的数据和结构！🏆Gitee Most Valuable Project 🚀A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+Polly:        Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
+Nancy:        Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
+jellyfin:        The Free Software Media System
+machinelearning:        ML.NET is an open source and cross-platform machine learning framework for .NET.
+MonoGame:        One framework for creating powerful cross-platform games.
+IdentityServer4:        OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
+pulumi:        Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+Hangfire:        An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
+server:        The core infrastructure backend (API, database, Docker, etc).
+ArchiSteamFarm:        C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
+ReactiveUI:        An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
+BenchmarkDotNet:        Powerful .NET library for benchmarking
+Ocelot:        .NET core API Gateway
+nopCommerce:        The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+Electron.NET:        Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
+winsw:        A wrapper executable that can run any executable as an Windows service, in a liberal license
+refit:        The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+Captura:        Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+Opserver:        Stack Exchange's Monitoring System
+quartznet:        Quartz Enterprise Scheduler .NET
+maui:        .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+gui.cs:        Console-based user interface toolkit for .NET applications.
+NSwag:        The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+akka.net:        Port of Akka actors for .NET
+Quasar:        Remote Administration Tool for Windows
+modular-monolith-with-ddd:        Full Modular Monolith application with Domain-Driven Design approach.
+MvvmCross:        The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
+Bogus:        📇 A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+EPPlus:        Create advanced Excel spreadsheets using .NET
+rant:        (ARCHIVED) Rant – The all-purpose procedural text library
+imewlconverter:        一款开源免费的输入法词库转换程序
+MassTransit:        Distributed Application Framework for .NET
+BotBuilder-Samples:        Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
+machinelearning-samples:        Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
+aws-doc-sdk-examples:        Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
+cake:        Cake (C# Make) is a cross platform build automation system.
+monodevelop:        MonoDevelop is a cross platform .NET IDE
+opencvsharp:        .NET Framework wrapper for OpenCV
+lando:        A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
+docs:        This repository contains .NET Documentation.
+OpenLiveWriter:        An open source fork of Windows Live Writer
+clean-code-dotnet:        🛁 Clean Code concepts and tools adapted for .NET
+docfx:        Tools for building and publishing API documentation for .NET projects
+Ryujinx:        Experimental Nintendo Switch Emulator written in C#
+fluentmigrator:        Fluent migrations framework for .NET
+Blog.Core:        💖 ASP.NET Core 3.1 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档
+Templates:        .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
+commandline:        The best C# command line parser that brings standardized *nix getopt style, for .NET. Includes F# support
+pythonnet:        Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
+perfview:        PerfView is a CPU and memory performance-analysis tool
+libgit2sharp:        Git + .NET/Mono = ❤
+Flurl:        Fluent URL builder and testable HTTP client for .NET
+Bridge:        ♠️ C# to JavaScript compiler. Write modern mobile and web apps in C#. Run anywhere with Bridge.NET.
+Chromely:        Build HTML Desktop Apps on .NET/.NET Core using native GUI, HTML5, JavaScript, CSS
+markdig:        A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
+MoreLINQ:        Extensions to LINQ to Objects
+npgsql:        Npgsql is the .NET data provider for PostgreSQL.
+netmq:        A 100% native C# implementation of ZeroMQ for .NET
+Akavache:        An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires.
+oxyplot:        A cross-platform plotting library for .NET
+Harmony:        A library for patching, replacing and decorating .NET and Mono methods during runtime
+nunit:        NUnit 3 Framework
+xamarin-macios:        Bridges the worlds of .NET with the native APIs of macOS, iOS, tvOS, and watchOS.
+CppSharp:        Tools and libraries to glue C/C++ APIs to high-level languages
+cecil:        Cecil is a library to inspect, modify and create .NET programs and libraries.
+try:        Try .NET provides developers and content authors with tools to create interactive experiences.
+nhibernate-core:        NHibernate Object Relational Mapper
+CacheManager:        CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
+SkiaSharp:        SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+mobile:        The mobile app vault (iOS and Android).
+linq2db:        Linq to database provider.
+coverlet:        Cross platform code coverage for .NET
+ant-design-blazor:        🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+AppMetrics:        App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
+Architecture:        Architecture using .NET Core 3.1, ASP.NET Core 3.1, Entity Framework Core 3.1, C#, Angular 10, Clean Code, SOLID, DDD, Code Analysis, Docker and more.
+GitVersion:        Easy Semantic Versioning (http://semver.org) for projects using Git

@@ -1,0 +1,89 @@
+Go is a programming language built to resemble a simplified version of the C programming language.
+go:        A high-performance 100% compatible drop-in replacement of "encoding/json"
+kubernetes:        Production-Grade Container Scheduling and Management
+moby:        Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+awesome-go:        A curated list of awesome Go frameworks, libraries and software
+hugo:        The world’s fastest framework for building websites.
+gin:        Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+frp:        A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+grafana:        The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+gogs:        Gogs is a painless self-hosted Git service
+syncthing:        Open Source Continuous File Synchronization
+etcd:        Distributed reliable key-value store for the most critical data of a distributed system
+fzf:        🌸 A command-line fuzzy finder
+traefik:        The Cloud Native Edge Router
+caddy:        Fast, multi-platform web server with automatic HTTPS
+go-ethereum:        Official Go implementation of the Ethereum protocol
+beego:        beego is an open-source, high-performance web framework for the Go programming language.
+tidb:        TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+minio:        High Performance, Kubernetes Native Object Storage
+rclone:        "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+the-way-to-go_ZH_CN:        《The Way to Go》中文译本，中文正式名《Go 入门指南》
+drone:        Drone is a Container-Native, Continuous Delivery Platform
+gitea:        Git with a cup of tea, painless self-hosted git service
+hub:        A command-line tool that makes git easier to use with GitHub.
+gorm:        The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
+influxdb:        Scalable datastore for metrics, events, and real-time analytics
+minikube:        Run Kubernetes locally
+mattermost-server:        Open source Slack-alternative in Golang and React - Mattermost
+iris:        感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Socket-Sharding, gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | h…
+cockroach:        CockroachDB - the open source, cloud-native distributed SQL database.
+nsq:        A realtime distributed messaging platform
+echo:        High performance, minimalist Go web framework
+kit:        A standard library for microservices.
+project-layout:        Standard Go Project Layout
+vault:        A tool for secrets management, encryption as a service, and privileged access management
+logrus:        Structured, pluggable logging for Go.
+vegeta:        HTTP load testing tool and library. It's over 9000!
+flatbuffers:        FlatBuffers: Memory Efficient Serialization Library
+micro:        Micro is a framework for cloud native development
+delve:        Delve is a debugger for the Go programming language.
+cli:        A simple, fast, and fun package for building command line apps in Go
+gotty:        Share your terminal as a web application
+go-micro:        A Go library for distributed systems development
+dgraph:        Native GraphQL Database with graph backend
+cayley:        An open-source graph database
+Qix:        Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
+advanced-go-programming-book:        📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+nvm-windows:        A node.js version management utility for Windows. Ironically written in Go.
+go-patterns:        Curated list of Go design patterns, recipes and idioms
+goreplay:        GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+nps:        一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+vim-go:        Go development plugin for Vim
+websocket:        A fast, well-tested and widely used WebSocket implementation for Go.
+mux:        A powerful HTTP router and URL matcher for building Go web servers with 🦍
+grpc-go:        The Go language implementation of gRPC. HTTP/2 based RPC
+wtf:        The personal information dashboard for your terminal.
+httprouter:        A high performance HTTP request router that scales well
+learn-go-with-tests:        Learn Go with test-driven development
+colly:        Elegant Scraper and Crawler Framework for Golang
+codis:        Proxy based Redis cluster solution supporting pipeline and scaling dynamically
+annie:        👾 Fast, simple and clean video downloader
+primitive:        Reproducing images with geometric primitives.
+testify:        A toolkit with common assertions and mocks that plays nicely with the standard library
+bolt:        An embedded key/value database for Go.
+restic:        Fast, secure, efficient backup program
+tink:        Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+fyne:        Cross platform GUI in Go based on Material Design
+skaffold:        Easy and Repeatable Kubernetes Development
+mysql:        Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+gopherjs:        A compiler from Go to JavaScript for running Go code in a browser
+redis:        Type-safe Redis client for Golang
+wuzz:        Interactive cli tool for HTTP inspection
+rkt:        [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+docker-slim:        DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+grpc-gateway:        gRPC to JSON proxy generator following the gRPC HTTP spec
+gods:        GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …
+teleport:        Secure Access for Developers that doesn't get in the way.
+git-lfs:        Git extension for versioning large files
+GoBooks:        List of Golang books
+golang-developer-roadmap:        Roadmap to becoming a Go developer in 2020
+k9s:        🐶 Kubernetes CLI To Manage Your Clusters In Style!
+glide:        Package Management for Golang
+nats-server:        High-Performance server for NATS, the cloud native messaging system.
+badger:        Fast key-value DB in Go.
+chi:        lightweight, idiomatic and composable router for building Go HTTP services
+night:        Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+vuls:        Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
+redigo:        Go client for Redis
+qt:        Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly

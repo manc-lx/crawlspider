@@ -1,0 +1,91 @@
+Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.
+serverless:        ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+localstack:        💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+data-science-ipython-notebooks:        Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+awesome-kubernetes:        A curated list for awesome kubernetes sources 🚢🎉
+aws-cli:        Universal Command Line Interface for Amazon Web Services
+kubespray:        Deploy a Production Ready Kubernetes Cluster
+awesome-aws:        A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
+apex:        Build, deploy, and manage AWS Lambda functions with ease.
+up:        Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+cas:        Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+serverless-application-model:        AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
+go-cloud:        The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+amplify-js:        A declarative JavaScript library for application development using cloud services.
+chalice:        Python Serverless Microframework for AWS
+aws-sdk-js:        AWS SDK for JavaScript in the browser and Node.js
+pulumi:        Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+aws-sdk-go:        AWS SDK for the Go programming language.
+caprover:        [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
+devops-exercises:        Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+aws-shell:        An integrated shell for working with the AWS CLI.
+boto3:        AWS SDK for Python
+aws-sam-cli:        CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+aws-cdk:        The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+openvpn-install:        Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+sops:        Simple and flexible tool for managing secrets
+awless:        A Mighty CLI for AWS
+saws:        A supercharged AWS command line interface (CLI).
+terraform-provider-aws:        Terraform AWS provider
+terratest:        Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+terragrunt:        Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+security_monkey:        Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+amazon-sagemaker-examples:        Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker
+moto:        A library that allows you to easily mock out tests based on AWS infrastructure.
+aws-vault:        A vault for securely storing and accessing AWS credentials in development environments
+docker-curriculum:        🐬 A comprehensive tutorial on getting started with Docker!
+cloudmapper:        CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+practicalnode:        Practical Node.js, 1st and 2nd Editions [Apress] 📓
+terraforming:        Export existing AWS resources to Terraform style (tf, tfstate)
+claudia:        Deploy Node.js projects to AWS Lambda and API Gateway easily
+aws-sdk-java:        The official AWS SDK for Java.
+serverless-stack-com:        Source for Serverless-Stack.com
+external-dns:        Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+aws-sdk-ruby:        The official AWS SDK for Ruby.
+terraformer:        CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+ec2instances.info:        Amazon EC2 instance comparison site
+cloud-custodian:        Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+aws-serverless-workshops:        Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+containers-roadmap:        This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+ice:        AWS Usage Tool
+aws-doc-sdk-examples:        Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
+empire:        A PaaS built on top of Amazon EC2 Container Service (ECS)
+prowler:        Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls listed here https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf and more than 100 additional checks that help on GDPR, HIPAA…
+midway:        🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
+docker-android:        Android in docker solution with noVNC supported and video recording
+komiser:        ☁️ Cloud Environment Inspector 👮🔒 💰
+bless:        Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
+Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials:        A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.
+serverless-chrome:        🌐 Run headless Chrome/Chromium on AWS Lambda
+streamalert:        StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
+aws-mobile-react-native-starter:        AWS Mobile React Native Starter App https://aws.amazon.com/mobile
+awesome-ecs:        A curated list of awesome ECS guides, development tools, and resources
+aws-workshop-for-kubernetes:        AWS Workshop for Kubernetes
+ScoutSuite:        Multi-Cloud Security Auditing Tool
+mongoose-os:        Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript.
+openapi-directory:        🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
+aws-cf-templates:        Free Templates for AWS CloudFormation
+image-super-resolution:        🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
+components:        The Serverless Framework's new infrastructure provisioning technology — Build, compose, & deploy serverless apps in seconds...
+autovpn:        Create On Demand Disposable OpenVPN Endpoints on AWS.
+rusoto:        AWS SDK for Rust
+rack:        Private PaaS built on native AWS services for maximum privacy and minimum upkeep
+0x4447_product_s3_email:        📫 A serverless email server on AWS using S3 and SES
+lad:        👦 Lad scaffolds a Koa webapp and API framework for Node.js
+AutoSpotting:        Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances
+scar:        Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
+tflint:        TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform >= 0.12)
+chrome-aws-lambda:        Chromium Binary for AWS Lambda and Google Cloud Functions
+Scout2:        Security auditing tool for AWS environments
+middy:        🛵 The stylish Node.js middleware engine for AWS Lambda
+jets:        Ruby on Jets
+MoonMail:        Email marketing platform for bulk emailing via Amazon SES (Google Cloud Platform and Azure coming soon)
+aws-alb-ingress-controller:        AWS ALB Ingress Controller for Kubernetes
+gardener:        Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
+kube2iam:        kube2iam provides different AWS IAM roles for pods running on Kubernetes
+pacu:        The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+aws-iam-authenticator:        A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+seldon-server:        Machine Learning Platform and Recommendation Engine built on Kubernetes
+elasticmq:        In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
+tfsec:        🔒🌍 Static analysis powered security scanner for your terraform code

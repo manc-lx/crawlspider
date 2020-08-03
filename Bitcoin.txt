@@ -1,0 +1,90 @@
+Bitcoin is a cryptocurrency developed by Satoshi Nakamoto.
+bitcoin:        Bitcoin Core integration/staging tree
+ZeroNet:        ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+ccxt:        A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+gekko:        A bitcoin trading bot written in node - https://gekko.wizb.it/
+abu:        阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
+blockchain_guide:        Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
+blockchain:        A simple Blockchain in Python
+blackbird:        Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
+lbry-sdk:        The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+lnd:        Lightning Network Daemon ⚡️
+electrum:        Electrum Bitcoin Wallet
+bitcoinjs-lib:        A javascript Bitcoin library for node.js and browsers.
+bitcoinj:        A library for working with Bitcoin
+EthList:        The Comprehensive Ethereum Reading List
+tribeca:        A high frequency, market making cryptocurrency trading platform in node.js
+freqtrade:        Free, open source crypto trading bot
+squeezer:        Squeezer Framework - Build serverless dApps
+awesome-coins:        ₿ A guide (for humans!) to cryto-currencies and their algos.
+bisq:        A decentralized bitcoin exchange network
+copay:        Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices.
+CryptoList:        Curated collection of blockchain & cryptocurrency resources.
+blockchain_go:        A simplified blockchain implementation in Golang
+alpha_vantage:        A python wrapper for Alpha Vantage API for financial data.
+bcoin:        Javascript bitcoin library for node.js and browsers
+Blockchain-stuff:        Blockchain and Crytocurrency Resources
+bitcoin-on-nodejs:        《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：
+stacks-blockchain:        The Stacks 2.0 blockchain implementation
+crypto-signal:        The #1 Automated Technical Analysis (TA) & Algo. Trading tool for Coinbase, Bittrex, Binance, and more! (Track over 500+ coins)
+bitcoin-wallet:        Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
+blockchain-tutorial:        🌾 A step-by-step blockchain tutorial in simplified Chinese
+Krypto-trading-bot:        Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++
+cryptocurrency-icons:        A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
+ipynb_playground:        Various ipython notebooks
+cointop:        The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+SimpleCoin:        Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python as educational material. In other words, a simple Bitcoin clone.
+coinmon:        💰 The cryptocurrency price tool on CLI. 🖥
+cointrol:        ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
+binance-trader:        💰 Cryptocurrency Trading Bot for Binance (Experimental)
+dash:        Dash - Reinventing Cryptocurrency
+Learning-Bitcoin-from-the-Command-Line:        The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.
+lightning-rfc:        Lightning Network Specifications
+coinbasepro-python:        The unofficial Python client for the Coinbase Pro API
+blockstack-browser:        The Blockstack Browser
+pycoin:        Python-based Bitcoin and alt-coin utility library.
+BlockSci:        A high-performance tool for blockchain science and exploration
+qtum:        Qtum Core Wallet
+bds:        Blockchain data parsing and persisting results
+goex:        Exchange Rest And WebSocket API For Golang Wrapper support okcoin,okex,huobi,hbdm,bitmex,coinex,poloniex,bitfinex,bitstamp,binance,kraken,bithumb,zb,hitbtc,fcoin, coinbene
+MikaLendingBot:        Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex
+exonum:        An extensible open-source framework for creating private/permissioned blockchain applications
+bitcoin.org:        Bitcoin.org Website
+WalletWasabi:        Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
+bitcoin-abc:        This a mirror of the official Bitcoin-ABC repository. Please see README.md
+bit:        Bitcoin made easy.
+aeternity:        æternity: solving scalability problems by making sense of state-channels
+openbazaar-go:        OpenBazaar 2.0 Server Daemon in Go
+BitVision:        Terminal dashboard for Bitcoin trading, forecasting, and charting
+lightning-app:        An easy-to-use cross-platform Lightning wallet
+eclair:        A scala implementation of the Lightning Network.
+token-core-ios:        a blockchain private key management library on iOS
+BitcoinExchangeFH:        Cryptocurrency exchange market data feed handler
+bitcoin-php:        Bitcoin implementation in PHP
+cryptocurrency-arbitrage:        A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
+okcoin-leeks-reaper:        OKCoin韭菜收割机
+ebookcoin:        Ebookcoin has been updated to DDN Blockchain，please get it from https://github.com/ddnlink/ddn
+RaspiBolt:        Bitcoin & Lightning full node on a Raspberry Pi
+peatio:        An open-source Crypto-Currency exchange.
+coinbase-pro-node:        DEPRECATED — The official Node.js library for Coinbase Pro
+StratisBitcoinFullNode:        Bitcoin full node in C#
+solana:        Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+ta4j:        A Java library for technical analysis.
+gocoin:        Full bitcoin solution written in Go (golang)
+awesome-blockchain:        ⚡️Curated list of resources for the development and applications of blockchain.
+MultiPoolMiner:        Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line.
+Blockchain:        Compilation of useful documents and scientific papers about Blockchain & cryptocurrencies.
+classpy:        GUI tool for investigating Java class files
+BitcoinKit:        Bitcoin protocol toolkit for Swift
+guia-do-trabalho-remoto:        ✈️ Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
+awesome-cryptoeconomics:        An awesome curated list of Cryptoeconomic research and learning materials
+lnbook:        Mastering the Lightning Network (LN)
+parity-bitcoin:        The Parity Bitcoin client
+CoiniumServ:        Next-gen crypto currency mining pool software
+r2:        R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript.
+coinbin:        Javascript Bitcoin Wallet. Supports Multisig, Stealth, HD, SegWit, Bech32, Time Locked Addresses, RBF and more!
+electrumx:        Alternative implementation of spesmilo/electrum-server
+BlueWallet:        Bitcoin thin client for iOS & Android. Built with React Native
+Ravencoin:        Ravencoin Core integration/staging tree
+token-core-android:        a blockchain private key management library on android
+cpuminer:        CPU miner for bitcoin

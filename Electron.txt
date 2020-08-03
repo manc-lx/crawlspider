@@ -1,0 +1,91 @@
+Electron is a framework for building cross-platform desktop applications with web technology.
+vscode:        Visual Studio Code
+electron:        Build cross-platform desktop apps with JavaScript, HTML, and CSS
+atom:        The hackable text editor
+nylas-mail:        💌 An extensible desktop mail app built on the modern web. Forks welcome!
+nativefier:        Make any web page a desktop application
+Motrix:        A full-featured download manager.
+awesome-electron:        Useful resources for creating apps with Electron
+typeorm:        ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+upterm:        A terminal emulator for the 21st century.
+nightmare:        A high-level browser automation library.
+Boostnote:        A markdown editor for developers on Mac, Windows and Linux.
+joplin:        Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+marktext:        📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+notable:        The Markdown-based note-taking app that doesn't suck.
+quasar:        Quasar Framework - Build high-performance VueJS user interfaces in record time
+electron-react-boilerplate:        A Foundation for Scalable Cross-Platform Apps
+edex-ui:        A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+terminus:        A terminal for a more modern age
+rxdb:        💻 🔄 📱 A realtime Database for JavaScript Applications
+lowdb:        ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+electronic-wechat:        💬 A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+electron-vue:        An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+Kap:        An open-source screen recorder built with web technology
+zulip:        Zulip server - powerful open source team chat
+kitematic:        Visual Docker Container Management on Mac & Windows
+theia:        Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+SwitchHosts:        Switch hosts quickly!
+PicGo:        🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+reactide:        Reactide is the first dedicated IDE for React web application development.
+desktop:        Simple collaboration from your desktop
+photon:        The fastest way to build beautiful Electron apps using simple HTML and CSS
+electron-builder:        A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+medis:        💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+keeweb:        Free cross-platform password manager compatible with KeePass
+magnetW:        磁力链接聚合搜索
+Mailspring:        💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors.
+Google-Play-Music-Desktop-Player-UNOFFICIAL-:        A beautiful cross platform Desktop Player for Google Play Music
+ieaseMusic:        网易云音乐第三方
+browser-laptop:        [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
+Lepton:        💻 Democratizing Snippet Management (macOS/Win/Linux)
+pencil:        The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+Winds:        A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+react-native-debugger:        The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
+webtorrent-desktop:        ❤️ Streaming torrent app for Mac, Windows, and Linux
+mist:        [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
+electron-packager:        Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
+revery:        ⚡ Native, high-performance, cross-platform desktop apps - built with Reason!
+devhub:        TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
+cerebro:        Open-source productivity booster with a brain
+responsively-app:        A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+gridea:        ✍️A static blog writing client (一个静态博客写作客户端)
+outline-client:        Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+nuclear:        Streaming music player that finds free music for you
+beaker:        An experimental peer-to-peer Web browser
+caprine:        Elegant Facebook Messenger desktop app
+weweChat:        💬 Unofficial WeChat client built with React, MobX and Electron.
+react-native-nw-react-calculator:        Mobile, desktop and website Apps with the same code
+Manta:        🎉 Flexible invoicing desktop app with beautiful & customizable templates.
+Electron.NET:        Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
+soundnode-app:        Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
+OpenSC2K:        OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
+nodegit:        Native Node bindings to Git.
+node-serialport:        Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!
+falcon:        Free, open-source SQL client for Windows and Mac 🦅
+miniblink49:        a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+betwixt:        ⚡ Web Debugging Proxy based on Chrome DevTools Network panel.
+Moeditor:        (discontinued) Your all-purpose markdown editor.
+angular-electron:        Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) 🚤
+polar-bookshelf:        Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
+electrino:        Desktop runtime for apps built on web technologies, using the system's own web browser engine
+udemy-downloader-gui:        A desktop application for downloading Udemy Courses
+franz:        Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
+electron-forge:        A complete tool for creating, publishing, and installing modern Electron applications
+outline-server:        Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
+ZY-Player:        ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+felony:        🔑🔥📈 Next Level PGP
+go-astilectron:        Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
+buttercup-desktop:        🔑 Javascript Secrets Vault - Multi-Platform Desktop Application
+ramme:        Unofficial Instagram Desktop App.
+electron-sample-apps:        Sample apps for Electron
+sqlectron-gui:        A simple and lightweight SQL client desktop with cross database and platform support.
+hain:        An 'alt+space' launcher for Windows, built with Electron
+melonJS:        a fresh & lightweight javascript game engine
+pennywise:        Cross-platform application to open any website or media in a floating window
+patchwork:        A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+react-proto:        🎨 React application prototyping tool for developers and designers 🏗️
+Zettlr:        A Markdown Editor for the 21st century.
+gitify:        GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+electron-webpack-dashboard:        Electron Desktop GUI for Webpack Dashboard
+Publii:        Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.

@@ -1,0 +1,91 @@
+HTML is the fundamental markup language for webpages.
+bootstrap:        The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+electron:        Build cross-platform desktop apps with JavaScript, HTML, and CSS
+html5-boilerplate:        A professional front-end template for building fast, robust, and adaptable web apps or sites.
+rails:        Ruby on Rails
+Front-End-Checklist:        🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+bulma:        Modern CSS framework based on Flexbox
+prettier:        Prettier is an opinionated code formatter.
+parcel:        📦🚀 Blazing fast, zero configuration web application bundler
+hyper:        A terminal built on web technologies
+video.js:        Video.js - open source HTML5 & Flash video player
+HEAD:        🗿 A list of everything that *could* go in the head of your document
+front-end-interview-handbook:        🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+layui:        采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
+sheetjs:        📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+tabler:        Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+pure:        A set of small, responsive CSS modules that you can use in every web project.
+intro.js:        A better way for new feature introduction and step-by-step users guide for your website and project.
+gentelella:        Free Bootstrap 4 Admin Dashboard Template
+ratchet:        Build mobile apps with simple HTML, CSS, and JavaScript components.
+jsdom:        A JavaScript implementation of various web standards, for use with Node.js
+p5.js:        p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+Front-End-Performance-Checklist:        🎮 The only Front-End Performance Checklist that runs faster than the others
+fe-interview:        前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+aframe:        🅰️ web framework for building virtual reality experiences.
+framework:        The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
+Web:        前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。持续更新...
+tui.editor:        🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+ReLaXed:        Create PDF documents using web technologies
+WebFundamentals:        Best practices for modern web development
+requests-html:        Pythonic HTML Parsing for Humans™
+showdown:        A bidirectional Markdown to HTML to Markdown converter written in Javascript
+remark:        A simple, in-browser, markdown-driven slideshow tool.
+tachyons:        Functional css for humans
+frontend-bootcamp:        Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+photon:        The fastest way to build beautiful Electron apps using simple HTML and CSS
+rome:        The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+responsive-html-email-template:        A free simple responsive HTML email template
+milligram:        A minimalist CSS framework.
+blog:        我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
+startbootstrap-sb-admin-2:        A free, open source, Bootstrap admin theme created by Start Bootstrap
+jsoup:        jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
+OnsenUI:        Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
+30-seconds-of-interviews:        A curated collection of common interview questions to help you prepare for your next interview.
+stylelint:        A mighty, modern style linter
+habitica:        A habit tracker app which treats your goals like a Role Playing Game.
+MathJax:        Beautiful math in all browsers
+wxParse:        wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
+dompdf:        HTML to PDF converter for PHP
+startbootstrap:        A library of free and open source Bootstrap themes and templates
+js-beautify:        Beautifier for javascript
+timesheet.js:        JavaScript library for HTML5 & CSS3 time sheets
+noVNC:        VNC client web application
+Metro-UI-CSS:        Build impressive responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
+AriaNg:        AriaNg, a modern web frontend making aria2 easier to use.
+lozad.js:        🔥 Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
+dom-to-image:        Generates an image from a DOM node using HTML5 canvas
+url-to-pdf-api:        Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
+DOMPurify:        DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+tablesaw:        A group of plugins for responsive tables.
+structured-text-tools:        A list of command line tools for manipulating structured text data
+WebSlides:        Create HTML presentations in seconds —
+emmet-vim:        emmet for vim: http://emmet.io/
+PHPWord:        A pure PHP library for reading and writing word processing documents
+TiddlyWiki5:        A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+react-admin:        ✨ react-admin system solution : react 后台管理系统解决方案
+APlayer:        🍭 Wow, such a beautiful HTML5 music player
+turndown:        🛏 An HTML to Markdown converter written in JavaScript
+grip:        Preview GitHub README.md files locally before committing them.
+bootstrap-fileinput:        An enhanced HTML 5 file input for Bootstrap 4.x./3.x with file preview, multiple selection, and more features.
+balloon.css:        Simple tooltips made of pure CSS
+intercooler-js:        Making AJAX as easy as anchor tags
+GoJS:        JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+capacitor:        Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
+mavonEditor:        mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
+web-design-in-4-minutes:        Learn the basics of web design in 4 minutes
+front-end-handbook-2017:        2017 edition of our front-end development guide
+eagle.js:        A hackable slideshow framework built with Vue.js
+emmet:        The essential toolkit for web-developers
+channels:        📺 A collection of useful YouTube channels for javascript developers and web designers
+assemble:        Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
+Coding-iOS:        CODING iOS 客户端源代码
+html:        HTML Standard
+WeasyPrint:        WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
+CS-Book:        计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
+pnotify:        Beautiful JavaScript notifications with Web Notifications support.
+AlgoWiki:        Repository which contains links and resources on different topics of Computer Science.
+RichText:        Android平台下的富文本解析器，支持Html和Markdown
+semaphore:        Open Source alternative to Ansible Tower
+AngleSharp:        👼 The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
+polr:        🚡 A modern, powerful, and robust URL shortener

@@ -1,0 +1,89 @@
+Minecraft is a sandbox video game.
+Craft:        A simple Minecraft clone written in C using modern OpenGL (shaders).
+crouton:        Chromium OS Universal Chroot Environment
+tiler:        👷 Build images with images
+MinecraftForge:        Modifications to the Minecraft base files to assist in compatibility between mods.
+cuberite:        A lightweight, fast and extensible game server for Minecraft
+HMCL:        A Minecraft Launcher which is multi-functional, cross-platform and popular
+Paper:        High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+PocketMine-MP:        A server software for Minecraft: Bedrock Edition in PHP
+baritone:        google maps for block game
+WorldEdit:        🗺️ Minecraft map editor and mod
+gocraft:        A Minecraft like game written in go
+MultiMC5:        A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
+hematite:        A simple Minecraft written in Rust with the Piston game engine
+amidst:        Advanced Minecraft Interface and Data/Structure Tracking
+pxt:        Microsoft MakeCode (PXT - Programming eXperience Toolkit)
+Glowstone:        A fast, customizable and compatible open source server for Minecraft: Java Edition
+BuildCraft:        BuildCraft
+SpongeForge:        A Forge mod that implements SpongeAPI
+SpongeAPI:        A Minecraft plugin API
+DragonProxy:        A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
+OpenComputers:        Home of the OpenComputers mod for Minecraft.
+Geyser:        A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
+Nukkit:        Cloudburst Nukkit - Nuclear-Powered Minecraft: Bedrock Edition Server Software
+Equivalent-Exchange-3:        https://github.com/pahimar/Equivalent-Exchange-3
+Applied-Energistics-2:        A Minecraft Mod about Matter, Energy and using them to conquer the world..
+Essentials:        The essential plugin suite for Minecraft servers.
+MiNET:        A (not so) basic Minecraft Pocket Edition server written in C#
+node-minecraft-protocol:        Parse and serialize minecraft packets, plus authentication and encryption.
+MCSManager:        轻量级，开箱即用，多实例和支持 Docker 的 Minecraft 服务端管理面板
+PHP-Minecraft-Query:        🐘 PHP library to query Minecraft servers
+open-builder:        Open "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
+PufferPanel:        PufferPanel is an open source game server management panel, designed for both small networks and game server providers.
+mcaselector:        A tool to select chunks from Minecraft worlds for deletion or export.
+WorldGuard:        🛡️ Protect your Minecraft server and lets players claim areas
+feather:        A Minecraft server implementation in Rust
+MinecraftDev:        Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
+pyCraft:        Minecraft-client networking library in Python
+MineCase:        Minecraft server based on Orleans
+GlobalWarming:        Server side global warming mechanics in Minecraft!
+Genisys:        Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta
+Railcraft:        The Railcraft Mod for Minecraft, source and development.
+Mixin:        Mixin is a trait/mixin and bytecode weaving framework for Java using ASM
+ProtocolSupport:        Support 1.16, 1.15, 1.14, 1.13, 1.12, 1.11, 1.10, 1.9, 1.8, 1.7, 1.6, 1.5, 1.4.7 clients on Spigot 1.16.1
+MCEdit-Unified:        Combined MCEdit & Pymclevel repository.
+MinecraftDeveloperGuide:        Minecraft developer Chinese guide，我的世界开发者中文指南
+Launcher:        🚀 Distribute your Minecraft modpacks with a custom launcher
+fmltutor:        Minecraft 1.8.9 FML Mod Development Tutorial
+ViaVersion:        Allows the connection of newer clients to older server versions for Minecraft servers.
+yarn:        Libre Minecraft mappings, free to use for everyone. No exceptions.
+JustEnoughItems:        Item and Recipe viewing mod for Minecraft
+chunky:        Minecraft world rendering tool
+hello-vue-django:        vuejs and Django integration with hot code reload. Dont use this, use https://github.com/NdagiStanley/vue-django or https://github.com/gtalarico/django-vue-template
+blockbench:        Blockbench - A boxy 3D model editor
+minecrift:        VR mod for Minecraft. For Minecraft version 1.7.10
+MineOS:        Home of MineOS and it's software for OpenComputers mod
+freeminer:        Freeminer is an open source sandbox game inspired by Minecraft.
+Velocity:        A Minecraft server proxy with unparalleled server support, scalability, and flexibility.
+mscs:        Powerful command-line control for UNIX and Linux powered Minecraft servers
+Nameless:        NamelessMC is a free, easy to use & powerful website software for your Minecraft server, which includes a large range of features.
+mcpelauncher-manifest:        The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.
+blessing-skin-server:        Web application brings your custom skins back in offline Minecraft servers.
+DiscordSRV:        The Minecraft <-> Discord bridge plugin your mother warned you about. https://www.spigotmc.org/resources/discordsrv.18494/
+Minecraft-Mod-Language-Package:        Release Website
+gameservers-docker:        A bunch of game servers I use, dockerised
+AuthMeReloaded:        The best authentication plugin for the Bukkit/Spigot API!
+mcrcon:        Rcon client for Minecraft
+twilightforest:        Twilight Forest repository
+Tuinity:        https://github.com/Spottedleaf/Tuinity
+SpongeVanilla:        The SpongeAPI implementation for Vanilla Minecraft.
+Akarin:        Akarin is a powerful (not yet) server software from the 'new dimension'
+Slimefun4:        Slimefun 4 - A modpack-like experience for Bukkit/Spigot Servers (since 2013)
+phantom:        Use your own Minecraft server with your Xbox or PS4 and play with friends!
+PlotSquared:        PlotSquared - Reinventing the plotworld
+minecolonies:        Minecolonies minecraft mod
+inventory-tweaks:        Client mod for Minecraft
+ReplayMod:        Minecraft ReplayMod
+Mohist:        Minecraft Forge Hybrid server implementing the Paper/Spigot/Bukkit API(1.12.2/1.15.2), formerly known as Thermos/Kettle/Cauldron/MCPC+
+HeliosLauncher:        ☀ Custom launcher for modded minecraft written in Electron and Node.js
+go-mc:        Golang library of Minecraft protocol for creating bots or server
+NoCheatPlus:        Anti cheating plugin for Minecraft (Bukkit/Spigot).
+Citizens2:        Citizens - the premier plugin and API for creating server-side NPCs in Minecraft.
+MCCustomSkinLoader:        Custom Skin Loader for Minecraft
+CC-Tweaked:        Just another ComputerCraft fork
+TerrainControl:        Minecraft Terrain Generator for SpigotMC and Forge
+CraftBook:        🔧 Machines, ICs, PLCs, and more!
+SpongeCommon:        Shared code between SpongeForge and SpongeVanilla
+authlib-injector:        Build your own Minecraft authentication system.
+ElementZero:        Run windows version of BDS in linux with Mod support

@@ -1,0 +1,91 @@
+A font is a particular style of typeface for text.
+Font-Awesome:        The iconic SVG, font, and CSS toolkit
+FiraCode:        Free monospaced font with programming ligatures
+nerd-fonts:        Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+Hack:        A typeface designed for source code
+You-Dont-Need-JavaScript:        CSS is powerful, you can do a lot of things without JS.
+awesome-design:        🌟Curated design resources
+inter:        The Inter font family
+Iosevka:        Slender typeface for code, from code.
+terminalizer:        🦄 Record your terminal and generate animated gif images or share a web player
+awesome-stock-resources:        🌇 A collection of links for free stock photography, video and Illustration websites
+cdnjs:        🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+source-han-sans:        Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
+dompdf:        HTML to PDF converter for PHP
+beautiful-web-type:        In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
+codeface:        Typefaces for source code beautification
+plex:        The package of IBM’s typeface, IBM Plex.
+mactype:        Better font rendering for Windows.
+source-han-serif:        Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
+fantasque-sans:        A font family with a great monospaced variant for programmers.
+Sarasa-Gothic:        Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+Hasklig:        Hasklig - a code font with monospaced ligatures
+public-sans:        A strong, neutral, principles-driven, open source typeface for text or display
+fontmin:        Minify font seamlessly
+brick:        Open-source webfont service
+opentype.js:        Read and write OpenType fonts using JavaScript.
+devicon:        Set of icons representing programming languages, designing & development tools
+typefaces:        NPM packages for Open Source typefaces
+operator-mono-lig:        Add ligatures to Operator Mono similar to Fira Code
+LGButton:        A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
+u8g2:        U8glib library for monochrome displays, version 2
+coreui-icons:        CoreUI Free Icons - Premium designed free icon set with marks in SVG, Webfont and raster formats
+Typefont:        The first open-source library that detects the font of a text in a image.
+Ligaturizer:        Programming Fonts with Ligatures added (& a script to add them to other fonts)
+awesome-product-design:        A collection of bookmarks, resources, articles for product designers.
+php-font-lib:        A library to read, parse, export and make subsets of different types of font files.
+source-han-code-jp:        Source Han Code JP | 源ノ角ゴシック Code
+Work-Sans:        A grotesque sans.
+freetype-gl:        OpenGL text using one vertex buffer, one texture and FreeType
+SwiftIconFont:        Icons fonts for iOS (Font Awesome 5, Iconic, Ionicon, Octicon, Themify, MapIcon, MaterialIcon, Foundation 3, Elegant Icon, Captain Icon)
+recursive:        Recursive Mono & Sans is a variable font family for code & UI, coming soon to Google Fonts
+bootstrapcdn:        Free Bootstrap hosting on StackPath's Content Delivery Network
+google-type:        Collaborative typography project using select passages from Aesop's Fables set to Google Fonts
+victor-mono:        A free programming font with cursive italics and ligatures. Donations welcome ❤️
+glyphhanger:        Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
+emojione-color-font:        End of Life. Switch to https://github.com/eosrei/twemoji-color-font
+vazir-font:        A Persian (Farsi) Font - قلم (فونت) فارسی وزیر
+web-font-loading-recipes:        A bunch of demos for different web font loading strategies. Companion to https://www.zachleat.com/web/comprehensive-webfonts/ Read more: https://www.zachleat.com/web/recipes/
+twemoji-color-font:        Twitter Unicode 12 emoji color SVGinOT font for Linux/MacOS/Windows
+openwebicons:        A font!
+space-grotesk:        Space Grotesk: Sans-serif typeface derived from Space Mono
+Android-RobotoTextView:        Implementation of a TextView and all its direct/indirect subclasses with native support for the Roboto fonts, includes the brand new Roboto Slab fonts.
+Cica:        プログラミング用日本語等幅フォント Cica(シカ)
+unicons:        1000+ Pixel-perfect vector icons and Iconfont for your next project.
+Font-Awesome-Swift:        Font Awesome swift library for iOS.
+FiraSystemFontReplacement:        Modified version of the Fira Sans fonts to replace the default system font on macOS
+Cozette:        A bitmap programming font optimized for coziness 💜
+3270font:        A 3270 font in a modern format
+SakuraKit:        🤡SakuraKit, a lightweight and powerful library for application to switching themes or skins.
+alfred-font-awesome-workflow:        🎩 Font Awesome workflow for Alfred
+scientifica:        tall, condensed, bitmap font for geeks.
+react-fontawesome:        A React Font Awesome component.
+rrpl:        Describing Chinese Characters with Recursive Radical Packing Language (RRPL)
+cfonts:        Sexy fonts for the console
+glow-sans:        SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒカリ角ゴ：基于思源黑体改造，拥有粗度和宽度系列，更加简明现代的超大字体家族。
+creep:        a pretty sweet 4px wide pixel font.
+fontawesome-iconpicker:        Font Awesome Icon Picker component for Bootstrap.
+rusttype:        Mirror of https://gitlab.redox-os.org/redox-os/rusttype
+Sketch-SF-UI-Font-Fixer:        A Sketch plugin that adjusts the character spacing on text layers using iOS 9's SF UI Text/SF UI Display fonts to what it would be when used in an iOS app.
+source-han-mono:        Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
+Hack-windows-installer:        A Windows installer for the Hack typeface
+academicons:        An icon font for academics
+tamzen-font:        💌 Bitmapped programming font, based on Tamsyn
+glyphsearch:        Search for icons from Font Awesome, Glyphicons, IcoMoon, Ionicons, and Octicons
+qiji-font:        齊伋體 - typeface from Ming Dynasty woodblock printed books
+Cirrus:        ☁️ The CSS framework for the modern web.
+romfont:        VGA and BIOS rom font extraction
+pokemon-font:        GAME BOY font from Pokémon R/G/B/Y/G/S/C, Unicode extended.
+Crimson:        The Crimson Text typeface
+undefined-medium:        undefined medium — a free and open-source monospace typeface with 400+ characters
+vim-practice:        💘 Vim is awesome! Here is my awesome practice and study log.
+fontisto:        The iconic font and CSS toolkit. Fontisto gives you scalable vector icons that can instantly be customized: size, color, drop shadow and anything that can be done with the power of CSS.
+libertinus:        Libertinus font family
+quadplay:        The quadplay✜ fantasy console
+prototypo:        Create your own font in a few clicks
+PureCSS-Font:        For secrecy or CAPTCHA purposes: a customizable, scalable font made entirely of CSS and HTML, delivered in a single JS file.
+Jost:        Jost* by indestructible type*
+QtAwesome:        QtAwesome - Font Awesome support for Qt applications
+open-baskerville:        An open font project to create a revival of Fry’s Baskerville
+fontfaceonload:        A simple utility to execute a callback when a webfont loads.
+openvg:        Tools for exploring OpenVG

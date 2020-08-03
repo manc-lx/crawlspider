@@ -1,0 +1,91 @@
+C# ("C sharp") is an object-oriented and type-safe programming language.
+calculator:        Windows Calculator: A simple yet powerful calculator that ships with Windows
+corefx:        CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
+WaveFunctionCollapse:        Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+ShareX:        ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+roslyn:        The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+awesome-dotnet-core:        🐝 A collection of awesome .NET core libraries, tools, frameworks and software
+awesome-dotnet:        A collection of awesome .NET libraries, tools, frameworks and software
+mono:        Mono open source ECMA CLI, C# and .NET implementation.
+aspnetboilerplate:        ASP.NET Boilerplate - Web Application Framework
+OpenRA:        Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+antlr4:        ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+APIJSON:        🏆码云最有价值开源项目 🚀后端接口和文档自动化，前端(客户端) 定制返回 JSON 的数据和结构！🏆Gitee Most Valuable Project 🚀A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+thrift:        Apache Thrift
+jellyfin:        The Free Software Media System
+MonoGame:        One framework for creating powerful cross-platform games.
+botframework-sdk:        Bot Framework provides the most comprehensive experience for building conversation applications.
+pulumi:        Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+csharplang:        The official repo for the design of the C# programming language
+server:        The core infrastructure backend (API, database, Docker, etc).
+xLua:        xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
+ailab:        Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
+ArchiSteamFarm:        C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
+ReactiveUI:        An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
+graphql-code-generator:        A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+quicktype:        Generate types and converters from JSON, Schema, and GraphQL
+NLog:        NLog - Advanced and Structured Logging for Various .NET Platforms
+FAQGURU:        🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.
+abp:        Open Source Web Application Framework for ASP.NET Core
+gui.cs:        Console-based user interface toolkit for .NET applications.
+C-Sharp-Algorithms:        📚 📈 Plug-and-play class-library project of standard Data Structures and Algorithms in C#
+win-acme:        A simple ACME client for Windows (for use with Let's Encrypt et al.)
+awesome-blazor:        Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+NSwag:        The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+WindowsCommunityToolkit:        The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.
+EntityComponentSystemSamples:        https://github.com/Unity-Technologies/EntityComponentSystemSamples
+HP-Socket:        High Performance TCP/UDP/HTTP Communication Component
+Bogus:        📇 A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+rant:        (ARCHIVED) Rant – The all-purpose procedural text library
+Umbraco-CMS:        The simple, flexible and friendly ASP.NET CMS used by more than 500.000 websites
+cordova-android:        Apache Cordova Android
+autorest:        OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
+microsoft-ui-xaml:        Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+SimplCommerce:        A simple, cross platform, modularized ecommerce system built on .NET Core
+Game-Networking-Resources:        A Curated List of Game Network Programming Resources
+machinelearning-samples:        Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
+uno:        Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
+Dependencies:        A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
+DotnetSpider:        DotnetSpider, a .NET Standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
+stride:        Stride Game Engine (formerly Xenko)
+Playnite:        Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+Unity-Script-Collection:        A maintained collection of useful & free unity scripts / library's / plugins and extensions.
+docs:        This repository contains .NET Documentation.
+clean-code-dotnet:        🛁 Clean Code concepts and tools adapted for .NET
+AtomicGameEngine:        The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
+docfx:        Tools for building and publishing API documentation for .NET projects
+Ryujinx:        Experimental Nintendo Switch Emulator written in C#
+privilege-escalation-awesome-scripts-suite:        PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+mathnet-numerics:        Math.NET Numerics
+awesome-wasm-langs:        😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
+Bridge:        ♠️ C# to JavaScript compiler. Write modern mobile and web apps in C#. Run anywhere with Bridge.NET.
+markdig:        A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
+kaitai_struct:        Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
+Harmony:        A library for patching, replacing and decorating .NET and Mono methods during runtime
+xamarin-macios:        Bridges the worlds of .NET with the native APIs of macOS, iOS, tvOS, and watchOS.
+cordova-ios:        Apache Cordova iOS
+try:        Try .NET provides developers and content authors with tools to create interactive experiences.
+activemq:        Mirror of Apache ActiveMQ
+Roslynator:        A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+abot:        Cross Platform C# web crawler framework built for speed and flexibility. Please star this project! +1.
+WindowsTemplateStudio:        Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
+mobile:        The mobile app vault (iOS and Android).
+linq2db:        Linq to database provider.
+HandyControl:        Contains some simple and commonly used WPF controls
+Architecture:        Architecture using .NET Core 3.1, ASP.NET Core 3.1, Entity Framework Core 3.1, C#, Angular 10, Clean Code, SOLID, DDD, Code Analysis, Docker and more.
+LiteNetLib:        Lite reliable UDP library for Mono and .NET
+avro:        Apache Avro is a data serialization system.
+QFramework:        Your first K.I.S.S Unity 3D Framework.
+m2cgen:        Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby) with zero dependencies
+Covid19Radar:        Open Source / Internationalization/ iOS Android Cross Platform Contact Tracing App by exposure notification framework Xamarin App and Server Side Code
+omnisharp-vscode:        Official C# support for Visual Studio Code (powered by OmniSharp)
+MQTTnet:        MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.
+querybuilder:        SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+prettydiff:        Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
+Discord.Net:        An unofficial .Net wrapper for the Discord API (http://discordapp.com)
+EntityFramework-Plus:        Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
+spark:        .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.
+nodebook:        Nodebook - Multi-Lang Web REPL + CLI Code runner
+Ooui:        A small cross-platform UI library that brings the simplicity of native UI development to the web
+arl:        lists of most popular repositories for most favoured programming languages (according to StackOverflow)
+dotnetbook:        .NET Platform Architecture book (English, Chinese, Russian)

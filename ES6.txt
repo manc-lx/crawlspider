@@ -1,0 +1,90 @@
+ECMAScript 6 is the sixth release of the ECMAScript language.
+You-Dont-Know-JS:        📗📒 (PT-BR translation) JS Book Series.
+javascript:        JavaScript Style Guide
+webpack:        A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+nodebestpractices:        ✅ The Node.js best practices list (July 2020)
+babel:        🐠 Babel is a compiler for writing next generation JavaScript.
+parcel:        📦🚀 Blazing fast, zero configuration web application bundler
+33-js-concepts:        📜 33 concepts every JavaScript developer should know.
+standard:        🌟 JavaScript Style Guide, with linter & automatic code fixer
+modern-js-cheatsheet:        Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+react-redux-links:        Curated tutorial and resource links I've collected on React, Redux, ES6, and more
+mojs:        The motion graphics toolbelt for the web
+draggable:        The JavaScript Drag & Drop library your grandparents warned you about.
+core-js:        Standard Library
+electron-vue:        An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+wp-calypso:        The JavaScript and API powered WordPress.com
+sage:        WordPress starter theme with a modern development workflow
+esbuild:        An extremely fast JavaScript bundler and minifier
+technology-talk:        汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+x-spreadsheet:        A web-based JavaScript（canvas） spreadsheet
+blog:        Too young, too simple. Sometimes, naive & stupid 🐌
+vuestic-admin:        Free and Beautiful Vue.js Admin Template
+thejsway:        The JavaScript Way book
+k6:        A modern load testing tool, using Go and JavaScript - https://k6.io
+js-code-to-svg-flowchart:        js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
+glide:        A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
+lebab:        Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.
+BizCharts:        Powerful data visualization library based on G2 and React.
+terser:        🗜 JavaScript parser, mangler and compressor toolkit for ES6+
+ES6-for-humans:        A kickstarter guide to writing ES6
+esm:        Tomorrow's ECMAScript modules today!
+GoJS:        JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+backpack:        🎒 Backpack is a minimalistic build system for Node.js projects.
+es6:        🌟 ES6 Overview in 350 Bullet Points
+madge:        Create graphs from your CommonJS, AMD or ES6 module dependencies
+react:        React+webpack+redux+ant design+axios+less全家桶后台管理框架
+reactjs101:        從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。
+babel-preset-env:        PSA: this repo has been moved into babel/babel -->
+JsBarcode:        Barcode generation library written in JavaScript that works in both the browser and on Node.js
+melonJS:        a fresh & lightweight javascript game engine
+practical-modern-javascript:        🏊 Dive into ES6 and the future of JavaScript
+beidou:        🌌 Isomorphic framework for server-rendered React apps
+express-mongoose-es6-rest-api:        💥 A boilerplate application for building RESTful APIs Microservice in Node.js using express and mongoose in ES6 with code coverage and JsonWebToken Authentication
+extension-boilerplate:        ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
+ECMAScript-new-features-list:        A comprehensive list of new ES features, including ES2015 (ES6), ES2016, ES2017, ES2018, ES2019
+express-es6-rest-api:        🔋 Starter project for an ES6 RESTful Express API.
+strman:        🏗A Javascript string manipulation library.
+eslint-config-standard:        ESLint Config for JavaScript Standard Style
+crate:        👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).
+react-native-modals:        A react native modals library. Swipeable. Highly customizable. Support multi modals & Support custom animation. For IOS & Android.
+lambda-view:        A New Tool for Reading JavaScript Code since 2017
+babylon:        PSA: moved into babel/babel as @babel/parser -->
+learning-article:        学习资源 or 大前端导航，持续更新
+Typefont:        The first open-source library that detects the font of a text in a image.
+the-road-to-learn-react-chinese:        《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
+across-tabs:        Easy communication between cross-origin browser tabs. Simplified "CORS"ing!
+common-tags:        🔖 Useful template literal tags for dealing with strings in ES2015+
+webpack-starter:        ✨ A lightweight foundation for your next webpack based frontend project.
+static-site-boilerplate:        A better workflow for building modern static websites.
+wordless:        All the power of Pug, Sass, Coffeescript and WebPack in your WordPress theme. Stop writing themes like it's 1998.
+wordpressify:        🎈 A build system designed to automate your WordPress development workflow.
+phaser-es6-webpack:        A bootstrap project for create games with Phaser + ES6 + Webpack.
+chrome-tabs:        Chrome-style tabs in HTML/CSS.
+express-rest-es2017-boilerplate:        ⌛️ Express boilerplate for building RESTful APIs
+horsey:        🐴 Progressive and customizable autocomplete component
+cheatsheets:        JavaScript and Node.js cheatsheets
+cross-platform-node-guide:        📗 How to write cross-platform Node.js code
+babel-plugin-root-import:        Add the opportunity to import modules by the root path
+conditioner:        💆🏻 Frizz free, context-aware, JavaScript modules
+react-cool-starter:        😎 🐣 A starter boilerplate for a universal web app with the best development experience and a focus on performance and best practices.
+GayHub:        An awesome chrome extension for github
+tris-webpack-boilerplate:        A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
+fengari:        🐺 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
+electron-vue-cloud-music:        🚀Electron + Vue 仿网易云音乐windows客户端
+fullstack-graphql:        🌈 Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 using Babel + Webpack.
+reactSPA:        combination of react teconology stack
+PKI.js:        PKI.js is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.
+CoCoMusic:        a simple music player built by electron and vue
+m-mall-admin:        🐶 微信小程序-小商城后台（基于 Node.js、MongoDB、Redis 开发的系统...）
+create-react-app-redux:        React Router, Redux, Redux Thunk & Create React App boilerplate
+fe-news:        FE 기술 소식 큐레이션 뉴스레터
+vue-qq:        🎨 Vue family bucket with socket.io and express/koa2 , create a web version of mobile QQ, supporting real-time group chat, real-time private chat, special care, shielding chat, smart IP geographic location, real-time display temperature and other QQ core functions
+Koa2-blog:        node+koa2+mysql
+babel-standalone:        🎮 Now located in the Babel repo! Standalone build of Babel for use in non-Node.js environments, including browsers.
+reactjs-tmdb-app:        Responsive React 'The Movie Database' (TMDb) App
+slim.js:        Fast & Robust Front-End Micro-framework based on modern standards
+dot-dom:        .dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles
+bonsai:        Understand the tree of dependencies inside your webpack bundles, and trim away the excess.
+jocs.github.io:        💯Jocs 的个人博客，所有的文章都在 issues 里面
+md:        ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性

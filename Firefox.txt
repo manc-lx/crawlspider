@@ -1,0 +1,89 @@
+Firefox is an open source web browser from Mozilla.
+mkcert:        A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+uBlock:        uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
+octotree:        GitHub on steroids
+firefox-ios:        Firefox for iOS
+bypass-paywalls-chrome:        Bypass Paywalls web browser extension for Chrome and Firefox.
+ArchiveBox:        🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+ext-saladict:        Feature-rich professional inline translator.
+debugger:        The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
+geckodriver:        WebDriver for Firefox
+simpread:        简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+metamask-extension:        🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+chrome-remote-interface:        Chrome Debugging Protocol interface for Node.js
+melonJS:        a fresh & lightweight javascript game engine
+bypass-paywalls-firefox:        Bypass Paywalls for Firefox
+Surfingkeys:        Map your keys for web surfing, expand your browser with javascript and keyboard.
+slimerjs:        A scriptable browser like PhantomJS, based on Firefox
+wpt:        Test suites for Web platform specs — including WHATWG, W3C, and others
+crx-selection-translate:        让浏览任意语言的网站变得无比轻松的浏览器扩展程序。
+clockwork:        Clockwork - php dev tools in your browser - server-side component
+ghacks-user.js:        An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting
+SingleFile:        Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+user.js:        user.js -- Firefox configuration hardening
+selenium-python-helium:        Selenium-python but lighter: Helium is the best Python library for web automation.
+treestyletab:        Tree Style Tab, Show tabs like a tree.
+browser:        Useragent analysis tool.浏览器分析判断工具 - 用户代理、操作系统信息
+vim-vixen:        Accelerates your web browsing with Vim power!!
+floccus:        ☁️ Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
+Librefox:        Librefox: Firefox with privacy enhancements
+docker-selenium:        Selenium in Docker with Chrome & Firefox plus video recording support. Also check: Zalenium
+multi-account-containers:        Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+ShadowFox:        A universal dark theme for Firefox
+vimperator-labs:        Vimperator
+xdm:        Powerfull download accelerator and video downloader
+MaterialFox:        A Material Design-inspired userChrome.css theme for Firefox
+fx_cast:        Implementation of the Google Cast Chrome Sender SDK within Firefox
+docker-desktop:        Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
+CustomCSSforFx:        Custom CSS tweaks for Firefox Quantum
+browserpass-legacy:        Legacy Browserpass repo, development is now happening at:
+github-awesome-autocomplete:        Add instant search capabilities to GitHub's search bar
+focus-ios:        Firefox Focus for iOS
+ember-inspector:        Adds an Ember tab to the browser's Developer Tools that allows you to inspect Ember objects in your application.
+Cookie-AutoDelete:        Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
+toggl-button:        Toggl Button extension for Chrome and Firefox
+AdguardBrowserExtension:        AdGuard browser extension
+foxr:        🦊 Node.js API to control Firefox
+gooreplacer:        ⚡️⚡️A browser extension to modify HTTP requests :-)
+SponsorBlock:        Skip YouTube video sponsors (browser extension)
+freshplayerplugin:        ppapi2npapi compatibility layer
+web-extension-starter:        🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
+SingleFileZ:        SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.
+Qogir-theme:        Qogir is a flat Design theme for GTK
+saka-key:        A keyboard interface to the web
+RunningCheese-Firefox:        A Graceful and Powerful Customized Firefox
+firefox_decrypt:        Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
+news-feed-eradicator:        A browser extension that deletes your Facebook news feed and replaces it with a nice quote
+screenshots:        Firefox Screenshots: the best way to take screenshots on the web.
+CVE-2019-11708:        Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.
+chrome-utm-stripper:        Browser extension that strips Google Analytics (UTM) parameters, and various other click tracking tokens, from URL query strings
+ViewImage:        Extension to re-implement the "View Image" and "Search by image" buttons into google images.
+adblockfast:        Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+Powerful-Plugins:        Powerful plugins and add-ons for hackers
+github-dark:        🔦 GitHub Dark - Browse GitHub in nighttime mode.
+lockwise-android:        Firefox's Lockwise app for Android
+etaoin:        Pure Clojure Webdriver protocol implementation
+refined-bitbucket:        Chrome and Firefox extension that improves Bitbucket's user experience
+duckduckgo-privacy-extension:        DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
+web-developer:        A browser extension that adds various web developer tools to a browser.
+firefox-gnome-theme:        A GNOME👣 theme for Firefox🔥
+CanvasBlocker:        A Firefox extension to protect from being fingerprinted
+BetterTweetDeck:        A browser extension to improve TweetDeck with a lot of features
+chromebackdoor:        Chromebackdoor is a PoC of pentest tool, this tool use a MITB technique for generate a windows executable ".exe" after launch run a malicious extension or script on most popular browsers, and send all DOM datas on command and control.
+profiler:        Firefox Profiler — Web app for Firefox performance analysis
+downthemall:        The DownThemAll! WebExtension
+browsertime:        Your browser, your page, your scripts!
+search-deflector:        A small program that forwards searches from Cortana to your preferred browser and search engine.
+extensions:        Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
+clockwork-chrome:        Clockwork - php dev tools integrated to your browser - Chrome extension
+markdown-viewer:        Markdown Viewer / Browser Extension
+tracy:        A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
+bs-detector:        🚨 THIS REPOSITORY HAS MOVED. 🚨
+scriptsafe:        a browser extension to bring security and privacy to chrome, firefox, and opera
+ff-password-exporter:        Easily export your passwords from Firefox.
+temporary-containers:        Firefox Add-on that lets you open automatically managed disposable containers
+Easy-to-RSS:        🚀 Chrome/Firefox Extension to retreive RSS feeds URLs from WebSite, RSSHub supported
+browser-addon:        Kee adds free, secure and easy password management features to your browser which save time and keep your private data more secure.
+tabcenter-redux:        Vertical Tabs extension for Firefox
+yomichan:        Japanese pop-up dictionary extension for Chrome and Firefox.
+webextension-pixiv-toolkit:        A web extension for Pixiv

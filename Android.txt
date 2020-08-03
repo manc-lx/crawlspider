@@ -1,0 +1,91 @@
+Android is an operating system built by Google designed for mobile devices.
+flutter:        Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+free-programming-books-zh_CN:        📚 免费的计算机编程类中文书籍，欢迎投稿
+material-design-icons:        Material Design icons by Google
+awesome-android-ui:        A curated list of awesome Android UI/UX libraries
+Awesome-Hacking:        A collection of various awesome lists for hackers, pentesters and security researchers
+okhttp:        Square’s meticulous HTTP client for Java and Kotlin.
+architecture-samples:        A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+retrofit:        A type-safe HTTP client for Android and the JVM
+scrcpy:        Display and control your Android device
+MPAndroidChart:        A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
+android-open-project:        A categorized collection of Android Open Source Projects, More powerful web version:
+shadowsocks-android:        A shadowsocks client for Android
+glide:        An image loading and caching library for Android focused on smooth scrolling
+fastlane:        🚀 The easiest way to automate building and releasing your iOS and Android apps
+lottie-android:        Render After Effects animations natively on Android and iOS, Web, and React Native
+awesome-flutter:        An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+AndroidUtilCode:        🔥 Android developers should collect the following utils(updating).
+ijkplayer:        Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+android_guides:        Extensive Open-Source Guides for Android Developers
+gold-miner:        🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+zxing:        ZXing ("Zebra Crossing") barcode scanning library for Java, Android
+leakcanary:        A memory leak detection library for Android.
+jadx:        Dex to Java decompiler
+fastjson:        A fast JSON parser/generator for Java.
+SmartRefreshLayout:        🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+BaseRecyclerViewAdapterHelper:        BRVAH:Powerful and flexible RecyclerAdapter
+react-native-elements:        Cross Platform React Native UI Toolkit
+android-best-practices:        Do's and Don'ts for Android development, by Futurice developers
+NativeScript:        NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
+material-dialogs:        😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+weex:        A framework for building Mobile cross-platform UI
+libgdx:        Desktop/Android/HTML5/iOS Java game development framework
+joplin:        Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+ExoPlayer:        An extensible media player for Android
+anko:        Pleasant Android application development
+flexbox-layout:        Flexbox for Android
+framework7:        Full featured HTML framework for building iOS & Android apps
+quasar:        Quasar Framework - Build high-performance VueJS user interfaces in record time
+tinker:        Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
+DoraemonKit:        A full-featured App (iOS & Android) development assistant. You deserve it. 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
+cocos2d-x:        Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+GSYVideoPlayer:        视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
+Android-CleanArchitecture:        This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
+NativeBase:        Essential cross-platform UI components for React Native
+CircleImageView:        A circular ImageView for Android
+logger:        ✔️ Simple, pretty and powerful logger for android
+LearningNotes:        Enjoy Learning.
+ARouter:        💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架)
+create-react-native-app:        Create React Native apps that run on iOS, Android, and web
+Luban:        Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
+QMUI_Android:        提高 Android UI 开发效率的 UI 库
+appium:        📱 Automation for iOS, Android, and Windows Apps.
+brook:        Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+kivy:        Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+AndroidViewAnimations:        Cute view animation collection.
+plugins:        Plugins for Flutter maintained by the Flutter team
+Matisse:        🎆 A well-designed local image and video selector for Android
+gsy_github_app_flutter:        Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https:…
+MaterialDrawer:        The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
+FlutterExampleApps:        [Example APPS] Basic Flutter apps, for flutter devs.
+androidannotations:        Fast Android Development. Easy maintainance.
+stf:        Control and manage Android devices from your browser.
+xbmc:        Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+realm-java:        Realm is a mobile database: a replacement for SQLite & ORMs
+material-components-android:        Modular and customizable Material Design UI components for Android
+android-async-http:        This project under develop
+A-to-Z-Resources-for-Students:        ✅ Curated list of resources for college students
+expo:        An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+vlayout:        Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview.
+MMKV:        An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+Apktool:        A tool for reverse engineering Android apk files
+AndroidAutoSize:        🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
+recyclerview-animators:        An Android Animation library which easily add itemanimator to RecyclerView items.
+VirtualXposed:        A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+PermissionsDispatcher:        A declarative and comprehensive API to handle Android runtime permissions.
+Android:        GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
+uCrop:        Image Cropping Library for Android
+RxPermissions:        Android runtime permissions powered by RxJava2
+FileDownloader:        Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
+MVPArms:        ⚔️ A common architecture for Android applications developing based on MVP, integrates many open source projects, to make your developing quicker and easier (一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架).
+Android-ObservableScrollView:        Android library to observe scroll events on scrollable views.
+filament:        Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+AVLoadingIndicatorView:        DEPRECATED
+ncnn:        ncnn is a high-performance neural network inference framework optimized for the mobile platform
+MaterialDesignLibrary:        This is a library with components of Android L to you use in android 2.2
+NewPipe:        A libre lightweight streaming front-end for Android.
+PictureSelector:        Picture Selector Library for Android or 图片选择器
+glide-transformations:        An Android transformation library providing a variety of image transformations for Glide.
+mono:        Mono open source ECMA CLI, C# and .NET implementation.
+easypermissions:        Simplify Android M system permissions

@@ -1,0 +1,91 @@
+IPFS is a peer-to-peer protocol for content-addressed sharing of data via a distributed file system.
+ipfs:        Peer-to-peer hypermedia protocol
+go-ipfs:        IPFS implementation in Go
+js-ipfs:        IPFS implementation in JavaScript
+orbit-db:        Peer-to-Peer Databases for the Decentralized Web
+embark:        Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
+awesome-ipfs:        Useful resources for using IPFS and building things on top of it
+fq-book:        📖 《这本书能让你连接互联网》科学上网Freestyle，了解网络基础知识与实践蹭网操作
+ipfs-desktop:        An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+orbit:        A distributed, serverless, peer-to-peer chat application on IPFS
+js-libp2p:        The JavaScript Implementation of libp2p networking stack.
+vue-ethereum-ipfs:        Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend
+ipfspics-server:        Content-addressable, peer-to-peer method of storing and sharing images on the internet.
+qri:        you're invited to a data party!
+ipfs-companion:        Browser extension that simplifies access to IPFS resources on the web
+openbazaar-go:        OpenBazaar 2.0 Server Daemon in Go
+ipfs-webui:        A frontend for an IPFS node.
+FileNation:        The simplest way to send your files around the world using IPFS. ✏️ 🗃
+Peergos:        A p2p, secure file storage, social network and application protocol
+awesome-blockchain:        ⚡️Curated list of resources for the development and applications of blockchain.
+ipfs-deploy:        Zero-Config CLI to Deploy Static Websites to IPFS
+dstatuspage:        Decentralized Status Page
+openbazaar-desktop:        OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
+rust-ipfs:        The InterPlanetary File System (IPFS), implemented in Rust.
+peer-pad:        📝 Online editor providing collaborative editing in really real-time using CRDTs and IPFS.
+specs:        Content-addressed, authenticated, immutable data structures
+dtube:        📺 DTube App
+ipfs-search:        Search engine for the Interplanetary Filesystem.
+graph-node:        Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
+diffuse:        A music player that connects to your cloud/distributed storage.
+go-textile:        [DEPRECATED] Textile is a set of tools and infrastructure for building composable apps and services on the IPFS network
+production:        Production app for D.Tube
+negibox:        All in one downloader 全能下载器
+berty:        Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+Alpha:        Follow the white rabbit 🐇
+webfs:        A Filesystem Built On Top of the Web.
+ipwb:        InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
+awesome-decentralized:        🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
+IPFSDroid:        Android App for the InterPlanetary File System(IPFS)
+eth-dev-reading-list:        A list of links to articles, tutorials and papers that are helpful for people developing on the ethereum stack
+photos:        [DEPRECATED] Encrypted, secure, decentralized personal data wallet -- technology behind textile.photos
+Arbore:        Friend-to-friend filesharing app to save the world from dystopia
+Dweb.page:        Your Gateway to the Distributed Web
+ipfs-log:        Append-only log CRDT on IPFS
+ipfs-live-streaming:        Like HTTP live streaming, but with IPFS which is maybe better?
+aviondb:        A decentralised database with MongoDB-like developer interface (Fully Compatible with OrbitDB)
+ipdr:        IPFS-backed Docker Registry
+vipfs:        Vue.js + IPFS = VIPFS. Create unstoppable applications
+mustekala:        MetaMask Light Client Development
+pathephone-desktop:        Distributed audio player
+ipfs-pubsub-room:        IPFS Pubsub room
+peer-base:        Build real-time collaborative DApps on top of IPFS
+node:        The core of Po.et
+prototype-cjdns-pi:        Prototype system for mesh networks on single board computers
+orbit-web:        Orbit Web Application
+go-matrix:        First version of go-MATRIX, especially for TPS optimization and AI
+Temporal:        ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
+git-remote-ipfs:        git transport helper for ipfs
+pando:        A distributed remote protocol for git based on IPFS, ethereum and aragonOS
+Mahuta:        IPFS Storage service with search capability
+cid:        Self-describing content-addressed identifiers for distributed systems
+wikipedia-ipfs:        An exploration to host Wikipedia in IPFS
+eth-ipfs:        etherum + ipfs + react
+IPFS-Internals:        IPFS 从入门到精通
+ipfs-dropzone:        Dropzone.js that uploads to IPFS instead of to an URL
+ipfs-screenshot:        Like Cloudapp using IPFS
+go-cyber:        A Consensus Supercomputer for computing relevance in web3, built with IPFS, Cosmos-SDK & CUDA #fuckgoogle
+js-ipfsd-ctl:        Control an IPFS daemon (go-ipfs or js-ipfs) using JavaScript!
+Partyshare:        A free, open source file sharing application, built on the peer-to-peer hypermedia protocol IPFS.
+unstoppable-wallet-ios:        A secure and decentralized Bitcoin and other cryptocurrency wallet for iPhone. Supports Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash, DASH, ...
+Orion:        [Moved to Gitlab] Easy to Use, Inter Planetary File System (IPFS) desktop client
+ipfs-mini:        A super tiny module for querying IPFS that works in the browser and node.
+ipfs-rpi:        IPFS installer for the Raspberry Pi and other ARM-based devices.
+ipfs-connector:        AKASHA <---> IPFS connector
+ipfs.ink:        Publish and render markdown essays to and from ipfs
+ipfs-wormhole:        Get things from one computer to another, safely. Over IPFS (which not even required to receive those things).
+rust-ipfs-api:        Rust crate for interfacing with the IPFS API
+docker-volume-ipfs:        🐳 This is an open source volume plugin that allows using an ipfs filesystem as a volume.
+unstoppable-wallet-android:        A secure and decentralized Bitcoin and other cryptocurrency wallet for Android phones. Supports Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash, DASH, ...
+torrent-paradise:        Decentralized DHT search site for IPFS
+p2plab:        performance benchmark infrastructure for IPLD DAGs
+ipfscloud-web:        IpfsCloud: A Decentralized, Anonymous Cloud Storage web client on IPFS.
+py-swirld:        Python implementation of the Swirld byzantine consensus algorithm
+awesome-web3:        🚀 A curated list of tools, libs and resources to help you build awesome dapps
+ipfs-social-proof:        IPFS Social Proof: A decentralized identity and social proof system
+gatsby-plugin-ipfs:        Adds support for deploying Gatsby to IPFS by ensuring that assets are relative
+package-managers:        [ARCHIVED] 📦 IPFS Package Managers Task Force
+denarius:        Denarius [$D] is a PoW/PoS Hybrid Cryptocurrency with Tribus a new PoW Hashing Algo built specifically for D, one of a kind hybrid masternodes called Fortuna Stakes, atomic swaps, staking, mining, IPFS, optional Native Tor and I2P, and much more!
+sweet-ipfs:        IPFS node monitoring for Android & ChromeOS
+ipfs-md-wiki:        a decentered wiki system by ipfs and markdown
+2read:        Convert article in current tab to readable form and upload it to P2P network - IPFS

@@ -1,0 +1,91 @@
+The PHP Framework for Web Artisans.
+laravel:        A PHP framework for web artisans
+framework:        https://github.com/laravel/framework
+koel:        🐦 A personal music streaming server that works.
+Cachet:        📛 An open source status page system for everyone.
+laravel-debugbar:        Laravel Debugbar (Integrates PHP Debug Bar)
+image:        PHP Image Manipulation
+flarum:        Simple forum software for building great communities.
+laravel-ide-helper:        Laravel IDE Helper
+october:        Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
+monica:        Personal CRM. Remember everything about your friends, family and business relationships.
+voyager:        Voyager - The Missing Laravel Admin
+jwt-auth:        🔐 JSON Web Token Authentication for Laravel & Lumen
+awesome-laravel:        A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
+Laravel-Excel:        🚀 Supercharged Excel exports and imports in Laravel
+laravel-permission:        Associate users with roles and permissions
+avbook:        AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+invoiceninja:        Invoices, Expenses and Tasks built with Laravel and Flutter
+collect.js:        💎  Convenient and dependency free wrapper for working with arrays and objects
+BookStack:        A platform to create documentation/wiki content built with PHP & Laravel
+core:        Simple forum software for building great communities.
+laravel-mongodb:        A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+Laravel-lang:        List of 75 languages for Laravel 4, 5, 6 and 7
+laravel-best-practices:        Laravel best practices
+laravel-boilerplate:        The Laravel Boilerplate Project - https://laravel-boilerplate.com
+laravel-mix:        An elegant wrapper around Webpack for the 80% use case.
+laravel-backup:        A package to backup your Laravel app
+laravel-dompdf:        A DOMPDF Wrapper for Laravel
+laravel-medialibrary:        Associate files with Eloquent models
+Learn-Laravel-5:        Laravel 5 系列入门教程
+collision:        💥 Collision is a beautiful error reporting tool for command-line applications
+laravel-datatables:        jQuery DataTables API for Laravel 4|5|6|7
+polr:        🚡 A modern, powerful, and robust URL shortener
+laravel-activitylog:        Log activity inside your Laravel app
+laravel-swoole:        High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
+laravel-websockets:        Websockets for Laravel. Done right.
+akaunting:        Free and Online Accounting Software
+pyrocms:        Pyro is an experienced and powerful Laravel PHP CMS.
+laravel-modules:        Module Management In Laravel
+aimeos-laravel:        Laravel e-commerce package for professional, ultra fast online shops, complex B2B applications and #gigacommerce
+laravel-s:        LaravelS is an out-of-the-box adapter between Swoole and Laravel/Lumen.
+corcel:        Use WordPress backend with Laravel or any PHP application
+Attendize:        Attendize is an open-source ticket selling and event management platform built on Laravel.
+eloquent-sluggable:        Easy creation of slugs for your Eloquent models in Laravel
+laravel-generator:        InfyOm Laravel Generator - API, Scaffold, Tests, CRUD Laravel Generator
+clockwork:        Clockwork - php dev tools in your browser - server-side component
+laravel-apidoc-generator:        Laravel API Documentation Generator
+crater:        Free & Open Source Invoice App for Freelancers & Small Businesses
+blog:        🌟 PJ Blog is an open source blog built with Laravel and Vue.js.
+bagisto:        A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
+laravel-gitscrum:        Simple and Robust solution to manage your software development project
+bouncer:        Eloquent roles and abilities.
+laravel-nestedset:        Effective tree structures in Laravel 4-5
+laravel-localization:        Easy localization for Laravel
+laravel-log-viewer:        🐪 Laravel log viewer
+laravel-query-builder:        Easily build Eloquent queries from API requests
+lando:        A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
+canvas:        A Laravel publishing platform
+tracker:        Laravel Stats Tracker
+laravel-auth:        Laravel 7 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). This also makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. Project can be stood up in…
+laravel-breadcrumbs:        Laravel Breadcrumbs - A simple Laravel-style way to create breadcrumbs.
+pixelfed:        Photo Sharing. For Everyone.
+laravel-vue-spa:        A Laravel-Vue SPA starter project template.
+laravel-zero:        A PHP framework for console artisans
+laravel-analytics:        A Laravel package to retrieve pageviews and other data from Google Analytics
+wink:        A Laravel-based publishing platform
+laravel-echo-server:        Socket.io server for Laravel Echo
+laravel-shop:        Laravel 电商实战教程的项目代码
+larastan:        ⚗️ Adds static analysis to Laravel improving developer productivity and code quality
+vuedo:        Vuedo is a blog platform, built with Laravel and Vue.js.
+Laravel-AdminLTE:        Easy AdminLTE integration with Laravel
+cms:        Multilingual PHP CMS built with Laravel and bootstrap
+Charts:        ⚡ Laravel Charts — Build charts using laravel. The laravel adapter for Chartisan.
+plus:        💝The Plus (ThinkSNS+) is a powerful, easy-to-develop social system built with Laravel.
+multi-tenant:        Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
+twill:        Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. /// Chat with us and others on Spectrum: https://spectrum.chat/twill
+phphub5:        PHPHub Ver 5 is a Forum project Powered by Laravel 5.1, and it is also the project build up PHP & Laravel China community （此项目已弃用）
+laravel-translatable:        [Deprecated] A Laravel package for multilingual models
+laravel-messenger:        Simple user messaging package for Laravel
+seotools:        SEO Tools for Laravel
+lighthouse:        A framework for serving GraphQL from Laravel
+phphub:        (Deprecated See - https://github.com/summerblue/phphub5 ) PHPHub is a Forum project written in Laravel 4.2, and it is also the project build up PHP & Laravel China community - http://phphub.org.
+webhook.site:        ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
+dashboard.spatie.be:        The source code of dashboard.spatie.be
+meedu:        开源免费在线教育点播系统。
+laravel-auditing:        Record the change log from models in Laravel
+searchable:        A php trait to search laravel models
+panel:        Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users.
+laravel-graphql:        Facebook GraphQL for Laravel 5. It supports Relay, eloquent models, validation and GraphiQL.
+LogViewer:        📃 Provides a log viewer for Laravel
+adminlte-laravel:        A Laravel 5 package that switchs default Laravel scaffolding/boilerplate to AdminLTE template and Pratt Landing Page with Bootstrap 3.0

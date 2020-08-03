@@ -1,0 +1,90 @@
+Markdown is a lightweight markup language.
+jekyll:        🌐 Jekyll is a blog-aware static site generator in Ruby
+prettier:        Prettier is an opinionated code formatter.
+marked:        A markdown parser and compiler. Built for speed.
+pandoc:        Universal markup converter
+stackedit:        In-browser Markdown editor
+marktext:        📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+notable:        The Markdown-based note-taking app that doesn't suck.
+docsify:        🃏 A magical documentation site generator.
+parsedown:        Better Markdown Parser in PHP
+grav:        Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+tui.editor:        🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+showdown:        A bidirectional Markdown to HTML to Markdown converter written in Javascript
+remark:        Markdown processor powered by plugins part of the @unifiedjs collective
+mkdocs:        Project documentation with Markdown.
+markdown-it:        Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+rich:        Rich is a Python library for rich text and beautiful formatting in the terminal.
+editor.md:        The open source embeddable online markdown editor (component).
+mdx-deck:        ♠️ React MDX-based presentation decks
+mdx:        JSX in Markdown for ambitious projects
+nodeppt:        This is probably the best web presentation tool so far!
+macdown:        Open source Markdown editor for macOS.
+chinese-copywriting-guidelines:        Chinese copywriting guidelines for better written communication／中文文案排版指北
+stylelint:        A mighty, modern style linter
+wiki:        Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+seafile:        High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+metalsmith:        An extremely simple, pluggable static site generator.
+wxParse:        wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
+vnote:        A note-taking application that knows programmers and Markdown better.
+typecho:        A PHP Blogging Platform. Simple and Powerful.
+dillinger:        The last Markdown editor, ever.
+codimd:        CodiMD - Realtime collaborative markdown notes on all platforms.
+github-changelog-generator:        Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+gitpitch:        Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
+README:        README文件语法解读，即Github Flavored Markdown语法介绍
+code-surfer:        Rad code slides <🏄/>
+turndown:        🛏 An HTML to Markdown converter written in JavaScript
+remarkable:        Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://github.com/breakdance/breakdance for HTML-to-markdown conversion. Use https://github.com/jonschlinkert/markdown-toc to generate a table of contents.
+tinacms:        Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
+KodExplorer:        A web based file manager,web IDE / browser based code editor
+keep-a-changelog:        If you build software, keep a changelog.
+mavonEditor:        mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
+Moeditor:        (discontinued) Your all-purpose markdown editor.
+cleaver:        30-second slideshows for hackers
+assemble:        Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
+mdp:        A command-line based markdown presentation tool.
+zola:        A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+fusuma:        ✍️Fusuma makes slides with Markdown easily.
+jupytext:        Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+RichText:        Android平台下的富文本解析器，支持Html和Markdown
+phenomic:        Websites & apps static generator. Works React, Webpack, ReasonML and whatever you want ⚡️
+Pico:        Pico is a stupidly simple, blazing fast, flat file CMS.
+cms.js:        Client-Side JavaScript Site Generator
+Zettlr:        A Markdown Editor for the 21st century.
+MarkdownEditing:        Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+markdown-preview-enhanced:        One of the 'BEST' markdown preview extensions for Atom editor!
+game-programming-patterns:        Source repo for the book
+tipi:        Thinking In PHP Internals, An open book on PHP Internals
+craftinginterpreters:        Repository for the book "Crafting Interpreters"
+Notepads:        A modern, lightweight text editor with a minimalist design.
+life:        Life - a timeline of important events in my life
+fullstackpython.com:        Full Stack Python source with Pelican, Bootstrap and Markdown.
+takenote:        📝 ‎ A free, open source notes app for the web.
+pandoc-latex-template:        A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
+sublimetext-markdown-preview:        markdown preview and build plugin for sublime text 2/3
+Pine:        A modern, native macOS markdown editor
+Yosoro:        🍧Beautiful Markdown NoteBook. 🏖
+docfx:        Tools for building and publishing API documentation for .NET projects
+gauge:        Light weight cross-platform test automation
+Markdown:        Markdown 基本语法。
+Raneto:        Markdown powered Knowledgebase for Nodejs
+markdown:        A Python implementation of John Gruber’s Markdown with Extension support.
+markdown-cheatsheet:        Markdown Cheatsheet for Github Readme.md
+adr-tools:        Command-line tools for working with Architecture Decision Records
+markdown-nice:        支持主题设计的 Markdown 编辑器，让排版变 Nice
+swagger2markup:        A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentation.
+markdown-plus:        Markdown editor with extra features.
+markdown-pdf:        📄 Markdown to PDF converter
+github-markdown-toc:        Easy TOC creation for GitHub README.md
+markdig:        A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
+markdownlint:        A Node.js style checker and lint tool for Markdown/CommonMark files.
+glow:        Render markdown on the CLI, with pizzazz! 💅🏻
+abricotine:        Markdown editor with inline preview
+web:        A free, open-source, and completely encrypted notes app. | https://standardnotes.org
+gotenberg:        A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+maid:        Markdown driven task runner.
+emoji-cheat-sheet:        A markdown version emoji cheat sheet
+rmarkdown:        Dynamic Documents for R
+BookStack:        BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
+marp:        The entrance repository of Markdown presentation ecosystem

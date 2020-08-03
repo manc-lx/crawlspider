@@ -1,0 +1,90 @@
+A CLI, or command-line interface, is a console that helps users issue commands to a program.
+httpie:        As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+fzf:        🌸 A command-line fuzzy finder
+angular-cli:        CLI tool for Angular
+bat:        A cat(1) clone with wings.
+dive:        A tool for exploring each layer in a docker image
+ripgrep:        ripgrep recursively searches directories for a regex pattern
+awesome-shell:        A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+cheat.sh:        the only cheat sheet you need
+ava:        Node.js test runner that lets you develop with confidence 🚀
+python-fire:        Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+lazygit:        simple terminal UI for git commands
+pkg:        Package your Node.js project into an executable
+tqdm:        A Fast, Extensible Progress Bar for Python and CLI
+chalk:        🖍 Terminal string styling done right
+svgo:        🐯 Node.js tool for optimizing SVG files
+fd:        A simple, fast and user-friendly alternative to 'find'
+cli:        GitHub’s official command line tool
+webpack-dashboard:        A CLI dashboard for webpack dev server
+ink:        🌈 React for interactive command-line apps
+sherlock:        🔎 Hunt down social media accounts by username across social networks
+git-history:        Quickly browse the history of a file from any git repository
+.tmux:        🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+goaccess:        GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+ignite:        The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+fx:        Command-line tool and terminal JSON viewer 🔥
+click:        Python composable command line interface toolkit
+beets:        music library manager and MusicBrainz tagger
+wuzz:        Interactive cli tool for HTTP inspection
+nexe:        🎉 create a single executable out of your node.js apps
+termtosvg:        Record terminal sessions as SVG animations
+psysh:        A REPL for PHP
+nnn:        n³ The missing terminal file manager for X.
+n8n:        Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+signale:        Highly configurable logging utility
+console:        The Console component eases the creation of beautiful and testable command line interfaces.
+m-cli:         Swiss Army Knife for macOS
+asdf:        Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+http-prompt:        HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+PHP_CodeSniffer:        PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.
+taskbook:        Tasks, boards & notes for the command-line habitat
+q:        q - Run SQL directly on CSV or TSV files
+readme-md-generator:        📄 CLI that generates beautiful README.md files
+navi:        An interactive cheatsheet tool for the command-line and application launchers
+gitsome:        A supercharged Git/GitHub command line interface (CLI). An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+xsv:        A fast CSV command line toolkit written in Rust.
+awesome-cli-apps:        🖥 📊 🕹 🛠 A curated list of command line apps
+fkill-cli:        Fabulously kill processes. Cross-platform.
+serve:        Static file serving and directory listing
+ngxtop:        Real-time metrics for nginx server
+prompts:        ❯ Lightweight, beautiful and user-friendly interactive prompts
+spotify-tui:        Spotify for the terminal written in Rust 🚀
+hyperfine:        A command-line benchmarking tool
+legit:        Git for Humans, Inspired by GitHub for Mac™.
+jid:        json incremental digger
+ArchiSteamFarm:        C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
+vercel:        Develop. Preview. Ship.
+bandwhich:        Terminal bandwidth utilization tool
+drive:        Google Drive client for the commandline
+slack-term:        Slack client for your terminal
+structured-text-tools:        A list of command line tools for manipulating structured text data
+enquirer:        Stylish, intuitive and user-friendly prompts. Used by eslint, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+np:        A better `npm publish`
+vorpal:        Node's framework for interactive CLIs
+oclif:        Node.js Open CLI Framework. Built with 💜 by Heroku.
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+ponzu:        Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
+ffsend:        📬 Easily and securely share files from the command line. A fully featured Firefox Send client.
+streamlink:        Streamlink is a CLI utility which pipes video streams from various services into a video player
+shenzhen:        CLI for Building & Distributing iOS Apps (.ipa Files)
+awless:        A Mighty CLI for AWS
+carbon-now-cli:        🎨 Beautiful images of your code — from right inside your terminal.
+saws:        A supercharged AWS command line interface (CLI).
+preact-cli:        😺 Your next Preact PWA starts in 30 seconds.
+ferret:        Declarative web scraping
+httpstat:        curl statistics made simple
+age:        A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
+todo.txt-cli:        ☑️ A simple and extensible shell script for managing your todo.txt file.
+terragrunt:        Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+standard-version:        🏆 Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
+react-blessed:        A react renderer for blessed.
+phpinsights:        🔰 Instant PHP quality checks from your console
+win-acme:        A simple ACME client for Windows (for use with Let's Encrypt et al.)
+XcodeGen:        A Swift command line tool for generating your Xcode project
+aws-vault:        A vault for securely storing and accessing AWS credentials in development environments
+npm-run-all:        A CLI tool to run multiple npm-scripts in parallel or sequential.
+tokei:        Count your code, quickly.
+httplab:        The interactive web server
+nba-go:        🏀 💻 The finest NBA CLI.
+create-react-library:        ⚡CLI for creating reusable react libraries.

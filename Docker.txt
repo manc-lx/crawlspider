@@ -1,0 +1,91 @@
+Docker is a platform built for developers to build and run applications.
+moby:        Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+netdata:        Real-time performance monitoring, done right! https://www.netdata.cloud
+mall:        mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+traefik:        The Cloud Native Edge Router
+kong:        🦍 The Cloud-Native API Gateway
+spring-boot-examples:        about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+mastodon:        Your self-hosted, globally interconnected microblogging community
+drone:        Drone is a Container-Native, Continuous Delivery Platform
+dive:        A tool for exploring each layer in a docker image
+compose:        Define and run multi-container applications with Docker
+docker-cheat-sheet:        Docker Cheat Sheet
+awesome-docker:        🐳 A curated list of Docker resources and projects
+faas:        OpenFaaS - Serverless Functions Made Simple
+docker_practice:        Learn and understand Docker technologies, with real DevOps practice!
+generator-jhipster:        JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+portainer:        Making Docker management easy.
+rancher:        Complete container management platform
+eShopOnContainers:        Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+nginx-proxy:        Automated nginx proxy for Docker containers using docker-gen
+awesome-cheatsheets:        👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+kitematic:        Visual Docker Container Management on Mac & Windows
+nvidia-docker:        Build and run Docker containers leveraging NVIDIA GPUs
+reaction:        Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
+ctop:        Top-like interface for container metrics
+awesome-kubernetes:        A curated list for awesome kubernetes sources 🚢🎉
+gvisor:        Application Kernel for Containers
+dockerfiles:        Various Dockerfiles I use on the desktop and on servers.
+verdaccio:        📦🔐A lightweight private npm proxy registry
+skaffold:        Easy and Repeatable Kubernetes Development
+transfer.sh:        Easy and fast file sharing from the command-line.
+laradock:        Full PHP development environment for Docker.
+docker-elk:        The Elastic stack (ELK) powered by Docker and Compose.
+jib:        🏗 Build container images for your Java applications.
+labs:        This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
+piggymetrics:        Microservice Architecture with Spring Boot, Spring Cloud and Docker
+hydra:        OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+docker-slim:        DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+n8n:        Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+paperwork:        Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+distroless:        🥑 Language focused docker images, minus the operating system.
+rook:        Storage Orchestration for Kubernetes
+mal:        mal - Make a Lisp
+runc:        CLI tool for spawning and running containers according to the OCI specification
+mlcourse.ai:        Open Machine Learning Course
+clair:        Vulnerability Static Analysis for Containers
+crawlab:        Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
+docker-gitlab:        Dockerized GitLab
+SpaceX-API:        🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+fabio:        Consul Load-Balancing made simple
+openebs:        Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
+vulhub:        Pre-Built Vulnerable Environments Based on Docker-Compose
+che:        Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
+watchtower:        A process for automating Docker container base image updates.
+goreleaser:        Deliver Go binaries as fast and easily as possible
+weave:        Simple, resilient multi-host containers networking and more.
+kind:        Kubernetes IN Docker - local clusters for testing Kubernetes
+caprover:        [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
+mall-learning:        mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis5.0、Mongodb4.2.5、Mysql5.7等技术，采用Docker容器化部署。
+containerd:        An open and reliable container runtime
+server:        The core infrastructure backend (API, database, Docker, etc).
+docker-openvpn:        🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
+docker-node:        Official Docker Image for Node.js 🐳 🐢 🚀
+docker-mailserver:        A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
+devops-exercises:        Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+socketcluster:        Highly scalable realtime framework
+follow-me-install-kubernetes-cluster:        和我一步步部署 kubernetes 集群
+kubeasz:        使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+flannel:        flannel is a network fabric for containers, designed for Kubernetes
+kuboard-press:        Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
+kompose:        Go from Docker Compose to Kubernetes
+docker-letsencrypt-nginx-proxy-companion:        LetsEncrypt companion container for nginx-proxy
+docker-stacks:        Ready-to-run Docker images containing Jupyter applications
+docker-gc:        INACTIVE: Docker garbage collection of containers and images
+aws-sam-cli:        CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+elasticsearch-dump:        Import and export tools for elasticsearch
+openwhisk:        Apache OpenWhisk is an open source serverless cloud platform
+node-express-mongoose-demo:        A simple demo app using node and mongodb for beginners
+docker-py:        A Python library for the Docker Engine API
+firefly-iii:        Firefly III: a personal finances manager
+fn:        The container native, cloud agnostic serverless platform.
+tini:        A tiny but valid `init` for containers
+docker-ce:        Docker CE
+dumb-init:        A minimal init system for Linux containers
+pachyderm:        Reproducible Data Science at Scale!
+GuiLite:        ✔️The smallest header-only GUI library(5 KLOC) for all platforms
+scope:        Monitoring, visualisation & management for Docker & Kubernetes
+registrator:        Service registry bridge for Docker with pluggable adapters
+chatwoot:        Open-source live chat software 🔥💬
+trivy:        A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+docker-selenium:        Docker images for Selenium Grid Server (Standalone, Hub, and Nodes).

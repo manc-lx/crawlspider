@@ -1,0 +1,91 @@
+Translation of a software interface and messages to another language plus to work with local cultures.
+formatjs:        The monorepo home to all of the FormatJS related libraries, most notably react-intl.
+PythonRobotics:        Python sample codes for robotics algorithms.
+erpnext:        Open Source Alternative to SAP
+SwiftGen:        The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
+cartographer:        Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+js-lingui:        🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
+laravel-auth:        Laravel 7 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). This also makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. Project can be stood up in…
+weblate:        Web based localization tool with tight version control integration.
+time-elements:        Web component extensions to the standard <time> element.
+traduora:        Translation management platform for teams
+LocalizationKit_iOS:        Realtime Dynamic localization translation delivery system for iOS and Mac OSX in Swift. Create and update texts from localization.com without needing to recompile or redeploy. Cocapod for iOS devices (iPad, iPhone, iPod Touch and Mac)
+rtabmap:        RTAB-Map library and standalone application
+laravel-lang:        🌏 68 languages support for Laravel application.
+parrot:        Self-hosted Localization Management Platform built with Go and Angular
+iOSLocalizationEditor:        Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side
+BartyCrouch:        Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
+pontoon:        Mozilla's Localization Platform
+frenchkiss.js:        The blazing fast lightweight internationalization (i18n) module for javascript
+fluent:        Fluent — planning, spec and documentation
+laravel-mail-preview:        Mail driver that saves sent mail to disk.
+Kimera-VIO:        Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
+mobility:        Pluggable Ruby translation framework
+fluent.js:        JavaScript implementation of Project Fluent
+adblockfast:        Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+intl-messageformat:        [MIGRATED] Format a string with placeholders, including plural and select support to create localized messages.
+CppRobotics:        cpp implementation of robotics algorithms including localization, mapping, SLAM, path planning and control
+xivo:        X Inertial-aided Visual Odometry
+workalendar:        Worldwide holidays and workdays computational toolkit.
+Westwind.Globalization:        Database driven resource localization for .NET applications
+ava-docs:        Localized docs for AVA
+fluent-rs:        Rust implementation of Project Fluent
+Laravel-JS-Localization:        🌐 Convert your Laravel messages and consume them in the front-end!
+libsurvive:        Open Source Lighthouse Tracking System
+react-localize-redux:        Dead simple localization for your React components
+odas:        ODAS: Open embeddeD Audition System
+Localizable.strings2Excel:        Python command line tool for conversion between iOS strings files and excel files & between android strings.xml files and excl files. & strings files to android strings.xml files.
+JuliaZH.jl:        Julia语言中文文档
+CheXNet:        A pytorch reimplementation of CheXNet
+R-VIO:        Robocentric Visual-Inertial Odometry (IJRR2019, IROS2018)
+angular-l10n:        An Angular library to translate texts, dates and numbers
+AndroidLocalizePlugin:        🌏 Android localization plugin. support multiple languages, no need to apply for key.
+Fakery:        👽 Swift fake data generator
+next-translate:        Tool to translate Next.js applications ○ (Static) | ● (SSG) | λ (Server) - ~1kb
+cppreference2mshelp:        cppreference.com html archive converter to microsoft help (for Visual Studio 2012+) and chm help (for Windows)
+LARVIO:        A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
+lunr-languages:        A collection of languages stemmers and stopwords for Lunr Javascript library
+tower:        i18n & L10n library for Clojure/Script
+Minecraft-Mod-Language-Package:        Release Website
+eo-locale:        🌏Internationalize React and Preact apps 👔Elegant lightweight(1.8kB) library based on Internationalization API
+ResNetCAM-keras:        Keras implementation of a ResNet-CAM model
+geomapnet:        Geometry-Aware Learning of Maps for Camera Localization (CVPR2018)
+gatsby-plugin-intl:        Gatsby plugin that turns your website into an internationalization-framework out of the box.
+laravel-pt-BR-localization:        Tradução do Laravel para português brasileiro (pt_BR locale)
+EU4dll:        Europa Universalis IV double byte language patch; master:1.30.3.0, dev:1.30.3.0
+react-native-globalize:        Internationalization (i18n) for React Native
+counterpart:        A translation and localization library for Node.js and the browser.
+tonav:        Implementation of Multi-State Constraint Kalman Filter (MSCKF) for Vision-aided Inertial Navigation. This is my master's thesis.
+mojito:        An automation platform that enables continuous localization.
+l10ns:        Internationalization workflow and formatting
+hdl_localization:        Real-time 3D localization using a (velodyne) 3D LIDAR
+Localize:        Localize is a framework writed in swift to localize your projects easier improves i18n, including storyboards and strings.
+Lang.js:        🎭 Laravel Translator class in JavaScript!
+IdentityServer4AspNetCoreIdentityTemplate:        An ASP.NET Core 3.1 IdentityServer4 Identity Bootstrap 4 template with localization
+Language-Manager-iOS:        Language Manager iOS
+LanguageTest:        Changing the language on Android
+easy_localization:        Easy and Fast internationalizing your Flutter Apps
+ttag:        📙 simple approach for javascript localization
+serge:        Continuous localization platform
+lingver:        Manage your application locale and language.
+flutter_translate:        Flutter Translate is a fully featured localization / internationalization (i18n) library for Flutter.
+Neural-Localization:        Train an RL agent to localize actively (PyTorch)
+linguist:        Easy multilingual urls and redirection support for the Laravel framework
+laravel-multilingual-routes:        A package to handle multilingual routes in your laravel application.
+hangulize:        Korean Alphabet Transcription
+CK2dll:        Crusader Kings II double byte patch /production : 3.2.1.0 /dev : 3.3.2
+localize-router:        An implementation of routes localisation for Angular
+node-gettext:        A JavaScript implementation of gettext, a localization framework.
+omegat:        Mirror of official OmegaT repo
+faker:        A Java port of the Faker ruby gem: https://github.com/stympy/faker/
+react-translated:        A dead simple way to add complex translations (i18n) in a React (DOM/Native) project 🌎🌍🌏
+mola:        A Modular Optimization framework for Localization and mApping (MOLA)
+es2015-i18n-tag:        ES2015 template literal tag for i18n and l10n (translation and internationalization)
+flutter.cn:        Flutter CN docs translation plan, get started from the wiki: https://github.com/cfug/flutter.cn/wiki
+laravel-nova-localizations:        🌎 Localization files for Laravel Nova
+wsolevaluation:        Evaluating Weakly Supervised Object Localization Methods Right (CVPR 2020)
+AspNetCoreLocalization:        Localization.SqlLocalizer & ASP.NET Core MVC Localization Examples
+L10n-swift:        Localization of the application with ability to change language "on the fly" and support for plural form in any language.
+jquery.ime:        jQuery based input methods library
+EnvironmentOverrides:        QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly!
+flutter_sheet_localization:        Generate Flutter localization from a simple online Google Sheets.

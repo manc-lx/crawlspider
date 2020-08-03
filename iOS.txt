@@ -1,0 +1,91 @@
+iOS is the operating system for Apple's mobile products.
+flutter:        Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+free-programming-books-zh_CN:        📚 免费的计算机编程类中文书籍，欢迎投稿
+material-design-icons:        Material Design icons by Google
+awesome-ios:        A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+fastlane:        🚀 The easiest way to automate building and releasing your iOS and Android apps
+awesome-flutter:        An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+ijkplayer:        Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+gold-miner:        🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+mkcert:        A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+open-source-ios-apps:        📱 Collaborative List of Open-Source iOS Apps
+SDWebImage:        Asynchronous image downloader with cache support as a UIImageView category
+sheetjs:        📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+lottie-ios:        An iOS library to natively render After Effects vector animations
+awesome-swift:        A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+react-native-elements:        Cross Platform React Native UI Toolkit
+NativeScript:        NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
+RxSwift:        Reactive Programming in Swift
+Hero:        Elegant transition library for iOS & tvOS
+weex:        A framework for building Mobile cross-platform UI
+libgdx:        Desktop/Android/HTML5/iOS Java game development framework
+my-mac-os:        List of applications and tools that make my macOS experience even more amazing
+Kingfisher:        A lightweight, pure-Swift library for downloading and caching images from the web.
+framework7:        Full featured HTML framework for building iOS & Android apps
+quasar:        Quasar Framework - Build high-performance VueJS user interfaces in record time
+DoraemonKit:        A full-featured App (iOS & Android) development assistant. You deserve it. 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
+cocos2d-x:        Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+NativeBase:        Essential cross-platform UI components for React Native
+realm-cocoa:        Realm is a mobile database: a replacement for Core Data & SQLite
+CocoaPods:        The Cocoa Dependency Manager.
+better-scroll:        📜 inspired by iscroll, and it supports more features and has a better scroll perfermance
+create-react-native-app:        Create React Native apps that run on iOS, Android, and web
+SVProgressHUD:        A clean and lightweight progress HUD for your iOS and tvOS app.
+CocoaLumberjack:        A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+appium:        📱 Automation for iOS, Android, and Windows Apps.
+Material:        A UI/UX framework for creating beautiful applications.
+brook:        Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+kivy:        Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+plugins:        Plugins for Flutter maintained by the Flutter team
+IGListKit:        A data-driven UICollectionView framework for building fast and flexible lists.
+JSQMessagesViewController:        An elegant messages UI library for iOS
+gsy_github_app_flutter:        Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https:…
+FlutterExampleApps:        [Example APPS] Basic Flutter apps, for flutter devs.
+xbmc:        Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+Eureka:        Elegant iOS form builder in Swift
+animated-tab-bar:        RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
+expo:        An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+MMKV:        An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+TimLiu-iOS:        iOS开发常用三方库、插件、知名博客等等
+ios-good-practices:        Good ideas for iOS development, by Futurice developers.
+folding-cell:        📃 FoldingCell is an expanding content cell with animation made by @Ramotion
+NVActivityIndicatorView:        A collection of awesome loading animations
+SkeletonView:        ☠️ An elegant way to show users that something is happening and also prepare them to which contents he is waiting
+ncnn:        ncnn is a high-performance neural network inference framework optimized for the mobile platform
+FSCalendar:        A fully customizable iOS calendar library, compatible with Objective-C and Swift
+mono:        Mono open source ECMA CLI, C# and .NET implementation.
+SwifterSwift:        A handy collection of more than 500 native Swift extensions to boost your productivity.
+wcdb:        WCDB is a cross-platform database framework developed by WeChat.
+IBAnimatable:        Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+OnsenUI:        Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
+react-native-firebase:        🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+openFrameworks:        openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
+AudioKit:        Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
+chameleon:        🦎 一套代码运行多端，一端所见即多端所见
+qt:        Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+R.swift:        Strong typed, autocompleted resources like images, fonts and segues in Swift projects
+analyze:        Draven's Blog
+buck:        A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
+PureLayout:        The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
+ios-oss:        Kickstarter for iOS. Bring new ideas to life, anywhere.
+vue-native-core:        Vue Native is a framework to build cross platform native mobile apps using JavaScript
+Awesome_APIs:        A collection of APIs
+devhub:        TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
+JTAppleCalendar:        The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable
+Detox:        Gray box end-to-end testing and automation framework for mobile apps
+nimbus:        The iOS framework that grows only as fast as its documentation
+SwiftGen:        The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
+Awesome-ARKit:        A curated list of awesome ARKit projects and resources. Feel free to contribute!
+ish:        Linux shell for iOS
+Swift-30-Projects:        30 mini Swift Apps for self-study
+CYLTabBarController:        [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item. [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新。【iOS13 & Dark Mode & iPhone XS MAX supported】
+30-days-of-react-native:        30 days of React Native demos
+kittenTricks:        React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
+owasp-mstg:        The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+Halfrost-Field:        ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+ViewAnimator:        ViewAnimator brings your UI to life with just one line
+Swift-AI:        The Swift machine learning library.
+react-native-calendars:        React Native Calendar Components 🗓️ 📆
+RIBs:        Uber's cross-platform mobile architecture framework.
+outline-client:        Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+SwiftMessages:        A very flexible message bar for iOS written in Swift.

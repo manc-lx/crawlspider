@@ -1,0 +1,89 @@
+A game engine is a software framework used to develop and create video games.
+godot:        Godot Engine – Multi-platform 2D and 3D game engine
+games:        🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+cocos2d-x:        Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+aframe:        🅰️ web framework for building virtual reality experiences.
+matter-js:        a 2D rigid body physics engine for the web ▲● ■
+CRYENGINE:        CRYENGINE is a powerful real-time game development platform created by Crytek.
+openage:        Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+OpenRA:        Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+boardgame.io:        State Management for Turn-Based Games
+OpenDiablo2:        An open source re-implementation of Diablo 2
+magictools:        🎮 📝 A list of Game Development resources to make magic happen.
+pyxel:        A retro game engine for Python
+MonoGame:        One framework for creating powerful cross-platform games.
+amethyst:        Data-oriented and data-driven game engine written in Rust
+engine:        Go 3D Game Engine
+minetest:        Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
+Entitas-CSharp:        Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+entt:        Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+ET:        Unity3D Client And C# Server Framework
+egret-core:        Egret is a brand new open mobile game and application engine which allows you to quickly build mobile games and apps on Android,iOS and Windows.
+Urho3D:        Cross-platform 2D and 3D game engine.
+melonJS:        a fresh & lightweight javascript game engine
+magnum:        Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
+pixel:        A hand-crafted 2D game library in Go
+flame:        A minimalist Flutter game engine
+stride:        Stride Game Engine (formerly Xenko)
+NoahGameFrame:        A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
+ggez:        Rust library to create a Good Game Easily
+AtomicGameEngine:        The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
+GDevelop:        🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
+panda3d:        Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
+LumixEngine:        3D Game Engine - yet another open source game engine
+armory:        3D Engine with Blender Integration
+gosu:        2D game development library for Ruby and C++
+xenko:        Old repo for Xenko Game Engine. Please use https://github.com/xenko3d/xenko instead.
+ImagineEngine:        A project to create a blazingly fast Swift game engine that is a joy to use 🚀
+awesome-PICO-8:        A curated list of awesome PICO-8 resources, carts, tools and more
+ioq3:        The ioquake3 community effort to continue supporting/developing id's Quake III Arena
+react-native-game-engine:        A lightweight Game Engine for React Native 🕹⚡🎮
+FXGL:        Java / JavaFX / Kotlin Game Library (Engine)
+OpenJK:        Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
+KlayGE:        KlayGE is a cross-platform open source game engine with plugin-based architecture.
+flixel:        Free, cross-platform 2D game engine powered by Haxe and OpenFL
+xray-16:        Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.
+lumberyard:        Amazon Lumberyard is a free AAA game engine deeply integrated with AWS and Twitch – with full source.
+engo:        Engo is an open-source 2D game engine written in Go.
+StarRuler2-Source:        4X Space Strategy game Star Ruler 2's open source distribution.
+crown:        The flexible game engine.
+flecs:        High performance Entity Component System for C89/99 and C++11
+nunuStudio:        Web powered cross-platform 3D, WebXR game engine.
+termloop:        Terminal-based game engine for Go, built on top of Termbox
+duality:        a 2D Game Development Framework
+evennia:        Python MUD/MUX/MUSH/MU* development system
+GameDev-Resources:        🎮 🎲 A wonderful list of Game Development resources.
+dhewm3:        dhewm 3 main repository
+mage:        Magic Another Game Engine
+corona:        Solar2D Game Engine main repository (ex Corona SDK)
+defold:        Defold is a completely free to use game engine for development of desktop, mobile and web games.
+simulator:        A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
+openrw:        OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
+mini3d:        3D Software Renderer in 700 Lines !! (700 行代码的 3D 软件渲染器)
+Intrinsic:        Intrinsic is a Vulkan based cross-platform game and rendering engine. The project is currently in an early stage of development.
+Sparky:        Cross-Platform High Performance 2D/3D game engine for people like me who like to write code.
+KSFramework:        QQ Group：538722494，KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
+UnicornConsole:        Unicorn Console: create quick game !
+ktx:        LibKTX: Kotlin extensions for LibGDX games and applications
+SadConsole:        A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games!
+Excalibur:        🎮 A simple 2D HTML5 game engine written in TypeScript
+qengine:        Retro game engine for developers that enjoy creating games like it's 1997.
+oak:        A pure Go game engine
+arcan:        Arcan - [Display Server, Multimedia Framework, Game Engine] -> "Desktop Engine"
+avg-core:        A Future-oriented Adventure Game Framework based on React & Pixi.js. Docs: https://avgjs.github.io/docs/
+permafrost-engine:        An OpenGL RTS game engine written in C
+Mojoc:        A cross-platform, open-source, pure C game engine for mobile game.
+coffee:        An opinionated 2D game engine for Rust
+Acid:        A high speed C++17 Vulkan game engine
+quicksilver:        A simple framework for 2D games on desktop and web
+lovr:        Virtual Reality Engine
+falltergeist:        Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL.
+ranviermud:        A node.js based MUD game engine
+flutter-unity-view-widget:        Embeddable unity game engine view for Flutter. Advance demo here https://github.com/juicycleff/flutter-unity-arkit-demo
+SanAndreasUnity:        Open source reimplementation of GTA San Andreas game engine in Unity
+acl:        Animation Compression Library
+PuzzleScript:        Open Source HTML5 Puzzle Game Engine
+grid-sdk:        The Grid SDK - Game engine for Lua
+24a2:        🏵 An ultra-minimalist game engine
+SpartanEngine:        Game engine with an emphasis on architectual quality and performance
+osu-framework:        A game framework written with osu! in mind.

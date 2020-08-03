@@ -1,0 +1,90 @@
+Bootstrap is an HTML, CSS, and JavaScript framework.
+bootstrap:        The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+tabler:        Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+bootstrap-material-design:        Material Design for Bootstrap - Powerful and free UI KIT for Bootstrap 4
+gentelella:        Free Bootstrap 4 Admin Dashboard Template
+js-stack-from-scratch:        🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+react-bootstrap:        Bootstrap components built with React
+bootswatch:        Themes for Bootstrap
+bootstrap-datepicker:        A datepicker for twitter bootstrap (@twbs)
+bootstrap-vue:        BootstrapVue, with over 45 plugins, more than 85 custom components and over 670 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+sage:        WordPress starter theme with a modern development workflow
+bootstrap-table:        An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+coreui-free-bootstrap-admin-template:        CoreUI is free bootstrap admin template
+reactstrap:        Simple React Bootstrap 4 components
+bootstrap-select:        🚀 The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
+startbootstrap-sb-admin-2:        A free, open source, Bootstrap admin theme created by Start Bootstrap
+MaterialDesign:        ✒5000+ Material Design Icons from the Community
+ng-bootstrap:        Angular powered Bootstrap
+startbootstrap:        A library of free and open source Bootstrap themes and templates
+Metro-UI-CSS:        Build impressive responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
+material-kit:        Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
+ngx-bootstrap:        Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
+bootstrap-switch:        Turn checkboxes and radio buttons in toggle switches.
+bootstrap-modal:        Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
+FEBS-Shiro:        Spring Boot 2.2.5，Shiro1.4.2 & Layui 2.5.5 权限管理系统。预览地址：http://47.104.70.138:8080/login
+bootstrap-fileinput:        An enhanced HTML 5 file input for Bootstrap 4.x./3.x with file preview, multiple selection, and more features.
+twitter-bootstrap-rails:        Twitter Bootstrap for Rails 6.0, Rails 5 - Rails 4.x Asset Pipeline
+favorites-web:        云收藏 Spring Boot 2.X 开源项目
+cookiecutter-flask:        A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+polr:        🚡 A modern, powerful, and robust URL shortener
+material:        Material Design for Bootstrap 4
+airframe-react:        Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
+pandora:        A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
+wp-bootstrap-navwalker:        A custom WordPress nav walker class to fully implement the Twitter Bootstrap 4.0+ navigation style (v3-branch available for Bootstrap 3) in a custom theme using the WordPress built in menu manager.
+bootstrap-slider:        A slider control for Bootstrap 3 & 4.
+pattern.css:        CSS only library to fill empty background with beautiful patterns.
+bootstrap-social:        👫 Social Sign-In Buttons for Bootstrap
+coreui-free-react-admin-template:        CoreUI React is free React admin template based on Bootstrap 4
+jqGrid:        jQuery grid plugin
+modular-admin-html:        ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
+pagy:        The ultimate pagination ruby gem
+CoPilot:        Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js
+startbootstrap-sb-admin:        A free, open source, Bootstrap admin theme created by Start Bootstrap
+coreui-free-vue-admin-template:        CoreUI Vue is free Vue admin template based on Bootstrap 4
+understrap:        👫 Combines Automattic´s Underscores Starter Theme and Bootstrap 4 - Visit:
+bootlint:        HTML linter for Bootstrap projects
+bootmetro:        Simple and complete web UI framework to create web apps with Windows 8 Metro user interface, based on Bootstrap 2.
+startbootstrap-freelancer:        A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
+cms:        Multilingual PHP CMS built with Laravel and bootstrap
+awesome-bootstrap-checkbox:        ✔️Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier
+slider:        Touch swipe image slider/slideshow/gallery/carousel/banner mobile responsive bootstrap
+jeecg:        JEECG是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单) - > 代码生成器模式 - > 手工MERGE智能开发)， 可以帮助解决Java项目90%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。具备：表单配置能力（无需编码）、移动配置能力、工作流配置能力、报表配置能力（支持移动端）、插件开发能力（可插拔）
+Unifiedtransform:        A school management Software
+100-days-of-code-frontend:        Curriculum for learning front-end development during #100DaysOfCode.
+lightbox:        A lightbox gallery plugin for Bootstrap
+adminlte-laravel:        A Laravel 5 package that switchs default Laravel scaffolding/boilerplate to AdminLTE template and Pratt Landing Page with Bootstrap 3.0
+stisla:        Free Bootstrap Admin Template
+startbootstrap-creative:        A one page HTML theme for creatives by Start Bootstrap
+lad:        👦 Lad scaffolds a Koa webapp and API framework for Node.js
+startbootstrap-agency:        A one page HTML theme for agencies created by Start Bootstrap
+shards-ui:        🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
+vim-bootstrap:        Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
+startbootstrap-clean-blog-jekyll:        A Jekyll version of the Clean Blog theme by Start Bootstrap
+bootstrap.native:        If you are looking for Bootstrap without jQuery, this is it.
+startbootstrap-simple-sidebar:        An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
+pretty-checkbox:        A pure CSS library to beautify checkbox and radio buttons.
+strap:        👢 Bootstrap your macOS development system.
+smooth-ui:        Modern React UI library 💅👩‍🎤🍭
+ngx-formly:        JSON powered / Dynamic forms for Angular
+bootstrap_form:        Official repository of the bootstrap_form gem, a Rails form builder that makes it super easy to create beautiful-looking forms using Bootstrap 4
+wordpress-bootstrap:        Bootstrap in WordPress theme form - Bootstrap 3.3.1
+devextreme-reactive:        Business React components for Bootstrap and Material-UI
+primereact:        The Most Complete React UI Component Library
+startbootstrap-clean-blog:        A clean Bootstrap blog theme created by Start Bootstrap
+certstrap:        Tools to bootstrap CAs, certificate requests, and signed certificates.
+dcat-admin:        🔥 使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码。
+tabler-react:        React components and demo for the Tabler UI theme.
+bootstrap-colorpicker:        Bootstrap Colorpicker is a modular color picker plugin for Bootstrap.
+vali-admin:        Free Bootstrap 4 admin/dashboard template
+ladda-bootstrap:        Ladda buttons concept originally by @hakimel, example using Bootstrap 3 by @msurguy
+phaser-es6-webpack:        A bootstrap project for create games with Phaser + ES6 + Webpack.
+generator-ngx-rocket:        🚀 Extensible Angular 9+ enterprise-grade project generator
+startbootstrap-resume:        A Bootstrap 4 resume/CV theme created by Start Bootstrap
+web:        The website vault (vault.bitwarden.com).
+ModernCppStarter:        Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
+Angular-Full-Stack:        Angular Full Stack project built using Angular, Express, Mongoose and Node. Whole stack in TypeScript.
+coreui-free-angular-admin-template:        CoreUI Angular is free Angular 2+ admin template based on Bootstrap 4
+fastadmin:        FastAdmin是一款基于ThinkPHP5+Bootstrap的极速后台开发框架。
+startbootstrap-landing-page:        A responsive, Bootstrap landing page template created by Start Bootstrap
+modules:        Official Nuxt.js modules.

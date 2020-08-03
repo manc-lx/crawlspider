@@ -1,0 +1,91 @@
+Monitor the impact of your code changes. Measure performance, track errors, and analyze your application.
+netdata:        Real-time performance monitoring, done right! https://www.netdata.cloud
+grafana:        The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+pm2:        Node.js Production Process Manager with a built-in Load Balancer.
+prometheus:        The Prometheus monitoring system and time series database.
+huginn:        Create agents that monitor and act on your behalf. Your agents are standing by!
+sentry:        Sentry is cross-platform application monitoring, with a focus on error reporting.
+influxdb:        Scalable datastore for metrics, events, and real-time analytics
+osquery:        SQL powered operating system instrumentation, monitoring, and analytics.
+glances:        Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+DoraemonKit:        A full-featured App (iOS & Android) development assistant. You deserve it. 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
+cat:        CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+goaccess:        GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+TDengine:        An open-source big data platform designed and optimized for the Internet of Things (IoT).
+pinpoint:        APM, (Application Performance Management) tool for large-scale distributed systems.
+ctop:        Top-like interface for container metrics
+linux-dash:        A beautiful web dashboard for Linux
+telegraf:        The plugin-driven server agent for collecting & reporting metrics.
+sampler:        Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+bettercap:        The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+psutil:        Cross-platform lib for process and system monitoring in Python
+falcon-plus:        An open-source and enterprise-level monitoring system.
+ngxtop:        Real-time metrics for nginx server
+cilium:        eBPF-based Networking, Security, and Observability
+Stacer:        Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+awesome-sre:        A curated list of Site Reliability and Production Engineering resources.
+fail2ban:        Daemon to ban hosts that cause multiple authentication errors
+flux:        The GitOps Kubernetes operator
+progress:        Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+cabot:        Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
+elasticsearch-HQ:        Monitoring and Management Web Application for ElasticSearch instances and clusters.
+prometheus-operator:        Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+scope:        Monitoring, visualisation & management for Docker & Kubernetes
+flower:        Real-time monitor and web admin for Celery distributed task queue
+Opserver:        Stack Exchange's Monitoring System
+riemann:        A network event stream processing system, in Clojure.
+sitespeed.io:        Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex & LastVisualChange).
+nodejs-dashboard:        Telemetry dashboard for node.js apps from the terminal!
+statuspage:        A statuspage generator that lets you host your statuspage for free on Github.
+vizceral:        WebGL visualization for displaying animated traffic graphs
+processhacker:        A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+Tautulli:        A Python based monitoring and tracking tool for Plex Media Server.
+statping:        Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+alertmanager:        Prometheus Alertmanager
+laravel-activitylog:        Log activity inside your Laravel app
+nosqlclient:        Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
+dockprom:        Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
+express-status-monitor:        🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com
+pandora:        A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
+bosun:        Time Series Alerting Framework
+monitoror:        Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+healthchecks:        A Cron Monitoring Tool written in Python & Django
+sensu:        Monitoring for today's infrastructure.
+cortex:        A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+tensorwatch:        Debugging, monitoring and visualization for Python Machine Learning and Data Science
+sigma:        Generic Signature Format for SIEM Systems
+nvtop:        NVIDIA GPUs htop like monitoring tool
+mtail:        extract whitebox monitoring data from application logs for collection in a timeseries database
+micrometer:        An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics.
+pyrasite:        Inject code into running Python processes
+sysmon-config:        Sysmon configuration file template with default high-quality event tracing
+webpackmonitor:        A tool for monitoring webpack optimization metrics through the development process
+smashing:        The exceptionally handsome dashboard framework in Ruby and Coffeescript.
+kube-state-metrics:        Add-on agent to generate and expose cluster-level metrics.
+minicron:        🕰️ Monitor your cron jobs
+javamelody:        JavaMelody : monitoring of JavaEE applications
+puppeteer-examples:        Puppeteer example scripts for running Headless Chrome from Node. Run them at https://puppeteersandbox.com
+s-tui:        Terminal-based CPU stress and monitoring utility
+nginx-module-vts:        Nginx virtual host traffic status module
+orange:        OpenResty/Nginx Gateway for API Monitoring and Management.
+librenms:        Community-based GPL-licensed network monitoring system
+MyPerf4J:        High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it.
+kapacitor:        Open source framework for processing, monitoring, and alerting on time series data
+gpustat:        📊 A simple command-line utility for querying and monitoring GPU status
+rtop:        rtop is an interactive, remote system monitoring tool based on SSH
+Exceptionless:        Exceptionless server and jobs
+nightingale:        💡 A Distributed and High-Performance Monitoring System
+HeapInspector-for-iOS:        Find memory issues & leaks in your iOS app without instruments
+wgcloud:        Linux performance monitoring system
+opencensus-go:        A stats collection and distributed tracing framework
+alerta:        Alerta monitoring system
+skydive:        An open source real-time network topology and protocols analyzer
+raven-python:        Raven is the legacy Python client for Sentry (getsentry.com) — replaced by sentry-python
+AppMetrics:        App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
+scouter:        Scouter is an open source APM (Application Performance Management) tool.
+wazuh:        Wazuh - The Open Source Security Platform
+stagemonitor:        an open source solution to application performance monitoring for java server applications
+sysstat:        Performance monitoring tools for Linux
+easy-monitor:        企业级 Node.js 应用性能监控与线上故障定位解决方案
+lindb:        LinDB is a scalable, high performance, high availability distributed time series database.
+jmx_exporter:        A process for exposing JMX Beans via HTTP for Prometheus consumption

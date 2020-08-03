@@ -1,0 +1,91 @@
+Monero is a private, fungible, open source, decentralized cryptocurrency.
+monero:        Monero: the secure, private, untraceable cryptocurrency
+xmrig:        RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
+coin-hive:        CoinHive cryptocurrency miner for node.js
+ethereum_nvidia_miner:        💰 USB flash drive ISO image for Ethereum, Zcash and Monero mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless)
+MultiPoolMiner:        Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line.
+awesome-blockchain:        ⚡️Curated list of resources for the development and applications of blockchain.
+xmrig-nvidia:        Monero (XMR) NVIDIA miner
+deepMiner:        deepMiner webminer proxy (update for cryptoNight R)
+cpuminer-multi:        Multi-algo CPUMiner & Reference Cryptonote Miner (JSON-RPC 2.0)
+xmr-miner:        Web-based Cryptocurrency miner, built with Vue.js
+monero-stratum:        Solo mining stratum for Monero & AEON with built-in Web-UI
+coin-hive-stratum:        use CoinHive's JavaScript miner on any stratum pool
+miningcore:        Miningcore is a high-performance Mining-Pool Engine that runs on Linux and Windows and supports a variety of crypto-currencies.
+xmrig-proxy:        Monero (XMR) Stratum protocol proxy
+xmrig-amd:        Monero AMD (OpenCL) miner
+wagyu:        Rust library for generating cryptocurrency wallets
+coinhive-stratum-mining-proxy:        Browser mining on any pool using CoinHive.js library
+NemosMiner:        NemosMiner multi algo profit switching NVIDIA miner
+wallet-address-validator:        Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses
+monerobook:        Mastering Monero Book
+xmrigCC:        Highly optimized Cryptonight / RandomX / Argon2 CPU miner with Command&Control (CC) Server and Monitoring
+onion-monero-blockchain-explorer:        Onion Monero Blockchain Explorer
+xmrMiner:        🐜 A CUDA based miner for Monero
+webminerpool:        Complete sources for a monero webminer.
+react-coin-hive:        Mine cryptocurrency while your users haven't engaged with your content lately
+openmonero:        Fully open sourced implementation of MyMonero backend
+kasisto:        A Monero Point of Sale payment system
+monero-python:        A comprehensive Python module for handling Monero cryptocurrency
+cromos:        Cromos is a tool for downloading legitimate extensions of the Chrome Web Store and inject codes in the background of the application.
+mithril:        Pure Rust Monero Miner
+cryptocurrency-cli:        💰 Cryptocurrency Portfolio On The Command Line 💰
+Lime-Miner:        a simple hidden silent XMR miner.
+monero-nodejs:        Monero wallet management via JSON-RPC
+monero-pool:        A Monero mining pool server written in C
+SumoEasyMiner:        The most easy, intuitive CPU miner for cryptonote-based cryptocurrency
+awesome-privacy-on-blockchains:        A curated list of privacy on blockchains resources
+CakeWallet:        Home of Cake Wallet for XMR
+coinwatch:        Coinmarketcap console client to keep track of your crypto currency trades - are you winning or losing?
+Crypto-Webminer:        Use Crypto Webminer JavaScript miner on various Cryptonight | CN-Lite | CN-Fast | CN-Fast2 | CN-Pico | CN-RWZ | CN-UPX2 | CN-Half | CN-Heavy | CN-Saber (BitTube) | Argon2id - Chukwa Stratum Pools
+xcash-core:        📦 First Cryptonote coin with public & private transactions, custom DPOS consensus
+cryptonight:        ➿ Pure Go/ASM implementation of CryptoNight hash function with its variants, without any CGO binding.
+xmr-node-proxy:        Cryptonote/Forknote/Cryptonight/Light/Heavy coin proxy for nodejs-pool
+haskell-tools:        Tools for exporting blockchain data to analytical databases
+xmonarch:        Cryptonight hash function in asm.js and WebAssembly
+wallets:        💰Multi-crypto wallets/keys generator for cold storage with built-in encryption.
+cryptocurrency-dashboard:        Crypto Currency Dashboard Using Twitter 🐦 And Coinmarketcap 🚀 API
+xmr-wasm:        A Monero WebAssembly based miner
+monerowp:        Monero WooCommerce Plugin for Wordpress
+cpuhunter:        💻Convert any pc to money making machine. 💰
+crypto-trader:        Cryptocurrency investing using Dollar Cost Averaging (not limited to dollar)
+wownero:        archived repo, migrated to git.wownero.com
+go-monero:        A Monero RPC Wallet client implementation written in Go (Golang)
+uplexa:        uPlexa: Incentivizing the mass compute power of IoT devices to form a means of anonymous blockchain payments.
+CryptoGoblin:        CryptoNote CPU/GPU mining tool for Monero (XMR)
+monero-stratum-docker:        https://github.com/PedroD/monero-stratum-docker
+coinhive-monero:        💰 JavaScript miner for the cryptocurrency Monero Blockchain (XMR) using Coin-Hive
+cnrig:        Static CryptoNight CPU miner for Linux + automatic updates
+xmr-aeon-stak:        Unified All-in-one Monero, Sumokoin, Aeon and other Cryptonote miner
+Valets:        Command line wallets generator (Bitcoin, Bitcoin cash, Ethereum, Ethereum classic, Dash, Zcash, Dogecoin, Litecoin, Navcoin, Vertcoin, Reddcoin, Emercoin)
+xmr-stak-cpu-ios:        iOS port of XMR-STAK-CPU mining software
+blur:        The Blur Network is a privacy-oriented peer-to-peer network, built upon the premise that privacy is incompatible with centralization. BLUR employs a custom mining algorithm called CryptoNight-Dynamic. Iterations adjust approximately once every five seconds, with a goal of maintaining CPU advantages over specialized mining hardware.
+nodejs-pool:        Official repository of MoneroOcean (XMR) mining pool
+MoneroMixer:        The easiest way to use Monero to anonymously exchange and properly mix XMR, BTC, LTC, ETH, BCH, & 100+ other coins on Tails OS or Whonix.
+coin-hive-proxy:        Deprecated. Use CoinHive Stratum instead.
+Hidden-miner-builder:        Hidden miner builder
+cryptoloot:        Self Hosted Library for CryptoLoot
+XMRigFrontend:        Simple Material Design Frontend for XMRig
+sako:        A self-hosted Monero web-interface.
+CryptoProfitSwitcher:        Extensible profit switcher for crypto coins and algorithms
+monero-rs:        Rust Monero Library
+CoinJack:        Extension to HiJack/control web miners (like CoinHive)
+vanity-monero:        💳 Generate vanity address for CryptoNote currency (Monero etc.).
+monero-GUI-guide:        Guide for the Monero GUI wallet
+alpine-xmrig:        XMRig miner in an Alpine Linux Docker image.
+monerod-js:        NodeJS RPC Client for Monero Daemon
+coin-imp:        A Simple Miner to Mine Cryptocurrencies using CoinImp in Node.js
+xcash-dpops:        🗳 Delegated-Proof-of-Private-Stake: First DPoS implementation on a Monero-based coin
+xrig:        High performance cryptonight miner for AMD cards. Designed for large-scale use of RX Vega.
+coinHiveMiner:        Small UI for the https://coin-hive.com/ mining API
+mindwallet:        A wallet generator based on memwallet for bitcoin, ethereum, monero and litecoin using argon2 instead of scrypt.
+Cryptocurrency_Investment_Analysis_and_Modeling:        Machine learning regression algorithm on cryptocurrency stock price for the next 30 days.
+BLOC-GUI-Miner:        An easy to use Graphical User Interface cryptocurrency miner for crypto night algorithm coins available for Windows, macOS and Linux
+Crypto-Resources:        Resources for trading Bitcoin and Altcoins
+xmr-btc-atomic-swap:        Draft of a cross-chain atomic swap between Monero and Bitcoin
+meta:        General management, info and governance of the Ecosystem project
+xmr:        Monero node.
+monerochain:        A pretty Monero Blockchain Explorer
+MoneroKit:        Monero mining on Apple devices
+awesome-monero:        Curated list of links of useful resources for the Monero crypto-currency
+SilentXMRMiner:        A Silent Monero (XMR) Miner Builder

@@ -1,0 +1,91 @@
+Gulp is a toolkit for automating and streamlining web development.
+magic:        CSS3 Animations with special effects
+blendid:        A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
+fetool:        大前端的瑞士军刀，只记录有用的。
+assemble:        Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
+generator-webapp:        A gulp.js generator for modern webapps
+WeFlow:        A web developer workflow tool by WeChat team based on tmt-workflow, with cross-platform supported and environment ready.
+Vorlonjs:        A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
+extension-boilerplate:        ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
+tmt-workflow:        A web developer workflow used by WeChat team based on Gulp, with cross-platform supported and solutions prepared.
+phphub5:        PHPHub Ver 5 is a Forum project Powered by Laravel 5.1, and it is also the project build up PHP & Laravel China community （此项目已弃用）
+maid:        Markdown driven task runner.
+NG6-starter:        🆖 An AngularJS Starter repo for AngularJS + ES6 + Webpack
+100-days-of-code-frontend:        Curriculum for learning front-end development during #100DaysOfCode.
+Front-end-tutorial:        🐼 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
+wordpressify:        🎈 A build system designed to automate your WordPress development workflow.
+generator-fountain-webapp:        Yeoman 'fountain' generator to start a webapp
+docker-compose-nodejs-examples:        Finally some real world examples on getting started with Docker Compose and Nodejs
+hoverboard:        Conference website template
+use-gulp:        gulp资料收集
+tars:        Markup builder on gulp
+gulp-boilerplate:        A boilerplate for building web projects with Gulp.js.
+sassy-starter:        🎉 Sassy starter - HTML / SCSS (SMACSS)
+gulp-htmlmin:        Minify HTML
+generator-ng-fullstack:        Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest.
+nice-front-end-tutorial:        🌍 Constantly updated front-end resources, tutorials, opinions（与时俱进版前端资源，教程和意见。）
+wordpress-gulp-starter-kit:        [NOT MAINTAINED] A starter kit for developing WordPress themes with Gulp.
+tyto:        manage and organise things
+gulp-clean-css:        Minify css with clean-css.
+vue-chat:        📲 A web chat application. Vue + node(koa2) + Mysql + socket.io
+awesome-gulp:        🍹 A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp
+Frontend-Cheat-Sheets:        Collection of cheat sheets(HTML, CSS, JS, Git, Gulp, etc.,) for your frontend development needs & reference
+fastshell:        Fiercely quick front-end boilerplate and workflows, HTML5, Gulp, Sass
+angular-starter:        ⭐ Gulp Angular Starter using TypeScript (Updated to 4.4.3)
+NTH-start-project:        Startkit for HTML / CSS / JS pages layout.
+panini:        A super simple flat file generator.
+gulp-angular-templatecache:        Concatenates and registers AngularJS templates in the $templateCache.
+gulp-nodemon:        gulp + nodemon + convenience
+gulp-pug:        Gulp plugin for compiling Pug templates
+gulp-responsive:        gulp-responsive generates images at different sizes
+gulp-shell:        A handy command line interface for gulp
+long-haul:        A minimal, type-focused Jekyll theme.
+kickoff:        🏀 A lightweight front-end framework for creating scalable, responsive sites. Version 8 has just been released!
+made-mistakes-jekyll:        Source for my website and blog (Jekyll + Gulp + Netlify)
+meanTorrent:        meanTorrent - MEAN.JS BitTorrent Private Tracker - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support. Demo at:
+magento2-frontools:        Set of front-end tools for Magento 2 based on Gulp.js
+gulp-git:        Git plugin for gulp (gulpjs.com)
+js-stack-from-scratch:        🌺 Russian translation of "JavaScript Stack from Scratch" from the React-Theming developers https://github.com/sm-react/react-theming
+gulp-awspublish:        gulp plugin to publish files to amazon s3
+PurpleAdmin-Free-Admin-Template:        Purple Admin is one of the most stylish Bootstrap admin dashboard you can get hands on. With its beautifully crafted captivating design and well-structured code.
+king-admin:        king-admin是一个超酷的前后端分离的基础权限管理后台，前端：angularJs+bootstrap+gulp，后端：spring-boot+mybatis-plus(分java版和kotlin版)
+vinyl-ftp:        Blazing fast vinyl adapter for FTP
+gulp-tutorial:        Code examples for my Gulp.js tutorial series
+video.github.io:        🎬视频网站项目已实现功能： 首页导航栏，中部轮播图，以及电影列表的展现，底部导航链接 注册页面 视频播放页面 搜索页面 登录页面 用户管理页面 一键安装 电影抓取 等功能。基于NodeJS的Express框架开发的动态网站项目，下面也提供了本程序的相关演示站点。
+news.laravel-china.org:        Source Code of the https://news.laravel-china.org/ website, build on top of Laravel 5.1. Laravel 资讯网站源代码，使用 Laravel 5.1 构建
+generator-jekyllized:        A Yeoman generator for Jekyll to rapidly build sites using Gulp
+gulp-cli:        Command Line Interface for gulp.
+b4st:        A Bootstrap 4 Starter Theme, for WordPress
+particle:        A starter kit for using the prototyping tool, Pattern Lab, in tandem with a Drupal theme. Utilizes Webpack for all asset management.
+phulp:        The task manager for php
+generator-webappstarter:        Quick start a web app for mobile.Automatically adjusts according to a device’s screen size without any extra work.
+core:        Our Front-end baseplate, from mobile to desktop
+edition-node-gulp:        ARCHIVED - The gulp wrapper around patternlab-node core, providing tasks to interact with the core library and move supporting frontend assets.
+awps:        A Modern WordPress Starter Theme for savvy Developers
+pixel-bootstrap-ui-kit:        Pixel UI - Free Bootstrap 4 UI Kit that will help you prototype and design beautiful, creative and modern websites.
+gulp-scss-starter:        Frontend development with pleasure. SCSS version
+WeApp-Workflow:        基于Gulp 的微信小程序前端开发工作流 💯
+GameplayFramework:        GameplayFramework for CocosCreator Games
+login:        Vue + Vue-router + Vuex 实现前端页面及逻辑，Express 实现注册登录登出的RestFul API 。
+generator-chrome-extension-kickstart:        Scaffold out a Web Extension http://yeoman.io
+gulp-html-replace:        Replace build blocks in HTML. Like useref but done right.
+react-zhihu:        这是一个模仿知乎界面的简单React demo。这个React demo能让你从零开始学习React，并逐渐掌握React。它包括了一个项目从零到项目完成的整个过程。
+gab-dissenter-extension:        Dissenter.com Browser Extension source code
+gulp-image:        Optimize PNG, JPEG, GIF, SVG images with gulp task.
+neumorphism-ui-bootstrap:        Neumorphism inspired UI Kit: web components, sections and pages in neumorphic style built with Bootstrap CSS Framework
+Ionic-Starter-Template:        Reinventing the wheel, again! Sorry Ionic Team... but there are many newbies learning on Youtube!
+Angular2-express-mongoose-gulp-node-typescript:        AngularJS 2 (Updated to 4.2.0) Mean Stack application which uses Angular2, Gulp, Express, Node, MongoDB (Mongoose) with Repository Pattern Business Layer
+barekit:        A bare minimum responsive framework
+Material-Admin:        Free Material Admin Template
+miniprogram-ecommerce-open-source:        果酱小店小程序端，基于原生小程序开发
+website:        Techqueria is a nonprofit the serves the largest community of Latinx in Tech
+gulp-pug-starter:        Frontend development with pleasure. Pug + SCSS version
+gulp-site-generator:        A static site generator using Gulp
+gulp-webpack-starter:        Gulp Webpack Starter - fast static website builder. The starter uses gulp toolkit and webpack bundler. Download to get an awesome development experience!
+generator-angular-webpack-es6:        Yeoman generator for Angular projects using Webpack, ES6, SASS with some cool optional features. Feel free to contribute!
+front-end-tooling-recipes:        Collection of pre-configured front-end tooling setups for common uses.
+fe:        前端热门文章阅读
+iMall:        基于Laravel5.2，Vue.js1.0的微信商城，用于熟悉 Laravel、Vuejs、Webpack、Gulp 的结合使用，已不维护及更新。（1MB单核基础服务器，浏览请耐心等待图片加载...）
+hugulp:        Hugo + Gulp starter project
+gulp-tap:        Easily tap into a gulp pipeline without creating a plugin.
+sublime-gulp:        Run Gulp tasks and use snippets from Sublime Text

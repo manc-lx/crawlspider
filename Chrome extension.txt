@@ -1,0 +1,91 @@
+Google Chrome Extensions are add-ons that allow users to customize their Chrome web browser.
+refined-github:        Browser extension that simplifies the GitHub interface and adds useful features
+codelf:        A search tool helps dev to solve the naming things problem.
+darkreader:        Dark Reader Chrome and Firefox extension
+puppeteer-recorder:        Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+dejavu:        The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+bypass-paywalls-chrome:        Bypass Paywalls web browser extension for Chrome and Firefox.
+listen1_chrome_extension:        one for all free music in china (chrome extension, also works for firefox)
+simpread:        简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+rails_panel:        Chrome/Firefox extension for Rails development
+gmail.js:        Gmail JavaScript API
+FeHelper:        😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
+crx-selection-translate:        让浏览任意语言的网站变得无比轻松的浏览器扩展程序。
+stylus:        Stylus - Userstyles Manager
+jjb:        京价保（京价宝）—— 一个帮助你自动申请京东价格保护的chrome拓展
+pangu.js:        Paranoid text spacing in JavaScript
+extension-boilerplate:        ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
+Memex:        Browser Extension to full-text search your browsing history & bookmarks.
+buster:        Captcha solver extension for humans
+retire.js:        scanner detecting the use of JavaScript libraries with known vulnerabilities
+altair:        ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+react-perf-devtool:        A browser developer tool extension to inspect performance of React components.
+SingleFile:        Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+mirage:        🎨 GUI for simplifying Elasticsearch Query DSL
+chromium-vim:        Vim bindings for Google Chrome.
+json-viewer:        It is a Chrome extension for printing JSON and JSONP.
+medium-unlimited:        A browser extension to read medium.com articles for free without membership.
+privacybadger:        Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+githunt:        Hunt the most starred projects on any date on GitHub
+web-maker:        A blazing fast & offline frontend playground
+ReplaceGoogleCDN:        ♋ 一个 Chrome 插件：将 Google CDN 替换为国内的。
+notes:        📔 Linux、MySQL、Nginx、PHP、Git、Shell 等笔记
+NoCoin:        No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
+dadda-translate-crx:        🐱 比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆，可与有道、扇贝单词同步
+simplify:        Browser extension to simplify Gmail's interface
+github-hovercard:        Neat hovercards for GitHub.
+web-scrobbler:        Scrobble music all around the web!
+floccus:        ☁️ Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
+web-clipper:        For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+PT-Plugin-Plus:        PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+gas-github:        sync gas code to github
+metastream:        Watch streaming media with friends.
+refined-twitter:        Browser extension that simplifies the Twitter interface and adds useful features
+RSSHub-Radar:        🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
+chrome-extension-webpack-boilerplate:        A basic foundation boilerplate for rich Chrome Extensions using Webpack to help you write modular and modern Javascript code, load CSS easily and automatic reload the browser on code changes.
+apollo-client-devtools:        Apollo Client browser developer tools.
+notifier-for-github:        Browser extension - Get notified about new GitHub notifications
+webext-redux:        A set of utilities for building Redux applications in Web Extensions.
+MakeGithubGreatAgain:        Extension for making GitHub great again
+chrome-devtools-autosave:        Auto-saving CSS and JavaScript changes from the Chrome Developer Tools
+AWSConsoleRecorder:        Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
+chrome-extensions-examples:        All Chrome Extension examples collected into one repository
+pakku.js:        拯救B站的弹幕体验！
+daily:        Curated dev news delivered to your new tab 👩🏽‍💻
+data-selfie:        Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
+GayHub:        An awesome chrome extension for github
+ekill:        Chrome/Firefox extension to nuke annoying elements in a web page
+github-gmail:        [WebExtension] Open GitHub notifications with shortcuts in Gmail.
+jsonview:        A web extension that helps you view JSON documents in the browser.
+enhanced-github:        🚀 Chrome extension to display size of each file, download link and copy file contents directly to the clipboard
+toolkit-for-ynab:        A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+ipfs-companion:        Browser extension that simplifies access to IPFS resources on the web
+DuckieTV:        A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
+octohint:        The missing IntelliSense hint for GitHub and GitLab
+chromelogger:        chrome extension for server side console logging
+ghostery-extension:        Ghostery Browser Extension for Firefox, Chrome, Opera and Edge
+passff:        zx2c4 pass manager extension for Firefox, Chrome and Opera
+better-onetab:        📑 A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
+seckill:        Chrome浏览器 抢购、秒杀插件，秒杀助手，定时自动点击
+SnappySnippet:        Chrome extension that allows easy extraction of CSS and HTML from selected element.
+google-unlocked:        Google Unlocked browser extension uncensor google search results
+Universal-Bypass:        Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
+Just-Read:        A customizable read mode web extension.
+toggl-button:        Toggl Button extension for Chrome and Firefox
+NflxMultiSubs:        Multiple Subtitles and Enhanced Experiences for Netflix Web App
+gooreplacer:        ⚡️⚡️A browser extension to modify HTTP requests :-)
+ChromeSnifferPlus:        🔍 Sniff web framework and javascript libraries run on browsing website.
+TimeCat:        A Magical Web Recorder 🖥 (WIP)
+github-repo-size:        🚀 Chrome extension to display repository size on GitHub
+SponsorBlock:        Skip YouTube video sponsors (browser extension)
+ProjectFib:        Chrome extension to flag fake news on Facebook. Built at HackPrinceton '16
+Authenticator:        Authenticator generates 2-Step Verification codes in your browser.
+markdown-new-tab:        🗒️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page
+web-extension-starter:        🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
+PixivBatchDownloader:        Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.
+dirac:        A Chrome DevTools fork for ClojureScript developers
+Backbone-Debugger:        Chrome Developer Tools extension for debugging Backbone.js applications
+saka-key:        A keyboard interface to the web
+Chrome-Extensions:        WebRTC chrome extensions for screen sharing, screen recording, file sharing, youtube+audio sharing, etc.
+RaspberryCast:        📺 Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
+EdgeTranslate:        A translation extension.

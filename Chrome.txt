@@ -1,0 +1,91 @@
+Chrome is a web browser from the tech company Google.
+electron:        Build cross-platform desktop apps with JavaScript, HTML, and CSS
+mkcert:        A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+octotree:        GitHub on steroids
+nightmare:        A high-level browser automation library.
+chromeless:        🖥 Chrome automation made simple. Runs locally or headless on AWS Lambda.
+linux-command:        Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+WebFundamentals:        Best practices for modern web development
+react-color:        🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
+uBlock:        uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
+google-access-helper:        谷歌访问助手破解版
+puppeteer-recorder:        Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+bypass-paywalls-chrome:        Bypass Paywalls web browser extension for Chrome and Firefox.
+url-to-pdf-api:        Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
+ext-saladict:        Feature-rich professional inline translator.
+chromedp:        A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+headless-chrome-crawler:        Distributed crawler powered by Headless Chrome
+debugger:        The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
+ferret:        Declarative web scraping
+fetool:        大前端的瑞士军刀，只记录有用的。
+polar-bookshelf:        Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
+simpread:        简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+metamask-extension:        🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+themer:        🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+melonJS:        a fresh & lightweight javascript game engine
+Surfingkeys:        Map your keys for web surfing, expand your browser with javascript and keyboard.
+crx-selection-translate:        让浏览任意语言的网站变得无比轻松的浏览器扩展程序。
+YouTubeCenter:        YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.
+clockwork:        Clockwork - php dev tools in your browser - server-side component
+jest-puppeteer:        Run your tests using Jest & Puppeteer 🎪✨
+AndroidChromium:        chrome browser of android version from chromium open project
+body-scroll-lock:        Body scroll locking that just works with everything 😏
+React-Sight:        Visualization tool for React, with support for Fiber, Router (v4), and Redux
+serverless-chrome:        🌐 Run headless Chrome/Chromium on AWS Lambda
+the-front-end-knowledge-you-may-not-know:        😇 你可能不知道的前端知识点
+SingleFile:        Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+cefpython:        Python bindings for the Chromium Embedded Framework (CEF)
+chromium-vim:        Vim bindings for Google Chrome.
+json-viewer:        It is a Chrome extension for printing JSON and JSONP.
+selenium-python-helium:        Selenium-python but lighter: Helium is the best Python library for web automation.
+vscode-chrome-debug:        Debug your JavaScript code running in Google Chrome from VS Code.
+badssl.com:        🔒 Memorable site for testing clients against bad SSL configs.
+browser:        The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
+ReplaceGoogleCDN:        ♋ 一个 Chrome 插件：将 Google CDN 替换为国内的。
+phpdesktop:        Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
+notes:        📔 Linux、MySQL、Nginx、PHP、Git、Shell 等笔记
+blog:        浩麟的技术博客
+asar:        Simple extensive tar-like archive format with indexing
+Front-end-tutorial:        🐼 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
+puppeteer-extra:        💯 Teach puppeteer new tricks through plugins.
+floccus:        ☁️ Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
+lightproxy:        💎 Cross platform Web debugging proxy
+puppeteer-sharp:        Headless Chrome .NET API
+docker-selenium:        Selenium in Docker with Chrome & Firefox plus video recording support. Also check: Zalenium
+lightcrawler:        Crawl a website and run it through Google lighthouse
+t-rex-runner:        the t-rex runner game extracted from chromium
+marinara:        Pomodoro® time management assistant for Chrome
+puppeteer-webperf:        Automating Web Performance testing with Puppeteer 🎪
+cxmooc-tools:        一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
+xdm:        Powerfull download accelerator and video downloader
+ChromeLikeTabSwitcher:        Provides a tab switcher similar to the one, which is used in Google Chrome on Android
+WeiboPicBed:        新浪微博图床 Chrome扩展
+browserpass-legacy:        Legacy Browserpass repo, development is now happening at:
+Indium:        A JavaScript development environment for Emacs
+Userscript-Plus:        🐒 Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
+github-awesome-autocomplete:        Add instant search capabilities to GitHub's search bar
+GayHub:        An awesome chrome extension for github
+vialer-js:        Pluggable WebRTC softphone and communication platform.
+puppeteer-deep:        Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
+navalia:        A bullet-proof, fast, and reliable headless browser API
+atomic-chrome:        Edit Chrome textareas in Atom
+ember-inspector:        Adds an Ember tab to the browser's Developer Tools that allows you to inspect Ember objects in your application.
+DuckieTV:        A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
+chromelogger:        chrome extension for server side console logging
+v8-bailout-reasons:        🔧 A list of Crankshaft bailout reasons with examples
+better-onetab:        📑 A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
+Cookie-AutoDelete:        Firefox and Chrome WebExtension/Addon that deletes cookies as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
+ferrum:        Headless Chrome Ruby API
+TileIconifier:        Creates tiles for most Windows 8.1 and 10 start menu icons
+toggl-button:        Toggl Button extension for Chrome and Firefox
+AdguardBrowserExtension:        AdGuard browser extension
+gooreplacer:        ⚡️⚡️A browser extension to modify HTTP requests :-)
+gowitness:        🔍 gowitness - a golang, web screenshot utility using Chrome Headless
+elevate:        Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments. And more... https://thomaschampagne.github.io/elevate/ (formerly named stravistix)
+demo-progressive-web-app:        🎉 A demo for progressive web application with features like offline, push notifications, background sync etc,
+TimeCat:        A Magical Web Recorder 🖥 (WIP)
+cef2go:        Go lang bindings for the Chromium Embedded Framework (CEF)
+SponsorBlock:        Skip YouTube video sponsors (browser extension)
+jocs.github.io:        💯Jocs 的个人博客，所有的文章都在 issues 里面
+web-extension-starter:        🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
+markdown-new-tab:        🗒️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page

@@ -1,0 +1,89 @@
+Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.
+kubernetes:        Production-Grade Container Scheduling and Management
+netdata:        Real-time performance monitoring, done right! https://www.netdata.cloud
+etcd:        Distributed reliable key-value store for the most critical data of a distributed system
+traefik:        The Cloud Native Edge Router
+kong:        🦍 The Cloud-Native API Gateway
+istio:        Connect, secure, control, and observe services.
+minikube:        Run Kubernetes locally
+faas:        OpenFaaS - Serverless Functions Made Simple
+helm:        The Kubernetes Package Manager
+docker_practice:        Learn and understand Docker technologies, with real DevOps practice!
+generator-jhipster:        JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+rancher:        Complete container management platform
+charts:        Curated applications for Kubernetes
+k3s:        Lightweight Kubernetes
+nacos:        an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+awesome-cheatsheets:        👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+vitess:        Vitess is a database clustering system for horizontal scaling of MySQL.
+awesome-kubernetes:        A curated list for awesome kubernetes sources 🚢🎉
+gvisor:        Application Kernel for Containers
+verdaccio:        📦🔐A lightweight private npm proxy registry
+skaffold:        Easy and Repeatable Kubernetes Development
+seaweedfs:        SeaweedFS is a simple and highly scalable distributed file system to store and serve billions of files fast! SeaweedFS object store has O(1) disk seek, transparent cloud integration, and SeaweedFS Filer supports Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+jib:        🏗 Build container images for your Java applications.
+kubeflow:        Machine Learning Toolkit for Kubernetes
+kubespray:        Deploy a Production Ready Kubernetes Cluster
+teleport:        Secure Access for Developers that doesn't get in the way.
+microservices-demo:        Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+ingress-nginx:        NGINX Ingress Controller for Kubernetes
+k9s:        🐶 Kubernetes CLI To Manage Your Clusters In Style!
+kubectx:        Faster way to switch between clusters and namespaces in kubectl
+recommenders:        Best Practices on Recommendation Systems
+origin:        Images for OpenShift 3 and 4 - see openshift/okd for more
+rook:        Storage Orchestration for Kubernetes
+kubernetes-handbook:        Kubernetes Handbook （Kubernetes指南） https://kubernetes.feisky.xyz
+dapr:        Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+clair:        Vulnerability Static Analysis for Containers
+community:        Kubernetes community content
+lens:        Lens - The Kubernetes IDE
+openebs:        Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
+kubernetes-failure-stories:        Compilation of public failure/horror stories related to Kubernetes
+pulumi:        Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+cert-manager:        Automatically provision and manage TLS certificates in Kubernetes
+argo:        Argo Workflows: Get stuff done with Kubernetes.
+weave:        Simple, resilient multi-host containers networking and more.
+kubeless:        Kubernetes Native Serverless Framework
+kind:        Kubernetes IN Docker - local clusters for testing Kubernetes
+containerd:        An open and reliable container runtime
+cilium:        eBPF-based Networking, Security, and Observability
+linkerd2:        Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+devops-exercises:        Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+socketcluster:        Highly scalable realtime framework
+follow-me-install-kubernetes-cluster:        和我一步步部署 kubernetes 集群
+kubeasz:        使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+flannel:        flannel is a network fabric for containers, designed for Kubernetes
+kuboard-press:        Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
+kompose:        Go from Docker Compose to Kubernetes
+pipeline:        PipelineAI Kubeflow Distribution
+fission:        Fast and Simple Serverless Functions for Kubernetes
+flux:        The GitOps Kubernetes operator
+openwhisk:        Apache OpenWhisk is an open source serverless cloud platform
+guide:        Kubernetes clusters for the hobbyist.
+dex:        OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+fn:        The container native, cloud agnostic serverless platform.
+pachyderm:        Reproducible Data Science at Scale!
+prometheus-operator:        Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+scope:        Monitoring, visualisation & management for Docker & Kubernetes
+trivy:        A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+pouch:        An Efficient Enterprise-class Container Engine
+octant:        Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+gaia:        Build powerful pipelines in any programming language.
+yugabyte-db:        The high-performance distributed SQL database for global, internet-scale apps.
+velero:        Backup and migrate Kubernetes applications and their persistent volumes
+stern:        ⎈ Multi pod and container log tailing for Kubernetes
+draft:        A tool for developers to create cloud-native applications on Kubernetes.
+kubesphere:        Enterprise-grade container platform tailored for multicloud and multi-cluster management
+operator-sdk:        SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+microk8s:        MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+jx:        Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm
+argo-cd:        Declarative continuous deployment for Kubernetes.
+ntopng:        Web-based Traffic and Security Network Traffic Monitoring
+nuclio:        High-Performance Serverless event and data processing platform
+tsuru:        Open source, extensible and Docker-based Platform as a Service (PaaS).
+patroni:        A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+gitkube:        Build and deploy docker images to Kubernetes using git push
+external-dns:        Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+agones:        Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
+onedev:        Super Easy All-In-One DevOps Platform
+wayne:        Kubernetes multi-cluster management and publishing platform

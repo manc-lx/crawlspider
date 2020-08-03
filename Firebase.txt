@@ -1,0 +1,90 @@
+Firebase is a mobile app development platform that provides data analysis and database web services for developers.
+functions-samples:        Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
+react-native-firebase:        🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+quickstart-android:        Firebase Quickstart Samples for Android
+angularfire:        The official Angular library for Firebase.
+react-firebase-starter:        Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
+FirebaseUI-Android:        Optimized UI components for Firebase
+Messenger:        iOS - Real-time messaging app 🎨
+firebase-js-sdk:        Firebase Javascript SDK
+vuefire:        🔥 Firebase bindings for Vue.js & Vuex
+canner:        ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+react-redux-firebase:        Redux bindings for Firebase. Includes React Hooks and Higher Order Components.
+flutterfire:        🔥 A collection of Firebase plugins for Flutter apps.
+re-base:        🔥 A Relay inspired library for building React.js + Firebase applications. 🔥
+react-hn:        React-powered Hacker News client
+reactfire:        Hooks, Context Providers, and Components that make it easy to interact with Firebase.
+santa-tracker-android:        Ho Ho Ho
+firebase-ios-sdk:        Firebase iOS SDK
+quickstart-ios:        Firebase Quickstart Samples for iOS
+app:        COVID-19 App
+cerebral:        Declarative state and side effects management for popular JavaScript frameworks
+space-cloud:        Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
+react-native-fcm:        react native module for firebase cloud messaging and local notification
+awesome-opensource-apps:        🏠ℹ️ Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
+Quick-Chat:        Real time chat app written in Swift 5 using Firebase
+angular9-example-app:        Angular 9 Example App + Angular CLI + Angular Universal + i18n + Firebase
+bento-starter:        🍱 Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
+codelab-friendlychat-web:        The source for the Firebase codelab for building a cross-platform chat app
+react-shopping-cart:        🛍️ Simple ecommerce cart application built with React Redux
+timy-messenger:        Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter.
+Pyrebase:        A simple python wrapper for the Firebase API.
+fluttergram:        A fully functional Instagram clone written in Flutter using Firebase / Firestore
+PushNotifications:        🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
+chat-sdk-android:        Chat SDK Android - Open Source Mobile Messenger
+firebase-android-sdk:        Firebase Android SDK
+HackerNews:        A Hacker News reader iOS app written in Swift.
+FirebaseUI-iOS:        iOS UI bindings for Firebase.
+firebase-php:        Unofficial Firebase Admin SDK for PHP
+react-firebase-hooks:        React Hooks for Firebase.
+flutter_catalog:        An app showcasing Flutter components, with side-by-side source code view.
+react-most-wanted:        Starter kit with "Most Wanted" application features
+cordova-plugin-firebase:        Cordova plugin for Google Firebase
+nativescript-plugin-firebase:        🔥 NativeScript plugin for Firebase
+todo-react-redux:        Todo app with Create-React-App • React-Redux • Firebase • OAuth
+distributed:        https://github.com/funretro/distributed
+firebase-admin-node:        Firebase Admin Node.js SDK
+hoverboard:        Conference website template
+flutter-chat-app:        A chat app built on Flutter with firebase authentication and image sharing capability.
+flutter-chat-demo:        The chat app made by Flutter and Firebase
+chat-sdk-ios:        Chat SDK iOS - Open Source Mobile Messenger
+react-firebase-authentication:        🔥 Boilerplate Project for Authentication with Firebase in React.
+react-native-firestack:        A firestack v3 react-native implementation
+react-router-firebase-auth:        Example of how to have protected routes with Firebase and React Router.
+packtpub-crawler:        Download your daily free Packt Publishing eBook https://www.packtpub.com/packt/offers/free-learning
+zws:        Shorten URLs using invisible spaces.
+emberfire:        The officially supported adapter for using Firebase with Ember
+firebase-server:        Firebase Realtime Database Server Implementation
+app-framework:        Applications for any device with HTML, CSS and JavaScript - free and open source!
+bookdash-android-app:        An Android app that lets you download free children's books in different languages from non-profit publisher Book Dash
+PyFCM:        Python client for FCM - Firebase Cloud Messaging (Android, iOS and Web)
+angular-1-5-components-app:        A Contacts Manager application built on Angular 1.5 components, ui-router 1.0.0, Firebase.
+redux-vcr:        📼 Record and replay user sessions
+vuexfire:        Check
+FireSharp:        An asynchronous .Net client library for Firebase
+bonfire-firebase-sample:        An app to discuss your favourite emojis. This is a sample app built with Firebase.
+react-native-starter:        Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
+firebase-admin-go:        Firebase Admin Go SDK
+FirebaseAndroidChat:        Chat with features : Login with Google | Send Photo Camera | Send Photo Gallery | Send Location
+Learning-Resources:        "Technology Gold mine" to collect and share materials/resources
+todoist:        Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
+todo-angular-firebase:        Todo app with Angular CLI • AngularFire2 • Firebase • OAuth • SW-Precache
+angular-material-app:        基于最新Angular 9框架与Material 2技术的web中后台前端应用框架。
+startup-os:        Working examples of Google's Open Source stack and deployment to the cloud.
+RxFirebase:        Rxjava 2.0 wrapper on Google's Android Firebase library.
+UberClone:        Uber App Clone
+redux-firestore:        Redux bindings for Firestore
+tamiat:        ⛵ Vuejs and Firebase based CMS
+angular-commerce:        Angular components for scaffolding online store
+firebase-admin-python:        Firebase Admin Python SDK
+nuxt-firebase-sns-example:        Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.
+web:        ⚡ Supercharged version of Create React App with all the bells and whistles
+Querybase:        Bringing the where statement to the Firebase Database.
+quickstart-unity:        Firebase Quickstart Samples for Unity
+meal-prep:        Source code for a 4-part series I wrote about Vue, Vue Router, Vuex and Vuetify
+beauty:        👙 VUE + VUEX + FIREBASE + BULMA … 实现的 SPA SSR 同构项目 - Tinder美女/豆瓣美女合集
+react-native-redux-groceries:        A simple grocery list app with offline support, built with React Native, Redux, Firebase
+newsbuzz:        News App created in Flutter using News API for fetching realtime data and Firebase as the backend and authenticator.
+nekomy-platform:        An open source LMS (eLearning platform) for MOOCs and online courses (like Tutellus.com or Udemy.com with extra features). Tech stack includes PWA & SPA with Facebook's React, Google's Firebase and Slack API
+apollo-link-firebase:        🔥 🔗 apollo-link-firebase provides you a simple way to use Firebase with graphQL.
+chat_app:        A flutter chat app built with firestore. It is clone of messenger.User can create stories,chat and search in real time.

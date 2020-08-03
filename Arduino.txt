@@ -1,0 +1,91 @@
+Arduino is an open source hardware and software company and maker community.
+johnny-five:        JavaScript Robotics and IoT programming framework, developed at Bocoup.
+Tasmota:        Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+Marlin:        Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+esp8266_deauther:        Affordable WiFi hacking platform for testing and learning
+gobot:        Golang framework for robotics, drones, and the Internet of Things (IoT)
+tinygo:        Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+lowlevelprogramming-university:        How to be low-level programmer
+arduino-esp32:        Arduino core for the ESP32
+ArduinoJson:        📟 JSON library for Arduino and embedded C++. Simple and efficient.
+platformio-core:        PlatformIO is a professional collaborative platform for embedded development 👽 A place where Developers and Teams have true Freedom! No more vendor lock-in!
+WiFiManager:        ESP8266 WiFi Connection manager with web captive portal
+cylon:        JavaScript framework for robotics, drones, and the Internet of Things (IoT)
+blynk-library:        Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.
+arduino-cli:        Arduino command line interface
+nectarjs:        🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
+wasm3:        🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
+PJON:        With PJON you build networks of devices for free with no need of a cloud service or a centralised platform you don’t fully control.
+blynk-server:        Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes
+OpenMQTTGateway:        MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia / LYWSD02/ Mi Scale compatibility, SMS & LORA.
+audio-reactive-led-strip:        🎵 🌈 Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
+RF24:        Optimized fork of nRF24L01 for Arduino & Raspberry Pi/Linux Devices
+esp8266-oled-ssd1306:        Driver for the SSD1306 and SH1106 based 128x64, 128x32, 64x48 pixel OLED display running on ESP8266/ESP32
+noduino:        JavaScript and Node.js Framework for controlling Arduino with HTML and WebSockets
+Sming:        Sming - Open Source framework for high efficiency native ESP8266 development
+homie-esp8266:        💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
+MySensors:        MySensors library and examples
+Arduino_Core_STM32:        STM32 core support for Arduino
+TinyGSM:        A small Arduino library for GSM modules, that just works
+device-os:        Device OS (Firmware) for Particle Devices
+WS2812FX:        WS2812 FX Library for Arduino and ESP8266
+wifi_ducky:        Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
+EtherCard:        EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE
+TFT_eSPI:        Arduino and PlatformIO IDE compatible TFT library optimised for the STM32, ESP8266 and ESP32 that supports different driver chips
+arduino_midi_library:        MIDI for Arduino
+ferret:        Ferret is a free software lisp implementation for real time embedded control systems.
+ATTinyCore:        Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8
+Open-Home-Automation:        Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
+ESP3D:        FW for ESP8266/ESP8285/ESP32 used with 3D printer
+ESP8266Audio:        Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
+esp8266-weather-station:        ESP8266 Weather Station library supporting OpenWeatherMap, Aeris and other sources
+NeoPixelBus:        An Arduino NeoPixel support library supporting a large variety of individually addressable LEDs. Please refer to the Wiki for more details. Please use the gitter channel to ask questions as the GitHub Issues feature is used for bug tracking.
+Wi-PWN:        ESP8266 Deauther ​with a material design WebUI 📶
+ArduinoThread:        ⏳ A simple way to run Threads on Arduino
+paper-signals:        Build your own voice controlled object.
+Adafruit_Sensor:        Common sensor library
+arduino-pro-ide:        The Arduino IDE for advanced users and developers. Experimental alpha version.
+sitewhere:        SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture. SiteWhere provides REST APIs for all syste…
+ESP32-Paxcounter:        Wifi & BLE driven passenger flow metering with cheap ESP32 boards
+Brutal:        Payload for teensy like a rubber ducky but the syntax is different. this Human interfaes device ( HID attacks ). Penetration With Teensy . Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device ( Payload Teensy )
+arduino-mqtt:        MQTT library for Arduino
+wrmhl:        ⚡️ Super fast communication beetwen Unity3D and Arduino. Create Interactive experiences in a minute ⏱
+xod:        XOD IDE
+splitflap:        DIY split-flap display
+Sonoff-Homekit:        Make your Sonoff Switch compatible with Apple Homekit! 🎉
+ORSSerialPort:        Serial port library for Objective-C and Swift macOS apps
+esphome-core:        🚨 No longer used 🚨 - The C++ framework behind ESPHome
+blinker-library:        An IoT Solution,Blinker library for embedded hardware. Works with Arduino, ESP8266, ESP32.
+HASwitchPlate:        LCD touchscreen for Home Automation
+GxEPD:        A simple E-Paper display library with common base class and separate IO class for Arduino.
+TaskScheduler:        Cooperative multitasking for Arduino, ESPx and STM32 microcontrollers
+rust:        A fork of the Rust programming language with AVR support
+BlocklyDuino:        BlocklyDuino is a web-based visual programming editor for arduino.
+async-mqtt-client:        📶 An Arduino for ESP8266 asynchronous MQTT client implementation
+ESP32_BLE_Arduino:        The library source for the ESP32 BLE support for Arduino.
+ESP-MQTT-JSON-Digital-LEDs:        (OBSOLETE) ESP8266 MQTT JSON Digital LEDs for Home Assistant
+platformio-atom-ide:        PlatformIO IDE for Atom: The next generation integrated development environment for IoT
+Bare-Arduino-Project:        Start your Arduino projects right out of the box
+Universal-Arduino-Telegram-Bot:        Use Telegram on your Arduino (ESP8266 or Wifi-101 boards)
+cartreader:        A shield for the Arduino Mega that can back up video game cartridges.
+NeoGPS:        NMEA and ublox GPS parser for Arduino, configurable to use as few as 10 bytes of RAM
+Arduino_FreeRTOS_Library:        A FreeRTOS Library for all Arduino AVR Devices (Uno, Leonardo, Mega, etc)
+uSpeech:        Speech recognition toolkit for the arduino
+MiniCore:        Arduino hardware package for ATmega8, ATmega48, ATmega88, ATmega168, ATmega328 and ATmega328PB
+HoodLoader2:        16u2 Bootloader to reprogram 16u2 + 328/2560 with Arduino IDE
+sensors-software:        sourcecode for reading sensor data
+gort:        Command Line Interface (CLI) for RobotOps
+ArduinoMenu:        Arduino generic menu/interactivity system
+ESP-DASH:        A beautifully fast library to create functional dashboard for ESP8266 and ESP32
+RemoteDebug:        Library for Arduino to debug projects over WiFi, with web app or telnet, with print commands like Serial Monitor
+WiFiDuck:        Wireless keystroke injection attack platform
+rx5808-pro-diversity:        DIY project to create your own 5.8ghz FPV diversity basestation - based off the rx5808 receiver module. Project includes basic Arduino Nano implementation to advanced custom PCB board and introduction to digital switches 4066 chip.
+Awesome-arduino:        A curated list of awesome Arduino hardwares, libraries and softwares with update script
+GUIslice:        GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
+peeqo-robot:        The world's first robot to interact through GIFs...'nuf said
+scarab-osd:        MWOSD - UAV HUD
+ESP8266_ArtNetNode_v2:        ESP8266 based WiFi ArtNet to DMX, RDM and LED Pixels
+avrgirl-arduino:        👧 📟 A NodeJS library for flashing compiled sketch files to Arduino microcontroller boards.
+MightyCore:        Arduino hardware package for ATmega1284, ATmega644, ATmega324, ATmega324PB, ATmega164, ATmega32, ATmega16 and ATmega8535
+DeauthDetector:        Detect deauthentication frames using an ESP8266
+StepperDriver:        Arduino library for A4988, DRV8825, DRV8834, DRV8880 and generic two-pin (DIR/STEP) stepper motor drivers

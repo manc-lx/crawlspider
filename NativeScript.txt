@@ -1,0 +1,91 @@
+NativeScript is a JavaScript-native mobile framework.
+NativeScript:        NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
+nativescript-vue:        Native mobile applications using Vue and NativeScript.
+LuaViewSDK:        A cross-platform framework to build native, dynamic and swift user interface - 强大轻巧灵活的客户端动态化解决方案
+angular-seed-advanced:        Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
+ngx-formly:        JSON powered / Dynamic forms for Angular
+nativescript-angular:        Integrating NativeScript with Angular
+MLN:        高性能、小巧、易上手的移动跨平台开发框架. A framework for building Mobile cross-platform apps with Lua
+nativescript-plugin-firebase:        🔥 NativeScript plugin for Firebase
+nativescript-cli:        Command-line interface for building NativeScript apps
+docs:        Documentation, API reference, and code snippets for NativeScript
+android-runtime:        Android runtime for NativeScript (based on V8)
+groceries-ns-vue:        🍏 🍍 🍓 A NativeScript+Vue iOS and Android app for managing grocery lists
+nativescript-cardview:        ♦️ ♣️ NativeScript widget for Material Design CardView
+angular-native-seed:        Build web apps and NativeScript applications from one codebase using the AngularCLI.
+nativescript-barcodescanner:        🔎 NativeScript QR / barcode (bulk)scanner plugin
+xplat:        Cross-platform (xplat) tools for Nx workspaces https://nstudio.io/xplat
+rwa-trivia:        Trivia App - Real World Angular series
+nativescript-google-maps-sdk:        Cross Platform Google Maps SDK for Nativescript
+godot-go:        Go language bindings for the Godot Engine's GDNative API.
+react-nativescript:        React renderer for NativeScript
+nativescript-mapbox:        🗽 🗼 🗻 Native OpenGL powered Maps, by Mapbox
+fireloop.io:        Modern Real-Time Platform by MEAN Expert
+nativescript-pluginshowcase:        An app I'm using to showcase a bunch of NativeScript plugins (also in the appstores!)
+nativescript-schematics:        nativescript, mobile, schematics, angular
+nativescript-local-notifications:        📫 NativeScript plugin to easily schedule local notifications
+nativescript-bluetooth:        💙 NativeScript Bluetooth LE plugin
+nativescript-pulltorefresh:        ♻️ NativeScript plugin for PullToRefresh controls
+nativescript-carousel:        Carousel component for NativeScript (iOS/Angular + TS, Angular, Vue)
+awesome-nativescript-vue:        Resources for nativescript vue
+nativescript-lottie:        NativeScript plugin to expose Airbnb Lottie
+nativescript-floatingactionbutton:        Material Design Floating Action Button in NativeScript apps.
+nativescript-feedback:        📢 Non-blocking textual feedback for your NativeScript app
+push-plugin:        Contains the source code for the Push Plugin.
+nativescript-geolocation:        Geolocation plugin to use for getting current location, monitor movement, etc
+nativescript-fingerprint-auth:        💅 👱‍♂️ Forget passwords, use a fingerprint scanner or facial recognition!
+nativescript-videoplayer:        🎬 Video Player widget for NativeScript apps
+nativescript-checkbox:        NativeScript plugin for checkbox UI component
+nativescript-ui-feedback:        This repository is used for customer feedback regarding Telerik UI for NativeScript. The issues system here is used by customers who want to submit their feature requests or vote for existing ones.
+NativeScript-Drop-Down:        A NativeScript DropDown widget.
+nativescript-ar:        Augmented Reality NativeScript plugin
+nativescript-dev-webpack:        A package to help with webpacking NativeScript apps.
+nativescript-plugin-seed:        Get started building NativeScript plugins quickly.
+nativescript-imagepicker:        Imagepicker plugin supporting both single and multiple selection.
+nativescript-app-sync:        ♻️ Update your app without going through the app store!
+nativescript-secure-storage:        🔐 NativeScript plugin for secure local storage of fi. passwords
+nativescript-nodeify:        Makes most npm packages compatible with NativeScript
+plum:        Plum UI for NativeScript
+nativescript-drawingpad:        📝 NativeScript plugin to provide a way to capture any drawing (signatures are a common use case) from the device
+nativescript-camera:        NativeScript plugin to empower using device camera.
+nativescript-app-templates:        Monorepo for NativeScript app templates
+nativescript-purchase:        💰 A NativeScript plugin for making in-app purchases!
+nativescript-vue-navigator:        A simple router for NativeScript-Vue, built on top of $navigateTo to simplify routing from within components
+nativescript-webview-interface:        Plugin for bi-directional communication between webView and android/ios
+nativescript-directions:        👆 👉 👇 👈 Open the Maps app to show directions to anywhere you like
+nativescript-localize:        Internationalization plugin for NativeScript using native capabilities of each platform
+nativescript-facebook:        NativeScript plugin, wrapper of native Facebook SDK for Android and iOS
+nativescript-snackbar:        🍭 🍫 NativeScript plugin for Material Design SnackBar
+nativescript-speech-recognition:        💬 Speech to text, using the awesome engines readily available on the device.
+nativescript-slides:        A NativeScript plugin that is for Intro Tutorials, Image Carousels or any other slide functionality
+nativescript-realworld-example-app:        Example real-world mobile application built with NativeScript/Angular
+nativescript-bottombar:        Fancy bottom bar for NativeScript 😄 🍻
+nativescript-nfc:        📝 NativeScript plugin to discover, read, and write NFC tags
+nativescript-ionic-template:        📱 🖥 Create Mobile First apps, Web and Native sharing the code with Angular 🎉
+nativescript-dev-appium:        A package to help with writing and executing e2e Appium tests in NativeScript apps
+nativescript-admob:        NativeScript plugin to earn some precious 💰💰 with ads by Google AdMob
+nativescript-keyboard-toolbar:        ⌨️🛠Add a customizable toolbar on top of the soft keyboard
+nativescript-whatsapp-template:        NativeScript Template Similar to WhatsApp
+nativescript-toolbox:        A NativeScript module that is a composition of useful tools and helpers.
+nativescript-advanced-webview:        NativeScript plugin for Chrome CustomTabs on Android and SafariViewController on iOS.
+nativescript-ng-shadow:        Angular directive to apply shadows to native elements according to the elevation level guidelines of material design specification
+angular2-webpack-advance-starter:        An advanced Angular2 Webpack Starter project with support for ngrx/store, ngrx/effects, ng2-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
+nativescript-gradient:        🎨 Easily add fancy (or subtle) gradient backgrounds to your views
+nativescript-fresco:        This repository holds the NativeScript plugin that exposes the functionality of the Fresco image library to NativeScript developers.
+nativescript-socket.io:        Fully-featured Socket.IO client implementation for NativeScript
+NativeScript-Grid-View:        A NatvieScript GridView widget.
+nativescript-auth0:        Nativescript Auth0 https://auth0.com/ social authentication plugin
+nativescript-ripple:        NativeScript plugin to add Android Material Design Ripple effect to your layouts.
+nativescript-angular-drawer-template:        A starter project to quickly create nativescript angular project with drawer pages.
+nativescript-appversion:        🔢 NativeScript plugin to retrieve your app's package ID and current version
+nativescript-gif:        NativeScript plugin to use native gifs
+nativescript-angular-web-starter:        A starter project to create web and native mobile apps using nativescript and angular with single shared code base.
+nativescript-urlhandler:        NativeScript URL Handler Plugin
+nativescript-email:        ✉️ NativeScript plugin for opening draft e-mails
+nativescript-dev-sass:        SASS CSS pre-processor for NativeScript projects
+nativescript-calendar:        📅 NativeScript plugin to Create, Delete and Find Events in the native Calendar
+nativescript-loading-indicator:        NativeScript Loading Indicator plugin
+nativescript-https:        Secure HTTP client with SSL pinning for Nativescript - iOS/Android
+nativescript-vue-rollup-template:        A NativeScript template ready to roll with Vue.js and .vue files.
+nativescript-photo-editor:        🎨 Easily edit an image in your NativeScript app (crop, draw, etc)
+ns-v8ios-runtime:        NativeScript iOS runtime using the V8 engine

@@ -1,0 +1,90 @@
+Deep Learning is an artificial neural network composed of many layers.
+tensorflow:        An Open Source Machine Learning Framework for Everyone
+keras:        Deep Learning for humans
+opencv:        Open Source Computer Vision Library
+pytorch:        Tensors and Dynamic neural networks in Python with strong GPU acceleration
+TensorFlow-Examples:        TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+faceswap:        Deepfakes Software For All
+caffe:        Caffe: a fast open framework for deep learning.
+100-Days-Of-ML-Code:        100-Days-Of-ML-Code中文版
+Deep-Learning-Papers-Reading-Roadmap:        Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+basics:        📚 Learn ML with clean code, simplified math and illustrative visuals.
+machine-learning-for-software-engineers:        A complete daily plan for studying to become a machine learning engineer.
+awesome-deep-learning-papers:        The most cited deep learning papers
+handson-ml:        A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+data-science-ipython-notebooks:        Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+Real-Time-Voice-Cloning:        Clone a voice in 5 seconds to generate arbitrary speech in real-time
+fastai:        The fastai deep learning library, plus lessons and tutorials
+DeepFaceLab:        DeepFaceLab is the leading software for creating deepfakes.
+d2l-zh:        《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
+openpose:        OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+pytorch-tutorial:        PyTorch Tutorial for Deep Learning Researchers
+CNTK:        Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
+spaCy:        💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+ML-From-Scratch:        Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+awesome-deep-learning:        A curated list of awesome Deep Learning tutorials, projects and communities.
+lectures:        Oxford Deep NLP 2017 course
+TensorFlow-Course:        Simple and ready-to-use tutorials for TensorFlow
+DeepSpeech:        A TensorFlow implementation of Baidu's DeepSpeech architecture
+tfjs:        A WebGL accelerated JavaScript library for training and deploying ML models.
+openface:        Face recognition with deep neural networks.
+cheatsheets-ai:        Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+Qix:        Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
+spleeter:        Deezer source separation library including pretrained models.
+awesome-datascience:        📝 An awesome Data Science repository to learn and apply for real world problems.
+Screenshot-to-code:        A neural network that transforms a design mock-up into a static website.
+pytorch-CycleGAN-and-pix2pix:        Image-to-Image Translation in PyTorch
+ray:        A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+pytorch-handbook:        pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+Paddle:        PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+darknet:        YOLOv4 - Neural Networks for Object Detection (Windows and Linux version of Darknet )
+learnopencv:        Learn OpenCV : C++ and Python Examples
+labelImg:        🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
+pix2code:        pix2code: Generating Code from a Graphical User Interface Screenshot
+facenet:        Face recognition using Tensorflow
+stanford-cs-229-machine-learning:        VIP cheatsheets for Stanford's CS 229 Machine Learning
+awesome-nlp:        📖 A curated list of resources dedicated to Natural Language Processing (NLP)
+Machine-Learning-Tutorials:        machine learning and deep learning tutorials, articles and other resources
+Awesome-pytorch-list:        A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+netron:        Visualizer for neural network, deep learning and machine learning models
+tensor2tensor:        Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+nsfw_data_scraper:        Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
+dive-into-machine-learning:        Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+streamlit:        Streamlit — The fastest way to build data apps in Python
+CycleGAN:        Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.
+turicreate:        Turi Create simplifies the development of custom machine learning models.
+DeepCreamPy:        Decensoring Hentai with Deep Neural Networks
+Dive-into-DL-PyTorch:        本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
+stanford-tensorflow-tutorials:        This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+horovod:        Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+imgaug:        Image augmentation for machine learning experiments.
+shap:        A game theoretic approach to explain the output of any machine learning model.
+tflearn:        Deep learning library featuring a higher-level API for TensorFlow.
+neural-doodle:        Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
+dlib:        A toolkit for making real world machine learning and data analysis applications in C++
+fast-style-transfer:        TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
+ncnn:        ncnn is a high-performance neural network inference framework optimized for the mobile platform
+ml-agents:        Unity Machine Learning Agents Toolkit
+allennlp:        An open-source NLP research library, built on PyTorch.
+onnx:        Open standard for machine learning interoperability
+EffectiveTensorflow:        TensorFlow tutorials and best practices.
+tfjs-core:        WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
+caffe2:        Caffe2 is a lightweight, modular, and scalable deep learning framework.
+deep_learning_object_detection:        A paper list of object detection using deep learning.
+sonnet:        TensorFlow-based neural network library
+TensorFlow-Tutorials:        TensorFlow Tutorials with YouTube Videos
+mit-deep-learning-book-pdf:        MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+deep-learning-drizzle:        Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+MLAlgorithms:        Minimal and clean examples of machine learning algorithms implementations
+fashion-mnist:        A MNIST-like fashion product database. Benchmark 👉
+bert-as-service:        Mapping a variable-length sentence to a fixed-length vector using BERT model
+pix2pix:        Image-to-image translation with conditional adversarial nets
+mediapipe:        MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
+recommenders:        Best Practices on Recommendation Systems
+mit-deep-learning:        Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+pytorch-book:        PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
+autokeras:        AutoML library for deep learning
+Keras-GAN:        Keras implementations of Generative Adversarial Networks.
+ludwig:        Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+pytorch-lightning:        The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate
+nni:        An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.

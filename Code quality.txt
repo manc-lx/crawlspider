@@ -1,0 +1,90 @@
+Automate your code review with style, quality, security, and test‑coverage checks when you need them.
+infer:        A static analyzer for Java, C, C++, and Objective-C
+static-analysis:        Static analysis tools for all programming languages, build tools, config files and more.
+checkstyle:        Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+sonarqube:        Continuous Inspection
+awesome-guidelines:        A curated list of high quality coding style conventions and standards.
+simplecov:        Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
+pyre-check:        Performant type-checking for python.
+grumphp:        A PHP code-quality tool
+pmd:        An extensible multilanguage static code analyzer.
+pylint:        It's not just a linter that annoys you!
+HTMLHint:        ⚙️ The static code analysis tool you need for your HTML
+reviewdog:        🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+codeclimate:        Code Climate CLI
+jscpd:        Copy/paste detector for programming source code.
+mutant:        Mutation testing for Ruby - Semantic code coverage
+piranha:        A tool for refactoring code related to feature flag APIs
+cross-platform-node-guide:        📗 How to write cross-platform Node.js code
+wemake-python-styleguide:        The strictest and most opinionated python linter ever!
+state-of-the-art-shitcode:        💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+typewiz:        Automatically discover and add missing types in your TypeScript code
+unused:        Deprecated; see https://github.com/unused-code/unused
+feflow:        🚀 A command line tool aims to improve front-end engineer workflow and standard, powered by TypeScript.
+phpqa:        Docker image that provides static analysis tools for PHP
+android-guidelines:        Project Guidelines for the Android Buffer App
+SonarTS:        Static code analyzer for TypeScript
+pdepend:        PHP_Depend is an adaptation of the established Java development tool JDepend. This tool shows you the quality of your design in terms of extensibility, reusability and maintainability.
+Imgbot:        An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once it's done, ImgBot will open a pull request for you to review and merge. help@imgbot.net
+SonarJS:        SonarSource Static Analyzer for JavaScript and TypeScript
+vim-disapprove-deep-indentation:        ಠ_ಠ Vim plugin to disapprove deeply indented code. ಠ_ಠ
+undercover:        Actionable code coverage - detects untested code blocks in recent changes
+pep8speaks:        A GitHub  app to automatically review Python code style over Pull Requests
+PhpDependencyAnalysis:        Static code analysis to find violations in a dependency graph
+ComposerRequireChecker:        A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
+flake8-bugbear:        A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
+log-process-errors:        Show some ❤️ to Node.js process errors
+sonar-dotnet:        Code analyzer for C# and VB.NET projects https://redirect.sonarsource.com/plugins/vbnet.html
+sonar-kotlin:        SonarQube plugin for Kotlin
+git-cop:        DEPRECATED: Use Git Lint (https://www.alchemists.io/projects/git-lint) instead.
+gradle-static-analysis-plugin:        Easy setup of static analysis tools for Android and Java projects.
+solhint:        Solhint is an open source project created by https://protofire.io. Its goal is to provide a linting utility for Solidity code.
+Taylor:        Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms.
+gradle-code-quality-tools-plugin:        Gradle plugin that generates ErrorProne, Findbugs, Checkstyle, PMD, CPD, Lint, Detekt & Ktlint Tasks for every subproject.
+wotan:        Pluggable TypeScript and JavaScript linter
+sonar-php:        🐘 SonarPHP: PHP static analyzer for SonarQube & SonarLint
+vim-fibo-indent:        Fibonacci Indentation for Vim.
+sourcery:        Refactor Python using AI. ⭐ this repo and Sourcery Starbot will send you a PR
+tslint-react-hooks:        TSLint rule for detecting invalid uses of React Hooks
+parcel-plugin-typescript:        🚨 Enhanced TypeScript support for Parcel
+dotenv-linter:        ☺️ Linting dotenv files like a charm!
+interrogate:        Explain yourself! Interrogate a codebase for docstring coverage.
+gradle-baseline:        A set of Gradle plugins that configure default code quality tools for developers.
+skunk:        A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
+CFLint:        Static code analysis for CFML (a linter)
+github-action:        Coveralls Github Action
+flake8-eradicate:        Flake8 plugin to find commented out or dead code
+gradle-pitest-plugin:        Gradle plugin for PIT Mutation Testing in Android projects
+js-cpa:        Code pattern analysis for JS
+detekt-intellij-plugin:        detekt plugin for IntelliJ
+single_cov:        Actionable code coverage.
+flakehell:        Flake8 wrapper to make it nice, legacy-friendly, configurable.
+coveralls-ruby:        Coveralls for Ruby
+attractor:        code complexity metrics visualization and exploration tool for ruby and javascript
+PSCodeHealth:        PowerShell module gathering PowerShell code quality and maintainability metrics
+pkgnet:        R package for analyzing other R packages via graph representations of their dependencies
+checksyntax_vim:        Check a file's syntax when saving a file (php, ruby, tex ...) with vim
+platform:        Code Climate Engineering Data Platform
+ruby-test-reporter:        DEPRECATED Uploads Ruby test coverage data to Code Climate
+test-each:        🤖 Repeat tests. Repeat tests. Repeat tests.
+Hippo:        PHP standards checker.
+codeclimate-duplication:        Code Climate engine for code duplication analysis
+goreadme:        Generate readme file from Go doc. Now available with Github actions!
+php-code-quality:        Docker image containing multiple code quality tools for PHP (phpqatools and more).
+typo3scan:        Scans TYPO3 extensions for usage of deprecated and or changed code
+puppet-ghostbuster:        👻 Dead code detector for Puppet
+code-assert:        Assert that the java code of a project satisfies certain checks.
+docker-image-size-limit:        🐳 Keep an eye on your docker image size and prevent it from growing too big
+decent-code:        A concise guide to writing better code
+boot-check:        check, analyze and inspect Clojure/Script code
+unrequired:        find unused javascript files in your project
+javascript-test-reporter:        DEPRECATED Code Climate test reporter client for JavaScript projects
+codeclimate-eslint:        Code Climate Engine for ESLint
+editorconfig-checker:        A tool to verify that your files are in harmony with your .editorconfig
+eclipse-cs:        The Eclipse Checkstyle plug-in integrates the Checkstyle Java code auditor into the Eclipse IDE. The plug-in provides real-time feedback to the user about violations of rules that check for coding style and possible error prone code constructs.
+eslint-config-ivweb:        ESLint shareable config for the IVWEB JavaScript style guide.
+homplexity:        Haskell code complexity and quality measurement
+code-review-good-practices:        This repository was created to gets together many good practices around code review.
+eslint-plugin-protractor:        ESLint rules for Protractor
+flake8-broken-line:        🚨 Flake8 plugin to forbid backslashes (\) for line breaks
+editorconfig-checker.javascript:        A tool to verify that your files are in harmony with your .editorconfig

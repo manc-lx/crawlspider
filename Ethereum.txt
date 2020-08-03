@@ -1,0 +1,90 @@
+Ethereum is a distributed public blockchain network.
+go-ethereum:        Official Go implementation of the Ethereum protocol
+ccxt:        A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+web3.js:        Ethereum JavaScript API
+truffle:        A tool for developing smart contracts. Crafted with the finest cacaos.
+openzeppelin-contracts:        OpenZeppelin Contracts is a library for secure smart contract development.
+solidity:        Solidity, the Contract-Oriented Programming Language
+mist:        [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
+ethereumbook:        Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
+openethereum:        Fast and feature-rich multi-network Ethereum client.
+blockchain_guide:        Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
+capstone:        Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
+smart-contract-best-practices:        A guide to smart contract security best practices
+quorum:        A permissioned implementation of Ethereum supporting data privacy
+metamask-extension:        🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+aleth:        Aleth – Ethereum C++ client, tools and libraries
+EthList:        The Comprehensive Ethereum Reading List
+squeezer:        Squeezer Framework - Build serverless dApps
+awesome-coins:        ₿ A guide (for humans!) to cryto-currencies and their algos.
+embark:        Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
+CryptoList:        Curated collection of blockchain & cryptocurrency resources.
+status-react:        a free (libre) open source, mobile OS for Ethereum
+golem:        Golem is creating a global market for computing power.
+web3j:        Lightweight Java and Android library for integration with Ethereum clients
+vyper:        Pythonic Smart Contract Language for the EVM
+Blockchain-stuff:        Blockchain and Crytocurrency Resources
+ganache:        Personal blockchain for Ethereum development
+crypto-signal:        The #1 Automated Technical Analysis (TA) & Algo. Trading tool for Coinbase, Bittrex, Binance, and more! (Track over 500+ coins)
+manticore:        Symbolic execution tool
+raiden:        Raiden Network
+cryptocurrency-icons:        A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
+go-ethereum-code-analysis:        https://github.com/ZtesoftCS/go-ethereum-code-analysis
+ethers.js:        Complete Ethereum library and wallet implementation in JavaScript.
+cointop:        The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+coinmon:        💰 The cryptocurrency price tool on CLI. 🖥
+remix-ide:        Browser-Only Ethereum IDE and Runtime Environment
+mythril:        Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
+awesome-solidity:        🔹 A curated list of awesome Solidity resources, libraries, tools and more
+vue-ethereum-ipfs:        Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend
+sovereign:        Censorship resistant democracies.
+0x-monorepo:        0x protocol monorepo - includes our smart contracts and many developer tools
+trust-wallet-ios:        📱 Trust - Ethereum Wallet and Web3 DApp Browser for iOS
+smart-contracts:        Ethereum smart contracts for security and utility tokens
+coinbasepro-python:        The unofficial Python client for the Coinbase Pro API
+Nethereum:        Ethereum .Net cross platform integration library
+prysm:        Go implementation of the Ethereum 2.0 blockchain
+qtum:        Qtum Core Wallet
+bds:        Blockchain data parsing and persisting results
+remix:        Ethereum IDE and tools for the web
+py-evm:        A Python implementation of the Ethereum Virtual Machine
+open-ethereum-pool:        Open Ethereum Mining Pool
+web:        Grow Open Source
+chainlink:        node of the decentralized oracle network, bridging on and off-chain computation
+ebook:        学习资料
+aeternity:        æternity: solving scalability problems by making sense of state-channels
+ZoKrates:        A toolbox for zkSNARKs on Ethereum
+token-core-ios:        a blockchain private key management library on iOS
+burrow:        https://wiki.hyperledger.org/display/burrow
+cryptocurrency-arbitrage:        A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
+MyCrypto:        MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily.
+ethereum-etl:        Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
+blockscout:        Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
+design:        Ewasm Design Overview and Specification
+peatio:        An open-source Crypto-Currency exchange.
+coinbase-pro-node:        DEPRECATED — The official Node.js library for Coinbase Pro
+oyente:        An Analysis Tool for Smart Contracts
+ethereum_nvidia_miner:        💰 USB flash drive ISO image for Ethereum, Zcash and Monero mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless)
+ta4j:        A Java library for technical analysis.
+awesome-blockchain:        ⚡️Curated list of resources for the development and applications of blockchain.
+MultiPoolMiner:        Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line.
+Blockchain:        Compilation of useful documents and scientific papers about Blockchain & cryptocurrencies.
+aragon:        Create and manage decentralized organizations on Ethereum.
+ethereumjs-tx:        Project is in active development and has been moved to the EthereumJS VM monorepo.
+Ethlint:        (Formerly Solium) Code quality & Security Linter for Solidity
+ethereumjs-vm:        The Ethereum VM implemented in JavaScript
+awesome-cryptoeconomics:        An awesome curated list of Cryptoeconomic research and learning materials
+ethermint:        Ethereum on Tendermint using Cosmos-SDK!
+not-so-smart-contracts:        Examples of Solidity security issues
+ethereum_book:        精通以太坊 （中文版）
+ethereum-development-with-go-book:        📖 A little book on Ethereum Development with Go (golang)
+ethereumjs-wallet:        Utilities for handling Ethereum keys
+token-core-android:        a blockchain private key management library on android
+awesome-decentralized-finance:        A curated list of awesome decentralized finance projects
+intellij-solidity:        Solidity plugin for IntelliJ
+solgraph:        Visualize Solidity control flow for smart contract security analysis. 💵 ⇆ 💵
+ethlance:        Ethlance is the first job market platform built entirely on the Ethereum blockchain. Free to use forever!
+TypeChain:        🔌 TypeScript bindings for Ethereum smart contracts
+lionshare-desktop:        🦁 Simple cryptocurrency price and portfolio monitor for macOS
+ethjs:        A highly optimised, light-weight JS utility for Ethereum.
+augur-core:        Augur back-end (Ethereum contracts)

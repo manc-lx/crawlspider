@@ -1,0 +1,90 @@
+Material design is a unified system of theory and tools for creating digital experiences developed by Google.
+flutter:        Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+material-ui:        React components for faster and easier web development. Build your own design system, or start with Material Design.
+material-design-icons:        Material Design icons by Google
+materialize:        Materialize, a CSS Framework based on Material Design
+material-design-lite:        Material Design Components in HTML/CSS/JS
+awesome-flutter:        An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+vuetify:        🐉 Material Component Framework for Vue
+bootstrap-material-design:        Material Design for Bootstrap - Powerful and free UI KIT for Bootstrap 4
+components:        Component infrastructure and Material Design components for Angular
+Hero:        Elegant transition library for iOS & tvOS
+material-dialogs:        😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+material:        Material design for AngularJS
+framework7:        Full featured HTML framework for building iOS & Android apps
+quasar:        Quasar Framework - Build high-performance VueJS user interfaces in record time
+material-components-web:        Modular and customizable Material Design UI components for the web
+design-blocks:        A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
+Material:        A UI/UX framework for creating beautiful applications.
+material-theme:        Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
+MaterialDrawer:        The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
+FlutterExampleApps:        [Example APPS] Basic Flutter apps, for flutter devs.
+material-components-android:        Modular and customizable Material Design UI components for Android
+animated-tab-bar:        RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
+bootstrap-table:        An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+folding-cell:        📃 FoldingCell is an expanding content cell with animation made by @Ramotion
+Android-ObservableScrollView:        Android library to observe scroll events on scrollable views.
+AppIntro:        Make a cool intro for your Android app.
+MaterialDesignInXamlToolkit:        Google's Material Design in XAML & WPF, for C# & VB.Net.
+material-dashboard:        Material Dashboard - Open Source Bootstrap 4 Material Design Admin
+MaterialDesignLibrary:        This is a library with components of Android L to you use in android 2.2
+vue-material:        Material design for Vue.js
+react-toolbox:        A set of React components implementing Google's Material Design specification with the power of CSS Modules
+BottomBar:        (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
+Android_Data:        Some Android learning materials, hoping to help you learn Android development.
+MaterialDesign:        ✒5000+ Material Design Icons from the Community
+Timber:        Material Design Music Player
+react-native-paper:        Material Design for React Native (Android & iOS)
+material-kit:        Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
+expanding-collection:        ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion
+JFoenix:        JavaFX Material Design Library
+Alerter:        An Android Alerting Library
+TapTargetView:        An implementation of tap targets from the Material Design guidelines for feature discovery
+folding-cell-android:        📃 FoldingCell is a material design expanding content cell inspired by folding paper material made by @Ramotion
+react-native-material-kit:        Bringing Material Design to React Native
+Android-Iconics:        Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
+MaterialDateTimePicker:        Pick a date or time on Android in style
+Douya:        开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
+BottomNavigation:        This Library helps users to use Bottom Navigation Bar (A new pattern from google) with ease and allows ton of customizations
+mkdocs-material:        A Material Design theme for MkDocs
+material-components-ios:        Modular and customizable Material Design UI components for iOS
+Keen-UI:        A lightweight Vue.js UI library with a simple API, inspired by Google's Material Design.
+GeekNews:        📚A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
+react-native-material-ui:        Highly customizable material design components for React Native
+floatingsearchview:        A search view that implements a floating search bar also known as persistent search
+pickr:        🎨 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
+qksms:        The most beautiful SMS messenger for Android
+materia-theme:        A Material Design theme for GNOME/GTK based desktop environments
+T-MVP:        Android AOP Architecture by Apt, AspectJ, Javassisit, based on Realm+Databinding+MVP+Retrofit+Rxjava2
+Carbon:        Material Design implementation for Android 4.0+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.
+material-intro-screen:        Inspired by Heinrich Reimer Material Intro and developed with love from scratch
+hexo-theme-indigo:        一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
+TableView:        TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.
+DiagonalLayout:        With Diagonal Layout explore new styles and approaches on material design
+PatternLockView:        An easy-to-use, customizable and Material Design ready Pattern Lock view for Android
+MaterialChipsInput:        Implementation of Material Design Chips component for Android
+PagerBottomTabStrip:        An bottom navigation bar for Android
+nice-spinner:        A nice spinner for Android
+Phonograph:        A material designed music player for Android
+NeteaseCloudWebApp:        This is a vue for NeteaseCloud projects!
+hexo-theme-matery:        A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
+andOTP:        Open source two-factor authentication for Android
+ListenerMusicPlayer:        A Grace Material Design Music Player
+material-start:        Starter Repository for AngularJS Material
+angular-ngrx-material-starter:        Angular, NgRx, Angular CLI & Angular Material Starter Project
+Awesome-WanAndroid:        ⚡致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
+django-material:        Material Design for Django
+covalent:        Teradata UI Platform built on Angular Material
+MaterialStepperView:        Steppers - Material Design Components for Android
+Twidere-Android:        https://github.com/TwidereProject/Twidere-Android
+react-md:        React material design - An accessible React component library built from the Material Design guidelines in Sass
+MaterialSkin:        Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
+MaterialProgressBar:        Material Design ProgressBar with consistent appearance
+MusicLake:        MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe
+Minimal-Todo:        Material To-Do App
+material-design-data:        关于 Material Design 的一切资料都在这里
+dotsindicator:        Three material Dots Indicators for view pagers in Android !
+garland-view-android:        ≡ GarlandView seamlessly transitions between multiple lists of content. Made by @Ramotion
+MatBlazor:        Material Design components for Blazor and Razor Components
+smooth-app-bar-layout:        Smooth version of Google Support Design AppBarLayout
+MaterialRatingBar:        Material Design RatingBar with better appearance

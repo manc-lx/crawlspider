@@ -1,0 +1,91 @@
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
+gatsby:        Build blazing fast, modern apps and websites with React
+prettier:        Prettier is an opinionated code formatter.
+strapi:        🚀 Open source Node.js Headless CMS to easily build customisable APIs
+postwoman:        👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
+react-starter-kit:        React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
+parse-server:        API server module for Node/Express
+graphql-engine:        Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+prisma1:        💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
+graphql-js:        A reference implementation of GraphQL for JavaScript
+apollo-client:        🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+insomnia:        The Open Source API Client and Design Platform for GraphQL and REST ->
+rxdb:        💻 🔄 📱 A realtime Database for JavaScript Applications
+dgraph:        Native GraphQL Database with graph backend
+awesome-graphql:        Awesome list of GraphQL & Relay
+bit:        Build, distribute and collaborate on components.
+graphiql:        GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+reaction:        Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
+apollo-server:        🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+dataloader:        DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
+react-query:        ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+postgraphile:        Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+spectrum:        Simple, powerful online communities.
+saleor:        A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
+Vulcan:        🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
+up:        Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+react-apollo:        ♻️ React integration for Apollo Client
+howtographql:        The Fullstack Tutorial for GraphQL
+devhub:        TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
+graphql:        An implementation of GraphQL for Go / Golang
+gridsome:        ⚡️ The Jamstack framework for Vue.js
+graphql-playground:        🎮 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+api-platform:        REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+graphql-yoga:        🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+graphene:        GraphQL framework for Python
+este:        This repo is suspended.
+express-graphql:        Create a GraphQL HTTP server with Express.
+learnapollo:        👩🏻‍🏫 Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
+graphql-voyager:        🛰️ Represent any GraphQL API as an interactive graph
+graphql-code-generator:        A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+quicktype:        Generate types and converters from JSON, Schema, and GraphQL
+vue-apollo:        🚀 Apollo/GraphQL integration for VueJS
+type-graphql:        Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
+urql:        The highly customizable and versatile GraphQL client.
+gqlgen:        go generate based graphql server library
+graphql-editor:        📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
+graphql-java:        GraphQL Java implementation
+graphql-ruby:        Ruby implementation of GraphQL
+graphql-dotnet:        GraphQL for .NET
+starlette:        The little ASGI framework that shines. 🌟
+redwood:        Bringing full-stack to the Jamstack.
+react-firebase-starter:        Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
+JSUI:        A powerful UI toolkit for managing JavaScript apps
+edgedb:        The next generation relational database.
+hackernews-react-graphql:        Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
+graphql-php:        A PHP port of GraphQL reference implementation
+reactjs101:        從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。
+responder:        A familiar HTTP Service Framework for Python.
+graphql-tools:        🔧 Build, mock, and stitch a GraphQL schema using the schema language
+graphql-go:        GraphQL server with a focus on ease of use
+absinthe:        The GraphQL toolkit for Elixir
+parse-dashboard:        A dashboard for managing your Parse Server Apps
+rejoiner:        Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
+graphene-django:        Integrate GraphQL into your Django project.
+nodejs-api-starter:        💥 A GraphQL API boilerplate (template) made with Node.js, TypeScript, and PostgreSQL
+juniper:        GraphQL server library for Rust
+webiny-js:        Platform for building serverless applications and APIs (Node.js, React, GraphQL)
+vulcain:        Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs
+vue-express-mongo-boilerplate:        ⭐ MEVN Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS
+apollo-ios:        📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
+graphql-request:        Minimal GraphQL client supporting Node and browsers for scripts or simple apps
+apollo-tooling:        ✏️ Tooling for development and production Apollo workflows
+graphql-apis:        📜 A collective list of public GraphQL APIs
+canner:        ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+apollo-android:        🤖 A strongly-typed, caching GraphQL client for the JVM, Android and Kotlin multiplatform
+keystone:        A scalable platform and CMS to build Node.js applications
+wp-graphql:        🚀 GraphQL API for WordPress
+altair:        ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+graphql-shield:        🛡 A GraphQL tool to ease the creation of permission layer.
+vscode-restclient:        REST Client Extension for Visual Studio Code
+graphqurl:        curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+Templates:        .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
+react-imgpro:        📷 Image Processing Component for React
+graphql.js:        A Simple and Isomorphic GraphQL Client for JavaScript
+join-monster:        A GraphQL to SQL query execution layer for query planning and batch data fetching.
+mercure:        Server-sent live updates: protocol and reference implementation
+tipe:        🎉 Next Generation API-first CMS for developers. Generate an API-first CMS from a GraphQL schema with offline prototyping and an inline editor
+graphql-flutter:        A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.
+ran:        ⚡ RAN! React . GraphQL . Next.js Toolkit ⚡ - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
+graphpack:        ☄️ A minimalistic zero-config GraphQL server.
+crate:        👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).

@@ -1,0 +1,87 @@
+Bash is a shell and command language interpreter for the GNU operating system.
+the-art-of-command-line:        Master the command line, in one page
+nvm:        Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+fzf:        🌸 A command-line fuzzy finder
+pure-bash-bible:        📖 A collection of pure bash alternatives to external processes.
+dotfiles:        💻 macOS / Ubuntu dotfiles
+shellcheck:        ShellCheck, a static analysis tool for shell scripts
+awesome-shell:        A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+acme.sh:        A pure Unix shell script implementing ACME client protocol
+awesome-cheatsheets:        超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 ⚡
+linux-command:        Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+openvpn-install:        Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+powerline:        Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+bash-it:        A community Bash framework.
+shelljs:        🐚 Portable Unix shell commands for Node.js
+dockerfiles:        Various Dockerfiles I use on the desktop and on servers.
+terminalizer:        🦄 Record your terminal and generate animated gif images or share a web player
+neofetch:        🖼️ A command-line system information tool written in bash 3.2+
+starship:        ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+m-cli:         Swiss Army Knife for macOS
+Bash-Snippets:        A collection of small bash scripts for heavy terminal users
+navi:        An interactive cheatsheet tool for the command-line and application launchers
+mal:        mal - Make a Lisp
+direnv:        unclutter your .profile
+enquirer:        Stylish, intuitive and user-friendly prompts. Used by eslint, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+powerline-shell:        A beautiful and useful prompt for your shell
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+awesome-dotfiles:        A curated list of dotfiles resources.
+bash-oo-framework:        Bash Infinity is a modern boilerplate / framework / standard library for bash
+Gogh:        Color Scheme for Gnome Terminal and Pantheon Terminal
+dehydrated:        letsencrypt/acme client implemented as a shell-script – just add water
+autoenv:        Directory-based environments. [Originally owned by @ken-reitz]
+bash-handbook:        📖 For those who wanna learn Bash
+git-quick-stats:        ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+useful-scripts:        🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+ntfy:        🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+Pokemon-Terminal:        Pokemon terminal themes.
+Caporal.js:        A full-featured framework for building command line applications (cli) with node.js
+awesome-bash:        A curated list of delightful Bash scripts and resources.
+screenFetch:        Fetches system/theme information in terminal for Linux desktop screenshots.
+sh:        A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
+fff:        📁 A simple file manager written in bash.
+doitlive:        Because sometimes you need to do it live
+data-science-at-the-command-line:        Data Science at the Command Line
+airgeddon:        This is a multi-use bash script for Linux systems to audit wireless networks.
+LinuxGSM:        The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
+arduino-cli:        Arduino command line interface
+desk:        A lightweight workspace manager for the shell
+privilege-escalation-awesome-scripts-suite:        PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+Leetcode:        Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.
+hstr:        bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+rsync-time-backup:        Time Machine style backup with rsync.
+DietPi:        Lightweight justice for your single-board computer.
+discover:        Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
+kubetail:        Bash script to tail Kubernetes logs from multiple pods at the same time
+bash-sensible:        An attempt at saner Bash defaults
+kube-ps1:        Kubernetes prompt info for bash and zsh
+bats-core:        Bash Automated Testing System
+yadm:        Yet Another Dotfiles Manager
+powerline-go:        A beautiful and useful low-latency prompt for your shell, written in go
+z.lua:        ⚡ A new cd command that helps you navigate faster by learning your habits (带学习功能的快速路径切换工具)
+homeshick:        git dotfiles synchronizer written in bash
+enhancd:        🚀 A next-generation cd command with your interactive filter
+shpotify:        A command-line interface to Spotify
+LxRunOffline:        A full-featured utility for managing Windows Subsystem for Linux (WSL)
+borg:        Search and save shell snippets without leaving your terminal
+micromatch:        Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others!
+bpkg:        Lightweight bash package manager
+bash-completion:        Programmable completion functions for bash
+openterm:        OpenTerm, a sandboxed command line interface for iOS
+pwd.sh:        GPG symmetric password manager
+tfenv:        Terraform version manager
+closh:        Bash-like shell based on Clojure
+climate:        The swiss-army knife of utility tools for Linux.
+kscript:        Scripting enhancements for Kotlin
+babashka:        A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
+LS_COLORS:        A collection of LS_COLORS definitions; needs your contribution!
+pipes.sh:        Animated pipes terminal screensaver
+tmux-xpanes:        Awesome tmux-based terminal divider
+terraform-landscape:        Improve Terraform's plan output to be easier to read and understand
+welder:        👨‍🏭Set up your Linux server with plain shell scripts
+vg:        Virtualgo: Easy and powerful workspace based development for go
+Bash-Oneliner:        A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+wslu:        A collection of utilities for Windows 10 Linux Subsystems
+shx:        Portable Shell Commands for Node
+bashful:        Use a yaml file to stitch together commands and bash snippits and run them with a bit of style. Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
+create-dmg:        A shell script to build fancy DMGs

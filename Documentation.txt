@@ -1,0 +1,90 @@
+Documentation is a set of information that describes a product to its users.
+the-art-of-command-line:        Master the command line, in one page
+storybook:        📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+tldr:        📚 Collaborative cheatsheets for console commands
+devdocs:        API Documentation Browser
+wtfpython:        What the f*ck Python?
+cheat.sh:        the only cheat sheet you need
+docz:        ✍ It has never been so easy to document your things!
+docusaurus:        Easy to maintain open source documentation websites.
+professional-programming:        A collection of full-stack resources for programmers.
+docsify:        🃏 A magical documentation site generator.
+electron-vue:        An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+tui.editor:        🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+jsdoc:        An API documentation generator for JavaScript.
+chinese-programmer-wrong-pronunciation:        中国程序员容易发音错误的单词
+mkdocs:        Project documentation with Markdown.
+editor.md:        The open source embeddable online markdown editor (component).
+react-styleguidist:        Isolated React component development environment with a living style guide
+chinese-copywriting-guidelines:        Chinese copywriting guidelines for better written communication／中文文案排版指北
+zeal:        Offline documentation browser inspired by Dash
+wiki:        Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+opensource.guide:        📚 Community guides for open source creators
+Dash-iOS:        Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
+lemonade-stand:        A handy guide to financial support for open source
+cheat:        cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
+documentation:        📖 documentation for modern JavaScript
+BookStack:        A platform to create documentation/wiki content built with PHP & Laravel
+TypeScript-Handbook:        The TypeScript Handbook is a comprehensive guide to the TypeScript language
+reactjs.org:        The React documentation website
+mkdocs-material:        A Material Design theme for MkDocs
+awesome-webpack:        A curated list of awesome Webpack resources, libraries and tools
+typedoc:        Documentation generator for TypeScript projects.
+The-Documentation-Compendium:        📢 Various README templates & tips on writing high-quality documentation that people want to read.
+assemble:        Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
+bad-data-guide:        An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
+tensorflow-docs:        TensorFlow 最新官方文档中文版
+docs:        User documentation for Knative components.
+sklearn-doc-zh:        📖 [译] scikit-learn（sklearn） 中文文档
+EntityComponentSystemSamples:        https://github.com/Unity-Technologies/EntityComponentSystemSamples
+sphinx:        Main repository for the Sphinx documentation builder
+docute:        📚 Effortless documentation, done right.
+elements-of-python-style:        Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+standard-readme:        A standard style for README files
+awesome-coins:        ₿ A guide (for humans!) to cryto-currencies and their algos.
+compodoc:        📔 The missing documentation tool for your Angular, Nest & Stencil application
+tsdoc:        A doc comment standard for the TypeScript language
+aws-doc-sdk-examples:        Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
+fullstackpython.com:        Full Stack Python source with Pelican, Bootstrap and Markdown.
+awesome-gbdev:        A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
+pytorch-doc-zh:        Pytorch 中文文档
+docfx:        Tools for building and publishing API documentation for .NET projects
+adr-tools:        Command-line tools for working with Architecture Decision Records
+swagger2markup:        A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentation.
+ApiGen:        PHP 7.1 ready Smart and Simple Documentation for your PHP project
+http2-explained:        A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+webpack.js.org:        Repository for webpack documentation and more!
+just-the-docs:        A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+try:        Try .NET provides developers and content authors with tools to create interactive experiences.
+vue-styleguidist:        Created from react styleguidist for Vue Components with a living style guide
+x0:        Document & develop React components without breaking a sweat
+BilibiliAPIDocs:        哔哩哔哩开放接口第三方文档（仅提供官方曾公开接口）
+rx-book:        https://github.com/xgrommx/rx-book
+larecipe:        🍪 Write gorgeous documentations for your products using Markdown inside your Laravel app.
+http3-explained:        A document describing the HTTP/3 and QUIC protocols
+yard:        YARD is a Ruby Documentation tool. The Y stands for "Yay!"
+typescript-vs-flowtype:        Differences between Flowtype and TypeScript -- syntax and usability
+mm-wiki:        MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+internals:        High level architecture overview
+catalog:        Create living style guides using Markdown or React
+express-typescript-boilerplate:        A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
+schemaspy:        SchemaSpy code home
+docsearch:        📘 The easiest way to add search to your documentation.
+home-assistant.io:        📘 Home Assistant User documentation
+sassdoc:        Release the docs!
+glide-docs-cn:        Glide简体中文文档站点托管项目。
+Algo_Ds_Notes:        It is a repository that is a collection of algorithms and data structures with implementation in various languages.
+restful-api-guidelines:        A model set of guidelines for RESTful APIs and Events, created by Zalando
+numpy-cn:        NumPy官方中文文档（完整版）
+kit:        Tools for developing, documenting, and testing React component libraries
+a11y.css:        This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
+community:        Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
+peach:        Peach is a web server for multi-language, real-time synchronization and searchable documentation.
+jsdoc-to-markdown:        Generate markdown documentation from jsdoc-annotated javascript
+cross-platform-node-guide:        📗 How to write cross-platform Node.js code
+qiskit:        Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
+feedmereadmes:        Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+rest-hapi:        🚀 A RESTful API generator for Node.js
+graphdoc:        Static page generator for documenting GraphQL Schema
+architecture-center:        Azure Architecture Center
+spark-doc-zh:        Apache Spark 官方文档中文版

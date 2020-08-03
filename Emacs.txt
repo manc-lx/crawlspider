@@ -1,0 +1,90 @@
+Emacs is an extensible, customizable, free text editor and computing environment.
+spacemacs:        A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
+dracula-theme:        🧛🏻‍♂️ Dark theme for all the things!
+doom-emacs:        An Emacs framework for the stubborn martian hacker
+awesome-emacs:        A community driven list of useful Emacs packages, libraries and others.
+magit:        It's Magit! A Git porcelain inside Emacs.
+nyxt:        Nyxt - Be productive.
+prelude:        Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+remacs:        Rust ❤️ Emacs
+filestash:        🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+use-package:        A use-package declaration for simplifying your .emacs
+projectile:        Project Interaction Library for Emacs
+cider:        The Clojure Interactive Development Environment that Rocks for Emacs
+helm:        Emacs incremental completion and selection narrowing framework
+lsp-mode:        Emacs client/library for the Language Server Protocol
+know-your-http-well:        HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.
+flycheck:        On the fly syntax checking for GNU Emacs
+Spacemacs-rocks:        Happy Hacking Emacs & Spacemacs (Simplified Chinese)
+evil:        The extensible vi layer for Emacs.
+swiper:        Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!
+web-mode:        web template editing mode for emacs
+smartparens:        Minor mode for Emacs that deals with parens pairs and tries to be smart about it.
+slime:        The Superior Lisp Interaction Mode for Emacs
+org-brain:        Org-mode wiki + concept-mapping
+merlin:        Context sensitive completion for OCaml in Vim and Emacs
+straight.el:        🍀 Next-generation, purely functional package manager for the Emacs hacker.
+emacs-doom-themes:        An opinionated pack of modern color-themes
+dumb-jump:        an Emacs "jump to definition" package for 40+ languages
+tide:        Tide - TypeScript Interactive Development Environment for Emacs
+emacs-application-framework:        Emacs application framework
+treemacs:        https://github.com/Alexander-Miller/treemacs
+org-web:        org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
+intero:        https://github.com/chrisdone/intero
+Indium:        A JavaScript development environment for Emacs
+.emacs.d:        Centaur Emacs - A Fancy and Fast Emacs Configuration
+emacs-document:        translate emacs documents to Chinese for convenient reference
+organice:        An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
+emacs-which-key:        Emacs package that displays available keybindings in popup
+vscode-org-mode:        Emacs Org Mode for Visual Studio Code
+books-pdf:        books pdf
+all-the-icons.el:        A utility package to collect various Icon Fonts and propertize them within Emacs.
+emacs-slack:        slack client for emacs
+irony-mode:        A C/C++ minor mode for Emacs powered by libclang
+emacs-anywhere:        Configurable automation + hooks called with application information
+emacs.dz:        Awesome emacs config files
+zenburn-emacs:        The Zenburn colour theme ported to Emacs
+smart-mode-line:        A powerful and beautiful mode-line for Emacs.
+yasnippet-snippets:        a collection of yasnippet snippets for many languages
+clojure-mode:        Emacs support for the Clojure(Script) programming language
+AceJump:        🅰️ single character search, select, and jump
+dap-mode:        Emacs ❤️ Debug Adapter Protocol
+clj-refactor.el:        A collection of Clojure refactoring functions for Emacs
+sly:        Sylvester the Cat's Common Lisp IDE
+homebrew-emacs-plus:        Emacs Plus formulae for the Homebrew package manager
+sx.el:        Stack Exchange for Emacs
+org-super-agenda:        Supercharge your Org daily/weekly agenda by grouping items
+emacs-libvterm:        Emacs libvterm integration
+cmake-ide:        Use Emacs as a C/C++ IDE
+dotfiles:        Let's be honest: mostly Emacs.
+Memacs:        What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
+anaconda-mode:        Code navigation, documentation lookup and completion for Python.
+solarized-emacs:        The Solarized colour theme, ported to Emacs.
+magithub:        **This project is being (mostly) migrated into Forge!** -- Magit-based interfaces to GitHub
+rjsx-mode:        A JSX major mode for Emacs
+doom-modeline:        A fancy and fast mode-line inspired by minimalism design.
+markdown-mode:        Emacs Markdown Mode
+meghanada-emacs:        A Better Java Development Environment for Emacs
+emacs-dashboard:        An extensible emacs dashboard
+evil-collection:        A set of keybindings for evil-mode
+nyan-mode:        Nyan Cat for Emacs! Nyanyanyanyanyanyanyanyanyan!
+editorconfig-emacs:        EditorConfig plugin for Emacs
+eslint_d.js:        Makes eslint the fastest linter on the planet
+org-noter:        Emacs document annotator, using Org-mode
+emacs-package-dev-handbook:        An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
+scimax:        An emacs starterkit for scientists and engineers
+Emacs-Elisp-Programming:        Tutorial about programming Elisp and Emacs text editor customization.
+god-mode:        Minor mode for God-like command entering
+robe:        Code navigation, documentation lookup and completion for Ruby
+php-mode:        A powerful and flexible Emacs major mode for editing PHP scripts
+org-ql:        An Org-mode query language, including search commands and saved views
+racket-mode:        GNU Emacs major modes for Racket: Edit and REPL.
+import-js:        A tool to simplify importing JS modules
+diff-hl:        Emacs package for highlighting uncommitted changes
+ox-hugo:        A carefully crafted Org exporter back-end for Hugo
+ggtags:        Emacs frontend to GNU Global source code tagging system.
+its:        Incompatible Timesharing System
+helpful:        A better Emacs *help* buffer
+spacemacs-private:        My Spacemacs config
+docker.el:        Manage docker from Emacs.
+Elsa:        Emacs Lisp Static Analyzer

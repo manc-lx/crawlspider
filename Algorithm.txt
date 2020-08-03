@@ -1,0 +1,87 @@
+Algorithms are self-contained sequences that carry out a variety of tasks.
+coding-interview-university:        A complete computer science study plan to become a software engineer.
+CS-Notes:        📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+Python:        All Algorithms implemented in Python
+javascript-algorithms:        💻 JavaScript implementation of different computer science algorithms.
+interviews:        Everything you need to know to get the job.
+tech-interview-handbook:        💯 Materials to help you rock your next coding interview
+leetcode:        LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+algorithm-visualizer:        🎆Interactive Online Platform that Visualizes Algorithms from Code
+JCSprout:        👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
+interactive-coding-challenges:        120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+algorithms:        algorithms playground for common questions
+WaveFunctionCollapse:        Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+homemade-machine-learning:        🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+interview:        📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
+cosmos:        Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+awesome-algorithm:        项目永久冻结，迁移至新地址：
+PythonRobotics:        Python sample codes for robotics algorithms.
+C-Plus-Plus:        Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+awesome-java-leetcode:        👑 LeetCode of algorithms with java solution(updating).
+algorithm-pattern:        算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+awesome-competitive-programming:        💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+vscode-leetcode:        Solve LeetCode problems in VS Code
+turf:        A modular geospatial engine written in JavaScript
+Algorithms:        The codes and my solutions to exercises from the book "Algorithms" (4th edition) by Robert Sedgewick and Kevin Wayne.
+ImageAI:        A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities
+Learn-Algorithms:        算法学习笔记
+LintCode:        Java Solutions to problems on LintCode/LeetCode
+algorithms_and_data_structures:        180+ Algorithm & Data Structure Problems using C++
+JS-Sorting-Algorithm:        一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
+algodeck:        An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
+Lean:        Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)
+LeetCode-Swift:        Solutions to LeetCode by Swift
+AlgoWiki:        Repository which contains links and resources on different topics of Computer Science.
+Javascript:        A repository for All algorithms implemented in Javascript (for educational purposes only)
+java-algorithms-implementation:        Algorithms and Data Structures implemented in Java
+tbox:        🎁 A glib-like multi-platform c library
+machine_learning_basics:        Plain python implementations of basic machine learning algorithms
+algorithm-exercise:        Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/
+klib:        A standalone and lightweight C library
+bild:        A collection of parallel image processing algorithms in pure Go
+awesome-programming-books:        📚 经典技术书籍推荐，持续更新...
+illustrated-algorithms:        Interactive algorithm visualizations
+awesome-golang-leetcode:        📝 LeetCode of algorithms with golang solution(updating).
+DifferenceKit:        💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
+EKAlgorithms:        EKAlgorithms contains some well known CS algorithms & data structures.
+CS-Books:        📚 Computer Science Books 计算机技术类书籍 PDF
+ngraph.path:        Path finding in a graph
+javascript-datastructures-algorithms:        📚 collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
+rust-algorithms:        Common data structures and algorithms in Rust
+Leetcode:        Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.
+SDE-Interview-Questions:        Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
+c-algorithms:        A library of common data structures and algorithms written in C.
+java-string-similarity:        Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...
+Data-Structures-and-Algorithms:        Data Structures and Algorithms implementation in Go
+FATE:        An Industrial Level Federated Learning Framework
+Ai-Learn:        人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域
+CodingInterviews:        This repository contains coding interviews that I have encountered in company interviews
+MyTinySTL:        Achieve a tiny STL in C++11
+Dwifft:        Swift Diff
+textdistance:        Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+Gasyori100knock:        画像処理100本ノックして画像処理を画像処理して画像処理するためのもの Jap, Eng, Chi
+tech-interview-for-developer:        👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+LeetCode-Sol-Res:        Clean, Understandable Solutions and Resources for LeetCode Online Judge Algorithm Problems.
+Play-with-Data-Structures:        Codes of my MOOC Course <Play Data Structures in Java>. Updated contents and practices are also included. 我在慕课网上的课程《Java语言玩转数据结构》示例代码。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。
+rbush:        RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
+binarytree:        Python Library for Studying Binary Trees
+python_data_structures_and_algorithms:        Python 中文数据结构和算法教程
+qipai_algorithm:        棋牌的胡牌算法，包括麻将、跑胡子、扑克。实现 lua 、c++ 、c# 、golang 、js 、java 、python 版本。( Mahjong algorithm )
+Hello-world:        Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐
+bplustree:        A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
+C-Sharp:        All algorithms implemented in C#.
+fe-interview:        宇宙最强的前端面试指南 (https://lucifer.ren/fe-interview)
+awesome-resources:        Awesome resources for coding and learning: open source projects, websites, books e.g.
+MathModel:        研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT
+LeetCode-Solutions:        (Weekly Update) Python / C++11 Solutions of All 1515 LeetCode Problems
+lago:        🌲 Data Structures and Algorithms library in JavaScript (TypeScript soon!)
+scalacaster:        Purely Functional Algorithms and Data Structures in Scala
+Algo_Ds_Notes:        It is a repository that is a collection of algorithms and data structures with implementation in various languages.
+go-algorithms:        Algorithms and data structures for golang
+advisor:        Open-source implementation of Google Vizier for hyper parameters tuning
+algorithm-archive:        A collaborative book on algorithms
+codelibrary:        💎Collection of algorithms and data structures
+delaunator:        An incredibly fast JavaScript library for Delaunay triangulation of 2D points
+earcut:        The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
+snake:        Artificial intelligence for the Snake game.
+quadsort:        Quadsort is a stable non-recursive adaptive merge sort which is faster than quicksort.

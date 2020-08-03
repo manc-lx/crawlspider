@@ -1,0 +1,91 @@
+Git is the most widely used version control system.
+gitignore:        A collection of useful .gitignore templates
+gogs:        Gogs is a painless self-hosted Git service
+bat:        A cat(1) clone with wings.
+gitea:        Git with a cup of tea, painless self-hosted git service
+hub:        A command-line tool that makes git easier to use with GitHub.
+husky:        Git hooks made easy 🐶 woof!
+lazygit:        simple terminal UI for git commands
+tips:        Most commonly used git tips and tricks.
+git-extras:        GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+diff-so-fancy:        Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉
+git-recipes:        🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+netlify-cms:        A Git-based CMS for Static Site Generators
+git-history:        Quickly browse the history of a file from any git repository
+git-tips:        Git的奇技淫巧
+phabricator:        Open software engineering platform and fun adventure game
+bit:        Build, distribute and collaborate on components.
+technology-talk:        汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+cli:        GitHub’s official command line tool
+walle-web:        walle - 瓦力 Devops开源项目代码部署平台
+desktop:        Simple collaboration from your desktop
+cz-cli:        The commitizen command line utility. #BlackLivesMatter
+tig:        Text-mode interface for git
+pure:        Pretty, minimal and fast ZSH prompt
+ungit:        The easiest way to use git. On any platform. Anywhere.
+git-lfs:        Git extension for versioning large files
+gitbucket:        A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+wiki:        Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+libgit2:        A cross-platform, linkable library implementation of Git that you can use in your application.
+w3-goto-world:        🍅Git Mirror、AWS host、FREE SS/SSR/VMESS、WireGuard、IPFS、DeepWeb、Social Topic等知识储备库
+lint-staged:        🚫💩 — Run linters on git staged files
+gitsome:        A supercharged Git/GitHub command line interface (CLI). An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+my-git:        Individual collecting material of learning git（有关 git 的学习资料）
+git-standup:        Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
+bfg-repo-cleaner:        Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+docker-gitlab:        Dockerized GitLab
+vim-gitgutter:        A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+githug:        Git your game on!
+sourcerer-app:        🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
+gitleaks:        Scan git repos for secrets using regex and entropy 🔑
+commitlint:        📓 Lint commit messages
+dvc:        🦉Data Version Control | Git for Data & Models
+devops-exercises:        Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+legit:        Git for Humans, Inspired by GitHub for Mac™.
+gitql:        💊 A git query language
+translations:        🐼 Chinese translations for classic IT resources
+gitpitch:        Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+gitextensions:        Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
+go-git:        Projects has been moved to:
+git-ftp:        Uses Git to upload only changed files to FTP servers.
+vscode-gitlens:        Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+git-style-guide:        A Git Style Guide
+git-bug:        Distributed, offline-first bug tracker embedded in git, with bridges
+pre-commit:        A framework for managing and maintaining multi-language pre-commit hooks.
+nodegit:        Native Node bindings to Git.
+conventional-changelog:        Generate changelogs and release notes from a project's commit messages and metadata.
+magit:        It's Magit! A Git porcelain inside Emacs.
+posh-git:        A PowerShell environment for Git
+docker-ce:        Docker CE
+SparkleShare:        Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
+gitflow-avh:        AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
+lolcommits:        📷 git-based selfies for software developers
+keep-a-changelog:        If you build software, keep a changelog.
+FAQGURU:        🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.
+standard-version:        🏆 Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
+git-quick-stats:        ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+delta:        A viewer for git and diff output
+progit2:        Pro Git 2nd Edition
+grv:        GRV is a terminal interface for viewing git repositories
+gopass:        The slightly more awesome standard unix password manager for teams
+Waking-Up:        计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试...
+release-it:        🚀 Automate versioning and package publishing
+gitkube:        Build and deploy docker images to Kubernetes using git push
+onedev:        Super Easy All-In-One DevOps Platform
+git-fire:        🔥 Save Your Code in an Emergency
+awesome-blockchains:        A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-). Blockchains are the new tulips 🌷🌷🌷. Distributed is the new centralized.
+DevOps-Guide:        DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
+awesome-programming-books:        📚 经典技术书籍推荐，持续更新...
+git-cheat-sheet:        git and git flow cheat sheet
+gitlist:        An elegant and modern git repository viewer
+joe:        🏃 A .gitignore magician in your command line
+training-kit:        Open source cheat sheets for Git and GitHub
+Git-Credential-Manager-for-Windows:        Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
+git-sketch-plugin:        💎 A Git client generating pretty diffs built right into Sketch.
+versionpress:        Git-based version control for WordPress. Whoa!
+picocli:        Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more. In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.
+git-open:        Type `git open` to open the GitHub page or website for a repository in your browser.
+libgit2sharp:        Git + .NET/Mono = ❤
+git-recall:        An interactive way to peruse your git history from the terminal
+conventionalcommits.org:        The conventional commits specification

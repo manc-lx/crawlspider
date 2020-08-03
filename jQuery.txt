@@ -1,0 +1,91 @@
+jQuery is a lightweight library that simplifies programming with JavaScript.
+jquery:        jQuery JavaScript Library
+fullPage.js:        fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+taro:        开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
+select2:        Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+tui.editor:        🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+card:        💳 make your credit card form better in one line of code
+jquery-ui:        The official jQuery user interface library.
+jquery-validation:        jQuery Validation Plugin library sources
+editor.md:        The open source embeddable online markdown editor (component).
+goquery:        A little like that j-thing, only in Go.
+bootstrap-select:        🚀 The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
+tui.calendar:        🍞📅A JavaScript calendar that has everything you need.
+cropper:        ⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-cropper
+fancybox:        jQuery lightbox script for displaying images, videos and more. Touch enabled, responsive and fully customizable.
+Metro-UI-CSS:        Build impressive responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
+must-watch-javascript:        A useful list of must-watch talks about JavaScript
+node-crawler:        Web Crawler/Spider for NodeJS + server-side jQuery ;-)
+form:        jQuery Form Plugin
+cash:        An absurdly small jQuery alternative for modern browsers.
+bootstrap-fileinput:        An enhanced HTML 5 file input for Bootstrap 4.x./3.x with file preview, multiple selection, and more features.
+headless-chrome-crawler:        Distributed crawler powered by Headless Chrome
+intercooler-js:        Making AJAX as easy as anchor tags
+peity:        Progressive <svg> pie, donut, bar and line charts
+jquery-tips-everyone-should-know:        A collection of tips to help up your jQuery game
+jquery-timeago:        🕗 The original jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
+pagePiling.js:        pagePiling plugin by Alvaro Trigo. Create a scrolling pile of sections. http://alvarotrigo.com/pagePiling/
+pnotify:        Beautiful JavaScript notifications with Web Notifications support.
+jquery.scrollTo:        Lightweight, cross-browser and highly customizable animated scrolling with jQuery
+laravel-datatables:        jQuery DataTables API for Laravel 4|5|6|7
+textillate:        A jquery plugin for CSS3 text animations.
+tabulator:        Interactive Tables and Data Grids for JavaScript
+jodd:        Jodd! Lightweight. Java. Zero dependencies. Use what you like.
+datetimepicker:        jQuery Plugin Date and Time Picker
+jquery-match-height:        a responsive equal heights plugin
+artDialog:        经典的网页对话框组件
+VvvebJs:        Drag and drop website builder javascript library.
+sticky-kit:        A jQuery plugin for creating smart sticky elements
+tilt.js:        A tiny 60+fps parallax tilt hover effect for jQuery.
+sidr:        Sidr is a jQuery plugin for creating side menus and the easiest way for doing your menu responsive.
+reqwest:        browser asynchronous http requests
+Modaal:        An accessible dialog window library for all humans.
+tablesorter:        Github fork of Christian Bach's tablesorter plugin + awesomeness ~
+survey-library:        JavaScript Survey and Form Library
+kendo-ui-core:        An HTML5, jQuery-based widget library for building modern web apps.
+jquery-modal:        The simplest possible modal for jQuery
+Uniform:        A jQuery plugin to make your form controls look how you want them to. Now with HTML-5 attributes!
+phantomas:        PhantomJS-based web performance metrics collector and monitoring tool
+Bridge:        ♠️ C# to JavaScript compiler. Write modern mobile and web apps in C#. Run anywhere with Bridge.NET.
+iziModal:        Elegant, responsive, flexible and lightweight modal plugin with jQuery.
+jQuery-contextMenu:        jQuery contextMenu plugin & polyfill
+jcarousel:        Riding carousels with jQuery.
+jQuery-:        jQuery源码解析
+featherlight:        Featherlight is a very lightweight jQuery lightbox plugin. It's simple yet flexible and easy to use. Featherlight has minimal css and uses no inline styles, everything is name-spaced, it's completely customizable via config object and offers image, ajax and iframe support out of the box. Featherlights small footprint weights about 4kB – in total.
+OrgChart:        It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
+pyquery:        A jquery-like library for python
+sticky-sidebar:        😎 Pure JavaScript tool for making smart and high performance sticky sidebar.
+jeecg:        JEECG是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单) - > 代码生成器模式 - > 手工MERGE智能开发)， 可以帮助解决Java项目90%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。具备：表单配置能力（无需编码）、移动配置能力、工作流配置能力、报表配置能力（支持移动端）、插件开发能力（可插拔）
+metismenu:        A jQuery menu plugin
+100-days-of-code-frontend:        Curriculum for learning front-end development during #100DaysOfCode.
+mark.js:        JavaScript keyword highlighting. Mark text with with options that fit every application. Also available as jQuery plugin.
+jquery_jeditable:        jQuery edit in place plugin. Extendable via plugin architecture. Plugins for plugin. Really.
+notifyjs:        Notify.js - A simple, versatile notification library
+funiture:        慕课网课程推荐 Java并发编程与高并发解决方案：http://coding.imooc.com/class/195.html Java开发企业级权限管理系统：http://coding.imooc.com/class/149.html github: https://github.com/kanwangzjm/funiture, spring项目，权限管理、系统监控、定时任务动态调整、qps限制、sql监控(邮件)、验证码服务、短链接服务、动态配置等
+jquery-confirm:        A multipurpose plugin for alert, confirm & dialog, with extended features.
+modoboa:        Mail hosting made simple
+Keyboard:        Virtual Keyboard using jQuery ~
+widget:        A set of widgets based on jQuery&&javascript. 一套基于jquery或javascript的插件库 ：轮播、标签页、滚动条、下拉框、对话框、搜索提示、城市选择(城市三级联动)、日历等
+jquery.serializeJSON:        Serialize an HTML Form to a JavaScript Object, supporting nested attributes and arrays.
+fotorama:        A simple, stunning, powerful jQuery gallery.
+frontendDaily:        前端开发技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch
+pushy:        Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.
+mobiscroll:        Cross platform UI controls for progressive web and hybrid apps (plain JS, jQuery, Angular and React)
+multiscroll.js:        multiscroll plugin by Alvaro Trigo. Create scrolling split websites. http://alvarotrigo.com/multiScroll/
+jQuery-rwdImageMaps:        Responsive Image Maps jQuery Plugin
+bootstrap-colorpicker:        Bootstrap Colorpicker is a modular color picker plugin for Bootstrap.
+jeesite4:        Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE），在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源
+jvectormap:        https://github.com/bjornd/jvectormap
+jeeplatform:        一款企业信息化开发基础平台，拟集成OA(办公自动化)、CMS(内容管理系统)等企业系统的通用业务功能 JeePlatform项目是一款以SpringBoot为核心框架，集ORM框架Mybatis，Web层框架SpringMVC和多种开源组件框架而成的一款通用基础平台，代码已经捐赠给开源中国社区
+floatThead:        Fixed <thead>. Doesn't need any custom css/html. Does what position:sticky can't
+autocomplete.js:        🔮 Fast and full-featured autocomplete library
+real-shadow:        Module that casts photorealistic shadows
+awesome-grid:        A curated list of grid(table) libraries and resources that developers may find useful.
+jquery-circle-progress:        jQuery Plugin to draw animated circular progress bars
+maplace.js:        A Google Maps Javascript plugin for jQuery.
+vue2-admin-lte:        📊 adminLTE to vuejs v2.x converting project
+uploader:        A lightweight and very configurable jQuery plugin for file uploading using ajax(a sync); includes support for queues, progress tracking and drag and drop.
+viewer:        ⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-viewer
+jqTree:        Tree widget for jQuery
+bootstrap-star-rating:        A simple yet powerful JQuery star rating plugin with fractional rating support.
+jquery-minicolors:        jQuery MiniColors Plugin

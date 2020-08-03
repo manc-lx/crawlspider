@@ -1,0 +1,91 @@
+Django is a web application framework for Python.
+django:        The Web framework for perfectionists with deadlines.
+sentry:        Sentry is cross-platform application monitoring, with a focus on error reporting.
+django-rest-framework:        Web APIs for Django. 🎸
+jumpserver:        JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
+awesome-cheatsheets:        👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+Zappa:        Serverless Python
+wagtail:        A Django content management system focused on flexibility and user experience
+saleor:        A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
+awx:        AWX Project
+django-cms:        The easy-to-use and developer-friendly CMS
+graphite-web:        A highly scalable real-time graphing system
+cabot:        Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
+django-oscar:        Domain-driven e-commerce for Django
+OnlineJudge:        open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
+DjangoBlog:        🍺基于Django的博客系统
+healthchecks:        A Cron Monitoring Tool written in Python & Django
+graphene-django:        Integrate GraphQL into your Django project.
+django-rest-framework-jwt:        JSON Web Token Authentication support for Django REST Framework
+django-jet:        Modern responsive template for the Django admin interface with improved functionality. We are proud to announce completely new Jet. Please check out Live Demo
+posthog:        🦔 PostHog is developer-friendly, open-source product analytics.
+adminset:        自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
+django-react-redux-base:        Seedstars Labs Base Django React Redux Project
+awesome-django:        A curated list of awesome things related to Django
+django-shop:        A Django based shop system
+django-bootstrap3:        Bootstrap 3 integration with Django.
+django-material:        Material Design for Django
+django-webpack-loader:        Transparently use webpack with django
+django-rest-auth:        This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON)
+Gerapy:        Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
+django-suit:        Modern theme for Django admin interface
+weblate:        Web based localization tool with tight version control integration.
+django-blog-zinnia:        Simple yet powerful and really extendable application for managing a blog within your Django Web site.
+bootcamp:        An enterprise social network
+django-oauth-toolkit:        OAuth2 goodies for the Djangonauts!
+ownphotos:        Self hosted alternative to Google Photos
+django-sspanel:        用diango开发的shadowsocks/V2ray面板
+Misago:        Misago is fully featured modern forum application that is fast, scalable and responsive.
+authlib:        The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
+django-environ:        Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
+django-import-export:        Django application and library for importing and exporting data with admin integration.
+viewflow:        Reusable workflow library for Django
+awesome-opensource-apps:        🏠ℹ️ Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
+pongo2:        Django-syntax like template-engine for Go
+drf-yasg:        Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
+pyinstrument:        🚴 Call stack profiler for Python. Shows you why your code is slow!
+django-storages:        https://django-storages.readthedocs.io/
+django-braces:        Reusable, generic mixins for Django
+django-push-notifications:        Send push notifications to mobile devices through GCM or APNS in Django.
+modoboa:        Mail hosting made simple
+django-fsm:        Django friendly finite state machine support
+timestrap:        Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
+pinry:        The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
+Wooey:        A Django app that creates automatic web UIs for Python scripts.
+askbot-devel:        Askbot is a Django/Python Q&A forum. **Contributors README**: https://github.com/ASKBOT/askbot-devel#how-to-contribute. Commercial hosting of Askbot and support are available at https://askbot.com
+ralph:        Ralph is the CMDB / Asset Management system for data center and back office hardware.
+django-autocomplete-light:        A fresh approach to autocomplete implementations, specially for Django. Status: v3 stable, 2.x.x stable, 1.x.x deprecated. Please DO regularely ping us with your link at #yourlabs IRC channel
+django-celery:        Old Celery integration project for Django
+django-th:        🐍 Trigger Happy - The bus 🚌 for your internet services
+django-wiki:        A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
+shuup:        E-Commerce Platform
+django-DefectDojo:        DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
+pootle:        Online translation tool
+django-filer:        File and Image Management Application for django
+django-tables2:        django-tables2 - An app for creating HTML tables
+django-cacheops:        A slick ORM cache with automatic granular event-driven invalidation.
+arguman.org:        〽️argument mapping platform, a django project
+django-rq:        A simple app that provides django integration for RQ (Redis Queue)
+tera:        A template engine for Rust based on Jinja2/Django
+wger:        Self hosted FLOSS fitness/workout and weight tracker written with Django
+reminiscence:        Self-Hosted Bookmark And Archive Manager
+evennia:        Python MUD/MUX/MUSH/MU* development system
+dynaconf:        Configuration Management for Python 🔧 ⚙
+django-helpdesk:        A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
+django-rules:        Awesome Django authorization, without the database
+django-simple-captcha:        Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.
+archer:        基于inception的自动化SQL操作平台，支持SQL执行、LDAP认证、发邮件、OSC、SQL查询、SQL优化建议、权限管理等功能，支持docker镜像
+jsonfield:        A reusable Django model field for storing ad-hoc JSON data
+see:        基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核&SQL优化的Web平台
+ara:        ARA Records Ansible playbooks and makes them easier to understand and troubleshoot. This is the GitHub mirror for https://opendev.org/recordsansible/ara.
+webargs:        A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.
+django-notifications:        GitHub notifications alike app for Django
+webterminal:        ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
+cmdb:        cmdb saltstack
+Spirit:        Spirit is a modern Python based forum built on top of Django framework
+django-dynamic-scraper:        Creating Scrapy scrapers via the Django admin interface
+django-polymorphic:        Improved Django model inheritance with automatic downcasting
+Guides:        Guides for learning + doing better web and app development. Created by Coding for Entrepreneurs.
+awesome-django-cn:        Django 优秀资源大全。
+django-extra-views:        Django's class-based generic views are awesome, let's have more of them.
+django-rest-pandas:        📊📈 Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)

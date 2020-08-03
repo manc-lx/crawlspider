@@ -1,0 +1,91 @@
+Parsing is the process of analyzing a string of symbols conforming to the rules of a formal grammar.
+CyberChef:        The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+antlr4:        ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+esprima:        ECMAScript parsing infrastructure for multipurpose analysis
+acwj:        A Compiler Writing Journey
+node-xml2js:        XML to JavaScript object converter.
+SBJson:        This framework implements a strict JSON parser and generator in Objective-C.
+PhoneNumberKit:        A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
+pydantic:        Data parsing and validation using Python type hints
+reek:        Code smell detector for Ruby
+maya:        Datetimes for Humans™
+estree:        The ESTree Spec
+tree-sitter:        An incremental parsing system for programming tools
+ohm:        A library and language for building parsers, interpreters, compilers, etc.
+jsmn:        Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
+pest:        The Elegant Parser
+gabs:        For parsing, creating and editing unknown or dynamic JSON in Go
+wuffs:        Wrangling Untrusted File Formats Safely
+fecha:        Lightweight and simple JS date formatting and parsing
+LIEF:        LIEF - Library to Instrument Executable Formats
+CppSharp:        Tools and libraries to glue C/C++ APIs to high-level languages
+abot:        Cross Platform C# web crawler framework built for speed and flexibility. Please star this project! +1.
+cherow:        Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
+Down:        Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
+command-line-api:        System.CommandLine: Command line parsing, invocation, and rendering of terminal output.
+chevrotain:        Parser Building Toolkit for JavaScript
+dateutil:        Useful extensions to the standard Python datetime features
+govaluate:        Arbitrary expression evaluation for golang
+ImportJSON:        Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
+Making-a-custom-React-renderer:        Tutorial on how to make a custom React renderer
+Rubberduck:        Every programmer needs a rubberduck. COM add-in for the VBA & VB6 IDE (VBE).
+PEGTL:        Parsing Expression Grammar Template Library
+php-svg-lib:        SVG file parsing / rendering library
+plaso:        Super timeline all the things
+moment.php:        Parse, validate, manipulate, and display dates in PHP w/ i18n support. Inspired by moment.js
+react-native-parsed-text:        Parse text and make them into multiple React Native Text elements
+FeedKit:        An RSS, Atom and JSON Feed parser written in Swift
+ason:        [DEPRECATED]: Prefer Moshi, Jackson, Gson, or LoganSquare
+pyparsing:        Python library for creating PEG parsers
+readr:        Read flat files (csv, tsv, fwf) into R
+logos:        Create ridiculously fast Lexers
+m3u8:        Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. 🎦
+rust-peg:        Parsing Expression Grammar (PEG) parser generator for Rust
+comby:        A tool for structural code search and replace that supports ~every language.
+phonelib:        Ruby gem for phone validation and formatting using google libphonenumber library data
+neon:        🍸 Encodes and decodes NEON file format.
+owl:        A parser generator for visibly pushdown languages.
+rjsx-mode:        A JSX major mode for Emacs
+bottlenose:        A Python wrapper for the Amazon Product Advertising API.
+meriyah:        A 100% compliant, self-hosted javascript parser - https://meriyah.github.io/meriyah
+fhir-net-api:        The official .NET API for HL7 FHIR
+self-attentive-parser:        High-accuracy NLP parser with models for 11 languages.
+scala-parser-combinators:        simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module
+Multi-Human-Parsing:        🔥🔥Official Repository for Multi-Human-Parsing (MHP)🔥🔥
+opensource:        Delivering delightful digital solutions. Open Source packages with combined ~68M/month downloads, semantically versioned following @conventional-commits. Fully powered by Jest, @babel TypeScript, @airbnb @eslint + @prettier, @yarnpkg + @lerna independent versioning, GH @actions & automated dep updates with @renovatebot.
+jikan:        Unofficial MyAnimeList PHP+REST API which provides functions other than the official API
+Pidgin:        C#'s fastest parser combinator library, developed at Stack Overflow.
+SharpConfig:        An easy to use CFG/INI configuration library for .NET.
+binjs-ref:        Reference implementation for the JavaScript Binary AST format
+PSPNet-Keras-tensorflow:        TensorFlow implementation of original paper : https://github.com/hszhao/PSPNet
+angstrom:        Parser combinators built for speed and memory efficiency
+csv:        CSV Decoding and Encoding for Elixir
+nlpnet:        A neural network architecture for NLP tasks, using cython for fast performance. Currently, it can perform POS tagging, SRL and dependency parsing.
+see-phit:        A C++ HTML template engine that uses compile time HTML parsing
+como-lang-ng:        como-lang-ng is now ana-lang, located at https://github.com/analang/ana
+jsoniter-scala:        Scala macros for compile-time generation of safe and ultra-fast JSON codecs
+cpp-peglib:        A single file C++ header-only PEG (Parsing Expression Grammars) library
+seafox:        A blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript
+jflex:        The fast scanner generator for Java™ with full Unicode support
+MachO-Kit:        A C/Objective-C library for parsing Mach-O files.
+atto:        friendly little parsers
+ClangKit:        ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
+scnlib:        scanf for modern C++
+pom:        PEG parser combinators using operator overloading without macros.
+Serpent:        A protocol to serialize Swift structs and classes for encoding and decoding.
+phply:        PHP parser written in Python using PLY
+json-machine:        Efficient, easy-to-use and fast PHP JSON stream parser
+StringsAreEvil:        Reducing memory allocations from 7.5GB to 32KB
+VnCoreNLP:        A Vietnamese natural language processing toolkit (NAACL 2018)
+creek:        Ruby library for parsing large Excel files.
+tag:        ID3, MP4 and OGG/FLAC metadata parsing in Go
+funcparserlib:        Recursive descent parsing library for Python based on functional combinators
+NLPython:        This repository contains the code related to Natural Language Processing using python scripting language. All the codes are related to my book entitled "Python Natural Language Processing"
+emacs-tree-sitter:        Tree-sitter for Emacs
+gval:        Expression evaluation in golang
+semantic-csv:        Higher level tools for working with CSV data and files
+neodoc:        Beautiful, hand-crafted commandline interfaces for node.js
+semver:        Semantic version parsing and comparison.
+UserAgentParser:        UserAgent parsing done right
+cbor:        CBOR support for serde.
+pollinate:        Template your base files and generate new projects from Git(Hub).

@@ -1,0 +1,86 @@
+Emojis are graphic symbols that represent an emotion, object, or concept.
+marktext:        📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+rich:        Rich is a Python library for rich text and beautiful formatting in the terminal.
+gitmoji:        An emoji guide for your commit messages. 😜
+Coding-iOS:        CODING iOS 客户端源代码
+gemoji:        Emoji images and names.
+emoji-mart:        One component to pick them all 👊🏼
+PhotoEditor:        A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.
+gitmoji-cli:        A gitmoji interactive command line tool for using emojis on commits. 💻
+subconverter:        Utility to convert between various subscription format
+mojibar:        🍊 Emoji searcher but as a menubar app.
+emoji:        🚀 Find the emoji(Unicode)
+free-gophers-pack:        ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
+emoji-cheat-sheet:        A markdown version emoji cheat sheet
+EmojiPackage:        A rich emoji package resources
+git-commit-emoji-cn:        😁 git commit message emoji 使用指南
+emojipacks:        CLI to bulk upload emojis to your Slack
+embed-js:        🌻 A lightweight plugin to embed emojis, media, maps, tweets, code and more. ✨
+emojilib:        📖 Emoji keyword library.
+Emoji:        A simple library to add Emoji support to your Android Application
+openmoji:        Open source emojis for designers, developers and everyone else!
+emoji-regex:        A regular expression to match all Emoji-only symbols as per the Unicode Standard.
+styleguide-git-commit-message:        /sBin/StyleGuide/Git/CommitMessage
+emojione-color-font:        End of Life. Switch to https://github.com/eosrei/twemoji-color-font
+node-emoji:        😏 simple emoji support for node.js projects
+SBSAnimoji:        🐵 Animoji app using Apples AvatarKit
+twemoji-color-font:        Twitter Unicode 12 emoji color SVGinOT font for Linux/MacOS/Windows
+awesome-typography:        ✏︎ Curated list about digital typography 🔥
+jeelizWeboji:        JavaScript/WebGL real-time face tracking and expression detection library. Build your own emoticons animated in real time in the browser! SVG and THREE.js integration demos are provided.
+react-rewards:        Package containing a few microinteractions you can use to reward your users for little things and make them smile!
+AGEmojiKeyboard:        Emoji Keyboard for iOS
+emoji-minesweeper:        💥💣💥
+ecoji:        Encodes (and decodes) data as emojis
+oji:        (◕‿◕) Text Emoticons Maker
+electron-markdownify:        📕 A minimal Markdown editor desktop app
+opensource-socialnetwork:        Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. It is available in 16 international languages.
+GSYRickText:        类似微博的emoji表情、@人、话题等的EdiText，优化了编辑框中的光标点击和删除处理。TextView支持emoji表情、话题、链接、电话和@某人特殊显示的文本。
+Emojix:        Implementation of iOS style emoji on android.
+ngx-markdown:        Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight
+Countries:        Countries, Languages & Continents data (capital and currency, native name, calling codes).
+uni:        Query the Unicode database from the commandline, with good support for emojis
+emoji-button:        Vanilla JavaScript emoji picker component
+emoji-mart-vue:        One component to pick them all 👊🏼
+Emoji-Log:        Emoji-Log — An Emoji Git commit log messages spec standard. [ 📦👌🐛📖🚀🤖 ‼️]
+yeetgif:        gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
+TextInlineSprite:        UGUI图文混排 unity version: 2017.2+
+wdt-emoji-bundle:        Slack like emoji picker with apple/ios, twitter/twemoji, google, emojione, facebook, messenger emoji support
+interweave:        🌀 React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
+emoji-picker-element:        A lightweight emoji picker for the modern web
+partyparrot:        🎉 🐦 Very Serious Code ™️ that generates huge slack messages with emojis.
+PPStickerKeyboard:        iOS 表情键盘
+ISEmojiView:        Emoji Keyboard for iOS
+Smile:        😄 Emoji in Swift
+SuperNova-Emoji:        library to implement and render emojis For Android
+alfred-emoj:        Alfred 3 workflow to find relevant emoji from text
+vue-emoji:        😄 🦐 😳
+KeyboardKit:        KeyboardKit is a Swift library that helps you create iOS keyboard extensions.
+xxl-tool:        a series of tools that make Java development more efficient.（Java工具类库XXL-TOOL）
+TTGEmojiRate:        An emoji-liked rating view for iOS, implemented in Swift3.
+Android-SlidingEmojiKeyboard:        Our Sliding Emoji Keyboard app.
+slack-emojinator:        Bulk upload emoji into Slack
+emo:        Easily insert emoji into R and RMarkdown
+Facemoji:        😆 A voice chatbot that can imitate your expression. OpenCV+Dlib+Live2D+Moments Recorder+Turing Robot+Iflytek IAT+Iflytek TTS
+ngx-emoji-mart:        Customizable Slack-like emoji picker for Angular
+em-keyboard:        the cli emoji keyboard™ [ Originally owned by @kennethreitz ]
+SpEditTool:        An efficient and scalable library for inputing and displaying gif or @mention on graph-text mixed TextView/EditText
+console-dot-emoji:        🍕 Custom Console Logging with Emoji
+Animoji:        Animoji Generator 🦊
+blobmoji:        Noto Emoji with extended Blob support
+emojitwo:        Fork of the last fully free EmojiOne™ 2 artwork
+java-china:        🍡 此项目已废弃，请移步至 https://github.com/junicorn/roo
+base100:        base💯 - Encode your data into emoji
+react-tater:        A React component to add annotations to any element on a page 🥔
+emojisum:        🙏 📎 Emoji that checksum! 🎉 💩
+java-emoji-converter:        Emoji转换工具，便于各种类型的客户端生成的Emoji字符串转换成另外一种格式
+iconify:        Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other icon sets (60+ icon sets, 50,000+ icons).
+react-emoji-render:        Normalize and render emoji's the way your users expect.
+emojibase:        🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
+emoji-keyboard:        Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
+Emojipedia:        MacOS X Dictionary containing Emoji and their meanings
+Typography:        C# Font Reader (TrueType / OpenType / OpenFont / CFF / woff / woff2) , Glyphs Layout and Rendering
+rofimoji:        A simple emoji and character picker for rofi 😁
+gitmoji-changelog:        A changelog generator for gitmoji 😜
+emoji-helper:        A small cross-browser emoji cheatsheet extension 👍
+TextFormatter:        Text formatting library that supports BBCode, HTML and other markup via plugins. Handles emoticons, censors words, automatically embeds media and more.
+emojify-webpack-plugin:        🦄 Turn your code into emoji

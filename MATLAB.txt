@@ -1,0 +1,91 @@
+MATLAB is a programming platform for numerical computation and visualization.
+PRMLT:        Matlab code for machine learning algorithms in book PRML
+Realtime_Multi-Person_Pose_Estimation:        Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)
+arl:        lists of most popular repositories for most favoured programming languages (according to StackOverflow)
+MathModel:        研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT
+Lenia:        Lenia - Mathematical Life Forms
+matlab2tikz:        This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.
+facerec:        Implements face recognition algorithms for MATLAB/GNU Octave and Python.
+Image-feature-detection-using-Phase-Stretch-Transform:        PST or Phase Stretch Transform is an operator that finds features in an image. PST implemented using MATLAB here, takes an intensity image I as its input, and returns a binary image out of the same size as I, with 1's where the function finds sharp transitions in I and 0's elsewhere.
+Algorithms_MathModels:        【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理）
+awesome-neuroscience:        A curated list of awesome neuroscience libraries, software and any content related to the domain.
+machine-learning-octave:        🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained
+lrslibrary:        Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos
+casadi:        CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.
+probabilistic_robotics:        solution of exercises of the book "probabilistic robotics"
+matlab-schemer:        Apply and save color schemes in MATLAB with ease.
+robotics-toolbox-matlab:        Robotics Toolbox for MATLAB
+gramm:        Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library.
+fieldtrip:        The MATLAB toolbox for MEG, EEG and iEEG analysis
+armadillo-code:        Armadillo: fast C++ library for linear algebra & scientific computing - http://arma.sourceforge.net
+vot-toolkit:        Visual Object Tracking (VOT) challenge evaluation toolkit
+hctsa:        Highly comparative time-series analysis code repository
+deeplearningsourceseparation:        Deep Recurrent Neural Networks for Source Separation
+SRMD:        Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)
+CBDNet:        Code for "Toward Convolutional Blind Denoising of Real Photographs", CVPR 2019
+PlatEMO:        Evolutionary multi-objective optimization platform
+BTCpredictor:        Bitcoin price prediction algorithm using bayesian regression techniques
+MATLABRobotics:        MATLAB sample codes for mobile robot navigation
+CurvatureFilter:        Curvature Filters are efficient solvers for Variational Models
+2016_person_re-ID:        TOMM2017 A Discriminatively Learned CNN Embedding for Person Re-identification
+LightNet:        Efficient, transparent deep learning in hundreds of lines of code.
+DeepSqueak:        DeepSqueak: A Deep Learning Based System for Quantification of Ultrasonic Vocalizations
+DynamixelSDK:        ROBOTIS Dynamixel SDK (Protocol1.0/2.0)
+plotly-graphing-library-for-matlab:        Plotly Graphing Library for MATLAB®
+segyio:        Fast Python library for SEGY files.
+Bilibili346623:        Examples shown in Bilibili Live 346623
+OptimizedImageEnhance:        Several image/video enhancement methods, implemented by Java, to tackle common tasks, like dehazing, denoising, backscatter removal, low illuminance enhancement, featuring, smoothing and etc.
+SuiteSparse:        The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&M University
+colormap-shaders:        A collection of shaders to draw color maps.
+TCDCN-face-alignment:        Matlab implementation of facial landmark detection by deep multi-task learning
+YALMIP:        MATLAB toolbox for optimization modeling
+Pedestrian_Alignment:        TCSVT2018 Pedestrian Alignment Network for Large-scale Person Re-identification
+deeplearning_cv_notes:        📓 deepleaning notes.
+HDR_Toolbox:        HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
+Image-Text-Embedding:        TOMM2020 Dual-Path Convolutional Image-Text Embedding https://arxiv.org/abs/1711.05535
+3DMMasSTN:        MatConvNet implementation for incorporating a 3D Morphable Model (3DMM) into a Spatial Transformer Network (STN)
+MBeautifier:        MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.
+jsonlab:        JSONLab: a native JSON/UBJSON/MassagePack encoder/decoder for MATLAB/Octave
+facerecognition_guide:        This is a guide to face recognition with Python, GNU Octave/MATLAB and OpenCV2 C++. Eigenfaces and Fisherfaces are explained in detail and implemented.
+awesome_deep_learning_interpretability:        深度学习近年来关于神经网络模型解释性的相关高引用/顶会论文(附带代码)
+CaImAn-MATLAB:        Complete Matlab pipeline for large scale calcium imaging data analysis
+matio:        MATLAB MAT File I/O Library
+Vehicle_Detection_Recognition:        This is a Matlab lesson design for vehicle detection and recognition. Using cifar-10Net to training a RCNN, and finetune AlexNet to classify. Thanks to Cars Dataset:http://ai.stanford.edu/~jkrause/cars/car_dataset.html
+TIGRE:        TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox
+MachineLearning_Ng:        吴恩达机器学习coursera课程，学习代码(2017年秋) The Stanford Coursera course on MachineLearning with Andrew Ng
+cnnimageretrieval:        CNN Image Retrieval in MatConvNet: Training and evaluating CNNs for Image Retrieval in MatConvNet
+Fall-Detection:        Human Fall Detection from CCTV camera feed
+bads:        Bayesian Adaptive Direct Search (BADS) optimization algorithm for model fitting in MATLAB
+matGeom:        Matlab geometry toolbox for 2D/3D geometric computing
+openAlgo:        💹 openAlgo is a public repository for various work product relavant to algorithms and the high frequency low latency electronic trading space with a bias toward market microstructure as well as exchange traded futures and options.
+erplab:        ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data. It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools for ERP processing, visualization, and analysis. A graphical user interface makes it easy for beginners to learn, and Matlab scripting provides eno…
+2015_Face_Detection:        CVPR2015 Cascade CNNs for Face Detection
+Miscellaneous-R-Code:        Code that might be useful to others for learning/demonstration purposes, specifically along the lines of modeling and various algorithms.
+revisitop:        Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking
+Stereo-Odometry-SOFT:        MATLAB Implementation of Visual Odometry using SOFT algorithm
+robotcar-dataset-sdk:        Software Development Kit for the Oxford Robotcar Dataset
+jidt:        JIDT: Java Information Dynamics Toolkit for studying information-theoretic measures of computation in complex systems
+panorama:        Image alignment and stitching with MATLAB
+dPCA:        An implementation of demixed Principal Component Analysis (a supervised linear dimensionality reduction technique)
+DeepCO3:        [CVPR19] DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency (Oral paper)
+RobustPCA:        Robust PCA implementation and examples (Matlab)
+ANMS-Codes:        Efficient adaptive non-maximal suppression algorithms for homogeneous spatial keypoint distribution
+NMFLibrary:        MATLAB library for non-negative matrix factorization (NMF): Version 1.8.0
+MATLAB-Octave:        This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.
+nfft:        The official NFFT library repository
+project-pages:        Fork this repo for a quick start. If "Project Timeline" or "License" appeared on your nav bar, Look Below!
+Peroxide:        Rust numeric library with R, MATLAB & Python syntax
+machinevision-toolbox-matlab:        Machine Vision Toolbox for MATLAB
+mtex:        MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage:
+audio-steganography-algorithms:        A Library of Audio Steganography & Watermarking Algorithms
+optimviz:        Visualize optimization algorithms in MATLAB.
+imatlab:        A Jupyter kernel for MATLAB.
+MIToolbox:        Mutual Information functions for C and MATLAB
+vbmc:        Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
+matlabPlotCheatsheet:        A cheatsheet for those who plot with MATLAB
+MSS:        Marine Systems Simulator (MSS)
+vscode-matlab:        MATLAB support for Visual Studio Code
+genetic-algorithm:        遗传算法 - Matlab
+MALSAR:        Multi-task learning via Structural Regularization
+iso2mesh:        Iso2Mesh - a 3D surface and volumetric mesh generator for MATLAB/Octave
+L1Stabilizer:        🎥 Video stabilization using L1-norm optimal camera paths.

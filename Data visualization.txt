@@ -1,0 +1,91 @@
+Data visualization is the graphic representation of data and trends.
+grafana:        The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+pixi.js:        The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+metabase:        The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+awesome-datascience:        📝 An awesome Data Science repository to learn and apply for real world problems.
+dash:        Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+plotly.js:        Open-source JavaScript charting library behind Plotly and Dash
+streamlit:        Streamlit — The fastest way to build data apps in Python
+G2:        📊 A highly interactive data-driven visualization grammar for statistical charts.
+apexcharts.js:        📊 Interactive JavaScript Charts built on SVG
+awesome-bigdata:        A curated list of awesome big data frameworks, ressources and other awesomeness.
+c3:        📊 A D3-based reusable chart library
+victory:        A collection of composable React components for building interactive data visualizations
+deck.gl:        WebGL2 powered geospatial visualization layers
+OpenRefine:        OpenRefine is a free, open source power tool for working with messy data and improving it
+seaborn:        Statistical data visualization using matplotlib
+vx:        🐯react + d3 = vx | visualization components
+F2:        📱📈An elegant, interactive and flexible charting library for mobile.
+react-vis:        Data Visualization Components
+raw:        The missing link between spreadsheets and data visualization
+kepler.gl:        Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
+awesome-creative-coding:        Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+facets:        Visualizations for machine learning datasets
+sourcerer-app:        🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
+react-map-gl:        React friendly API wrapper around MapboxGL JS
+roughViz:        Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+heatmap.js:        🔥 JavaScript Library for HTML5 canvas based heatmaps
+BizCharts:        Powerful data visualization library based on G2 and React.
+clip:        Create charts from the command line
+GoJS:        JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+tui.chart:        🍞📊 Beautiful chart for data visualization.
+SandDance:        Visually explore, understand, and present your data.
+Historical-ranking-data-visualization-based-on-d3.js:        这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
+Live-Charts:        Simple, flexible, interactive & powerful charts, maps and gauges for .Net
+britecharts:        Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
+sqlpad:        Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
+perspective:        Streaming pivot visualization via WebAssembly
+awesome-dataviz:        📈 A curated list of awesome data visualization libraries and resources.
+CBoard:        An easy to use, self-service open BI reporting and BI dashboard platform.
+davinci:        Davinci is a DVsaaS (Data Visualization as a Service) Platform
+inmap:        大数据地理可视化
+react-trend:        📈 Simple, elegant spark lines
+missingno:        Missing data visualization module for Python.
+orange3:        🍊 📊 💡 Orange: Interactive data analysis https://orange.biolab.si
+datascience:        Curated list of Python resources for data science.
+tablesaw:        Java dataframe and visualization library
+semiotic:        A data visualization framework combining React & D3
+iDataV:        大屏数据可视化 Big screen data visualization demo
+calendar-heatmap:        A d3 heatmap for representing time series data similar to github's contribution chart
+matplotlib-cheatsheet:        Matplotlib 3.1 cheat sheet.
+L7:        🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.
+plotly:        An interactive graphing library for R
+victory-native:        victory components for react native
+luma.gl:        High-performance Toolkit for WebGL-based Data Visualization
+poli:        An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
+electricitymap-contrib:        A real-time visualisation of the CO2 emissions of electricity consumption
+hypertools:        A Python toolbox for gaining geometric insights into high-dimensional data
+gganimate:        A Grammar of Animated Graphics
+AAChartKit-Swift:        📈📊📱📺💻An elegant and friendly data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful ,supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.极其精美而又强大的跨平台数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、…
+ervy:        Bring charts to terminal.
+DAT8:        General Assembly's 2015 Data Science course in Washington, DC
+just-dashboard:        📊 📋 Dashboards using YAML or JSON files
+awesome-single-cell:        Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.
+pbpython:        Code, Notebooks and Examples from Practical Business Python
+JSCity:        Visualizing JavaScript source code as navigable 3D cities
+ml-workspace:        🛠 All-in-one web-based IDE specialized for machine learning and data science.
+AnyChart-Android:        AnyChart Android Chart is an amazing data visualization library for easily creating interactive charts in Android apps. It runs on API 19+ (Android 4.4) and features dozens of built-in chart types.
+jvectormap:        https://github.com/bjornd/jvectormap
+datav:        Datav is a data visualization platform focused on data analytics and observation,providing metrics/logs/traces visualization.
+wesanderson:        A Wes Anderson color palette for R
+3d-force-graph:        3D force-directed graph component using ThreeJS/WebGL
+rough-charts:        📈 A responsive, composable react charting library with a hand-drawn style.
+Dex:        Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.
+dtale:        Visualizer for pandas data structures
+muze:        Composable data visualisation library for web with a data-first approach
+chart:        Create the most popular types of charts by real or random data
+tsne-cuda:        GPU Accelerated t-SNE for CUDA with Python bindings
+esquisse:        RStudio add-in to make plots with ggplot2
+tabix:        Tabix.io UI
+awesome-business-intelligence:        Actively curated list of awesome BI tools. PRs welcome!
+vue-data-board:        A Data Analysis Board in Vue.
+helix-toolkit:        Helix Toolkit is a collection of 3D components for .NET.
+data-forge-ts:        The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
+php-spx:        A simple & straight-to-the-point PHP profiling extension with its built-in web UI
+awesome-clojurescript:        A community driven list of ClojureScript frameworks, libraries and wrappers.
+d4:        Data-Driven Declarative Documents
+D3-ID3:        iD3: an Integrated Development Environment for D3.js
+crayon:        A language-agnostic interface to TensorBoard
+hrbrthemes:        🔏 Opinionated, typographic-centric ggplot2 themes and theme components
+vue-apexcharts:        📊 Vue.js component for ApexCharts
+sweetviz:        Visualize and compare datasets, target values and associations, with one line of code.

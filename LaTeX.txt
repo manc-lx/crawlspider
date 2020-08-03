@@ -1,0 +1,89 @@
+LaTeX is a document preparation system.
+marktext:        📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+Awesome-CV:        📄 Awesome CV is LaTeX template for your outstanding job application
+PlotNeuralNet:        Latex code for making neural networks diagrams
+MathJax:        Beautiful math in all browsers
+milewski-ctfp-pdf:        Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+resume:        👾 My resume / 我的简历
+Begin-Latex-in-minutes:        📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
+paper-tips-and-tricks:        Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
+vimtex:        A modern vim plugin for editing LaTeX files.
+thuthesis:        LaTeX Thesis Template for Tsinghua University
+pandoc-latex-template:        A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
+Yosoro:        🍧Beautiful Markdown NoteBook. 🏖
+bookdown:        Authoring Books and Technical Documents with R Markdown
+latex-css:        LaTeX.css is a CSS library that makes your website look like a LaTeX document
+jabref:        Graphical Java application for managing BibTeX and biblatex (.bib) databases
+resumake.io:        📋 A website for automatically generating elegant LaTeX resumes.
+SJTUThesis:        上海交通大学 XeLaTeX 学位论文及课程论文模板 Shanghai Jiao Tong University XeLaTeX Thesis Template
+arxiv-latex-cleaner:        arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
+zotero-better-bibtex:        Make Zotero effective for us LaTeX holdouts
+json_resume:        Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON
+tikzcd-editor:        A simple visual editor for creating commutative diagrams.
+texme:        Self-rendering Markdown + LaTeX documents
+arxiv-vanity:        Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.
+tufte-latex:        A Tufte-inspired LaTeX class for producing handouts, papers, and books
+tikzplotlib:        Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX.
+texstudio:        TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
+awesome-resume-for-chinese:        📄 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
+matlab2tikz:        This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.
+LaTeX-Template-Cn:        \LaTeX 中文模版收集。
+cv-boilerplate:        Programmatic generation of high-quality CVs
+latex3:        The LaTeX3 Development Repository
+Russian-Phd-LaTeX-Dissertation-Template:        LaTeX-template for russian Phd thesis
+RichTextView:        iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links
+LaTeX-examples:        Examples for the usage of LaTeX
+cocalc:        CoCalc: Collaborative Calculation in the Cloud
+awk:        The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版
+DND-5e-LaTeX-Template:        LaTeX package to typeset material for the fifth edition of the "world's greatest roleplaying game".
+latex-mimosis:        A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis
+readme2tex:        Renders TeXy Math for Github Readmes
+SATySFi:        A statically-typed, functional typesetting system
+latexcv:        👔 A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
+mcdowell-cv:        A Nice-looking CV template made into LaTeX
+latex2e:        The LaTeX2e kernel
+Note-by-LaTeX:        《简单粗暴 LaTeX》源码 | A LaTeX handbook to help Chinese LaTeX learners.
+latex-homework-template:        🎓📄 The LaTeX file that I used as the base for all my homework in university.
+awesome-tikz:        A curated list of awesome TikZ documentations, libraries and resources
+engrafo:        Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
+business-card:        A business card in LaTeX.
+mdmath:        LaTeX Math for Markdown inside of Visual Studio Code.
+img2latex-mathpix:        An image to LaTeX tool by MathpixOCR API and JavaFX
+ctex-kit:        Macro Packages and Scripts for Chinese TeX users
+hydejack:        A boutique Jekyll theme for hackers, nerds, and academics
+ustcthesis:        LaTeX template for USTC thesis
+beamer:        A LaTeX class for producing presentations and slides
+invoice-boilerplate:        Simple automated LaTeX invoicing system
+ultimate-beamer-theme-list:        A collection of custom Beamer themes
+tinytex:        A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
+phd-thesis-template:        A LaTeX / XeLaTeX / LuaLaTeX PhD thesis template for Cambridge University Engineering Department (CUED)
+zjuthesis:        Zhejiang University Graduation Thesis LaTeX Template
+julia-vim:        Vim support for Julia.
+OSCP-Exam-Report-Template-Markdown:        📙 OSCP Exam Report Template in Markdown
+Excel2LaTeX:        The Excel add-in for creating LaTeX tables
+redpen:        RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
+pandoc-starter:        📄My pandoc markdown templates and makefiles
+ThesisUESTC:        ThesisUESTC-电子科技大学毕业论文模板
+T-414-AFLV:        T-414-ÁFLV: A Competitive Programming Course
+kableExtra:        Construct Complex Table with knitr::kable() + pipe.
+coursebook:        Open Source Introductory Systems Programming Textbook for the University of Illinois
+latex-templates:        A collection of LaTeX templates used for research, courses, and miscellanea.
+yaac-another-awesome-cv:        YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
+pytablewriter:        pytablewriter is a Python library to write a table in various formats: CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas / Python / reStructuredText / SQLite / TOML / TSV.
+fiduswriter:        Fidus Writer is an online collaborative editor for academics.
+knitr-examples:        A collection of knitr examples
+arxiv-style:        A Latex style and template for paper preprints (based on NIPS style)
+Algorithmic-Pseudocode:        This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
+TikZ:        Complete collection of my PGF/TikZ figures.
+textidote:        Spelling, grammar and style checking on LaTeX documents
+FlexibleRichTextView:        A view showing LaTeX, images, codes... You can customize tags as you want
+latex-online:        Online latex compiler. You give it a link, it gives you PDF
+letter-boilerplate:        Finest letter typesetting from the command line
+limecv:        A LaTeX CV Document Class
+latexindent.pl:        Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
+TwentySecondsCurriculumVitae-LaTex:        Write Beautiful Curriculum Vitae in LaTex, that ensures twenty seconds reading.
+crowbook:        Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
+TeXiFy-IDEA:        LaTeX support for the IntelliJ platform by JetBrains.
+MultiMarkdown-6:        Lightweight markup processor to produce HTML, LaTeX, and more.
+pgf:        A Portable Graphic Format for TeX
+mistletoe:        A fast, extensible and spec-compliant Markdown parser in pure Python.

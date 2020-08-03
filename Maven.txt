@@ -1,0 +1,89 @@
+Maven is a build automation tool used primarily for Java projects.
+jib:        🏗 Build container images for your Java applications.
+javacv:        Java interface to OpenCV, FFmpeg, and more
+shopping-management-system:        该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
+hope-boot:        🌱 Hope-Boot 一款现代化的脚手架项目
+kotlin-examples:        Various examples for Kotlin
+docker-maven-plugin:        Maven plugin for running and creating Docker images
+dockerfile-maven:        MATURE: A set of Maven tools for dealing with Dockerfiles
+maven:        Apache Maven core
+TelegramBots:        Java library to create bots using Telegram Bots API
+jitpack.io:        Documentation and issues of https://jitpack.io
+javacpp-presets:        The missing Java distribution of native C++ libraries
+PublicCMS:        现代化java cms，轻松支撑千万数据、千万PV；支持静态化，服务器端包含; 目前已经拥有全球0.0002%的用户，中国本土有北京两大地标(北海公园、中国尊大厦)官网、国家财政部、广电总局、央视影音后台、格兰仕、山西省工业和信息化厅、浙江省财政厅等正在使用；语言支持中、繁、日、英；是一个已走向海外的成熟CMS产品
+kft-activiti-demo:        Demo for workflow framework and BPM platform -- Activiti
+ssm-demo:        🍌Spring+SpringMVC+Mybatis+easyUI实现简单的后台管理系统
+iBase4J:        Spring，SpringBoot 2.0，SpringMVC，Mybatis，mybatis-plus，motan/dubbo分布式，Redis缓存，Shiro权限管理，Spring-Session单点登录，Quartz分布式集群调度，Restful服务，QQ/微信登录，App token登录，微信/支付宝支付；日期转换、数据类型转换、序列化、汉字转拼音、身份证号码验证、数字转人民币、发送短信、发送邮件、加密解密、图片处理、excel导入导出、FTP/SFTP/fastDFS上传下载、二维码、XML读写、高精度计算、系统配置工具类等等。
+My-Blog:        🌴A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
+spring-boot-quick:        🌿 基于springboot的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、spring-batch、异常处理、日志输出、多模块开发、多环境打包、缓存cache、爬虫、jwt、dubbo和Async等等📌
+spotless:        Keep your code spotless
+webdrivermanager:        Automatic management of Selenium WebDriver binaries
+git-commit-id-maven-plugin:        Maven plugin which includes build-time git repository information into an POJO / *.properties). Make your apps tell you which version exactly they were built from! Priceless in large distributed deployments... :-)
+aliyun-openapi-java-sdk:        Alibaba Cloud SDK for Java
+Android-Cookbook-Examples:        Contributed code examples from O'Reilly Android Cookbook. See #user-content-table README below!
+javafx-maven-plugin:        Maven plugin for JavaFX
+scala-steward:        🤖 A bot that helps you keeping your Scala projects up-to-date
+cas-overlay-template:        Apereo CAS WAR Overlay template
+elements-of-programming-interviews:        Method stubs and test cases for the problems from Elements of Programming Interviews
+ok-gradle:        IntelliJ/Android Studio plugin for searching artifacts ids of popular Java libraries.
+perfect-ssm:        🍇更完善的Spring+SpringMVC+Mybatis+easyUI后台管理系统(RESTful API+redis)
+spock-example:        Spock example specifications along with ready-to-go Gradle and Maven builds
+jforgame:        jforgame是一个一站式游戏服务端开发框架，包含游戏服，跨服，匹配服，后台管理系统等模块。同时提供大量业务案例以供学习。
+kubernetes-for-java-developers:        A Day in Java Developer’s Life, with a taste of Kubernetes
+java-sdk:        百度AI开放平台 Java SDK
+shop:        使用SSM实现的一个网上商城
+backend-boilerplates:        Boilerplate for Your Server Side(Backend) Application, Java | Spring(Boot, Cloud) | Node.js(Express, Koa, Egg) | Go | Python | DevOps 💫 服务端项目模板
+hahu:        参照知乎网做的一个简易版问答网站，后台采用Java语言，及Spring，SpringMVC，MyBatis等框架，模版引擎使用FreeMarker。数据库用到MySQL，Redis。
+Selenium-Maven-Template:        A maven template for Selenium that will let you check out and go.
+highdsa:        2018年本科毕设项目，已更新所有开发和部署文档。基于Dubbo、SSM、Shiro、ELK、ActiveMQ、Redis等实现的一套高可用、高性能、高可扩展的分布式系统架构，实现可支持业务的基础公共服务,API使用Restful风格对外暴露。已经实现的包括：发送邮件服务、FastDFS文件存储服务、ELK实时日志查询服务、Redis缓存服务、Mybatis数据库、阿里短信推送、Goeasy消息推送、Druid监控、ActiveMQ消息队列、shiro权限认证、cas单点登录、权限配置web系统、移动端后台系统。持续更新中......
+nguSeckill:        ✨ 整合IDEA+Maven+SSM框架的高并发的商品秒杀项目
+CookBook:        🎉🎉🎉JAVA高级架构师技术栈==任何技能通过 “刻意练习” 都可以达到融会贯通的境界，就像烹饪一样，这里有一份JAVA开发技术手册，只需要增加自己练习的次数。🏃🏃🏃
+SSM_BookSystem:        ssm demo，ssm详细教程，SSM简明教程：简单的十步教你搭建人生第一个SSM框架[ SSM框架整合教程(spring+spring mvc+mybatis+redis+maven+idea+bootstrap) ]
+Trampoline:        Admin Spring Boot Locally
+proguard-maven-plugin:        ProGuard Maven plugin that supports modularised ProGuard packages
+strongbox:        Strongbox is an artifact repository manager.
+luaunit:        LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be used directly or work with Continuous Integration platforms (Jenkins, Maven, ...).
+gradle-maven-publish-plugin:        Gradle plugin that configures an uploadArchives task to automatically upload all of your Java, Kotlin or Android libraries to any Maven instance.
+yan:        使用Maven构建，整合Dubbo+Zookeeper+SpringMVC+Spring+MyBatis+Redis支持分布式的高效率便捷开发框架
+fabric8-maven-plugin:        📢 This project is migrated to 👉 https://github.com/eclipse/jkube
+aem-project-archetype:        Maven template to create best-practice websites on AEM.
+maven-surefire:        Apache Maven Surefire
+gradle-nexus-plugin:        Gradle plugin for configuring and uploading artifacts to Sonatype Nexus
+samples:        JavaFX samples to run with different options and build tools
+TeamSpeak-3-Java-API:        A Java wrapper of TeamSpeak's 3 server query API.
+ThrskyShop:        线上购物平台开发 - Java-SSM-电商
+maven-plugins:        [deprecated] Mirror of Apache Maven plugins
+ueboot:        springboot2.2、spring-data-jpa、iView4、Vue2 、代码生成器、shiro权限管理、前后端分离、java后台管理系统快速开发框架，通过该框架可以在分钟级别内完成单表的前后端增删改查功能。脚手架工程: https://github.com/ueboot/ueboot-starter ，基于这个工程可以直接开发
+spring-dubbo-service:        微服务 spring dubbo项目：dubbo rpc；druid数据源连接池；mybatis配置集成，多数据源；jmx监控MBean；定时任务；aop；ftp；测试；Metrics监控；参数验证；跨域处理；shiro权限控制；consul服务注册，发现；redis分布式锁；SPI服务机制；cat监控；netty服务代理；websocket；disconf；mongodb集成；rest；docker；fescar
+ORCID-Source:        ORCID Open Source Project
+spring-framework-petclinic:        A Spring Framework application based on JSP, Spring MVC, Spring Data JPA, Hibernate and JDBC
+JavaStud:        Official, Main: This is Core/Advance java example series project. It help to learn java step by step using pdf tutorial provided here and corresponding demo project for the eclipse. Tag: Java Student, Java Stud, Stud Java, StudJava, Java Teachers, Studs Quick Start Guide, Studs Java, Object Oriented Programming, Core Java, Java SE, Java EE, Java…
+forbidden-apis:        Policeman's Forbidden API Checker
+appengine-maven-repository:        Free Private Maven repositories hosted on Google App-Engine, backed by Google Cloud Storage and deployed in less than 5 minutes.
+jhipster4-demo:        Blog demo app with JHipster 4
+maven-color:        A colorized Maven console
+dhis2-core:        DHIS 2 Core. Written in Java. Contains the service layer and Web API.
+versions-maven-plugin:        Versions Maven Plugin
+MicroModule:        Rebuild multiple complete module structures within the module.
+slack-webhook:        Slack WebHook Integration for Java
+sortpom:        Maven plugin that helps the user sort pom.xml.
+formatter-maven-plugin:        Formatter Maven Plugin
+Shop:        基于SpringMVC，Spring，Hibernate的网上商城。代码已久不维护...
+SimpleNet:        An easy-to-use, event-driven, asynchronous, network application framework compiled with Java 11.
+blog-tutorials:        ⭐ Codebase for the tutorials on my blog
+burp-retire-js:        Burp/ZAP/Maven extension that integrate Retire.js repository to find vulnerable Javascript libraries.
+Fame:        A blog power by spring-boot and vue
+sample-projects:        Sample project files for JavaCPP, JavaCPP Presets, and JavaCV
+rules_jvm_external:        Bazel rules to resolve, fetch and export Maven artifacts
+maven-git-versioning-extension:        This extension will virtually set project versions, based on current git branch or tag.
+seconds-kill:        基于 Springboot + Redis + Kafka 的秒杀系统，乐观锁 + 缓存 + 限流 + 异步，TPS 从 500 优化到 3000
+web-budget:        Sistema web para controle financeiro pessoal ou de pequenas empresas
+vertx-maven-starter:        Maven project template for Vert.x
+Java-Markdown-Generator:        Java library to generate markdown
+java.webdriver:        Browser test automation using Selenium WebDriver in Java
+Nice-Knowledge-System:        📚不积跬步无以至千里，每天进步一点点，Passion，Self-regulation，Love and Share
+MyUploader-Backend:        单文件上传，多文件上传，大文件上传，断点续传，文件秒传，图片上传
+nimrod:        Nimrod - 基于 Spring Boot 构建 的 Java Web 平台企业级单体应用快速开发框架，适合中小型项目的应用和开发。所采用的技术栈包括 Spring Boot、Spring、Spring Web MVC、MyBatis、Thymeleaf 等，遵守阿里巴巴 Java 开发规约，帮助养成良好的编码习惯。整体采用 RBAC （ Role-Based Access Control ，基于角色的访问控制），具有严格的权限控制模块，支持系统与模块分离开发。最后希望这个项目能够对你有所帮助。Nimrod 开发交流群：547252502（QQ 群）
+gradle-maven-plugin:        Gradle 5.x Maven Publish Plugin to deploy artifacts
+libsass-maven-plugin:        libsass wrapper for maven
+Blog:        😄用SSM编写得一个完整漂亮的博客系统，有前台和后台的页面展示，以及详细配置过程介绍。

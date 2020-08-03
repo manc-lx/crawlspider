@@ -1,0 +1,90 @@
+Automatically build and test your code as you push it upstream, preventing bugs from being deployed to production.
+drone:        Drone is a Container-Native, Continuous Delivery Platform
+jenkins:        Jenkins automation server
+volkswagen:        🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
+nightwatch:        End-to-end testing framework written in Node.js and using the Webdriver API
+origin:        Images for OpenShift 3 and 4 - see openshift/okd for more
+gocd:        Main repository for GoCD - Continuous Delivery server
+concourse:        Concourse is a container-based continuous thing-doer written in Go and Elm.
+strider:        Open Source Continuous Integration & Deployment Server
+buildbot:        Python-based continuous integration testing framework; your pull requests are more than welcome!
+gaia:        Build powerful pipelines in any programming language.
+jx:        Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm
+Hygieia:        CapitalOne DevOps Dashboard
+xcpretty:        Flexible and fast xcodebuild formatter
+onedev:        Super Easy All-In-One DevOps Platform
+cds:        Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+cake:        Cake (C# Make) is a cross platform build automation system.
+PHPCI:        PHPCI is a free and open source continuous integration tool specifically designed for PHP.
+awesome-ci:        Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
+hound:        Automated code review for GitHub pull requests.
+fabric8:        fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
+werf:        GitOps delivery tool
+tox:        Command line driven CI frontend and development task automation tool
+syncd:        syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
+lastbackend:        System for containerized apps management. From build to scaling.
+ModernCppStarter:        Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
+cross-platform-node-guide:        📗 How to write cross-platform Node.js code
+Piplin:        📤 An open source self-hosted continuous integration and deployment system - QQ群： 656868
+trust:        Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
+churn-php:        Discover files in need of refactoring.
+cyclone:        Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources. https://cyclone.dev
+nuke:        The AKEless Build System for C#/.NET
+setup-php:        GitHub action to setup PHP with required extensions, php.ini configuration, code-coverage support and various tools like composer...
+screwdriver:        An open source build platform designed for continuous delivery.
+chimp:        Chimp is a Yeoman for quality. It helps you write clean testable code and instills good coding practices
+bors-ng:        👁 A merge bot for GitHub Pull Requests
+jenkinsapi:        A Python API for accessing resources and configuring Hudson & Jenkins continuous-integration servers
+toast:        Containerize your development and continuous integration environments. 🥂
+_old_vespene:        DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
+jenkins-build-monitor-plugin:        Jenkins CI Build Monitor Plugin
+tbls:        tbls is a CI-Friendly tool for document a database, written in Go.
+binci:        🐳 Containerize your development workflow.
+light-novel-library_Wenku8_Android:        [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的Material Design风格、无广告、不盈利的轻小说阅读器(light novel reader)。
+ansible-role-jenkins:        Ansible Role - Jenkins CI
+lambdacd:        a library to define a continuous delivery pipeline in code
+AndroidSDK:        🐳 Full-fledged Android SDK Docker Image
+FeatureToggle:        Simple, reliable feature toggles in .NET
+agola:        Agola: CI/CD Redefined
+abstruse:        Continuous Integration platform built with Node.js and Docker.
+php-censor:        PHP Censor is an open source self-hosted continuous integration server for PHP projects.
+FlubuCore:        A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+modern-cpp-template:        A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
+gojenkins:        Jenkins API Client in Go. Looking for maintainers to move this project forward.
+awesome-bazel:        A curated list of Bazel rules, tooling and resources.
+DotCi:        DotCi Jenkins github integration, .ci.yml http://groupon.github.io/DotCi
+its:        Incompatible Timesharing System
+agent:        The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
+Cranium:        🤖 A portable, header-only, artificial neural network library written in C99
+bzppx-codepub:        暴走皮皮虾之代码发布系统,是现代的持续集成发布系统,由后台管理系统和agent两部分组成,一个运行着的agent就是一个节点,本系统并不是造轮子,是"鸟枪"到"大炮"的创新,对"前朝遗老"的革命.
+xcov:        Nice code coverage reporting without hassle
+gitlab-ci-pipeline-php:        ☕ Docker images for test PHP applications with Gitlab CI (or any other CI platform!)
+circleci-images:        Scripts to generate images for building projects on CircleCI 2.0
+DevOps-README.md:        What to Read to Learn More About DevOps
+jmeter-maven-plugin:        The JMeter Maven Plugin
+huskyCI:        Performing security tests inside your CI
+kubernetes-operator:        Kubernetes native Jenkins Operator
+ue4-docker:        Windows and Linux containers for Unreal Engine 4
+elastic-ci-stack-for-aws:        An auto-scaling cluster of build agents running in your own AWS VPC
+alloy_ci:        Continuous Integration, Deployment, and Delivery coordinator, written in Elixir.
+drone-cli:        Command Line Tools for Drone CI
+serverless-plugin-canary-deployments:        Canary deployments for your Serverless application
+circleci-cli:        Use CircleCI from the command line
+platform-espressif32:        Espressif 32: development platform for PlatformIO
+TYPO3-Console:        Console command for TYPO3 CMS
+sagify:        Continuous Machine Learning Training and Deployment on AWS SageMaker
+rok8s-scripts:        Opinionated scripts for managing application deployment lifecycle in Kubernetes
+works-on-my-machine:        Continuous integration done right
+zeus:        WIP: A dashboard for CI
+treeherder:        A system for managing CI data for Mozilla projects
+escape:        Release engineering, life-cycle management and Continuous Delivery of software platforms and artefacts
+LNCS:        Improved Lecture Notes in Computer Science (LNCS) template
+graphql-doctor:        Prevent Breaking Changes in a GraphQL API with GitHub Checks
+android-tdd-playground:        Android application using TDD Tools and Continuous Integration
+screenshots:        Screenshots: A command line utility and package for capturing screenshots for Flutter
+greenkeeper-lockfile:        🔒 Your lockfile, up to date, all the time
+CumulusCI:        Python framework for building portable automation for Salesforce projects
+expo-github-action:        Expo CLI in your GitHub Actions workflow
+legacy-old-hercules:        Abandoned
+env-ci:        Get environment variables exposed by CI services
+jenkins-rest:        Java client, built on top of jclouds, for working with Jenkins REST API

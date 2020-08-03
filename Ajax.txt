@@ -1,0 +1,91 @@
+Ajax is a technique for creating interactive web applications.
+infinite-scroll:        📜 Automatically add next page
+Blog:        关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
+form:        jQuery Form Plugin
+unfetch:        🐕 Bare minimum fetch polyfill in 500 bytes.
+elFinder:        📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
+tabulator:        Interactive Tables and Data Grids for JavaScript
+reqwest:        browser asynchronous http requests
+learn-to-send-email-via-google-script-html-no-server:        ✉️ An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data.
+bliss:        Blissful JavaScript
+wretch:        A tiny wrapper built around fetch with an intuitive syntax. 🍬
+featherlight:        Featherlight is a very lightweight jQuery lightbox plugin. It's simple yet flexible and easy to use. Featherlight has minimal css and uses no inline styles, everything is name-spaced, it's completely customizable via config object and offers image, ajax and iframe support out of the box. Featherlights small footprint weights about 4kB – in total.
+jquery-confirm:        A multipurpose plugin for alert, confirm & dialog, with extended features.
+sente:        Realtime web comms for Clojure/Script
+Enterprise:        🦄 The Enterprise™ programming language
+Ajax-hook:        🔱 Intercepting browser's AJAX requests which made by XMLHttpRequest.
+tracy:        😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
+jeeplatform:        一款企业信息化开发基础平台，拟集成OA(办公自动化)、CMS(内容管理系统)等企业系统的通用业务功能 JeePlatform项目是一款以SpringBoot为核心框架，集ORM框架Mybatis，Web层框架SpringMVC和多种开源组件框架而成的一款通用基础平台，代码已经捐赠给开源中国社区
+pjax:        Easily enable fast Ajax navigation on any website (using pushState + xhr)
+uploader:        A lightweight and very configurable jQuery plugin for file uploading using ajax(a sync); includes support for queues, progress tracking and drag and drop.
+render_async:        render_async lets you include pages asynchronously with AJAX
+web-interview:        我是「齐丶先丶森」，公众号「前端面试秘籍」作者，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！
+css-spinner:        small, elegant pure css spinner for ajax or loading animation
+saber:        ⚔️ Saber, PHP异步协程HTTP客户端 | PHP Coroutine HTTP client - Swoole Humanization Library
+eCommerce:        We're going to take you step-by-step to build a modern, fully open-source, eCommerce web application using Python, Django, Bootstrap, Javascript, and more.
+infinite-ajax-scroll:        Turn your existing pagination into infinite scrolling pages with ease
+rapid.js:        An ORM-like Interface and a Router For Your API Requests
+ssm-BookAppointment:        优雅整合SSM框架：SpringMVC + Spring + MyBatis（用户登陆式图书预约系统）
+opensource-socialnetwork:        Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. It is available in 16 international languages.
+RestClient:        🦄 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 🎮
+atomic:        A tiny, Promise-based vanilla JS Ajax/HTTP plugin with great browser support.
+ajax-datatables-rails:        A wrapper around DataTable's ajax methods that allow synchronization with server-side pagination in a Rails app
+bunny:        BunnyJS - Lightweight native (vanilla) JavaScript (JS) and ECMAScript 6 (ES6) browser library, package of small stand-alone components without dependencies: FormData, upload, image preview, HTML5 validation, Autocomplete, Dropdown, Calendar, Datepicker, Ajax, Datatable, Pagination, URL, Template engine, Element positioning, smooth scrolling, rou…
+JavaScriptStudy:        JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！
+web:        适合java新手入门练习的java web个人网站项目，目前主要维护web-mysql和web-psql两个分支。前台包括博客、代码库、文件下载、留言、登录注册、站内搜索、分类目录等功能，后台包括上传文件、博客、代码，编辑、删除文章，修改个人资料等功能，目前暂停开发新功能。网址：https://www.hemingsheng.cn ，觉得不错的欢迎 star。 手机版网址：
+resource-loader:        A middleware-style generic resource loader built with web games in mind.
+KKJSBridge:        一站式解决 WKWebView 支持离线包，Ajax/Fetch 请求，表单请求和 Cookie 同步的问题 (基于 Ajax Hook，Fetch Hook 和 Cookie Hook)
+jsgantt-improved:        Javascript Gantt: fully featured gantt chart component built entirely with JS and CSS. No images or external libs required.
+django-ajax:        Fast and easy AJAX libraries for django applications. Contains ajax decorator, ajax middleware, shortcuts and more.
+AjaxFileUpload:        A jQuery plugin that simulates asynchronous file uploads.
+redux-requests:        Redux addon to simplify handling of AJAX requests.
+thwack:        A tiny modern data fetching solution
+mappersmith:        is a lightweight rest client for node.js and the browser
+ajax:        ajax设计方案
+loading-bar:        Flexible, light weighted and super fast Progress Bar Library
+sms-ssm:        🏫 🎓 一个基于 SSM 的简单学生管理系统 : 项目概述全面，代码注释详细，逻辑结构清晰，并提供待优化方案，非常具有参考与学习价值哟 !
+ajax-form:        HTML forms on performance-enhancing drugs
+vue2-autocomplete:        Vue 2 Component to make Autocomplete element.
+ajax-live-search:        AJAX Live Search is a PHP search form that similar to Google Autocomplete feature displays the result as you type.
+ember-ajax:        Service for making AJAX requests in Ember applications
+axios-tutorial:        axios实例应用及源码剖析 - xhr篇 （走心教程）
+bs_grid:        Bootstrap Datagrid
+zl-fetch:        A library that makes the Fetch API a breeze
+lajax:        🚀 lajax - 前端日志解决方案。
+bbs-ssm:        南生论坛基于SSM框架，自适应手机端和电脑端，界面简洁美观，功能完善。演示地址：http://www.nanshengbbs.top
+J2Team-Community:        Join our group to see more
+react-selectrix:        A beautiful, materialized and flexible React Select control
+django-bootstrap-modal-forms:        A Django plugin for creating AJAX driven forms in Bootstrap modal.
+nette.ajax.js:        Flexible AJAX for Nette Framework. Supports snippets, redirects etc.
+Fitted:        Simplifying http requests using ES decorators
+jquery.initialize:        jQuery plugin for dynamically created elements initialization (it was nice few years ago, in 2019+ consider react or sth instead of jQuery)
+Laravel-5.3-and-Vue-js-2.0-social-network:        Social network built with Laravel 5.3 and Vue js 2.0
+Fable.Remoting:        Type-safe communication layer (RPC-style) for F# featuring Fable and .NET Apps
+webapiclientgen:        Strongly Typed Client API Generators generate strongly typed client APIs in C# .NET and in TypeScript for jQuery and Angular 2+ from ASP.NET Web API and .NET Core Web API
+vue2-bootstrap-table:        A sortable and searchable table, as a Vue2 component, using bootstrap styling.
+jquery-pjax:        pushState + ajax = pjax
+yii2fullcalendar:        JQuery Fullcalendar Yii2 Extension
+vue-api-request:        Control your API calls by using an amazing component which supports axios and vue-resource
+PixelWave:        Fully customizable pixel wave animation for seamless page transitions.
+fetch-plus:        🐕 Fetch+ is a convenient Fetch API replacement with first-class middleware support.
+nukeviet:        NukeViet CMS is multi Content Management System. NukeViet CMS is the 1st open source content management system in Vietnam. NukeViet was awarded the Vietnam Talent 2011, the Ministry of Education and Training Vietnam officially encouraged to use.
+DotnetDesk:        Asp.Net Example web application showing the capabilities of ASP.NET Core 2 MVC, EF (Entity Framework), Web API, Bootstrap, jQuery, datatables, adminlte template and many more. Web app created as helpdesk or ticket support portal.
+NToastNotify:        Asp.Net Core abstraction for server side rendered toast notifications using toast.js or noty.js. Supports AJAX calls as well.
+laravel-like-comment:        Ajax based site wide like and commenting system for laravel.
+ajax-panel:        Ajax Panel Plugin for Grafana
+goserver:        模块化后台服务
+formchimp:        A customizable MailChimp ajax plugin for jQuery
+fileuploader:        Beautiful and powerful HTML file uploading tool. A jQuery, PHP and Node.js plugin that transforms the standard input into a revolutionary and fancy field on your page.
+bPage:        Based on bootstrap style, static page jump can also be asynchronous page processing pagination plugin
+faux-jax:        NO MORE MAINTAINED: Intercept and respond to requests in the browser (AJAX) and Node.js (http(s) module)
+AjaxDemo:        给公司同事和合作方详细讲解ajax的跨域访问的来龙去脉demo
+jquery.schedule:        jquery and html schedule calendar
+searchwp-live-ajax-search:        [WordPress Plugin] Enhance your search forms with live search (utilizes SearchWP if installed)
+reixs:        🤞Reactive HTTP requests, Based on the fetch, Special API design.
+Ajax-Contact-Form:        A simple Ajax Contact Form developed in PHP with HTML5 Form validation and pure JavaScript
+vue-bootstrap-table:        A sortable and searchable table, as a Vue component, using bootstrap styling.
+activeadmin-ajax_filter:        AJAX filters for ActiveAdmin
+Tag-Handler:        Tag Handler is a jQuery plugin used for managing tag-type metadata.
+yii2-notification-wrapper:        Yii2-notification-wrapper module renders a message from session flash (with ajax, pjax support and etc.) through Growl, Noty, Toastr and more libraries
+stock-management-system:        An Introductory Stock Management System built on PHP, jQuery with AJAX in MVC pattern.
+GDMS-DeviceManagementSystem:        基于web的设备管理系统，通用性高，前后端完全分离，开发中... | Web-based device management system, High versatility, Front-End and Back-End Separation, Developing...

@@ -1,0 +1,88 @@
+Ensure your code meets quality standards and ship with confidence.
+octotree:        GitHub on steroids
+danger:        🚫 Stop saying "you forgot to …" in code review (in Ruby)
+danger-js:        ⚠️ Stop saying "you forgot to …" in code review
+reviewdog:        🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+awesome-code-review:        An "Awesome" list of code review resources - articles, papers, tools, etc
+hound:        Automated code review for GitHub pull requests.
+nodejsscan:        nodejsscan is a static security code scanner for Node.js applications.
+vscode-pull-request-github:        GitHub Pull Requests for Visual Studio Code
+reviewboard:        An extensible and friendly code review tool for projects and companies of all sizes.
+cargo-crev:        A cryptographically verifiable code review system for the cargo (Rust) package manager.
+python_sec:        python安全和代码审计相关资料收集 resource collection of python security and code review
+code-review-tips:        🔬 Common problems to look for in a code review
+java-concurrency:        Checklist for code reviews
+Audit-Learning:        记录自己对《代码审计》的理解和总结，对危险函数的深入分析以及在p牛的博客和代码审计圈的收获
+gerrit-intellij-plugin:        Gerrit Code Review Tool Integration for the IntelliJ Platform
+static-review:        ✋ An extendible framework for version control hooks.
+diffr:        Yet another diff highlighting tool
+raptor:        Web-based Source Code Vulnerability Scanner
+shiba:        Catch bad SQL queries before they cause problems in production
+cpp-project:        Boiler plate template for C++ projects, with CMake, Doctest, Travis CI, Appveyor, Github Actions and coverage reports.
+policy-bot:        A GitHub App that enforces approval policies on pull requests
+github-review:        Github code reviews with Emacs.
+lookout:        Assisted code review, running custom code analyzers on pull requests
+owasp-orizon:        Owasp Orizon is a source code static analyzer tool designed to spot security issues in Java applications.
+feram:        Feram finds & fixes bugs in your commits
+gerrit-rest-java-client:        Java REST client for Gerrit Code Review
+ReviewBot:        A tool for running automated static analysis on code posted to a Review Board instance.
+RepoSense:        Contribution analysis tool for Git repositories
+ruby-saddler:        https://github.com/packsaddle/ruby-saddler
+code-review:        ✨ Checklist for doing a code review
+decent-code:        A concise guide to writing better code
+code-review-bot:        Bot destinado para controle de fila de revisão de código
+critiq.vim:        Github code reviews from Neovim
+backlog:        Public backlog for http://pullpanda.com
+core-review:        Scripts, tools & info for doing Bitcoin Core development and code review
+assignees:        👓 Code reviews for everyone.
+phinder:        PHP code piece finder
+qualinsight-plugins-sonarqube-smell:        Code Smells plugin for SonarQube and companion Java library
+alice:        Auto Code Monitoring and 24x7 assistant to respond/perform tasks on your behalf
+code-review-estimator:        Estimate cost of code review using Machine Learning
+software-factory:        The ready to use Continuous Integration platform
+policial:        Review pull requests for style guide violations
+hubot-code-review:        A Hubot script for GitHub code review on Slack.
+gerrit-cli:        Gerrit in your command lines.
+ModernCppChallengeStudy:        2018년 하반기에 진행하는 모던 C++ 문제 풀이 스터디 관련 자료입니다.
+gh-code-review-assistant:        (no longer maintained) GitHub Code Review Assistant tool is a userscript (lightweight extension) for Firefox / Chrome
+inline-plz:        Inline your lint messages
+code-review-emoji-guide:        An emoji legend to help convey intention and added meaning in code review comments.
+dx-scanner:        CLI tool that allows you to measure quality of a team work and an app based on your source code.
+call_map:        Current development for Call Map takes place at https://github.com/ajylee/call_map. Call Map is a tool for navigating Python call graphs.
+python-emailthreads:        Python library to parse and format email threads
+cody:        Your friendly neighborhood code review bot
+git-autofixup:        create fixup commits for topic branches
+vscode-extension:        DeepCode extension for Visual Studio Code
+check-critical-files:        👁 Check for critical files in your commits
+google_eng_practice:        谷歌(Google)的工程实践文档(Google's Engineering Practices documentation)
+dispatch:        🦀 Dispatch makes sure pull requests within a GitHub organization get reviewed by the right people.
+TyScan:        Command line tool for scanning TypeScript sources
+sonarqube-action:        Integrate SonarQube scanner to GitHub Actions
+conventions:        Conventions for how we build quality software
+wraperr:        Check that error return value are wrapped
+git-reviewers:        Intelligently find code reviewers
+bad-commit-message-blocker:        Inhibits commits with bad messages from getting merged
+danger-plugin-jira-issue:        Danger plugin to link JIRA issue in pull request
+pentest-wiki:        pwnig all the (web)things
+code-review-manifesto:        Code Review Manifesto
+reviewio:        code review stats for
+codewyng:        Browse GitHub like an IDE
+awesome-list-dev-memes:        A dev memes awesome list (including PRs memes to approve/comment and request changes)
+kind-sir:        Kind sir will merge your merge requests. Properly.
+Install_Gerrit_4Windows_Guide:        Show how to install gerrit in Windows OS.
+code-review-lamp:        A colorful lamp to notify the developer team for pending code reviews
+review-bot:        A Slack Integration to speed up Pull Request reviews for organizations on Slack 🐨
+preview:        Browser extension to make your GitHub PR review experience better
+js-code-review-group:        자바스크립트기반 프론트엔드개발자들의 코드리뷰스터디 그룹 레포지토리입니다.
+hello-travis-ci:        Travis CI 教程，主要介绍如何使用Travis CI的检验代码功能和Code Review功能. A tutorial of Travis CI mainly introduces how to use Travis CI's checking code function and Code Review function.
+abapOpenReview:        ABAP Review Tool
+danger-todoist:        Danger plugin to look for todo/fixme comments in pull requests
+cryptobible:        Auditing Applied Cryptography
+zing-stats:        Tool for generating summary stat reports and graphs from Gerrit (https://www.gerritcodereview.com/) and GitHub Enterprise review and pull requests data using https://plot.ly/.
+flujo-para-branches:        Flujo de Git para Integrar con CR y PR
+pull-review:        Github code reviews from within Vim
+gradle-each:        Execute Gradle tasks on a range of commits.
+danger-plugin-tslint:        Danger plugin for TSLint
+simple-asset-size-reporter:        A Github Action to easily identify asset size increase (or decrease) in your PRs
+How-NOT-to-Review-a-Pull-Request:        A presentation by Aaron Goldsmith
+lgtm.us:        Make code review great again

@@ -1,0 +1,90 @@
+An API (Application Programming Interface) is a collection of protocols and subroutines for building software.
+httpie:        As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+neovim:        Vim-fork focused on extensibility and usability
+slate:        Beautiful static documentation for your API
+strapi:        🚀 Open source Node.js Headless CMS to easily build customisable APIs
+postwoman:        👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
+ItChat:        A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+normalizr:        Normalizes nested JSON according to a schema
+security-guide-for-developers:        Security Guide for Developers (实用性开发人员安全须知)
+django-rest-framework:        Web APIs for Django. 🎸
+fastapi:        FastAPI framework, high performance, easy to learn, fast to code, ready for production
+yapi:        YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+NeteaseCloudMusicApi:        网易云音乐 Node.js API service
+API-Security-Checklist:        Checklist of the most important security countermeasures when designing, testing, and releasing your API
+api-guidelines:        Microsoft REST API Guidelines
+ccxt:        A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+insomnia:        The Open Source API Client and Design Platform for GraphQL and REST ->
+wxpy:        微信机器人 / 可能是最优雅的微信个人号 API ✨✨
+learn-anything:        Organize world's knowledge, explore connections and curate learning paths
+brain.js:        🤖 Neural networks in JavaScript
+jsdoc:        An API documentation generator for JavaScript.
+grape:        An opinionated framework for creating REST-like APIs in Ruby.
+postgraphile:        Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+httpbin:        HTTP Request & Response Service, written in Python + Flask.
+web3.js:        Ethereum JavaScript API
+fine-uploader:        Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
+spring-boot-api-project-seed:        🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
+zeal:        Offline documentation browser inspired by Dash
+falcon:        The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability, correctness and performance at scale.
+up:        Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+chi:        lightweight, idiomatic and composable router for building Go HTTP services
+free-api:        收集免费的接口服务,做一个api的搬运工
+showdoc:        ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+Awesome_APIs:        A collection of APIs
+directus:        Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
+Dash-iOS:        Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
+WeixinBot:        网页版微信API，包含终端版微信及微信机器人
+SpaceX-API:        🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+api-platform:        REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+css.gg:        700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+openapi-generator:        OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+server:        A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+cilium:        eBPF-based Networking, Security, and Observability
+tyk:        Tyk Open Source API Gateway written in Go
+apistar:        The Web API toolkit. 🛠
+translations:        🐼 Chinese translations for classic IT resources
+go-swagger:        Swagger 2.0 implementation for go
+hanami:        The web, with simplicity.
+ponzu:        Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
+type-graphql:        Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
+nideshop:        NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）
+qor:        QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
+node-telegram-bot-api:        Telegram Bot API for NodeJS
+graphql-dotnet:        GraphQL for .NET
+Chat-API:        WhatsApp's Private API
+miniprogram-demo:        微信小程序组件 / API / 云开发示例
+kinto:        A generic JSON document store with sharing and synchronisation capabilities.
+goa:        Design-based APIs and microservices in Go
+jsonplaceholder:        A simple online fake REST API server
+graphql-php:        A PHP port of GraphQL reference implementation
+lib:        Standard Library API Development, Deployment, and Management Tools
+dredd:        Language-agnostic HTTP API Testing Tool
+react-refetch:        A simple, declarative, and composable way to fetch data for React components
+polr:        🚡 A modern, powerful, and robust URL shortener
+absinthe:        The GraphQL toolkit for Elixir
+go-gin-example:        An example of gin
+toapi:        Every web site provides APIs.
+devise_token_auth:        Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
+CryptoList:        Curated collection of blockchain & cryptocurrency resources.
+loopback-next:        LoopBack makes it easy to build modern API applications that require complex integrations.
+nodejs-api-starter:        💥 A GraphQL API boilerplate (template) made with Node.js, TypeScript, and PostgreSQL
+kemal:        Fast, Effective, Simple Web Framework
+matterbridge:        bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
+pushpin:        Reverse proxy for realtime web services
+incubator-apisix:        The Cloud-Native API Gateway
+ckan:        CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, europeandataportal.eu/data, data.humdata.org among many other sites.
+DOClever:        做最好的接口管理平台
+vulcain:        Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs
+android-hidden-api:        A library that provides access to Android hidden APIs and internal resources.
+php-curl-class:        PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
+graphql-apis:        📜 A collective list of public GraphQL APIs
+manba:        An HTTP API Gateway
+eslint-plugin-compat:        Lint the browser compatibility of your code
+flutter-ui-nice:        More than 130+ pages in this beautiful app and more than 45 developers has contributed to it.
+alpaca:        Given a web API, Generate client libraries in node, php, python, ruby
+auxpi:        🍭 集合多家 API 的新一代图床
+wp-graphql:        🚀 GraphQL API for WordPress
+laravel-query-builder:        Easily build Eloquent queries from API requests
+flask-restplus:        Fully featured framework for fast, easy and documented API development with Flask
+express-es6-rest-api:        🔋 Starter project for an ES6 RESTful Express API.

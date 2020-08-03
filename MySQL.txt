@@ -1,0 +1,89 @@
+MySQL is an open source relational database management system.
+JavaGuide:        「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
+mall:        mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+grafana:        The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+tidb:        TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+sequelize:        An easy-to-use multi SQL dialect ORM for Node.js
+metabase:        The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+typeorm:        ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+redash:        Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+toBeTopJavaer:        To Be Top Javaer - Java工程师成神之路
+mysql:        Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+JavaFamily:        【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+dbeaver:        Free universal database tool and SQL client
+matomo:        Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
+knex:        A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+shardingsphere:        Distributed database middleware
+vitess:        Vitess is a database clustering system for horizontal scaling of MySQL.
+mycli:        A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+cube.js:        📊 Cube.js - Open Source Analytics Framework
+gh-ost:        GitHub's Online Schema Migrations for MySQL
+sequelpro:        MySQL/MariaDB database management for macOS
+finagle:        A fault tolerant, protocol-agnostic RPC system
+Linux-Tutorial:        《Java 程序员眼中的 Linux》
+directus:        Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
+flink-learning:        flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+soar:        SQL Optimizer And Rewriter
+xorm:        Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
+PyMySQL:        Pure Python MySQL Client
+bookshelf:        A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
+usql:        Universal command-line interface for SQL databases
+mall-learning:        mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis5.0、Mongodb4.2.5、Mysql5.7等技术，采用Docker容器化部署。
+diesel:        A safe, extensible ORM and Query Builder for Rust
+kingshard:        A high-performance MySQL proxy
+flyway:        Flyway by Redgate • Database Migrations Made Easy.
+blog:        Everything about database,bussiness.(Most for PostgreSQL).
+dev-setup:        macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+phpmyadmin:        A web interface for MySQL and MariaDB
+nideshop:        NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）
+migrate:        Database migrations. CLI and Golang library.
+backup:        Easy full stack backup operations on UNIX-like systems.
+newbee-mall:        newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+adminer:        Database management in a single PHP file
+Yearning:        🐳 A most popular sql audit platform for mysql
+bolt:        Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.
+AliSQL:        AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
+jOOQ:        jOOQ is the best way to write SQL in Java
+orchestrator:        MySQL replication topology management and HA
+franchise:        🍟 a notebook sql client. what you get when have a lot of sequels.
+sysbench:        Scriptable database and system performance benchmark
+sqlboiler:        Generate a Go ORM tailored to your database schema.
+sqlpad:        Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
+node-orm2:        Object Relational Mapping
+requery:        requery - modern SQL based query & persistence for Java / Kotlin / Android
+pgloader:        Migrate to PostgreSQL in a single command!
+devilbox:        A modern Docker LAMP stack and MEAN stack for local development
+SqlSugar:        Best ORM Fastest ORM Simple Easy Sqlite orm Oracle ORM Mysql Orm postgresql ORm SqlServer oRm
+go-clean-arch:        Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+mall-swarm:        mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+onemall:        芋道 mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。
+awesome-programming-books:        📚 经典技术书籍推荐，持续更新...
+xboot:        基于Spring Boot 2.x的一站式前后端分离快速开发平台XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID生成 动态权限管理 数据权限 工作流 代码生成 定时任务 第三方社交账号、短信登录 单点登录 OAuth2开放平台
+mysql-tutorial:        MySQL入门教程（MySQL tutorial book）
+xo:        Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
+JSqlParser:        JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
+beekeeper-studio:        Cross platform SQL editor and database management app for Windows, Linux, and Mac.
+php-crud-api:        Single file PHP script that adds a REST API to a SQL database
+notadd:        A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
+lnmp:        LEMP stack/LAMP stack/LNMP stack installation scripts for CentOS/Redhat Debian and Ubuntu
+easy-tips:        A little Tips in my Code Career with Go&PHP 🥳🥳🥳
+Leetcode:        Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.
+fluentmigrator:        Fluent migrations framework for .NET
+pony:        Pony Object Relational Mapper
+sqlx:        🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+flipper:        🐬 feature flipping for ruby (performant and simple)
+db:        Data access layer for PostgreSQL, MySQL, SQLite and MongoDB.
+node-mysql2:        ⚡ fast node-mysql compatible mysql driver for node.js
+HFish:        🍯 A Most Convenient Honeypot Platform. 🐝🐝🐝 🐝🐝
+liquibase:        Main Liquibase Source
+octosql:        OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+lamp:        Install LAMP(Linux + Apache + MySQL/MariaDB/Percona Server + PHP ) for CentOS/Fedora/Debian/Ubuntu
+sqlc:        Generate type safe Go from SQL
+hustoj:        Popular Open Source Online Judge based on PHP/C++/MySQL/Linux for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
+TablePlus:        TablePlus macOS issue tracker
+sqitch:        Sensible database change management
+HeidiSQL:        A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi
+tsung:        Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.
+dolibarr:        Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundation and freelances. You can freely install, use and distribute it as a standalone a…
+1backend:        Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
+bilibili-user:        🍥 Bilibili 用户爬虫

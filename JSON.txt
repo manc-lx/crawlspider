@@ -1,0 +1,91 @@
+JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.
+httpie:        As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+prettier:        Prettier is an opinionated code formatter.
+chinese-poetry:        The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+fastjson:        A fast JSON parser/generator for Java.
+sheetjs:        📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+SwiftyJSON:        The better way to deal with JSON data in Swift.
+json:        JSON for Modern C++
+normalizr:        Normalizes nested JSON according to a schema
+fastapi:        FastAPI framework, high performance, easy to learn, fast to code, ready for production
+cli:        A simple, fast, and fun package for building command line apps in Go
+hutool:        A set of tools that keep Java sweet.
+lowdb:        ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+editor.js:        A block-styled editor with clean JSON output
+Mantle:        Model framework for Cocoa and Cocoa Touch
+simdjson:        Parsing gigabytes of JSON per second
+fx:        Command-line tool and terminal JSON viewer 🔥
+httpbin:        HTTP Request & Response Service, written in Python + Flask.
+react-jsonschema-form:        A React component for building Web forms from JSON Schema.
+Administrative-divisions-of-China:        中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+MJExtension:        A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.
+Newtonsoft.Json:        Json.NET is a popular high-performance JSON framework for .NET
+go:        A high-performance 100% compatible drop-in replacement of "encoding/json"
+http-prompt:        HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+chinese-xinhua:        📙 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+gjson:        Get JSON values quickly - JSON parser for Go
+jjwt:        Java JWT: JSON Web Token for Java and Android
+css.gg:        700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+pino:        🌲 super fast, all natural json logger 🌲
+ky:        🌳 Tiny & elegant HTTP client based on window.fetch
+jid:        json incremental digger
+structured-text-tools:        A list of command line tools for manipulating structured text data
+boltons:        🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library. Nothing like Michael Bolton.
+jsonschema2pojo:        Generate Java types from JSON or JSON Schema and annotates those types for data-binding with Jackson, Gson, etc
+form:        jQuery Form Plugin
+active_model_serializers:        ActiveModel::Serializer implementation and Rails hooks
+countries:        World countries in JSON, CSV, XML and Yaml. Any help is welcome!
+ponzu:        Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
+quicktype:        Generate types and converters from JSON, Schema, and GraphQL
+rest-assured:        Java DSL for easy testing of REST services
+ServiceStack:        Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+ArduinoJson:        📟 JSON library for Arduino and embedded C++. Simple and efficient.
+body-parser:        Node.js body parsing middleware
+poco:        The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+jsonnet:        Jsonnet - The data templating language
+refit:        The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+wiremock:        A tool for mocking HTTP services
+json5:        JSON5 — JSON for humans
+SBJson:        This framework implements a strict JSON parser and generator in Objective-C.
+opa:        An open source, general-purpose policy engine.
+gravity:        Gravity Programming Language
+datasette:        An open source multi-tool for exploring and publishing data
+tinydb:        TinyDB is a lightweight document oriented database optimized for your happiness :)
+zerolog:        Zero Allocation JSON Logger
+jsonparser:        Alternative JSON parser for Go that does not require schema (so far fastest)
+TSWeChat:        A WeChat alternative. Written in Swift 5.
+bigchaindb:        Meet BigchainDB. The blockchain database.
+resume-cli:        CLI tool to easily setup a new resume 📑
+HandyJSON:        A handy swift json-object serialization/deserialization library
+tabulator:        Interactive Tables and Data Grids for JavaScript
+tbox:        🎁 A glib-like multi-platform c library
+jsondiffpatch:        Diff & patch JavaScript objects
+polr:        🚡 A modern, powerful, and robust URL shortener
+toapi:        Every web site provides APIs.
+hcl:        HCL is the HashiCorp configuration language.
+FeHelper:        😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
+mimesis:        Mimesis is a package for Python, which helps generate big volumes of fake data for a variety of purposes in a variety of languages.
+ultrajson:        Ultra fast JSON decoder and encoder written in C with Python bindings
+browser-compat-data:        This repository contains compatibility data for Web technologies as displayed on MDN
+tmuxp:        💻 tmux session manager. built on libtmux
+neutralinojs:        Portable and lightweight cross platform application development framework
+easyjson:        Fast JSON serializer for golang.
+lsp-mode:        Emacs client/library for the Language Server Protocol
+gorequest:        GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
+oj:        Optimized JSON
+php-curl-class:        PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
+json-to-go:        Translates JSON into a Go type in your browser instantly (original)
+alpha_vantage:        A python wrapper for Alpha Vantage API for financial data.
+scalatra:        Tiny Scala high-performance, async web framework, inspired by Sinatra
+miller:        Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+Sync:        JSON to Core Data and back. Swift Core Data Sync.
+core:        Elm's core libraries
+survey-library:        JavaScript Survey and Form Library
+flask-restplus:        Fully featured framework for fast, easy and documented API development with Flask
+full-stack-fastapi-postgresql:        Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+jsonbox:        A Free HTTP based JSON storage. Now with protected boxes.
+data_location:        中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
+mojo:        ✨ Mojolicious - Perl real-time web framework
+jansson:        C library for encoding, decoding and manipulating JSON data
+kotlinx.serialization:        Kotlin multiplatform / multi-format serialization
+minify:        Go minifiers for web formats

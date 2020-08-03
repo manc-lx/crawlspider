@@ -1,0 +1,91 @@
+C++ is a general purpose and object-oriented programming language.
+CS-Notes:        📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+leetcode:        LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+project-based-learning:        Curated list of project-based tutorials
+awesome-cpp:        A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+calculator:        Windows Calculator: A simple yet powerful calculator that ships with Windows
+openpose:        OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+interview:        📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
+yuzu:        Nintendo Switch Emulator
+infer:        A static analyzer for Java, C, C++, and Objective-C
+tink:        Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+openage:        Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+vcpkg:        C++ Library Manager for Windows, Linux, and MacOS
+modern-cpp-features:        A cheatsheet of modern C++ language and library features.
+spdlog:        Fast C++ logging library.
+tinyrenderer:        A brief computer graphics / rendering course
+Sourcetrail:        Sourcetrail - free and open-source interactive source explorer
+OpenRCT2:        An open source re-implementation of RollerCoaster Tycoon 2 🎢
+antlr4:        ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+solidity:        Solidity, the Contract-Oriented Programming Language
+C-Plus-Plus:        Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+milewski-ctfp-pdf:        Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+BackgroundMusic:        Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+compiler-explorer:        Run compilers interactively from your web browser and interact with the assembly
+vowpal_wabbit:        Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+awesome-modern-cpp:        A collection of resources on modern C++
+modern-cpp-tutorial:        📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+dolphin:        Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+citra:        A Nintendo 3DS Emulator
+cpprestsdk:        The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+cython:        The most widely used Python to C compiler
+pcl:        Point Cloud Library (PCL)
+wav2letter:        Facebook AI Research's Automatic Speech Recognition Toolkit
+MuseScore:        MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+serving:        A flexible, high-performance serving system for machine learning models
+GuiLite:        ✔️The smallest header-only GUI library(5 KLOC) for all platforms
+libvips:        A fast image processing library with low memory needs.
+Qv2ray:        ⭐ Linux/Windows/macOS 跨平台 V2ray 客户端 | 支持 SSR/Trojan/NaiveProxy | 使用 C++/Qt5 开发 | 可拓展插件式设计 ⭐
+xenia:        Xbox 360 Emulator Research Project
+pcsx2:        PCSX2 - The Playstation 2 Emulator
+glm:        OpenGL Mathematics (GLM)
+FAQGURU:        🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.
+IncludeOS:        A minimal, resource efficient unikernel for cloud services
+yugabyte-db:        The high-performance distributed SQL database for global, internet-scale apps.
+conan:        Conan - The open-source C/C++ package manager
+olive:        Free open-source non-linear video editor
+osrm-backend:        Open Source Routing Machine - C++ backend
+algorithms_and_data_structures:        180+ Algorithm & Data Structure Problems using C++
+entt:        Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+aleth:        Aleth – Ethereum C++ client, tools and libraries
+HyperLPR:        基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
+tinyraytracer:        A brief computer graphics / rendering course
+HP-Socket:        High Performance TCP/UDP/HTTP Communication Component
+vespa:        Vespa is an engine for low-latency computation over large data sets.
+javacpp:        The missing bridge between Java and native C++
+nebula:        A distributed, fast open-source graph database featuring horizontal scalability and high availability
+arrayfire:        ArrayFire: a general purpose GPU library.
+Open3D:        Open3D: A Modern Library for 3D Data Processing
+cpp-httplib:        A C++ header-only HTTP/HTTPS server and client library
+cppcheck:        static analysis of C/C++ code
+cmake-examples:        Useful CMake Examples
+awesome-programming-books:        📚 经典技术书籍推荐，持续更新...
+tensorflow-windows-wheel:        Tensorflow prebuilt binary for Windows
+microsoft-ui-xaml:        Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+oatpp:        🌱Modern Web Framework for C++. High performance, simple API, cross platform, zero dependency.
+Game-Networking-Resources:        A Curated List of Game Network Programming Resources
+lsp-mode:        Emacs client/library for the Language Server Protocol
+doctest:        The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
+aws-doc-sdk-examples:        Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
+easyloggingpp:        Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
+libtorrent:        an efficient feature complete C++ bittorrent implementation
+CS-Books:        📚 Computer Science Books 计算机技术类书籍 PDF
+cquery:        C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
+codecrumbs:        Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
+cpplinks:        A categorized list of C++ resources.
+open_spiel:        OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+PJON:        With PJON you build networks of devices for free with no need of a cloud service or a centralised platform you don’t fully control.
+JUCE:        JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
+asmjit:        Machine code generation for C++
+awesome-wasm-langs:        😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
+hustoj:        Popular Open Source Online Judge based on PHP/C++/MySQL/Linux for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
+Simple-Web-Server:        A very simple, fast, multithreaded, platform independent HTTP and HTTPS server and client library implemented using C++11 and Boost.Asio. Created to be an easy way to make REST resources available from C++ applications.
+ChaiScript:        Embedded Scripting Language Designed for C++
+ELF:        An End-To-End, Lightweight and Flexible Platform for Game Research
+oneDNN:        oneAPI Deep Neural Network Library (oneDNN)
+cgal:        The public CGAL repository, see the README below
+learning-cmake:        learning cmake
+tinykaboom:        A brief computer graphics / rendering course
+awesome-quant:        中国的Quant相关资源索引
+ccls:        C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
+tinyobjloader:        Tiny but powerful single file wavefront obj loader

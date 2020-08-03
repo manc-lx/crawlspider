@@ -1,0 +1,91 @@
+Jekyll is a simple, blog-aware static site generator.
+jekyll:        🌐 Jekyll is a blog-aware static site generator in Ruby
+tabler:        Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+minimal-mistakes:        📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+octicons:        A scalable set of icons handcrafted with <3 by GitHub
+hyde:        A brazen two-column theme for Jekyll.
+beautiful-jekyll:        ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+lanyon:        A content-first, sliding sidebar theme for Jekyll.
+poole:        The Jekyll Butler. A no frills responsive Jekyll blog theme.
+jekyll-admin:        A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+Moon:        Moon is a minimal, one column jekyll theme.
+choosealicense.com:        A site to provide non-judgmental guidance on choosing a license for your open source project
+indigo:        🍜 Minimalist Jekyll Template
+minima:        Minima is a one-size-fits-all Jekyll theme for writers.
+just-the-docs:        A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+staticman:        💪 Static sites with superpowers
+gaohaoyang.github.io:        blog & blog theme🤘
+gifs:        😂 📷 🎇 Storage place for all mah gifs.
+photo-stream:        Self-hosted, super simple photo stream
+pages-gem:        A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
+so-simple-theme:        A simple Jekyll theme for words and pictures.
+jekyll-TeXt-theme:        💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
+home-assistant.io:        📘 Home Assistant User documentation
+fastpages:        An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
+jekyll-seo-tag:        A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
+resume-template:        📄💼🎩 A simple Jekyll + GitHub Pages powered resume template.
+freelancer-theme:        Jekyll theme based on Freelancer Start Bootstrap theme
+jekyll-assets:        🎨 Asset pipelines for Jekyll.
+Simple-Jekyll-Search:        A JavaScript library to add search functionality to any Jekyll blog.
+jekyll-theme-hpstr:        A Jekyll theme with some tumble-log tendencies.
+mzlogin.github.io:        Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
+wordpress-to-jekyll-exporter:        One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll
+chalk:        Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.
+burger:        Burger - The minimal hamburger menu with fullscreen navigation.
+Jalpc:        🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.
+jekyll-scholar:        jekyll extensions for the blogging scholar
+jekyll-theme-skinny-bones:        A Jekyll starter with a variety of flexible layouts and components.
+jekyll-auth:        A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
+jekyll-docker:        ⛴ Docker images, and CI builders for Jekyll.
+leonids:        A simple and clean two columns Jekyll theme.
+memo:        📓 Memo Life For You
+artsy.github.io:        The Artsy Engineering Open-Source Developers Blog
+moving:        A clean and minimalist theme for Jekyll.
+particle:        A simple portfolio Jekyll theme:
+modern-resume-theme:        A modern static resume template and theme. Powered by Jekyll and GitHub pages.
+type-theme:        A free and open-source Jekyll theme with responsive design. Great for blogs and easy to customize.
+tale:        Minimal Jekyll theme for storytellers
+cayman:        Cayman is a Jekyll theme for GitHub Pages
+minimal:        Minimal is a Jekyll theme for GitHub Pages
+jekyll-rss-feeds:        Templates for rendering RSS feeds for your Jekyll blog
+mediumish-theme-jekyll:        Jekyll Template - Mediumish
+feeling-responsive:        »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
+jekyll-theme-next:        Elegant theme for Jekyll.
+forty-jekyll-theme:        A Jekyll version of the "Forty" theme by HTML5 UP.
+hydejack:        A boutique Jekyll theme for hackers, nerds, and academics
+pretzel:        A site generation tool (and then some) for .NET platforms
+markdown-cv:        a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
+sleek-dashboard:        Sleek Dashboard - Free Bootstrap 4 Admin Template and UI Kit
+al-folio:        A beautiful, simple, clean, and responsive Jekyll theme for academics
+jekyll-redirect-from:        🔀 Seamlessly specify multiple redirections URLs for your pages and posts.
+jekyll-lunr-js-search:        [UNSUPPORTED] Jekyll + lunr.js = static websites with powerful full-text search using JavaScript
+jekyll-uno:        Jekyll-Uno - a minimal, responsive theme for Jekyll based on Uno for Ghost
+dbyll:        Stylish, minimalistic theme for jekyll.
+lagom:        A Jekyll blog theme with just the right amount of style
+7z:        7-Zip Official Chinese Simplified Git Repository (Homepage and 7z Extra package)
+long-haul:        A minimal, type-focused Jekyll theme.
+jekyll_picture_tag:        Easy responsive images for Jekyll.
+flexible-jekyll:        Flexible-Jekyll is a simple and clean theme for Jekyll
+circleci-docs:        Documentation for CircleCI.
+whiteglass:        Minimal, responsive Jekyll theme for hackers
+jekyll-theme-basically-basic:        Your new Jekyll default theme
+alembic:        ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+made-mistakes-jekyll:        Source for my website and blog (Jekyll + Gulp + Netlify)
+Gravity:        Minimal is the new cool.
+jekflix-template:        A Jekyll theme inspired by Netflix. 🎬
+jekyll-import:        📥 The "jekyll import" command for importing from various blogs to Jekyll format.
+documentation:        This repository hosts the documentation for 96Boards products and specifications.
+hydeout:        A refreshed version of Hyde for Jekyll 3.x and 4.x
+Type-on-Strap:        🎨 Simplistic, responsive jekyll based open source theme
+gulp-tutorial:        Code examples for my Gulp.js tutorial series
+Lagrange:        A minimalist Jekyll theme for running a personal blog
+jekyll-paginate-v2:        Pagination Generator for Jekyll 3 (enhanced replacement for the old built-in jekyll-paginate gem) ⛺
+agusmakmun.github.io:        ☕ Free and open-source Jekyll theme
+hacker:        Hacker is a Jekyll theme for GitHub Pages
+photography:        A free online portfolio website to showcase your photos.
+space-jekyll-template:        A simple spacemacs template on jekyll. https://victorvoid.github.io/space-jekyll-template/
+formulae.brew.sh:        🏎 An online formulae browser for Homebrew
+siberiawolf.github.io:        Siberiawolf的小窝
+awesome-first-timers:        Place to contribute if you are a first timer
+will-jekyll-template:        A simple Jekyll theme.
+reverie:        🎨 A ridiculously elegant Jekyll theme.

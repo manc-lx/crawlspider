@@ -1,0 +1,89 @@
+The pluggable linting utility for JavaScript and JSX.
+javascript:        eslint-config-airbnb 翻译版 https://lin-123.github.io/javascript/
+nodebestpractices:        ✅ The Node.js best practices list (July 2020)
+standard:        🌟 JavaScript Style Guide, with linter & automatic code fixer
+js-stack-from-scratch:        🌺 Russian translation of "JavaScript Stack from Scratch" from the React-Theming developers https://github.com/sm-react/react-theming
+eslint:        Find and fix problems in your JavaScript code.
+electron-react-boilerplate:        A Foundation for Scalable Cross-Platform Apps
+front-end-guide:        📚 Study guide and introduction to the modern front end stack.
+typescript-eslint:        ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+lint-staged:        🚫💩 — Run linters on git staged files
+eslint-plugin-react:        React specific linting rules for ESLint
+xo:        ❤️ JavaScript linter with great defaults
+snowflake:        ❄️ A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
+eslint-plugin-vue:        Official ESLint plugin for Vue.js
+prettier-eslint:        Code ➡️ prettier ➡️ eslint --fix ➡️ Formatted Code ✨
+babel-eslint:        🗼 A wrapper for Babel's parser used for ESLint
+lsp-mode:        Emacs client/library for the Language Server Protocol
+express-mongoose-es6-rest-api:        💥 A boilerplate application for building RESTful APIs Microservice in Node.js using express and mongoose in ES6 with code coverage and JsonWebToken Authentication
+eslint-plugin-compat:        Lint the browser compatibility of your code
+eslint-config-prettier:        Turns off all rules that are unnecessary or might conflict with Prettier.
+awesome-eslint:        A list of awesome ESLint plugins, configs, etc.
+eslint-plugin-jsx-a11y:        Static AST checker for a11y rules on JSX elements.
+eslint-config-standard:        ESLint Config for JavaScript Standard Style
+100-days-of-code-frontend:        Curriculum for learning front-end development during #100DaysOfCode.
+rushstack:        Monorepo for tools developed by the Rush Stack community
+eslint-config-wesbos:        No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+eslint-config-alloy:        Progressive ESLint config for your React/Vue/TypeScript projects
+static-site-boilerplate:        A better workflow for building modern static websites.
+VueDemo_Sell_Eleme:        ele by vue2.x 🐧
+eslint-plugin-unicorn:        Various awesome ESLint rules
+callapp-lib:        🔥call app from h5（H5唤起客户端 ）
+fork-ts-checker-webpack-plugin:        Webpack plugin that runs typescript type checker on a separate process.
+eslint-plugin-flowtype:        Flow type linting rules for ESLint.
+react-cool-starter:        😎 🐣 A starter boilerplate for a universal web app with the best development experience and a focus on performance and best practices.
+generator-fountain-webapp:        Yeoman 'fountain' generator to start a webapp
+budgeting:        Budgeting - React + Redux + Webpack (tree shaking) Sample App
+vue-web-extension:        🛠️ A boilerplate for quickly starting a web extension with Vue, webpack 4, ESLint and more!
+starter:        Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, Ant Design and Next.js
+prettier-standard:        Formats with Prettier and lints with ESLint+Standard! (✿◠‿◠)
+prettier-atom:        An atom package for the prettier formatter.
+gatsby-themes:        Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
+eslint-plugin-node:        Additional ESLint's rules for Node.js
+react-isomorphic-boilerplate:        🌟 An universal React isomorphic boilerplate for building server-side render web app.
+serverless-babel-starter:        🗄🙅‍♀️ Deploy your next serverless JavaScript function in seconds
+express-babel:        Express starter kit with ES2017+ support, testing, linting, and code coverage
+react-ssr-setup:        React Starter Project with Webpack 4, Babel 7, TypeScript, CSS Modules, Server Side Rendering, i18n and some more niceties
+eslint-plugin-jest:        ESLint plugin for Jest
+wemake-vue-template:        Bleeding edge vue template focused on code quality and developer happiness.
+tslint-to-eslint-config:        Converts your TSLint configuration to the closest possible ESLint equivalent. 🚀
+eslint_d.js:        Makes eslint the fastest linter on the planet
+mevn-cli:        Light speed setup for MEVN(Mongo Express Vue Node) Apps
+Mozi:        此项目致力于构建一套最基础，最精简，可维护的react-native项目，支持ios，android 🌹
+javascript-airbnb:        Перевод «JavaScript Style Guide» от Airbnb
+node-express-mongodb-jwt-rest-api-skeleton:        This is a basic API REST skeleton written on JavaScript using async/await. Great for building a starter web API for your front-end (Android, iOS, Vue, react, angular, or anything that can consume an API). Demo of frontend in VueJS here: https://github.com/davellanedam/vue-skeleton-mvp
+opensource:        Delivering delightful digital solutions. Open Source packages with combined ~68M/month downloads, semantically versioned following @conventional-commits. Fully powered by Jest, @babel TypeScript, @airbnb @eslint + @prettier, @yarnpkg + @lerna independent versioning, GH @actions & automated dep updates with @renovatebot.
+react-typescript-web-extension-starter:        🖥️ A Web Extension starter kit built with React, TypeScript, SCSS, Storybook, Jest, EsLint, Prettier, Webpack and Bootstrap. Supports Google Chrome + Mozilla Firefox + Brave Browser 🔥
+esprint:        Fast eslint runner
+prettier-eslint-cli:        CLI for prettier-eslint
+eslint-plugin-flowtype-errors:        Run Flow as an ESLint plugin
+eslint-plugin-jsdoc:        JSDoc specific linting rules for ESLint.
+eslint-config-standard-react:        ESLint Shareable Config for React/JSX support in JavaScript Standard Style
+React-2048-game:        🎮 A fancy 2048 game build with react, redux best practices.
+eslint-plugin-babel:        An ESlint rule plugin companion to babel-eslint
+lynt:        ✨ A zero config JavaScript linter with support for Typescript, Flow, and React.
+sku:        Front-end development toolkit
+react-hot-redux-firebase-starter:        🌋 React + Redux + Firebase + Webpack + React Hot Loader 3 + React Router in one boilerplate
+snazzy:        Format JavaScript Standard Style as Stylish (i.e. snazzy) output
+2life:        💌 双生：遇见另一半的美好：）（React Native）
+tslint-config-standard:        A TSLint config for JavaScript Standard Style
+eslint-formatter-pretty:        Pretty ESLint formatter
+pwa:        An opinionated progressive web app boilerplate
+eslint-plugin-typescript:        TypeScript plugin for ESLint
+nodejs-api-boilerplate:        A boilerplate for kickstart your nodejs api project with JWT Auth and some new Techs :)
+webpack-react-boilerplate:        Minimal React 16 and Webpack 4 boilerplate with babel 7, using the new webpack-dev-server, react-hot-loader, CSS-Modules
+React-SPA:        React Redux，适合中大型规模应用开发，注释还算详细，配置有TypeScript、 CSS Modules、React-Router 4、koa接口mock请求等。接口埋点报错统一处理。
+apollo-upload-examples:        A full stack demo of file uploads via GraphQL mutations using Apollo Server and apollo-upload-client.
+vue-skeleton-mvp:        VueJs, Vuetify, Vue Router and Vuex skeleton MVP written on JavaScript using async/await built to work with API REST skeleton: https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton
+eslint-plugin-html:        An ESLint plugin to extract and lint scripts from HTML files.
+eslint-plugin-sonarjs:        SonarJS rules for ESLint
+React-Redux-Sass-Starter:        Everything you need to get started with a basic React application
+awesome-standard:        Documenting the explosion of packages in the standard ecosystem!
+react-bolt:        ⚡ The most simple & robust boilerplate for your React projects.
+polyjuice:        A utility to convert JSHint and JSCS files into ESLint files and vice-versa
+lint-review:        An automated code linting bot that integrates various code lint tools with github pull requests.
+vue-eleme-app:        🍔Vue2编写的高仿饿了么WebAPP
+eslint-plugin-simple-import-sort:        Easy autofixable import sorting.
+react-native-navigation-redux-starter-kit:        React Native Navigation(v2) Starter Kit with Redux, Saga, ESLint, Babel, Jest and Facebook SDK 😎
+simple-react-app:        Simple base app using react, react-router v4, hot-reload & sass.
+eslint-plugin-proper-arrows:        ESLint rules to ensure proper arrow function definitions

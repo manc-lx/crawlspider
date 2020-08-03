@@ -1,0 +1,91 @@
+Express is a minimal Node.js framework for web and mobile applications.
+express:        Fast, unopinionated, minimalist web framework for node.
+nodebestpractices:        ✅ The Node.js best practices list (July 2020)
+N-blog:        《一起学 Node.js》
+mean:        The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
+node-elm:        基于 node.js + Mongodb 构建的后台系统
+apollo-server:        🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+postgraphile:        Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+art-template:        High performance JavaScript templating engine
+javascript-testing-best-practices:        📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+TypeScript-Node-Starter:        A reference example for TypeScript and Node with a detailed README describing how to use the two together.
+habitica:        A habit tracker app which treats your goals like a Role Playing Game.
+Winds:        A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+http-proxy-middleware:        ⚡ The one-liner node.js http-proxy middleware for connect, express and browser-sync
+fiber:        ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+morgan:        HTTP request logger middleware for node.js
+nodejs-learning-guide:        Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
+node-express-mongoose-demo:        A simple demo app using node and mongodb for beginners
+express-validator:        An express.js middleware for validator.js.
+hackernews-react-graphql:        Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
+practicalnode:        Practical Node.js, 1st and 2nd Editions [Apress] 📓
+aws-serverless-express:        Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
+express-status-monitor:        🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com
+any-rule:        🦕 常用正则大全, 支持web / vscode多平台
+grant:        OAuth Proxy
+DOClever:        做最好的接口管理平台
+express-mongoose-es6-rest-api:        💥 A boilerplate application for building RESTful APIs Microservice in Node.js using express and mongoose in ES6 with code coverage and JsonWebToken Authentication
+vue-express-mongo-boilerplate:        ⭐ MEVN Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS
+notadd:        A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
+bulletproof-nodejs:        Implementation of a bulletproof node.js API 🛡️
+express-es6-rest-api:        🔋 Starter project for an ES6 RESTful Express API.
+crate:        👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).
+saas:        Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
+webchat:        🔈 Websocket project based on vue（基于vue2.0的实时聊天项目）
+permit:        An unopinionated authentication library for building Node.js APIs.
+generator:        Express' application generator
+blog:        大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
+chat.io:        A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
+simple-react-full-stack:        Boilerplate to build a full stack web application using React, Node.js, Express and Webpack.
+express-rest-es2017-boilerplate:        ⌛️ Express boilerplate for building RESTful APIs
+Angular-Full-Stack:        Angular Full Stack project built using Angular, Express, Mongoose and Node. Whole stack in TypeScript.
+node-express-mongoose:        A boilerplate application for building web apps using node and mongodb
+express-vue:        Vue rendering engine for Express.js. Use .Vue files as templates using streams
+cheatsheets:        JavaScript and Node.js cheatsheets
+vue2.0-taopiaopiao:        vue2.0+router+vuex+express 构建淘票票的全栈demo
+docx:        Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
+node-rate-limiter-flexible:        Node.js rate limit requests by key with atomic increments in single process or distributed environment.
+Espresso:        🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
+Chat-Buy-React:        Client for beginners to learn, built with React / Redux / Node
+react-cool-starter:        😎 🐣 A starter boilerplate for a universal web app with the best development experience and a focus on performance and best practices.
+graphql-upload:        Middleware and an Upload scalar to add support for GraphQL multipart requests (file uploads via queries and mutations) to various Node.js GraphQL servers.
+express-template:        Starter template for Nuxt.js with Express.
+docker-compose-nodejs-examples:        Finally some real world examples on getting started with Docker Compose and Nodejs
+essay:        A blog system based on Nuxt.js
+celebrate:        A joi validation middleware for Express.
+m-mall-admin:        🐶 微信小程序-小商城后台（基于 Node.js、MongoDB、Redis 开发的系统...）
+apicache:        Simple API-caching middleware for Express/Node.
+deprecated:        🚀 Framework for building universal web app and static website in Vue.js (beta)
+foal:        Node.JS and TypeScript framework for building web applications 🚀. Simple, intuitive and feature-complete.
+3ree:        An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express. A stack for building apps, front and back end, with just Javascript.
+vue-qq:        🎨 Vue family bucket with socket.io and express/koa2 , create a web version of mobile QQ, supporting real-time group chat, real-time private chat, special care, shielding chat, smart IP geographic location, real-time display temperature and other QQ core functions
+generator-express:        An express generator for Yeoman, based on the express command line tool.
+vue-chat:        👥Vue全家桶+Socket.io+Express/Koa2打造一个智能聊天室。
+node-typescript-boilerplate:        Minimalistic project template to jump start a Node.js back-end application in TypeScript. TSLint, Jest and type definitions included.
+react-native-full-example:        第一个完整的react-native项目。包括服务端和移动端两部分。服务端使用express+bootstrap进行搭建，主要功能有登录、退出、模块选择、查看、修改、删除、分页等后台管理的基本功能；移动端主要用到组件View、Text、Image、ScrollView、ListView等常用的组件，也使用了第三方的地图服务(高德地图)，作为初学者。是一个很好的学习案例。
+vue-163-music:        【停止维护】网易云音乐web版，支持PC端常用功能，localStorage保存播放列表
+node-js-getting-started:        Getting Started with Node on Heroku
+geek-navigation:        ❤️ 极客猿梦导航－独立开发者的导航站！
+NodeAPI:        Simple RESTful API implementation on Node.js + MongoDB.
+nodepress:        😎 RESTful API service for Blog/CMS, powered by @nestjs
+h5maker:        h5编辑器类似maka、易企秀 账号/密码：admin
+Koa2-API-Scaffold:        一个基于Koa2的轻量级RESTful API Server脚手架。
+express-babel:        Express starter kit with ES2017+ support, testing, linting, and code coverage
+react-ssr-setup:        React Starter Project with Webpack 4, Babel 7, TypeScript, CSS Modules, Server Side Rendering, i18n and some more niceties
+OpenUserJS.org:        The home of FOSS user scripts.
+node-vue-moba:        Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
+vue-express-mongodb:        前后端分离
+btc-rpc-explorer:        Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core.
+mevn-cli:        Light speed setup for MEVN(Mongo Express Vue Node) Apps
+cabin:        🌲 Cabin is the best JavaScript and Node.js logging service and logging npm package
+rest-api-nodejs-mongodb:        A boilerplate for REST API Development with Node.js, Express, and MongoDB
+generator-express-no-stress:        🚂 A Yeoman generator for Express.js based 12-factor apps and apis
+ueditor:        📝 UEditor 官方支持的版本有PHP JSP ASP .NET. ueditor for nodejs 可以让你的UEditor支持node.js
+node-express-mongodb-jwt-rest-api-skeleton:        This is a basic API REST skeleton written on JavaScript using async/await. Great for building a starter web API for your front-end (Android, iOS, Vue, react, angular, or anything that can consume an API). Demo of frontend in VueJS here: https://github.com/davellanedam/vue-skeleton-mvp
+create-graphql:        Command-line utility to build production-ready servers with GraphQL.
+mern-crud:        A simple records system using MongoDB, Express.js, React.js, and Node.js with real-time CRUD operations using Socket.io
+express-jwt-permissions:        🚦 Express middleware for JWT permissions
+forms-angular:        Probably the most opinionated framework in the world
+kite:        🌴 Kite 前台页面是vue ssr服务端渲染、后台页面是react spa、服务层nodejs express、mysql编写的一套多权限文章、动态管理系统
+meanTorrent:        meanTorrent - MEAN.JS BitTorrent Private Tracker - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support. Demo at:
+vue2_blog:        使用vue2.x + vue-cli +vue-router+ vuex + axios + mysql + express + pm2 + webpack+nginx构建的具有登录，注册，留言，用户发帖，用户评论等功能的SPA Blog。注意，注意，注意，后端API全部自己手写，很适合刚学习vue以及express的小伙伴学习，喜欢请Star鼓励一下我，谢谢！项目预览：

@@ -1,0 +1,91 @@
+A database is a structured set of data held in a computer, usually a server.
+etcd:        Distributed reliable key-value store for the most critical data of a distributed system
+tidb:        TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+sheetjs:        📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+metabase:        The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+typeorm:        ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+influxdb:        Scalable datastore for metrics, events, and real-time analytics
+cockroach:        CockroachDB - the open source, cloud-native distributed SQL database.
+mongo:        The MongoDB Database
+sqlmap:        Automatic SQL injection and database takeover tool
+prisma1:        💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
+postgrest:        REST API for any Postgres database
+dbeaver:        Free universal database tool and SQL client
+realm-cocoa:        Realm is a mobile database: a replacement for Core Data & SQLite
+rxdb:        💻 🔄 📱 A realtime Database for JavaScript Applications
+dgraph:        Native GraphQL Database with graph backend
+lowdb:        ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+sqlitebrowser:        Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+pouchdb:        🐨 - PouchDB is a pocket-sized database.
+interview:        📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
+awesome-cheatsheets:        👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+gun:        An open source cybersecurity protocol for syncing decentralized graph data.
+TDengine:        An open-source big data platform designed and optimized for the Internet of Things (IoT).
+shardingsphere:        Distributed database middleware
+realm-java:        Realm is a mobile database: a replacement for SQLite & ORMs
+bolt:        An embedded key/value database for Go.
+arangodb:        🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+mysql:        Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+efcore:        EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
+sonic:        🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+awesome-bigdata:        A curated list of awesome big data frameworks, ressources and other awesomeness.
+pgcli:        Postgres CLI with autocompletion and syntax highlighting
+mycli:        A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+wcdb:        WCDB is a cross-platform database framework developed by WeChat.
+zookeeper:        Mirror of Apache Hadoop ZooKeeper
+neo4j:        Graphs for Everyone
+react-native-firebase:        🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+badger:        Fast key-value DB in Go.
+Android-Debug-Database:        A library for debugging android databases and shared preferences - Make Debugging Great Again
+directus:        Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
+avbook:        AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+tile38:        Real-time Geospatial and Geofencing
+Eve:        Better tools for thought
+dejavu:        The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+sql.js:        A javascript library to run SQLite on the web.
+WatermelonDB:        🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+MeiliSearch:        Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+awesome-postgres:        A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+soar:        SQL Optimizer And Rewriter
+shardingsphere-elasticjob-lite:        Distributed scheduled job framework
+cassandra:        Mirror of Apache Cassandra
+rqlite:        The lightweight, distributed relational database built on SQLite.
+bookshelf:        A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
+Dexie.js:        A Minimalistic Wrapper for IndexedDB
+flyway:        Flyway by Redgate • Database Migrations Made Easy.
+blog:        Everything about database,bussiness.(Most for PostgreSQL).
+ddia:        《Designing Data-Intensive Application》DDIA中文翻译
+zeppelin:        Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
+migrate:        Database migrations. CLI and Golang library.
+backup:        Easy full stack backup operations on UNIX-like systems.
+couchdb:        Apache CouchDB
+db_tutorial:        Writing a sqlite clone from scratch in C
+orbit-db:        Peer-to-Peer Databases for the Decentralized Web
+hibernate-orm:        Hibernate's core Object/Relational Mapping functionality
+adminer:        Database management in a single PHP file
+citus:        Distributed PostgreSQL for multi-tenant and real-time analytics workloads
+prisma:        Modern DB toolkit to query, migrate and model your database
+orientdb:        OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
+yugabyte-db:        The high-performance distributed SQL database for global, internet-scale apps.
+Medoo:        The lightweight PHP database framework to accelerate development
+laravel-backup:        A package to backup your Laravel app
+edgedb:        The next generation relational database.
+AliSQL:        AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
+pg:        Golang ORM with focus on PostgreSQL features and performance
+jOOQ:        jOOQ is the best way to write SQL in Java
+dataset:        Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
+EventStore:        The stream database optimised for event sourcing
+goleveldb:        LevelDB key/value database in Go.
+datascript:        Immutable database and Datalog query engine for Clojure, ClojureScript and JS
+sled:        the champagne of beta embedded databases
+hbase:        Apache HBase
+franchise:        🍟 a notebook sql client. what you get when have a lot of sequels.
+awesome-elasticsearch:        A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
+tinydb:        TinyDB is a lightweight document oriented database optimized for your happiness :)
+objectbox-java:        ObjectBox is a superfast lightweight database for objects
+nakama:        Distributed server for social and realtime games and apps.
+bigchaindb:        Meet BigchainDB. The blockchain database.
+adminMongo:        adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
+jodd:        Jodd! Lightweight. Java. Zero dependencies. Use what you like.
+debezium:        Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+Waking-Up:        计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试...

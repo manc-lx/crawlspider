@@ -1,0 +1,76 @@
+HTTP (Hypertext Transfer Protocol) is the standard for communication across the web.
+httpie:        As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+requests:        A simple, yet elegant HTTP library.
+caddy:        Fast, multi-platform web server with automatic HTTPS
+aria2:        aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+mitmproxy:        An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+curl:        A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+vegeta:        HTTP load testing tool and library. It's over 9000!
+hutool:        A set of tools that keep Java sweet.
+locust:        Scalable user load testing tool written in Python
+nps:        一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+hapi:        The Simple, Secure Framework Developers Trust
+mux:        A powerful HTTP router and URL matcher for building Go web servers with 🦍
+uWebSockets:        Simple, secure & standards compliant web server for the most demanding of applications
+httprouter:        A high performance HTTP request router that scales well
+nginx-admins-handbook:        How to improve NGINX performance, security, and other important things.
+requests-html:        Pythonic HTML Parsing for Humans™
+okhttp-OkGo:        OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
+aiohttp:        Asynchronous HTTP client/server framework for asyncio and Python
+nock:        HTTP server mocking and expectations library for Node.js
+http-server:        a simple zero-configuration command-line http server
+goproxy:        Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
+postgraphile:        Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+wuzz:        Interactive cli tool for HTTP inspection
+httpbin:        HTTP Request & Response Service, written in Python + Flask.
+falcon:        The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability, correctness and performance at scale.
+got:        🌐 Human-friendly and powerful HTTP request library for Node.js
+http-prompt:        HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+up:        Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+chi:        lightweight, idiomatic and composable router for building Go HTTP services
+finagle:        A fault tolerant, protocol-agnostic RPC system
+serve:        Static file serving and directory listing
+cilium:        eBPF-based Networking, Security, and Observability
+http-message:        The purpose of this PSR is to provide a set of common interfaces for HTTP messages as described in RFC 7230 and RFC 7231
+vibora:        Fast, asynchronous and elegant Python web framework.
+cpprestsdk:        The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+node-fetch:        A light-weight module that brings window.fetch to Node.js
+lwan:        Experimental, scalable, high performance HTTP server
+httpx:        A next generation HTTP client for Python. 🦋
+Fast-Android-Networking:        🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀
+rest-assured:        Java DSL for easy testing of REST services
+tomcat:        Apache Tomcat
+web-frameworks:        Which is the fastest web framework?
+starlette:        The little ASGI framework that shines. 🌟
+chisel:        A fast TCP tunnel over HTTP
+httpstat:        curl statistics made simple
+kinto:        A generic JSON document store with sharing and synchronisation capabilities.
+twisted:        Event-driven networking engine written in Python.
+compojure:        A concise routing library for Ring/Clojure
+httplab:        The interactive web server
+dredd:        Language-agnostic HTTP API Testing Tool
+HP-Socket:        High Performance TCP/UDP/HTTP Communication Component
+kore:        An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for information on how to contribute via the mailing lists.
+Requests:        Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
+jsdelivr:        A free, fast, and reliable Open Source CDN for npm and GitHub
+http-request:        Java HTTP Request Library
+swifter:        Tiny http server engine written in Swift programming language.
+cpp-httplib:        A C++ header-only HTTP/HTTPS server and client library
+netfox:        A lightweight, one line setup, iOS / OSX network debugging library! 🦊
+laravel-s:        LaravelS is an out-of-the-box adapter between Swoole and Laravel/Lumen.
+reqwest:        An easy and powerful Rust HTTP Client
+wiremock:        A tool for mocking HTTP services
+ring:        Clojure HTTP server abstraction
+uWebSockets.js:        μWebSockets for Node.js back-ends 🤘
+cpr:        C++ Requests: Curl for People, a spiritual port of Python Requests
+warp:        A super-easy, composable, web server framework for warp speeds.
+jetty.project:        Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+Trojan-Qt5:        A cross-platform socks5/http/ss/ssr/vmess/trojan/snell GUI client based on Shadowsocks-qt5.
+awesome-programming-books:        📚 经典技术书籍推荐，持续更新...
+uvicorn:        The lightning-fast ASGI server. 🦄
+statik:        Embed files into a Go executable
+beast:        HTTP and WebSocket built on Boost.Asio in C++11
+http:        HTTP (The Gem! a.k.a. http.rb) - a fast Ruby HTTP client with a chainable API, streaming support, and timeouts
+armeria:        Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies, including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.
+PRDownloader:        PRDownloader - A file downloader library for Android with pause and resume support
+php-curl-class:        PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs

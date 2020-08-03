@@ -1,0 +1,91 @@
+Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.
+PythonDataScienceHandbook:        Python Data Science Handbook: full text in Jupyter Notebooks
+Probabilistic-Programming-and-Bayesian-Methods-for-Hackers:        aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+handson-ml:        A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+100-Days-Of-ML-Code:        100-Days-Of-ML-Code中文版
+homemade-machine-learning:        🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+Screenshot-to-code:        A neural network that transforms a design mock-up into a static website.
+dive-into-machine-learning:        Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+recommenders:        Best Practices on Recommendation Systems
+pytorch-book:        PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
+jupyter-themes:        Custom Jupyter Notebook Themes
+plotly.py:        The interactive graphing library for Python (includes Plotly Express) ✨
+jupyterhub:        Multi-user server for Jupyter notebooks
+pandas-profiling:        Create HTML profiling reports from pandas DataFrame objects
+industry-machine-learning:        A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
+nteract:        📘 The interactive computing suite for you! ✨
+pydata-notebook:        利用Python进行数据分析 第二版 (2017) 中文翻译笔记
+lucid:        A collection of infrastructure and tools for research in neural network interpretability.
+jupytext:        Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+distiller:        Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research. https://nervanasystems.github.io/distiller
+scikit-learn-videos:        Jupyter notebooks from the scikit-learn video series
+tensorwatch:        Debugging, monitoring and visualization for Python Machine Learning and Data Science
+computervision-recipes:        Best Practices, code samples, and documentation for Computer Vision.
+gophernotes:        The Go kernel for Jupyter notebooks and nteract.
+pytorch-Deep-Learning:        Deep Learning (with PyTorch)
+Dive-into-DL-TensorFlow2.0:        本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
+HELK:        The Hunting ELK
+lgo:        Interactive Go programming with Jupyter
+Girls-In-AI:        免费学代码系列：小白python入门、数据分析data analyst、机器学习machine learning、深度学习deep learning、kaggle实战
+learn-python3:        Jupyter notebooks for teaching/learning Python 3
+captcha_break:        验证码识别
+awesome-jupyter:        A curated list of awesome Jupyter projects, libraries and resources
+deepschool.io:        Deep Learning tutorials in jupyter notebooks.
+nbviewer:        nbconvert as a web service: Render Jupyter Notebooks as static web pages
+nbdime:        Tools for diffing and merging of Jupyter notebooks.
+jupyter-vim-binding:        Jupyter meets Vim. Vimmer will fall in love.
+machine-learning:        🌎 machine learning tutorials (mainly in Python3)
+binderhub:        Run your code in the cloud, with technology so advanced, it feels like magic!
+CFDPython:        A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
+practical-machine-learning-with-python:        Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
+CADL:        ARCHIVED: Contains historical course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
+DAT8:        General Assembly's 2015 Data Science course in Washington, DC
+ipyvolume:        3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
+forecasting:        Time Series Forecasting Best Practices & Examples
+learn-machine-learning-in-two-months:        Những kiến thức cần thiết để học tốt Machine Learning trong vòng 2 tháng. Essential Knowledge for learning Machine Learning in two months.
+ml-workspace:        🛠 All-in-one web-based IDE specialized for machine learning and data science.
+practicalAI-cn:        AI实战-practicalAI 中文版
+IRkernel:        R kernel for Jupyter
+almond:        A scala kernel for Jupyter
+pandas-videos:        Jupyter notebook and datasets from the pandas Q&A video series
+dtale:        Visualizer for pandas data structures
+web_develop:        《Python Web开发实战》书中源码
+lectures-labs:        Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
+emacs-ipython-notebook:        Jupyter notebook client in Emacs
+sms-tools:        Sound analysis/synthesis tools for music applications
+python-cheatsheet:        Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)
+dashboards:        [RETIRED] See Voilà as a supported replacement
+pixiedust:        Python Helper library for Jupyter Notebooks
+nbgrader:        A system for assigning and grading notebooks
+py:        Repository to store sample python programs for python learning
+machine-learning-asset-management:        Machine Learning in Asset Management (by @firmai)
+livelossplot:        Live training loss plot in Jupyter Notebook for Keras, PyTorch and others
+sparkmagic:        Jupyter magics and kernels for working with remote Spark clusters
+cocalc:        CoCalc: Collaborative Calculation in the Cloud
+jupyter2slides:        Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
+jupyter_nbextensions_configurator:        A jupyter notebook serverextension providing config interfaces for nbextensions.
+musicinformationretrieval.com:        Instructional notebooks on music information retrieval.
+zero-to-jupyterhub-k8s:        Helm Chart & Documentation for deploying JupyterHub on Kubernetes
+numerical-computing-is-fun:        Learning numerical computing with notebooks for all ages.
+Coloring-greyscale-images:        Coloring black and white images with deep learning.
+awesome-google-colab:        Google Colaboratory Notebooks and Repositories (by @firmai)
+opencv-machine-learning:        M. Beyeler (2017). Machine Learning for OpenCV: Intelligent image processing with Python. Packt Publishing Ltd., ISBN 978-178398028-4.
+fecon235:        Notebooks for financial economics. Keywords: Jupyter notebook pandas Federal Reserve FRED Ferbus GDP CPI PCE inflation unemployment wage income debt Case-Shiller housing asset portfolio equities SPX bonds TIPS rates currency FX euro EUR USD JPY yen XAU gold Brent WTI oil Holt-Winters time-series forecasting statistics econometrics
+nbstripout:        strip output from Jupyter and IPython notebooks
+cookbook-2nd:        IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018
+dl-colab-notebooks:        Try out deep learning models online on Google Colab
+machine_learning_refined:        Notes, examples, and Python demos for the textbook "Machine Learning Refined" (published by Cambridge University Press).
+WGAN-tensorflow:        a tensorflow implementation of WGAN
+dogs_vs_cats:        猫狗大战
+business-machine-learning:        A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations (by @firmai)
+sqlitebiter:        A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
+python_intro:        Jupyter notebooks in Russian. Introduction to Python, basic algorithms and data structures
+Coursera-ML-using-matlab-python:        coursera吴恩达机器学习课程作业自写Python版本+Matlab原版
+python-reference:        Python Quick Reference
+jupyterlab-lsp:        Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
+Generative-Adversarial-Network-Tutorial:        Tutorial on creating your own GAN in Tensorflow
+cookbook-2nd-code:        Code of the IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018 [read-only repository]
+Python-for-Probability-Statistics-and-Machine-Learning:        Jupyter Notebooks for Springer book "Python for Probability, Statistics, and Machine Learning"
+geemap:        A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
+nbviewer-app:        A Jupyter notebook viewer for macOS
+jupyterhub-deploy-docker:        Reference deployment of JupyterHub with docker
