@@ -113,10 +113,6 @@ def get_repo(repo_url):
             return p_tag.get_text().strip(' \t\n\r')
     return ''
 
-def create_dir(name):
-    if not os.path.exists(name):
-        os.makedirs(name)
-
 def execute(topic,url,desc):
     if v >= 1:
         print('Thread {} is processing topic {}\r\n'.format(threading.current_thread().name, topic))
@@ -140,7 +136,9 @@ def execute(topic,url,desc):
             f.write('\r\n{}:        {}'.format(repo, repo_to_description[repo]))
 
 def main():
-    create_dir(r'd:\github')
+    dir = r"d:\github"
+    if not os.path.exists(dir):
+        os.makedirs(dir)
 
     if v >= 1:
         print('Getting topic list...')
