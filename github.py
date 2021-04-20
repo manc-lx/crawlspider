@@ -6,9 +6,24 @@ import time
 import threading
 import random
 import sys
+import logging
+from pathlib import Path
 from bs4 import BeautifulSoup
 
 v = 2
+
+gitHubToken = 'username:pwd'
+anthCode = b64encode(gitHubToken.encode('utf8')).decode('utf8')
+authstr = 'Basic ' + anthCode
+
+logging.basicConfig(filename=Path(__file__).with_suffix('.log'),
+                    level=logging.DEBUG,
+                    format='%(asctime)s *%(levelname)s* %(message)s')
+# logging.debug('This message should go to the log file')
+logging.info('So should this %s' % authstr)
+# logging.warning('And this, too')
+# logging.error('This message should go to the log file')
+# logging.critical('So should this')
 
 def download_page(url):
     headers_chrome = {
@@ -21,7 +36,8 @@ def download_page(url):
         'sec-fetch-mode': 'navigate',
         'sec-fetch-user': '?1',
         'sec-fetch-dest': 'document',
-        'dnt': '1'
+        'dnt': '1',
+        'Authorization': authstr
     }
     headers_edge = {
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.64',
@@ -34,7 +50,8 @@ def download_page(url):
         'sec-fetch-user': '?1',
         'sec-fetch-dest': 'document',
         'cache-control': 'max-age=0',
-        'dnt': '1'
+        'dnt': '1',
+        'Authorization': authstr
     }
     headers_firefox = {
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0',
@@ -42,7 +59,8 @@ def download_page(url):
         'accept-encoding': 'gzip,deflate,br',
         'accept-language': 'en-US,en;q=0.5',
         'upgrade-insecure-requests': '1',
-        'dnt': '1'
+        'dnt': '1',
+        'Authorization': authstr
     }
 
     headers = random.choice([headers_chrome, headers_edge, headers_firefox])
