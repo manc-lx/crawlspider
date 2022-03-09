@@ -33,4 +33,4 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run novel
       run: |
-        python ./novel.py ${{ github.event.inputs.targetAddress }}
+        python ./novel.py ${{ github.event.inputs.targetAddress }} ${{ github.event.inputs.targetRange }}
