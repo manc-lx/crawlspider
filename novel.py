@@ -1,3 +1,4 @@
+import sys
 import requests
 from bs4 import BeautifulSoup
 import random
@@ -69,5 +70,5 @@ def downloadnovel(url):
         print(f.read())
 
 if __name__=='__main__':
-    url = 'https://www.xbiquge6.com/78_78513/'
+    url = sys.argv[1]
     downloadnovel(url)
