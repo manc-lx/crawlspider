@@ -41,7 +41,7 @@ def get_content(url):
     finallcontent = chaptername + '\r\n\n\n' + content
     return finallcontent
 
-def downloadnovel(url):
+def downloadnovel(url, rangeStr):
     pagehtml = open_url(url)
     soup = BeautifulSoup(pagehtml, 'html.parser')
     novelname = soup.h1.string
@@ -55,23 +55,35 @@ def downloadnovel(url):
     print('开始下载小说')
     chapterlist = chapter_url(url) #传入小说首页，获取所有章节的链接
     lenchapter = len(chapterlist)
-    print('这部小说一共有%d 章' % lenchapter)
+    lrangeStr = rangeStr.replace('[','').replace(']','').split(':')
+    min = 0
+    max = lenchapter - 1
+    if len(lrangeStr) > 1:
+        if lrangeStr[0].isdigit():
+            min = int(lrangeStr[0])
+        if lrangeStr[1].isdigit():
+            max = int(lrangeStr[1])
+    dllenchapter = max - min + 1
+    print('这部小说一共有%d 章，需要下载第%d 到第%d 章' % (lenchapter, min+1, max+1))
     count = 1
-    for url in chapterlist:
+    for url in chapterlist[min:max]:
         text = get_content(url)
         #with open('元尊.txt','a+',encoding='utf-8') as f:
         #    f.write(text + '\r\n\n\n\n')
         print(text)
-        a = ((count / lenchapter) * 100)
-        print('正在下载第%d章,进度%.2f%%' % (count, a)) # 这里是用来计算进度
+        a = ((count / dllenchapter) * 100)
+        print('正在下载第%d章,进度%.2f%%' % (min+count, a)) # 这里是用来计算进度
         count += 1
-        if count > 10:
-            break
+        #if count > 10:
+        #    break
     print('下载完成！')
     #with open('元尊.txt','a+',encoding='utf-8') as f:
     #    print(f.read())
 
 if __name__=='__main__':
     url = sys.argv[1]
+    rangeStr = ""
+    if len(sys.argv) > 2:
+        rangeStr = sys.argv[2]
     print(url)
-    downloadnovel(url)
+    downloadnovel(url, rangeStr)
