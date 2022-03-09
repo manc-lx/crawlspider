@@ -62,7 +62,11 @@ def downloadnovel(url):
         a = ((count / lenchapter) * 100)
         print('正在下载第%d章,进度%.2f%%' % (count, a)) # 这里是用来计算进度
         count += 1
+        if count > 10:
+            break
     print('下载完成！')
+    with open('元尊.txt','a+',encoding='utf-8') as f:
+        print(f.read())
 
 if __name__=='__main__':
     url = 'https://www.xbiquge6.com/78_78513/'
