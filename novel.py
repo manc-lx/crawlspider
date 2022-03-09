@@ -24,9 +24,10 @@ def chapter_url(url):
     soup = BeautifulSoup(html,'html.parser')
     chapterurllist = []
     chapterurl = soup.find('div',id="list").find_all('a')
+    prefix = url[:url.index(".com")+len(".com")]
     for i in chapterurl:
         i=i['href']
-        tureurl = 'https://www.xbiquge6.com' +i
+        tureurl = prefix +i
         chapterurllist.append(tureurl)
     return chapterurllist
 
