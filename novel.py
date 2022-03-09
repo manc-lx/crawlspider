@@ -73,4 +73,5 @@ def downloadnovel(url):
 
 if __name__=='__main__':
     url = sys.argv[1]
+    print(url)
     downloadnovel(url)
