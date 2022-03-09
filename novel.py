@@ -55,14 +55,20 @@ def downloadnovel(url, rangeStr):
     print('开始下载小说')
     chapterlist = chapter_url(url) #传入小说首页，获取所有章节的链接
     lenchapter = len(chapterlist)
-    lrangeStr = rangeStr.replace('[','').replace(']','').split(':')
+    lrangeStr = rangeStr.strip().replace('[','').replace(']','').split(':')
     min = 0
     max = lenchapter - 1
     if len(lrangeStr) > 1:
-        if lrangeStr[0].isdigit():
-            min = int(lrangeStr[0])
-        if lrangeStr[1].isdigit():
-            max = int(lrangeStr[1])
+        mins = lrangeStr[0].strip()
+        maxs = lrangeStr[1].strip()
+        neg = mins.startswith('-')
+        if mins.isdigit():
+            min = int(mins)
+            if neg: min = lenchapter - min
+        neg = maxs.startswith('-')
+        if maxs.isdigit():
+            max = int(maxs)
+            if neg: max = lenchapter - max
     dllenchapter = max - min + 1
     print('这部小说一共有%d 章，需要下载第%d 到第%d 章' % (lenchapter, min+1, max+1))
     count = 1
