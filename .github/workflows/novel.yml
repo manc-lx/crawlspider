@@ -6,17 +6,13 @@ name: Novel
 on:
   workflow_dispatch:
     inputs:
-      name:
-        description: 'Person to greet'
+      targetAddress:
+        description: 'Target address'
         required: true
-        default: 'Mona the Octocat'
-      home:
-        description: 'location'
-        required: false
-        default: 'The Octoverse'
+        default: 'https://www.biqupai.com/78_78513/'
 
 jobs:
-  build:
+  Run:
 
     runs-on: ubuntu-latest
 
@@ -33,4 +29,4 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run novel
       run: |
-        python ./novel.py
+        python ./novel.py ${{ github.event.inputs.targetAddress }}
