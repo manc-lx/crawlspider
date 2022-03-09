@@ -59,16 +59,17 @@ def downloadnovel(url):
     count = 1
     for url in chapterlist:
         text = get_content(url)
-        with open('元尊.txt','a+',encoding='utf-8') as f:
-            f.write(text + '\r\n\n\n\n')
+        #with open('元尊.txt','a+',encoding='utf-8') as f:
+        #    f.write(text + '\r\n\n\n\n')
+        print(text)
         a = ((count / lenchapter) * 100)
         print('正在下载第%d章,进度%.2f%%' % (count, a)) # 这里是用来计算进度
         count += 1
         if count > 10:
             break
     print('下载完成！')
-    with open('元尊.txt','a+',encoding='utf-8') as f:
-        print(f.read())
+    #with open('元尊.txt','a+',encoding='utf-8') as f:
+    #    print(f.read())
 
 if __name__=='__main__':
     url = sys.argv[1]
