@@ -57,7 +57,7 @@ def downloadnovel(url, rangeStr):
     lenchapter = len(chapterlist)
     lrangeStr = rangeStr.strip().replace('[','').replace(']','').split(':')
     min = 0
-    max = lenchapter - 1
+    max = lenchapter
     if len(lrangeStr) > 1:
         mins = lrangeStr[0].strip()
         neg = mins.startswith('-')
