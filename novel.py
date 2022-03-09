@@ -60,12 +60,14 @@ def downloadnovel(url, rangeStr):
     max = lenchapter - 1
     if len(lrangeStr) > 1:
         mins = lrangeStr[0].strip()
-        maxs = lrangeStr[1].strip()
         neg = mins.startswith('-')
+        if neg: mins = mins.lstrip('-')
         if mins.isdigit():
             min = int(mins)
             if neg: min = lenchapter - min
+        maxs = lrangeStr[1].strip()
         neg = maxs.startswith('-')
+        if neg: maxs = maxs.lstrip('-')
         if maxs.isdigit():
             max = int(maxs)
             if neg: max = lenchapter - max
