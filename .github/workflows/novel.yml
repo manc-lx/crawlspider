@@ -10,6 +10,10 @@ on:
         description: 'Target address'
         required: true
         default: 'https://www.biqupai.com/78_78513/'
+      targetRange:
+        description: 'Target range'
+        required: false
+        default: '[:]'
 
 jobs:
   Run:
