@@ -57,7 +57,7 @@ def downloadnovel(url, rangeStr):
     lenchapter = len(chapterlist)
     lrangeStr = rangeStr.strip().replace('[','').replace(']','').split(':')
     min = 0
-    max = lenchapter
+    max = lenchapter  # index max is excluded, so no need minus 1
     if len(lrangeStr) > 1:
         mins = lrangeStr[0].strip()
         neg = mins.startswith('-')
@@ -71,8 +71,8 @@ def downloadnovel(url, rangeStr):
         if maxs.isdigit():
             max = int(maxs)
             if neg: max = lenchapter - max
-    dllenchapter = max - min + 1
-    print('这部小说一共有%d 章，需要下载第%d 到第%d 章' % (lenchapter, min+1, max+1))
+    dllenchapter = max - min  # index max is excluded
+    print('这部小说一共有%d 章，需要下载第%d 到第%d 章' % (lenchapter, min+1, max))
     count = 1
     for url in chapterlist[min:max]:
         text = get_content(url)
@@ -80,7 +80,7 @@ def downloadnovel(url, rangeStr):
         #    f.write(text + '\r\n\n\n\n')
         print(text)
         a = ((count / dllenchapter) * 100)
-        print('正在下载第%d章,进度%.2f%%' % (min+count, a)) # 这里是用来计算进度
+        print('正在下载第%d章,进度%d/%d=%.2f%%' % (min+count, count, dllenchapter, a)) # 这里是用来计算进度
         count += 1
         #if count > 10:
         #    break
