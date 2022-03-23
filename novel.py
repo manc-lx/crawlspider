@@ -76,7 +76,7 @@ def downloadnovel(url, rangeStr):
     count = 1
     for url in chapterlist[min:max]:
         text = get_content(url)
-        #with open('元尊.txt','a+',encoding='utf-8') as f:
+        #with open(novelname+'.txt','a+',encoding='utf-8') as f:
         #    f.write(text + '\r\n\n\n\n')
         print(text)
         a = ((count / dllenchapter) * 100)
@@ -85,7 +85,7 @@ def downloadnovel(url, rangeStr):
         #if count > 10:
         #    break
     print('下载完成！')
-    #with open('元尊.txt','a+',encoding='utf-8') as f:
+    #with open(novelname+'.txt','a+',encoding='utf-8') as f:
     #    print(f.read())
 
 if __name__=='__main__':
