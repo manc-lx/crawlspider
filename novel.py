@@ -74,10 +74,10 @@ def downloadnovel(url, rangeStr):
     dllenchapter = max - min  # index max is excluded
     print('这部小说一共有%d 章，需要下载第%d 到第%d 章' % (lenchapter, min+1, max))
     count = 1
+    #with open(novelname+'.txt','a+',encoding='utf-8') as f:
     for url in chapterlist[min:max]:
         text = get_content(url)
-        #with open(novelname+'.txt','a+',encoding='utf-8') as f:
-        #    f.write(text + '\r\n\n\n\n')
+        # f.write(text + '\r\n\n\n\n')
         print(text)
         a = ((count / dllenchapter) * 100)
         print('正在下载第%d章,进度%d/%d=%.2f%%' % (min+count, count, dllenchapter, a)) # 这里是用来计算进度
