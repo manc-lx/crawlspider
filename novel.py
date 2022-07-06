@@ -128,7 +128,7 @@ def downloadnovel(url, rangeStr, writeToFile = False):
     #         print('正在下载第%d章,进度%d/%d=%.2f%%' % (min+count, count, dllenchapter, a)) # 这里是用来计算进度
     #         count += 1
     end = time.time()
-    print('下载完成！用时：{} 分钟'.format((end-start)/60))
+    print('下载完成！用时：{:.2f} 分钟'.format((end-start)/60))
 
 def writeToFileExec(chapterIdx_to_content, size, writeToFile, fileName):
     if writeToFile:
