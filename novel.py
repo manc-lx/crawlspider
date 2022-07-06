@@ -4,6 +4,8 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 import random
+import threading
+import time
 
 def open_url(url):
 
@@ -43,7 +45,16 @@ def get_content(url):
     finallcontent = chaptername + '\r\n\n\n' + content
     return finallcontent
 
+def execute(chapterIdx, cur_url, chapterIdx_to_content):
+    print('Thread {} is processing chapter {}th \n'.format(threading.current_thread().name, chapterIdx+1))
+    text = get_content(cur_url)
+    garbage = text.find('网页版章节内容慢')
+    if garbage > 0:
+        text = text[:garbage]
+    chapterIdx_to_content[chapterIdx] = text
+
 def downloadnovel(url, rangeStr, writeToFile = False):
+    start = time.time()
     pagehtml = open_url(url)
     soup = BeautifulSoup(pagehtml, 'html.parser')
     novelname = soup.h1.string
@@ -73,25 +84,72 @@ def downloadnovel(url, rangeStr, writeToFile = False):
         if maxs.isdigit():
             max = int(maxs)
             if neg: max = lenchapter - max
+    chapterlist = chapterlist[min:max]
     dllenchapter = max - min  # index max is excluded
     print('这部小说一共有%d 章，需要下载第%d 到第%d 章' % (lenchapter, min+1, max))
     count = 1
+
+    # multiple threads
+    max_thread = 10   # max thread count
+    print('Creating thread to process the novel, max thread count: {}...'.format(max_thread))
+    threads = []
+    chapterlist.reverse() # pop(0) is too slow O(n), reverse the list and use pop() is much faster O(1)
+    chapterIdx = -1
+    chapterIdx_to_content = {}
+    write_file_thread = threading.Thread(name='write to file', target=writeToFileExec, args=(chapterIdx_to_content, len(chapterlist), writeToFile, novelname+'.txt'))
+    write_file_thread.setDaemon(True)
+    write_file_thread.start()
+    while len(chapterlist) > 0:
+        for thread in threads:
+            if not thread.is_alive():
+                threads.remove(thread)
+        while len(threads) < max_thread and len(chapterlist) > 0:
+            cur_url = chapterlist.pop()
+            chapterIdx = chapterIdx + 1
+            thread = threading.Thread(name=str(chapterIdx), target=execute, args=(chapterIdx, cur_url, chapterIdx_to_content))
+            thread.setDaemon(True)
+            thread.start()
+            threads.append(thread)
+
+    write_file_thread.join()
+    # if writeToFile:
+    #     with open(novelname+'.txt','a+',encoding='utf-8') as f:
+    #         for url in chapterlist:
+    #             text = get_content(url)
+    #             f.write(text + '\n\n\n\n')
+    #             a = ((count / dllenchapter) * 100)
+    #             print('正在下载第%d章,进度%d/%d=%.2f%%' % (min+count, count, dllenchapter, a)) # 这里是用来计算进度
+    #             count += 1
+    # else:
+    #     for url in chapterlist:
+    #         text = get_content(url)
+    #         print(text)
+    #         a = ((count / dllenchapter) * 100)
+    #         print('正在下载第%d章,进度%d/%d=%.2f%%' % (min+count, count, dllenchapter, a)) # 这里是用来计算进度
+    #         count += 1
+    end = time.time()
+    print('下载完成！用时：{} 分钟'.format((end-start)/60))
+
+def writeToFileExec(chapterIdx_to_content, size, writeToFile, fileName):
     if writeToFile:
-        with open(novelname+'.txt','a+',encoding='utf-8') as f:
-            for url in chapterlist[min:max]:
-                text = get_content(url)
-                f.write(text + '\r\n\n\n\n')
-                a = ((count / dllenchapter) * 100)
-                print('正在下载第%d章,进度%d/%d=%.2f%%' % (min+count, count, dllenchapter, a)) # 这里是用来计算进度
-                count += 1
+        with open(fileName, 'a+', encoding='utf-8') as f:
+            i = 0
+            while i < size:
+                content = chapterIdx_to_content.get(i, None)
+                if content:
+                    f.write(content + '\n\n\n\n')
+                    i = i + 1
+                else:
+                    time.sleep(0.3)
     else:
-        for url in chapterlist[min:max]:
-            text = get_content(url)
-            print(text)
-            a = ((count / dllenchapter) * 100)
-            print('正在下载第%d章,进度%d/%d=%.2f%%' % (min+count, count, dllenchapter, a)) # 这里是用来计算进度
-            count += 1
-    print('下载完成！')
+        i = 0
+        while i < size:
+            content = chapterIdx_to_content.get(i, None)
+            if content:
+                print(content + '\n\n\n\n')
+                i = i + 1
+            else:
+                sleep(1)
 
 if __name__=='__main__':
     args = sys.argv[1:]
