@@ -51,7 +51,7 @@ def execute(chapterMap, chapterIdx_to_content):
     try:
         while (True):
             it = chapterMap.popitem()
-            print('Thread {} is processing chapter {}th \n'.format(threading.current_thread().name, it[0]+1))
+            print('Thread {} is processing chapter {}th.'.format(threading.current_thread().name, it[0]+1))
             sys.stdout.flush()
             text = get_content(it[1])
             garbage = text.find('网页版章节内容慢')
@@ -95,10 +95,9 @@ def downloadnovel(url, rangeStr, writeToFile = False):
     chapterlist = chapterlist[min:max]
     dllenchapter = max - min  # index max is excluded
     print('这部小说一共有%d 章，需要下载第%d 到第%d 章' % (lenchapter, min+1, max))
-    count = 1
 
     # multiple threads
-    max_thread = 10   # max thread count
+    max_thread = 20   # max thread count
     print('Creating thread to process the novel, max thread count: {}...'.format(max_thread))
     threads = []
     # for list: pop(0) is too slow O(n), reverse the list and use pop() is much faster O(1)
@@ -112,7 +111,6 @@ def downloadnovel(url, rangeStr, writeToFile = False):
     write_file_thread.setDaemon(True)
     write_file_thread.start()
     while len(threads) < max_thread and len(chapterlist) > 0:
-        cur_url = chapterlist.pop()
         thread = threading.Thread(target=execute, args=(chapterMap, chapterIdx_to_content))
         thread.setDaemon(True)
         thread.start()
@@ -120,6 +118,7 @@ def downloadnovel(url, rangeStr, writeToFile = False):
 
     write_file_thread.join()
     threads.clear()
+    # count = 1
     # if writeToFile:
     #     with open(novelname+'.txt','a+',encoding='utf-8') as f:
     #         for url in chapterlist:
