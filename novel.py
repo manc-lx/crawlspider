@@ -11,7 +11,7 @@ def open_url(url):
 
     header = [
         'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36',
-      'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50',
+        'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50',
         'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)',
         'Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1',
         'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; 360SE)'
@@ -45,13 +45,21 @@ def get_content(url):
     finallcontent = chaptername + '\r\n\n\n' + content
     return finallcontent
 
-def execute(chapterIdx, cur_url, chapterIdx_to_content):
-    print('Thread {} is processing chapter {}th \n'.format(threading.current_thread().name, chapterIdx+1))
-    text = get_content(cur_url)
-    garbage = text.find('网页版章节内容慢')
-    if garbage > 0:
-        text = text[:garbage]
-    chapterIdx_to_content[chapterIdx] = text
+def execute(chapterMap, chapterIdx_to_content):
+    print('Thread {} starts.'.format(threading.current_thread().name))
+    sys.stdout.flush()
+    try:
+        while (True):
+            it = chapterMap.popitem()
+            print('Thread {} is processing chapter {}th \n'.format(threading.current_thread().name, it[0]+1))
+            sys.stdout.flush()
+            text = get_content(it[1])
+            garbage = text.find('网页版章节内容慢')
+            if garbage > 0:
+                text = text[:garbage]
+            chapterIdx_to_content[it[0]] = text
+    except (KeyError):
+        pass
 
 def downloadnovel(url, rangeStr, writeToFile = False):
     start = time.time()
@@ -93,25 +101,25 @@ def downloadnovel(url, rangeStr, writeToFile = False):
     max_thread = 10   # max thread count
     print('Creating thread to process the novel, max thread count: {}...'.format(max_thread))
     threads = []
-    chapterlist.reverse() # pop(0) is too slow O(n), reverse the list and use pop() is much faster O(1)
-    chapterIdx = -1
+    # for list: pop(0) is too slow O(n), reverse the list and use pop() is much faster O(1)
+    # for dict: popitem() FILO - first in last out
+    chapterlist.reverse()
+    i = len(chapterlist)-1
+    chapterMap={}
+    for c in chapterlist: chapterMap[i]=c;i-=1
     chapterIdx_to_content = {}
     write_file_thread = threading.Thread(name='write to file', target=writeToFileExec, args=(chapterIdx_to_content, len(chapterlist), writeToFile, novelname+'.txt'))
     write_file_thread.setDaemon(True)
     write_file_thread.start()
-    while len(chapterlist) > 0:
-        for thread in threads:
-            if not thread.is_alive():
-                threads.remove(thread)
-        while len(threads) < max_thread and len(chapterlist) > 0:
-            cur_url = chapterlist.pop()
-            chapterIdx = chapterIdx + 1
-            thread = threading.Thread(name=str(chapterIdx), target=execute, args=(chapterIdx, cur_url, chapterIdx_to_content))
-            thread.setDaemon(True)
-            thread.start()
-            threads.append(thread)
+    while len(threads) < max_thread and len(chapterlist) > 0:
+        cur_url = chapterlist.pop()
+        thread = threading.Thread(target=execute, args=(chapterMap, chapterIdx_to_content))
+        thread.setDaemon(True)
+        thread.start()
+        threads.append(thread)
 
     write_file_thread.join()
+    threads.clear()
     # if writeToFile:
     #     with open(novelname+'.txt','a+',encoding='utf-8') as f:
     #         for url in chapterlist:
